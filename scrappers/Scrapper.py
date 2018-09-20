@@ -1,13 +1,4 @@
-import urllib.request
-import threading
 from selenium import webdriver
-import urllib.request
-import urllib.error
-import socket
-from selenium import webdriver
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException
 
 class Scrappers(object):
     def __init__(self, path):
