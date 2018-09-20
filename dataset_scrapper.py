@@ -4,12 +4,12 @@
 # name of the person making the claim
 # date when the claim was made
 # date when the label was published by Politifact
-from scrappers.Scrapper import Scrappers
+from scrappers.Crawling import Crawling
 
 def main():
 
-    scrapper = Scrappers("C:\Lucas\PhD\CredibilityDataset\list_websites")
-    scrapper.start()
+    crawling = Crawling("C:\Lucas\PhD\CredibilityDataset\list_websites")
+    crawling.start()
 
 
 
