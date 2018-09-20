@@ -43,7 +43,8 @@ class Scrappers(object):
     #Reopen driver in case it crashes or anything else.
     def reopen_driver(self):
         self.driver.quit()
-        self.driver = webdriver.Chrome(executable_path="C:\Lucas\PhD\CredibilityDataset\scrappers\seeds\chromedriver.exe")
+        # self.driver = webdriver.Chrome(executable_path="C:\Lucas\PhD\CredibilityDataset\scrappers\seeds\chromedriver.exe")
+        self.driver = webdriver.Chrome(executable_path="scrappers\chromedriver.exe")
         self.driver.set_page_load_timeout(20)
         ## The settings below are just to set some configuration if we want to crawl the screenshot of the webpages
         # self.driver.maximize_window()
@@ -65,8 +66,10 @@ class Scrappers(object):
         self.read_all_seeds_()
 
         #Initializing Driver (chrome) to crawl the data and setting timeout
+        # self.driver = webdriver.Chrome(
+        #     executable_path="C:\Lucas\PhD\CredibilityDataset\scrappers\seeds\chromedriver.exe")
         self.driver = webdriver.Chrome(
-            executable_path="C:\Lucas\PhD\CredibilityDataset\scrappers\seeds\chromedriver.exe")
+            executable_path="scrappers\chromedriver.exe")
         self.driver.set_page_load_timeout(20)
 
         #For each seed written in the file, call its respective scrapper
