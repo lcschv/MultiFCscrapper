@@ -2,9 +2,10 @@ from selenium import webdriver
 import inspect, os
 
 class Commons:
-    def __init__(self, drive_path="seeds\chromedriver.exe"):
+    def __init__(self, drive_path="scrappers\seeds\chromedriver.exe"):
         self.drive_path = drive_path
         self.driver = webdriver.Chrome(executable_path=self.drive_path)
+        self.driver.set_page_load_timeout(20)
 
     def _get_full_doc_(self, url):
         webpage_content = ""
