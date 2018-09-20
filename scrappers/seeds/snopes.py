@@ -13,6 +13,10 @@ class Snopes(Commons):
         for i in range(1020):
             url = self.seed_url+str(i)
             content = self._get_full_doc_(url)
+            #GET THE MULTIPLE URLS OF THE PAGE WITH EACH CLAIM AND CREATE A LIST OF URLS
+            #CRAWL THE INFORMATION THAT WE NEED, CLAIMS, ID, LABEL ..
+            #WRITE URL TO FILE
+
             filepath = self.destination_folder + str(i)+".txt"
             self.write_webpage_content_tofile(content, filepath)
 
