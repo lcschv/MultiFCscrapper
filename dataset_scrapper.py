@@ -8,8 +8,9 @@ from scrappers.Scrapper import Scrappers
 
 def main():
 
-    scrapper = Scrappers()
+    scrapper = Scrappers("C:\Lucas\PhD\CredibilityDataset\list_websites")
     scrapper.start()
+
 
 
 if __name__ == '__main__':
