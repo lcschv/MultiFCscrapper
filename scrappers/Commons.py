@@ -1,8 +1,10 @@
 from selenium import webdriver
+import inspect, os
 
 class Commons:
-    def __init__(self):
-        pass
+    def __init__(self, drive_path="scrappers\seeds\chromedriver.exe"):
+        self.drive_path = drive_path
+
     def _get_full_doc_(self, url):
         webpage_content = ""
         self.driver.get(url)
@@ -18,10 +20,10 @@ class Commons:
 
 
     # Reopen driver in case it crashes or anything else.
-    def reopen_driver(self):
+    def reopen_driver(self, ):
         self.driver.quit()
         # self.driver = webdriver.Chrome(executable_path="C:\Lucas\PhD\CredibilityDataset\scrappers\seeds\chromedriver.exe")
-        self.driver = webdriver.Chrome(executable_path="scrappers\chromedriver.exe")
+        self.driver = webdriver.Chrome(executable_path=self.drive_path)
         self.driver.set_page_load_timeout(20)
         ## The settings below are just to set some configuration if we want to crawl the screenshot of the webpages
         # self.driver.maximize_window()
@@ -31,7 +33,7 @@ class Commons:
         # self.driver.set_page_load_timeout(120)
 
     def initialize_driver(self):
-        self.driver = webdriver.Chrome(executable_path="scrappers\chromedriver.exe")
+        self.driver = webdriver.Chrome(executable_path=self.drive_path)
         self.driver.set_page_load_timeout(20)
 
 

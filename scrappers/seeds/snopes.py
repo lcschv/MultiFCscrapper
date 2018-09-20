@@ -2,19 +2,24 @@ from scrappers.Commons import *
 
 
 class Snopes(Commons):
-    def __init__(self, seed_id, seed_url):
-        Commons.__init__(self)
+    def __init__(self, seed_id, seed_url, drive_path="scrappers\seeds\chromedriver.exe"):
+        Commons.__init__(self, drive_path)
         self.destination_folder = "C:\Lucas\PhD\CredibilityDataset\data\seeds\\1\html_claims\\"
         self.seed_id = seed_id
         self.seed_url = seed_url
         self.initialize_driver()
 
     def start(self):
-        content = self._get_full_doc_(self.seed_url)
-        filepath = self.destination_folder + "1" +".txt"
-        self.write_webpage_content_tofile(content, filepath)
+        for i in range(1020):
+            url = self.seed_url+str(i)
+            content = self._get_full_doc_(url)
+            filepath = self.destination_folder + str(i)+".txt"
+            self.write_webpage_content_tofile(content, filepath)
 
 
+if __name__ == '__main__':
+    snopes = Snopes(1, "https://www.snopes.com/fact-check/page/", "C:\Lucas\PhD\CredibilityDataset\scrappers\seeds\chromedriver.exe")
+    snopes.start()
 
 # def analyze_forbes_page():
 #
