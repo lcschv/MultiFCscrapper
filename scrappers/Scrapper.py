@@ -8,6 +8,8 @@ class Scrappers(object):
         #After creating the scrapper, add in the dictionary below Key = SeedID and Value = Function_name
         self.function_mappings = {"1":self.snopes}
 
+        # Initializing Driver (chrome) to crawl the data and setting timeout
+        self.initialize_driver()
     #Make sure to import your new function here
     from scrappers.seeds.snopes import snopes
 
@@ -53,6 +55,10 @@ class Scrappers(object):
         # self.driver.execute_script('chrome.settingsPrivate.setDefaultZoom(' + str(self.zoom_out) + ');')
         # self.driver.set_page_load_timeout(120)
 
+    def initialize_driver(self):
+        self.driver = webdriver.Chrome(executable_path="scrappers\chromedriver.exe")
+        self.driver.set_page_load_timeout(20)
+
     #Function that writes the crawled html to file..
     def write_webpage_content_tofile(self, content, path):
         # file_out = open(self.destiny_rawdata_folder+"\\"+str(doc_id)+".html","w")
@@ -65,12 +71,7 @@ class Scrappers(object):
         #Reading all seeds from file ..
         self.read_all_seeds_()
 
-        #Initializing Driver (chrome) to crawl the data and setting timeout
-        # self.driver = webdriver.Chrome(
-        #     executable_path="C:\Lucas\PhD\CredibilityDataset\scrappers\seeds\chromedriver.exe")
-        self.driver = webdriver.Chrome(
-            executable_path="scrappers\chromedriver.exe")
-        self.driver.set_page_load_timeout(20)
+
 
         #For each seed written in the file, call its respective scrapper
         for seed_id, seed_url in self.dict_seeds.items():
