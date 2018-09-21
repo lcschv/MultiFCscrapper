@@ -1,4 +1,5 @@
 from scrappers.Commons import *
+from scrappers.ClaimSchema import *
 from bs4 import BeautifulSoup
 
 class Snopes(Commons):
@@ -68,7 +69,9 @@ class Snopes(Commons):
             label = self.get_claim_label(soup, claim_url)
             author, publish_date =self.article_info(soup,claim_url)
             # print (claim_id, claim, label, article_title, author, publish_date)
-            print (claim_id, label, claim)
+            claim_object = ClaimSchema()
+            claim_object.pretty_print()
+            # print (claim_id, label, claim)
 
     def get_list_claims_url(self, soup):
         div_tag = soup.find_all("div", {"class": "list-wrapper"})
@@ -84,12 +87,13 @@ class Snopes(Commons):
                         # print("ClaimID:", self.claim_num, "Url:", url_claim)
                         # self.parse_claim_url(url_claim)
                         self.claim_num+=1
+
     def clean_soup(self, soup):
         [s.extract() for s in soup('script')]
         [s.extract() for s in soup('style')]
 
     def start(self):
-        for i in range(0,10):
+        for i in range(0,1):
             url = self.seed_url+str(i)
             html = self._get_full_doc_(url)
             soup = BeautifulSoup(html, 'html.parser')
