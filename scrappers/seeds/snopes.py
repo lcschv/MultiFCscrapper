@@ -13,15 +13,15 @@ class Snopes(Commons):
         self.claim_num = 1
 
     def get_claim(self, soup, url):
-        pTag = ""
+        claim = ""
         div_tag = soup.find_all("div",{"class": "article-text-inner"})
         try:
             for tag in div_tag:
-                pTag = soup.find("p").text.strip()
+                claim = soup.find("p").text.strip()
         except Exception as e:
             print ("Could not get claim for url: ",url)
-            pTag = "wrong claim"
-        return pTag
+            claim = "wrong claim"
+        return claim
 
     def get_claim_label(self, soup, url):
         label = ""
@@ -46,8 +46,23 @@ class Snopes(Commons):
             author = tag.find("a",{"class":"author-link"}).text.strip()
         return author, publish_date
 
+
     def get_claim_date(self):
         pass
+
+    #They dont have tags
+    def get_tags(self):
+        pass
+
+    def get_claim_category(self, soup, url):
+        category = ""
+        div_tag = soup.find_all("div",{"class":"breadcrumb-nav"})
+        for tag in div_tag:
+            aTags = tag.find_all("a")
+        for a in aTags:
+            if "/category/" in a["href"]:
+                category = a.text.strip()
+        return category
 
     def get_article_title(self, soup, url):
         title=""
@@ -67,11 +82,23 @@ class Snopes(Commons):
             article_title = self.get_article_title(soup, claim_url)
             claim = self.get_claim(soup, claim_url)
             label = self.get_claim_label(soup, claim_url)
-            author, publish_date =self.article_info(soup,claim_url)
+            author, publish_date =self.article_info(soup, claim_url)
+            category = self.get_claim_category(soup, claim_url)
             # print (claim_id, claim, label, article_title, author, publish_date)
             claim_object = ClaimSchema()
+
+            claim_object.set_id(claim_id)
+            claim_object.set_claim_url(claim_url)
+            claim_object.set_claim(claim)
+            claim_object.set_label(label)
+            claim_object.set_article_title(article_title)
+            claim_object.set_categories(category)
+            claim_object.set_checker(author)
+            claim_object.set_publish_date(publish_date)
+            # claim_object.set_reason(author)
+            # claim_object.set_tags(tags)
+
             claim_object.pretty_print()
-            # print (claim_id, label, claim)
 
     def get_list_claims_url(self, soup):
         div_tag = soup.find_all("div", {"class": "list-wrapper"})

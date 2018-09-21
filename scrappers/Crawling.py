@@ -1,11 +1,12 @@
 from selenium import webdriver
 from scrappers.seeds.snopes import Snopes
+from scrappers.seeds.truthorfiction import TruthOrFiction
 
 class Crawling(object):
     def __init__(self, path):
         self.path = path
         self.dict_seeds = {}
-        self.class_mappings = {"1":Snopes}
+        self.class_mappings = {"1":Snopes, "2":TruthOrFiction}
 
     #Function responsible to read the seeds that we are going to crawl
     def read_all_seeds_(self):
@@ -23,11 +24,6 @@ class Crawling(object):
     def start(self):
         #Reading all seeds from file ..
         self.read_all_seeds_()
-
-        # #Initializing Driver (chrome) to crawl the data and setting timeout
-        # self.driver = webdriver.Chrome(
-        #     executable_path="scrappers\chromedriver.exe")
-        # self.driver.set_page_load_timeout(20)
 
         #For each seed written in the file, call its respective scrapper
         for seed_id, seed_url in self.dict_seeds.items():
