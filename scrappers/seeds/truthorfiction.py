@@ -154,7 +154,7 @@ class TruthOrFiction(Commons):
                 url = self.seed_url + category + "/page/" + str(i)
                 request = requests.get(url)
 
-            self.parse_claim_url()
+        self.parse_claim_url()
 
                 # filepath = self.destination_folder + str(i)+".txt"
                 # self.write_webpage_content_tofile(html, filepath)
