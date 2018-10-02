@@ -2,7 +2,11 @@ from scrappers.Commons import *
 from scrappers.ClaimSchema import *
 from bs4 import BeautifulSoup
 import requests
+from urllib.request import urlretrieve
 import time
+import pytesseract
+from PIL import Image, ImageEnhance, ImageFilter
+
 class WashingtonPost(Commons):
     def __init__(self, seed_id, seed_url, drive_path="scrappers\seeds\chromedriver.exe"):
         Commons.__init__(self, drive_path)
@@ -13,24 +17,30 @@ class WashingtonPost(Commons):
         self.dict_unique_urls = {}
         self.dict_claims_category = {}
         self.claim_num = 1
+        pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files (x86)\Tesseract-OCR\tesseract.exe"
 
     def get_share_statements(self, soup, url):
         claim = []
         claim = soup.find_all("div",{"class":"sharethefacts"})
         return claim
 
-    def get_claim_label(self, soup, url):
+    def get_claim_label(self, sharefact , url):
         label = ""
-        div_tag = soup.find_all("h3")
-        try:
-            for i in range(len(div_tag)):
-                if div_tag[i].text == "The Pinocchio Test":
-                    label = div_tag[i+1].text
-        except Exception as e:
-            # self.cont_errors += 1
-            print(str(e), "wrong label at url: ", url)
-            label = "wrong label"
+        image = sharefact.find('div',{"class":"sharethefacts-rating"})
+        if image is not None:
+            url = image.find('img')['src']
+            if "pinnochios" in url:
+                label =  url[-5]+ " pinnochios"
+            else:
+                urlretrieve(url, "000001.jpg")
+                text = self.get_text_from_image("000001.jpg")
+                label = text.replace('\n',' ')
         return label
+
+    def get_text_from_image(self, path):
+        image = Image.open(path)  # the second one
+        text = pytesseract.image_to_string(image)
+        return text
 
     def get_claim_date_published(self, soup, url):
         claim_date = ""
@@ -148,6 +158,7 @@ class WashingtonPost(Commons):
 
                     speaker = self.get_speaker(sharefact, claim_url)
                     claim = self.get_claim(sharefact, claim_url)
+                    label = self.get_claim_label(sharefact, claim_url)
 
                     claim_date = self.get_claim_date_published(sharefact, claim_url)
 
@@ -156,7 +167,7 @@ class WashingtonPost(Commons):
                     claim_object.set_id(str(i))
                     claim_object.set_claim_url(claim_url)
                     claim_object.set_claim(claim)
-                    # claim_object.set_label(label)
+                    claim_object.set_label(label)
                     claim_object.set_article_title(article_title)
                     claim_object.set_categories(category)
                     claim_object.set_claim_date(claim_date)
@@ -215,7 +226,7 @@ class WashingtonPost(Commons):
         self.driver.find_element_by_id("login").send_keys("lcl@diku.dk")
         self.driver.find_element_by_id("password").send_keys("scrapping123")
         self.driver.find_element_by_id("signinBtnTWP").click()
-        time.sleep(1)
+        time.sleep(20)
         self.parse_claim_url()
 
         # categories = {"in-between":1}
@@ -240,7 +251,7 @@ class WashingtonPost(Commons):
         #
         #         # filepath = self.destination_folder + str(i)+".txt"
         #         # self.write_webpage_content_tofile(html, filepath)
-        # self.driver.close()
+        self.driver.close()
 
 
 
