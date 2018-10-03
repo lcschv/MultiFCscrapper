@@ -34,7 +34,6 @@ class FactCheckOrg(Commons):
             div_share =soup.find("div", {"class","sharethefacts-rating"}).find("img")
             if div_share is not None:
                 label = div_share['src'].rsplit('/', 1)[1].replace('.png','')
-                print(label)
         return label
 
     def get_publish_date(self, soup, url):
