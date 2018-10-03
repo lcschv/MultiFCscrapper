@@ -14,6 +14,7 @@ class ClaimSchema(object):
         self.tags = None
         self.article_title = None
         self.publish_date = None
+        self.claim_date = None
 
     """Getters"""
     def get_claim_id(self):
@@ -49,6 +50,9 @@ class ClaimSchema(object):
     def get_publish_date(self):
         return self.publish_date
 
+    def get_claim_date(self):
+        return self.claim_date
+
     """Setters"""
     def set_id(self, claim_id):
         self.claim_id = claim_id
@@ -83,6 +87,8 @@ class ClaimSchema(object):
     def set_publish_date(self, publish_date):
         self.publish_date = publish_date
 
+    def set_claim_date(self, claim_date):
+        self.claim_date = claim_date
 
 
     def pretty_print(self):
