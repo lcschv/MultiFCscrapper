@@ -133,7 +133,7 @@ class Fullfact(Commons):
         """"IN THIS CASE THE LABEL IS THE SAME AS THE REASON
             NOT ABLE TO CRAWL SPEAKER AND TAGS
         """
-        for i in range(1,4):
+        for i in range(1,20):
             url = self.seed_url+str(i)
             html = self._get_full_doc_(url)
             soup = BeautifulSoup(html, 'html.parser')

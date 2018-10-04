@@ -31,7 +31,7 @@ class FactCheckOrg(Commons):
         if div_share is not None:
             label = div_share.text.strip()
         else:
-            div_share =soup.find("div", {"class","sharethefacts-rating"}).find("img")
+            div_share =soup.find("div", {"class":"sharethefacts-rating"}).find("img")
             if div_share is not None:
                 label = div_share['src'].rsplit('/', 1)[1].replace('.png','')
         return label
