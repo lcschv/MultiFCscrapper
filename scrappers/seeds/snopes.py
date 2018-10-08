@@ -136,7 +136,7 @@ class Snopes(Commons):
             self.clean_soup(soup)
             self.get_list_claims_url(soup)
         self.parse_claim_url()
-        self.print_object_as_csv("schemas/snopes.txt", self.dict_objects)
+        self.print_object_as_tsv("schemas/snopes.txt", self.dict_objects)
         self.summarize_statistics("statistics/snopes.txt", self.dict_objects)
             # filepath = self.destination_folder + str(i)+".txt"
             # self.write_webpage_content_tofile(html, filepath)

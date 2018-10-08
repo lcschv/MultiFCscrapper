@@ -39,7 +39,7 @@ class Commons:
         self.driver = webdriver.Chrome(executable_path=self.drive_path)
         self.driver.set_page_load_timeout(20)
 
-    def print_object_as_csv(self, file_name, dict_objects):
+    def print_object_as_tsv(self, file_name, dict_objects):
         header = '  '.join("%s"% item[0] for item in vars(dict_objects[1]).items())
         with io.open(file_name,"w", encoding="utf8") as f:
             f.write(header+"\n")
