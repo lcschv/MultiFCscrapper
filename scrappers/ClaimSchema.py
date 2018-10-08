@@ -4,9 +4,9 @@ from pprint import pprint
 class ClaimSchema(object):
     def __init__(self):
         self.claim_id = None
-        self.claim_url = None
         self.claim = None
         self.label = None
+        self.claim_url = None
         self.reason = None
         self.categories = None
         self.speaker = None

@@ -11,6 +11,7 @@ class Snopes(Commons):
         self.dict_claims_urls = {}
         self.dict_unique_urls = {}
         self.claim_num = 1
+        self.dict_objects = {}
 
     def get_claim(self, soup, url):
         claim = ""
@@ -20,7 +21,7 @@ class Snopes(Commons):
                 claim = soup.find("p").text.strip()
         except Exception as e:
             print ("Could not get claim for url: ",url)
-            claim = "wrong claim"
+            # claim = ""
         return claim
 
     def get_claim_label(self, soup, url):
@@ -34,7 +35,7 @@ class Snopes(Commons):
         except Exception as e:
             # self.cont_errors += 1
             print(str(e), "wrong label at url: ", url)
-            label = "wrong label"
+            label = ""
         return label
 
 
@@ -75,30 +76,38 @@ class Snopes(Commons):
 
 
     def parse_claim_url(self):
+
+        i=1
         for claim_id, claim_url in self.dict_claims_urls.items():
-            html = self._get_full_doc_(claim_url)
-            soup = BeautifulSoup(html, 'html.parser')
-            self.clean_soup(soup)
-            article_title = self.get_article_title(soup, claim_url)
-            claim = self.get_claim(soup, claim_url)
-            label = self.get_claim_label(soup, claim_url)
-            author, publish_date =self.article_info(soup, claim_url)
-            category = self.get_claim_category(soup, claim_url)
-            # print (claim_id, claim, label, article_title, author, publish_date)
-            claim_object = ClaimSchema()
+            try:
+                html = self._get_full_doc_(claim_url)
+                soup = BeautifulSoup(html, 'html.parser')
+                self.clean_soup(soup)
+                article_title = self.get_article_title(soup, claim_url)
+                claim = self.get_claim(soup, claim_url)
+                label = self.get_claim_label(soup, claim_url)
+                if claim != "" and label != "":
+                    author, publish_date =self.article_info(soup, claim_url)
+                    category = self.get_claim_category(soup, claim_url)
+                    # print (claim_id, claim, label, article_title, author, publish_date)
+                    claim_object = ClaimSchema()
 
-            claim_object.set_id(claim_id)
-            claim_object.set_claim_url(claim_url)
-            claim_object.set_claim(claim)
-            claim_object.set_label(label)
-            claim_object.set_article_title(article_title)
-            claim_object.set_categories(category)
-            claim_object.set_checker(author)
-            claim_object.set_publish_date(publish_date)
-            # claim_object.set_reason(author)
-            # claim_object.set_tags(tags)
-
-            claim_object.pretty_print()
+                    claim_object.set_id(claim_id)
+                    claim_object.set_claim_url(claim_url)
+                    claim_object.set_claim(claim)
+                    claim_object.set_label(label)
+                    claim_object.set_article_title(article_title)
+                    claim_object.set_categories(category)
+                    claim_object.set_checker(author)
+                    claim_object.set_publish_date(publish_date)
+                    # claim_object.set_reason(author)
+                    # claim_object.set_tags(tags)
+                    self.dict_objects[i] = claim_object
+                    i+=1
+                    claim_object.pretty_print()
+            except:
+                self.reopen_driver()
+                continue
 
     def get_list_claims_url(self, soup):
         div_tag = soup.find_all("div", {"class": "list-wrapper"})
@@ -127,11 +136,11 @@ class Snopes(Commons):
             self.clean_soup(soup)
             self.get_list_claims_url(soup)
         self.parse_claim_url()
-
+        self.print_object_as_csv("schemas/snopes.txt", self.dict_objects)
+        self.summarize_statistics("statistics/snopes.txt", self.dict_objects)
             # filepath = self.destination_folder + str(i)+".txt"
             # self.write_webpage_content_tofile(html, filepath)
         self.driver.close()
-
 
 if __name__ == '__main__':
     snopes = Snopes(1, "https://www.snopes.com/fact-check/page/", "C:\Lucas\PhD\CredibilityDataset\scrappers\seeds\chromedriver.exe")
