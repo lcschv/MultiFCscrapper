@@ -13,6 +13,7 @@ class FactCheckOrg(Commons):
         self.dict_unique_urls = {}
         self.dict_claims_category = {}
         self.claim_num = 1
+        self.dict_objects = {}
 
     def get_claim(self, soup, url):
         claim = ""
@@ -26,14 +27,16 @@ class FactCheckOrg(Commons):
         return claim
 
     def get_claim_label(self, soup, url):
-        label = "Wrong label!"
+        label = ""
         div_share = soup.find("div", itemprop="alternateName")
         if div_share is not None:
             label = div_share.text.strip()
         else:
-            div_share =soup.find("div", {"class":"sharethefacts-rating"}).find("img")
+            div_share = soup.find("div", {"class":"sharethefacts-rating"})
             if div_share is not None:
-                label = div_share['src'].rsplit('/', 1)[1].replace('.png','')
+                img = div_share.find("img")
+                if img is not None:
+                    label = img['src'].rsplit('/', 1)[1].replace('.png','')
         return label
 
     def get_publish_date(self, soup, url):
@@ -58,19 +61,17 @@ class FactCheckOrg(Commons):
 
     def get_tags(self, soup, url):
         tags = []
-        try:
-            liTags = soup.find_all("li",{"class":"post_tag"})
-            for li in liTags:
+        liTags = soup.find_all("li",{"class":"post_tag"})
+        for li in liTags:
+            if li is not None:
                 tags_a = li.find("a").text.strip()
                 tags+=[tags_a]
-            liIssue = soup.find_all("li",{"class":"issue"})
-            for li in liIssue:
+        liIssue = soup.find_all("li",{"class":"issue"})
+        for li in liIssue:
+            if li is not None:
                 tags_a = li.find("a").text.strip()
                 tags+=[tags_a]
-            return tags
-        except:
-            return tags
-
+        return tags
     def get_claim_category(self, soup, url):
         category = ""
         div_tag = soup.find_all("div",{"class":"breadcrumb-nav"})
@@ -80,7 +81,6 @@ class FactCheckOrg(Commons):
             if "/category/" in a["href"]:
                 category = a.text.strip()
         return category
-
 
     def get_article_title(self, soup, url):
         title = ""
@@ -103,33 +103,48 @@ class FactCheckOrg(Commons):
 
     def parse_claim_url(self):
         for claim_id, claim_url in self.dict_claims_urls.items():
+            # try:
             html = self._get_full_doc_(claim_url)
+            with open("raw_content/factcheckorg/"+str(claim_id)+".html","w") as f:
+                f.write(str(html))
             soup = BeautifulSoup(html, 'html.parser')
             self.clean_soup(soup)
             claim = self.get_claim(soup, claim_url)
-            if len(claim) == 0:
+            if claim == "":
                 continue
+            claim_object = ClaimSchema()
             category = self.dict_claims_category[claim_url]
             article_title = self.get_article_title(soup, claim_url)
             publish_date = self.get_publish_date(soup,claim_url)
             author = self.get_author(soup, claim_url)
+            if author != "":
+                claim_object.set_checker(author)
             tags = self.get_tags(soup, claim_url)
+            if len(tags) > 0:
+                claim_object.set_tags(tags)
             label = self.get_claim_label(soup,claim_url)
+            if label != "":
+                claim_object.set_label(label)
             speaker = self.get_speaker(soup, claim_url)
+            if speaker != "":
+                claim_object.set_speaker(speaker)
             claim_date = self.get_claim_date_published(soup, claim_url)
+            if claim_date != "":
+                claim_object.set_claim_date(claim_date)
+            if article_title != "":
+                claim_object.set_article_title(article_title)
+            if publish_date != "":
+                claim_object.set_publish_date(publish_date)
 
-            claim_object = ClaimSchema()
+
             claim_object.set_id(claim_id)
             claim_object.set_claim_url(claim_url)
             claim_object.set_claim(claim)
-            claim_object.set_claim_date(claim_date)
-            claim_object.set_speaker(speaker)
-            claim_object.set_label(label)
-            claim_object.set_article_title(article_title)
             claim_object.set_categories(category)
-            claim_object.set_checker(author)
-            claim_object.set_publish_date(publish_date)
-            claim_object.set_tags(tags)
+            self.dict_objects[claim_id] = claim_object
+            # except:
+            #     self.reopen_driver()
+            #     continue
 
             claim_object.pretty_print()
 
@@ -159,8 +174,8 @@ class FactCheckOrg(Commons):
         Same label might occur twice differently (this happens because sometimes I can extract directly, other times I extract from the imagesrc.
         """
 
-        categories = ["the-factcheck-wire","featured-posts", "scicheck","askfactcheck", "fake-news"]
-        # categories = ["scicheck"]
+        # categories = ["the-factcheck-wire","featured-posts", "scicheck","askfactcheck", "fake-news"]
+        categories = ["the-factcheck-wire"]
 
         for category in categories:
             #Enter the first time to crawl
@@ -174,11 +189,13 @@ class FactCheckOrg(Commons):
                 soup = BeautifulSoup(html, 'html.parser')
                 self.clean_soup(soup)
                 self.get_list_claims_url(soup, category)
-                i += 5
+                i += 50
                 url = self.seed_url + category + "/page/" + str(i)
                 request = requests.get(url)
 
         self.parse_claim_url()
+        self.print_object_as_tsv("schemas/factcheckorg.txt", self.dict_objects)
+        self.summarize_statistics("statistics/factcheckorg.txt", self.dict_objects)
 
                 # filepath = self.destination_folder + str(i)+".txt"
                 # self.write_webpage_content_tofile(html, filepath)

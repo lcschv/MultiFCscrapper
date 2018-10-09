@@ -18,7 +18,7 @@ class WashingtonPost(Commons):
         self.dict_claims_category = {}
         self.claim_num = 1
         pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files (x86)\Tesseract-OCR\tesseract.exe"
-
+        self.dict_objects = {}
     def get_share_statements(self, soup, url):
         claim = []
         claim = soup.find_all("div",{"class":"sharethefacts"})
@@ -137,21 +137,26 @@ class WashingtonPost(Commons):
         return claim
 
     def parse_claim_url(self):
-        i = 1
+
         for claim_id, claim_url in self.dict_claims_urls.items():
+            # try:
             html = self._get_full_doc_(claim_url)
             soup = BeautifulSoup(html, 'html.parser')
-            self.clean_soup(soup)
+            with open("raw_content/washingtonpost/"+str(claim_id)+".html","w") as f:
+                f.write(str(html))
+
+                # self.clean_soup(soup)
 
             # label = self.dict_claims_category[claim_url]
             # article_title, label = self.get_article_title_and_label(soup, claim_url)
             publish_date = self.get_publish_date(soup, claim_url)
             share_statements = self.get_share_statements(soup, claim_url)
+            print("url:","Share the facts",share_statements)
             if len(share_statements) > 0:
                 checker = self.get_checker(soup, claim_url)
                 article_title = self.get_article_title(soup, claim_url)
-                category = self.dict_claims_category[claim_url]
-
+                # category = self.dict_claims_category[claim_url]
+                i = 1
                 for sharefact in share_statements:
                     # article_title = self.get_article_title(soup, claim_url)
                     # label = self.get_claim_label(soup, claim_url)
@@ -163,26 +168,41 @@ class WashingtonPost(Commons):
                     claim_date = self.get_claim_date_published(sharefact, claim_url)
 
                     claim_object = ClaimSchema()
-
-                    claim_object.set_id(str(i))
+                    if len(share_statements)>1:
+                        claim_object.set_id(str(claim_id)+"_"+str(i))
+                        id = str(claim_id)+"_"+str(i)
+                    else:
+                        claim_object.set_id(str(claim_id))
+                        id = claim_id
                     claim_object.set_claim_url(claim_url)
                     claim_object.set_claim(claim)
-                    claim_object.set_label(label)
-                    claim_object.set_article_title(article_title)
-                    claim_object.set_categories(category)
-                    claim_object.set_claim_date(claim_date)
-                    claim_object.set_speaker(speaker)
+                    if label != "":
+                        claim_object.set_label(label)
+                    if article_title != "":
+                        claim_object.set_article_title(article_title)
+                    # if category != "":
+                    #     claim_object.set_categories(category)
+                    if claim_date != "":
+                        claim_object.set_claim_date(claim_date)
+                    if speaker != "":
+                        claim_object.set_speaker(speaker)
                     # claim_object.set_reason(reason)
-                    claim_object.set_checker(checker)
-                    claim_object.set_publish_date(publish_date)
+                    if checker != "":
+                        claim_object.set_checker(checker)
+                    if publish_date != "":
+                        claim_object.set_publish_date(publish_date)
                     # claim_object.set_tags(tags)
                     #
                     i+=1
+                    self.dict_objects[id] = claim_object
                     claim_object.pretty_print()
+            # except:
+            #     self.reopen_washington()
+            #     continue
 
     def click_on_load_more(self):
         self.driver.get("https://www.washingtonpost.com/news/fact-checker/")
-        time.sleep(10)
+        time.sleep(5)
         i=1
         while True and i<2:
             # self.driver.implicitly_wait(10)
@@ -208,49 +228,64 @@ class WashingtonPost(Commons):
         [s.extract() for s in soup('script')]
         [s.extract() for s in soup('style')]
 
+
+    def reopen_washington(self):
+
+        self.driver.quit()
+        # self.driver = webdriver.Chrome(executable_path="C:\Lucas\PhD\CredibilityDataset\scrappers\seeds\chromedriver.exe")
+        self.driver = webdriver.Chrome(executable_path=self.drive_path)
+        self.driver.set_page_load_timeout(30)
+        self.driver.get("https://www.washingtonpost.com")
+        time.sleep(2)
+        self.driver.find_element_by_xpath(
+            ".//*[contains(text(), 'Browse now')]"
+        ).click()
+        time.sleep(1)
+        self.driver.find_element_by_class_name('agree-ckb').click()
+        self.driver.find_element_by_xpath(
+            ".//*[contains(text(), 'Continue to site')]"
+        ).click()
+        time.sleep(1)
+
+        # time.sleep(1)
+        # self.driver.find_element_by_class_name('agree-ckb').click()
+        # time.sleep(0.5)
+        # self.driver.find_element_by_class_name('continue-btn button accept-consent').click()
+        # time.sleep(0.5)
+        ## The settings below are just to set some configuration if we want to crawl the screenshot of the webpages
+        # self.driver.maximize_window()
+        # self.driver.get('chrome://settings/')
+        # # self.driver.execute_script('chrome.settingsPrivate.setDefaultZoom(0.7);')
+        # self.driver.execute_script('chrome.settingsPrivate.setDefaultZoom(' + str(self.zoom_out) + ');')
+        # self.driver.set_page_load_timeout(120)
+
     def start(self):
+
         # self.driver.get("https://subscribe.washingtonpost.com/loginregistration/index.html#/register/group/default?action=login&rememberme=true")
         # self.driver.find_element_by_id("login").send_keys("lcl@diku.dk")
         # self.driver.find_element_by_id("password").send_keys("scrapping123")
         # self.driver.find_element_by_id("signinBtnTWP").click()
-
+        self.reopen_washington()
         base_url = "https://www.washingtonpost.com"
-        from selenium.webdriver.support.ui import WebDriverWait
-
-        #Initialize webpages
+        # from selenium.webdriver.support.ui import WebDriverWait
+        #
+        # #Initialize webpages
         self.click_on_load_more()
         webpage_content = self.driver.page_source.encode("utf-8")
         soup = BeautifulSoup(webpage_content, 'html.parser')
         self.get_list_claims_url(soup, base_url)
-        self.driver.get("https://subscribe.washingtonpost.com/loginregistration/index.html#/register/group/default?action=login&rememberme=true")
-        self.driver.find_element_by_id("login").send_keys("lcl@diku.dk")
-        self.driver.find_element_by_id("password").send_keys("scrapping123")
-        self.driver.find_element_by_id("signinBtnTWP").click()
-        time.sleep(20)
+        # for item in self.dict_claims_urls.items():
+        #     print(item)
+        # self.driver.get("https://subscribe.washingtonpost.com/loginregistration/index.html#/register/group/default?action=login&rememberme=true")
+        # time.sleep(2)
+        # self.driver.find_element_by_id("login").send_keys("lcl@diku.dk")
+        # self.driver.find_element_by_id("password").send_keys("scrapping123")
+        # self.driver.find_element_by_id("signinBtnTWP").click()
+        # time.sleep(60)
+        # self.dict_claims_urls[1]= "https://www.washingtonpost.com/politics/2018/09/14/obamas-claim-that-trumps-obamacare-moves-have-already-cost-million-people-health-insurance/?utm_term=.4e3d5baff68f"
         self.parse_claim_url()
-
-        # categories = {"in-between":1}
-        # for category, max in categories.items():
-        #     #Enter the first time to crawl
-        #     i=1
-        #     url = self.seed_url + category + "/?page=" + str(i)
-        #     request = requests.get(url)
-        #     #Check whether there exists next webpages
-        #
-        #     while request.status_code == 200 and i <= max:
-        #         html = self._get_full_doc_(url)
-        #         soup = BeautifulSoup(html, 'html.parser')
-        #         self.clean_soup(soup)
-        #         self.get_list_claims_url(soup, category)
-        #         i += 1
-        #         url = self.seed_url + category + "/?page=" + str(i)
-        #         request = requests.get(url)
-        # # for key, url in self.dict_unique_urls.items():
-        # #     print (key, url)
-        # self.parse_claim_url()
-        #
-        #         # filepath = self.destination_folder + str(i)+".txt"
-        #         # self.write_webpage_content_tofile(html, filepath)
+        self.print_object_as_tsv("schemas/washingtonpost.txt", self.dict_objects)
+        self.summarize_statistics("statistics/washingtonpost.txt", self.dict_objects)
         self.driver.close()
 
 

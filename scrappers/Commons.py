@@ -6,7 +6,7 @@ class Commons:
     def __init__(self, drive_path="scrappers\seeds\chromedriver.exe"):
         self.drive_path = drive_path
         self.driver = webdriver.Chrome(executable_path=self.drive_path)
-        self.driver.set_page_load_timeout(20)
+        self.driver.set_page_load_timeout(30)
 
     def _get_full_doc_(self, url):
         webpage_content = ""
@@ -27,7 +27,7 @@ class Commons:
         self.driver.quit()
         # self.driver = webdriver.Chrome(executable_path="C:\Lucas\PhD\CredibilityDataset\scrappers\seeds\chromedriver.exe")
         self.driver = webdriver.Chrome(executable_path=self.drive_path)
-        self.driver.set_page_load_timeout(20)
+        self.driver.set_page_load_timeout(30)
         ## The settings below are just to set some configuration if we want to crawl the screenshot of the webpages
         # self.driver.maximize_window()
         # self.driver.get('chrome://settings/')
@@ -40,7 +40,7 @@ class Commons:
         self.driver.set_page_load_timeout(20)
 
     def print_object_as_tsv(self, file_name, dict_objects):
-        header = '  '.join("%s"% item[0] for item in vars(dict_objects[1]).items())
+        header = '  '.join("%s"% item[0] for item in vars(dict_objects[(list(dict_objects.keys())[0])]).items())
         with io.open(file_name,"w", encoding="utf8") as f:
             f.write(header+"\n")
             for id, object in dict_objects.items():
@@ -49,7 +49,7 @@ class Commons:
 
     def summarize_statistics(self, file_out, dict_objects):
         dict_summary = {}
-        keys = vars(dict_objects[1])
+        keys = vars(dict_objects[list(dict_objects.keys())[0]])
         for key in keys:
             dict_summary[key] = {"collected":0,"missed":0}
         for id, object in dict_objects.items():

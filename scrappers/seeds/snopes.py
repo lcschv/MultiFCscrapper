@@ -129,7 +129,7 @@ class Snopes(Commons):
         [s.extract() for s in soup('style')]
 
     def start(self):
-        for i in range(0,1):
+        for i in range(0,1026):
             url = self.seed_url+str(i)
             html = self._get_full_doc_(url)
             soup = BeautifulSoup(html, 'html.parser')

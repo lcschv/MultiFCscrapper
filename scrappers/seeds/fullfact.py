@@ -12,6 +12,7 @@ class Fullfact(Commons):
         self.dict_unique_urls = {}
         self.dict_claims_category = {}
         self.claim_num = 1
+        self.dict_objects ={}
 
     def get_claim(self, soup, url):
         claim, rating = [], []
@@ -83,31 +84,38 @@ class Fullfact(Commons):
     def parse_claim_url(self):
         i = 1
         for claim_id, claim_url in self.dict_claims_urls.items():
-            html = self._get_full_doc_(claim_url)
-            soup = BeautifulSoup(html, 'html.parser')
-            self.clean_soup(soup)
-            claims, ratings = self.get_claim(soup, claim_url)
-            category = self.dict_claims_category[claim_url]
-            article_title = self.get_article_title(soup, claim_url)
-            publish_date = self.get_publish_date(soup, claim_url)
-            author = self.get_author(soup, claim_url)
-            if len(claims)>=1 and len(ratings) >=1:
-                for claim, label in zip(claims, ratings):
-                    claim_object = ClaimSchema()
+            try:
+                html = self._get_full_doc_(claim_url)
+                with open("raw_content/fullfact/"+str(claim_id)+".html","w") as f:
+                    f.write(str(html))
+                soup = BeautifulSoup(html, 'html.parser')
+                self.clean_soup(soup)
+                claims, ratings = self.get_claim(soup, claim_url)
+                category = self.dict_claims_category[claim_url]
+                article_title = self.get_article_title(soup, claim_url)
+                publish_date = self.get_publish_date(soup, claim_url)
+                author = self.get_author(soup, claim_url)
+                if len(claims)>=1 and len(ratings) >=1:
+                    for claim, label in zip(claims, ratings):
+                        claim_object = ClaimSchema()
 
-                    claim_object.set_id(i)
-                    claim_object.set_claim_url(claim_url)
-                    claim_object.set_claim(claim)
-                    claim_object.set_label(label)
-                    claim_object.set_article_title(article_title)
-                    claim_object.set_categories(category)
-                    claim_object.set_checker(author)
-                    claim_object.set_publish_date(publish_date)
-                    claim_object.set_reason(author)
-                    # claim_object.set_tags(tags)
-                    claim_object.set_reason(label)
-                    i+=1
-                    claim_object.pretty_print()
+                        claim_object.set_id(claim_id)
+                        claim_object.set_claim_url(claim_url)
+                        claim_object.set_claim(claim)
+                        claim_object.set_label(label)
+                        claim_object.set_article_title(article_title)
+                        claim_object.set_categories(category)
+                        claim_object.set_checker(author)
+                        claim_object.set_publish_date(publish_date)
+                        claim_object.set_reason(author)
+                        # claim_object.set_tags(tags)
+                        claim_object.set_reason(label)
+                        i+=1
+                        self.dict_objects[claim_id] = claim_object
+                        claim_object.pretty_print()
+            except:
+                self.reopen_driver()
+                continue
 
     def get_list_claims_url(self, soup):
         domain = "https://fullfact.org"
@@ -133,14 +141,15 @@ class Fullfact(Commons):
         """"IN THIS CASE THE LABEL IS THE SAME AS THE REASON
             NOT ABLE TO CRAWL SPEAKER AND TAGS
         """
-        for i in range(1,20):
+        for i in range(1,60):
             url = self.seed_url+str(i)
             html = self._get_full_doc_(url)
             soup = BeautifulSoup(html, 'html.parser')
             self.clean_soup(soup)
             self.get_list_claims_url(soup)
         self.parse_claim_url()
-
+        self.print_object_as_tsv("schemas/fullfact.txt", self.dict_objects)
+        self.summarize_statistics("statistics/fullfact.txt", self.dict_objects)
             # filepath = self.destination_folder + str(i)+".txt"
             # self.write_webpage_content_tofile(html, filepath)
         self.driver.close()
