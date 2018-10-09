@@ -1,0 +1,365 @@
+claim_id  claim  label  claim_url  reason  categories  speaker  checker  tags  article_title  publish_date  claim_date
+None   People can buy alcohol in Dublin with pound sterling and vice versa with euros in Belfast.   MOSTLY FALSE   http://www.thejournal.ie/factcheck-irish-currency-4262250-Oct2018/   As many people have pointed out, one can’t use either currency interchangeably in both jurisdictions.   None   None   None   None   None   <span class="date">
+                                        Oct 2nd 2018, 6:30 AM                </span>   None
+None   That partial-birth abortion will be permitted in Ireland and that a foetus can be killed up until it has ‘completely emerged’ from the body of a woman.   FALSE.   http://www.thejournal.ie/factcheck-abortion-facebook-4256695-Sep2018/   None   None   None   None   None   None   <span class="date">
+                                        Sep 28th 2018, 6:45 PM                </span>   None
+None   The claim: Demi Lovato has died following a reported drug overdose in her Hollywood home.   FALSE   http://www.thejournal.ie/demi-lovato-is-not-dead-4170499-Aug2018/   None   None   None   None   None   None   <span class="date">
+                                        Aug 9th 2018, 4:43 PM                </span>   None
+None   Ireland has been deemed one of the most corrupt countries in the western world.   FALSE   http://www.thejournal.ie/ireland-factcheck-corruption-4150209-Jul2018/   The initial opinion expressed by the Irish Mirror was that Ireland was the most corrupt nation in the western world. The headline of that piece stressed the fact that the opinion was that of Pat Flanagan however.   None   None   None   None   None   <span class="date">
+                                        Jul 28th 2018, 9:00 PM                </span>   None
+None   The claim: The Sun said that Leo Varadkar “threatened to block British planes flying over his country” as a “tit-for-tat response” if Theresa May cut Irish fishermen’s access to British waters after Brexit.   FALSE.   http://www.thejournal.ie/factcheck-taoiseach-british-planes-irish-skies-4137889-Jul2018/   None   None   None   None   None   None   <span class="date">
+                                        Jul 20th 2018, 1:18 PM                </span>   None
+None   FactCheck: Did Sweden shut down a music festival because of attacks carried out by migrants?   None   http://www.thejournal.ie/factcheck-sweden-music-festival-migrant-sex-attacks-4086852-Jun2018/   None   None   None   None   None   None   <span class="date">
+                                        Jun 22nd 2018, 6:21 PM                </span>   None
+None   FactCheck: Is Trump correct that the Democrats passed laws to separate families at the border?   FALSE   http://www.thejournal.ie/factcheck-trump-separations-4078446-Jun2018/   None   None   None   None   None   None   <span class="date">
+                                        Jun 19th 2018, 5:17 PM                </span>   None
+None   FactCheck: Did Justin Trudeau's eyebrow fall off during a press conference?   FALSE.   http://www.thejournal.ie/factcheck-justin-trudeau-eyebrow-disappear-press-conference-4064403-Jun2018/   None   None   None   None   None   None   <span class="date">
+                                        Jun 11th 2018, 1:33 PM                </span>   None
+None   FactCheck: Is 'exam weather' really an Irish climate phenomenon?   None   http://www.thejournal.ie/exam-weather-factcheck-2804814-Jun2018/   None   None   None   None   None   None   <span class="date">
+                                        Jun 3rd 2018, 10:00 PM                </span>   None
+None   Q&A: The answers to your questions about the Eighth Amendment referendum   None   http://www.thejournal.ie/eighth-amendment-ref-q-a-3999597-May2018/   None   None   None   None   None   None   <span class="date">
+                                        May 25th 2018, 10:25 AM                </span>   None
+None   Q&A: Can the 'hard cases' be dealt with while still retaining the Eighth Amendment?   None   http://www.thejournal.ie/qa-hard-cases-ffas-rape-incest-amendment-4028811-May2018/   None   None   None   None   None   None   <span class="date">
+                                        May 23rd 2018, 9:30 PM                </span>   None
+None   FactFind: How many doctors support repeal?   None   http://www.thejournal.ie/how-many-doctors-support-repeal-4030792-May2018/   None   None   None   None   None   None   <span class="date">
+                                        May 23rd 2018, 6:24 PM                </span>   None
+None   The claim: “Abortion debate re-opens in Poland after a Down Syndrome baby born alive during an abortion dies unaided screaming for an hour”   None   http://www.thejournal.ie/theliberal-poland-abortion-factcheck-4027581-May2018/   None   None   None   None   None   None   <span class="date">
+                                        May 22nd 2018, 5:11 PM                </span>   None
+None   FactCheck: Is Ireland's proposed abortion legislation more extreme than British law?   FALSE   http://www.thejournal.ie/factcheck-uk-ireland-abortion-law-4027157-May2018/   None   None   None   None   None   None   <span class="date">
+                                        May 22nd 2018, 12:22 PM                </span>   None
+None   Q&A: Can the proposed legislation allowing abortion up to 12 weeks be changed in the future?   None   http://www.thejournal.ie/qa-changing-legislation-after-repeal-4006293-May2018/   None   None   None   None   None   None   <span class="date">
+                                        May 22nd 2018, 6:05 AM                </span>   None
+None   How do Ireland's proposed abortion laws compare with Europe?   None   http://www.thejournal.ie/irish-abortion-law-comparison-4015872-May2018/   None   None   None   None   None   None   <span class="date">
+                                        May 17th 2018, 12:05 AM                </span>   None
+None   Q&A: Can pregnant women receive cancer treatment?   None   http://www.thejournal.ie/cancer-treatment-while-pregnant-4001479-May2018/   None   None   None   None   None   None   <span class="date">
+                                        May 13th 2018, 8:30 AM                </span>   None
+None   FactCheck: Did Russian TV refuse to show Ireland's Eurovision entry over gay themes?   FALSE.   http://www.thejournal.ie/russian-tv-irish-eurovision-4001768-May2018/   None   None   None   None   None   None   <span class="date">
+                                        May 9th 2018, 12:32 PM                </span>   None
+None   Q&A: Here's how many women and girls travel to the UK for abortions   None   http://www.thejournal.ie/how-many-irish-travel-to-uk-for-abortions-3986043-May2018/   None   None   None   None   None   None   <span class="date">
+                                        May 7th 2018, 12:05 AM                </span>   None
+None   FactCheck: Does abortion increase the risk of a woman developing breast cancer?   FALSE.   http://www.thejournal.ie/does-abortion-increase-risk-of-breast-cancer-3994788-May2018/   None   None   None   None   None   None   <span class="date">
+                                        May 4th 2018, 6:20 PM                </span>   None
+None   Q&A: How are abortions carried out? Can a foetus feel pain?   None   http://www.thejournal.ie/how-are-abortions-carried-out-3992404-May2018/   None   None   None   None   None   None   <span class="date">
+                                        May 3rd 2018, 3:00 PM                </span>   None
+None   Explainer: Here's what the proposed legislation says about abortion up to six months   None   http://www.thejournal.ie/abortion-six-months-3975235-Apr2018/   None   None   None   None   None   None   <span class="date">
+                                        Apr 28th 2018, 12:05 AM                </span>   None
+None   FactCheck: Are 1 in 5 babies in England aborted?   None   http://www.thejournal.ie/save-the-8th-poster-statistic-abortion-3951738-Apr2018/   None   None   None   None   None   None   <span class="date">
+                                        Apr 27th 2018, 2:52 PM                </span>   None
+None   TheJournal.ie FactCheck is first Irish outlet to officially tackle misinformation on Facebook   None   http://www.thejournal.ie/factcheck-thejournal-facebook-partnership-3979720-Apr2018/   None   None   None   None   None   None   <span class="date">
+                                        Apr 26th 2018, 1:41 PM                </span>   None
+None   FactCheck: Is the 'Martinelli' virus real and can it hack your phone through Whatsapp?   None   http://www.thejournal.ie/factcheck-martinelli-virus-3968715-Apr2018/   None   None   None   None   None   None   <span class="date">
+                                        Apr 22nd 2018, 9:45 AM                </span>   None
+None   'A complete fabrication' - You cannot be taken off the electoral register by phone   None   http://www.thejournal.ie/electoral-register-fabrication-3960632-Apr2018/   None   None   None   None   None   None   <span class="date">
+                                        Apr 17th 2018, 6:00 AM                </span>   None
+None   FactFind: Is it cheaper to have a mortgage than rent in Ireland?   None   http://www.thejournal.ie/is-it-cheaper-to-buy-or-rent-in-ireland-3849316-Feb2018/   Conclusion: No matter where you are in the country, it is cheaper to have a mortgage than to rent a property on today’s average house and rent prices when looking at one, two or three bedroom properties. However, it may not always be the most suitable option – and it may not always be possible. That situation is how it has always been – except for the years of the property boom – but the difference in price in the ‘smaller household’ sector of the market is now much more stark, up to 90% in high-demand areas.   None   None   None   None   None   <span class="date">
+                                        Feb 15th 2018, 12:05 AM                </span>   None
+None   FactCheck: Are 90% of babies with Down syndrome in Britain aborted?   None   http://www.thejournal.ie/factcheck-babies-abortion-3823611-Feb2018/   None   None   None   None   None   None   <span class="date">
+                                        Feb 4th 2018, 4:00 AM                </span>   None
+None   FactFind: Is it actually a crime to download movies without paying?   None   http://www.thejournal.ie/factfind-downloading-3801797-Jan2018/   None   None   None   None   None   None   <span class="date">
+                                        Jan 20th 2018, 10:00 PM                </span>   None
+None   FactFind: How much sugar does Santa consume in Ireland on Christmas Eve?   None   http://www.thejournal.ie/sugar-santa-christmas-3694376-Dec2017/   None   None   None   None   None   None   <span class="date">
+                                        Dec 24th 2017, 8:30 PM                </span>   None
+None   FactCheck: Was the burgundy passport 'enforced' on Britain when it joined the EU?   FALSE.   http://www.thejournal.ie/factcheck-passport-3766834-Dec2017/   None   None   None   None   None   None   <span class="date">
+                                        Dec 22nd 2017, 3:07 PM                </span>   None
+None   FactCheck: Would the new alcohol bill ban the Guinness Christmas ad?   Mostly TRUE   http://www.thejournal.ie/factcheck-alcohol-bill-3690412-Dec2017/   None   None   None   None   None   None   <span class="date">
+                                        Dec 21st 2017, 12:05 AM                </span>   None
+None   FactCheck: Did a drink-driving campaign in 1972 really say the FIFTH pint was the one too many?   None   http://www.thejournal.ie/factcheck-1972-drink-driving-poster-3725712-Nov2017/   None   None   None   None   None   None   <span class="date">
+                                        Nov 30th 2017, 5:15 PM                </span>   None
+None   FactCheck: Does Ireland really have a low rate of homelessness by international standards?   None   http://www.thejournal.ie/fact-check-homeless-2-3693945-Nov2017/   None   None   None   None   None   None   <span class="date">
+                                        Nov 15th 2017, 8:30 PM                </span>   None
+None   FactCheck: Do taxes on sugary drinks actually work?   None   http://www.thejournal.ie/sugar-soft-drinks-tax-does-it-work-health-benefits-facts-2918363-Oct2017/   None   None   None   None   None   None   <span class="date">
+                                        Oct 10th 2017, 6:30 PM                </span>   None
+None   FactFind: How does Ireland's jobseeker's benefit compare to the rest of the EU?   None   http://www.thejournal.ie/unemployment-benefits-across-europe-3625519-Oct2017/   None   None   None   None   None   None   <span class="date">
+                                        Oct 4th 2017, 10:00 PM                </span>   None
+None   FactCheck: Is the Bishop of Waterford right to say the HPV vaccine is '70% safe'?   FALSE   http://www.thejournal.ie/hov-bishop-factcheck-3620053-Sep2017/   None   None   None   None   None   None   <span class="date">
+                                        Sep 29th 2017, 6:00 AM                </span>   None
+None   FactCheck: Will 180,000 homes and businesses begin 2020 without high-speed broadband?   TRUE   http://www.thejournal.ie/broadband-factcheck-3614451-Sep2017/   None   None   None   None   None   None   <span class="date">
+                                        Sep 27th 2017, 10:00 PM                </span>   None
+None   FactFind: How do our personal tax bills compare to those living around the world?   None   http://www.thejournal.ie/factcheck-money-tax-bills-3606473-Sep2017/   None   None   None   None   None   None   <span class="date">
+                                        Sep 20th 2017, 9:00 PM                </span>   None
+None   FactFind: Why on earth hasn't Ireland ratified the UN's Convention on Disabilities?   None   http://www.thejournal.ie/factfind-un-crpd-3595556-Sep2017/   None   None   None   None   None   None   <span class="date">
+                                        Sep 19th 2017, 12:05 AM                </span>   None
+None   What will Budget 2019 mean for those earning around €50,000?   None   http://www.thejournal.ie/budget-2019-e50000-4276321-Oct2018/   None   None   None   None   None   None   None   None
+None   Poll: Do you agree with plans to increase the VAT rate for hotels and restaurants by 50%?   None   http://www.thejournal.ie/poll-vat-rate-hospitality-budget-2019-4275490-Oct2018/   None   None   None   None   None   None   None   None
+None   Rebecca Humphries says Seann Walsh branded her 'a psycho' when she questioned his behaviour   None   http://www.dailyedge.ie/rebecca-humphries-4275382-Oct2018/   None   None   None   None   None   None   None   None
+None   Burke and Towell among the players cut from Ireland squad for double header   None   http://www.the42.ie/ireland-squad-uefa-nations-league-wales-denmark-4275649-Oct2018/   None   None   None   None   None   None   None   None
+None   FactFind: What is the state of social house building in Ireland?   None   http://www.thejournal.ie/factfind-social-housing-ireland-september-2017-3595887-Sep2017/   None   None   None   None   None   None   <span class="date">
+                                        Sep 13th 2017, 10:00 PM                </span>   None
+None   FactCheck: Has the government quadrupled social housing construction in two years?   None   http://www.thejournal.ie/factcheck-social-housing-quadrupled-in-two-years-3593070-Sep2017/   None   None   None   None   None   None   <span class="date">
+                                        Sep 13th 2017, 9:15 AM                </span>   None
+None   FactCheck: Did the State build more social housing in the 1980s than in 2015?   None   http://www.thejournal.ie/factcheck-social-housing-ireland-then-and-now-3594254-Sep2017/   None   None   None   None   None   None   <span class="date">
+                                        Sep 12th 2017, 5:54 PM                </span>   None
+None   FactCheck: No, the reported side effects of the HPV vaccine do NOT outweigh the proven benefits   FALSE by a very wide margin   http://www.thejournal.ie/hpv-vaccine-ireland-regret-gardasil-facts-2970847-Sep2017/   None   None   None   None   None   None   <span class="date">
+                                        Sep 6th 2017, 5:15 PM                </span>   None
+None   FactCheck: Are there really only 10,000 undocumented Irish in the USA?   Verdict: mostly TRUE.   http://www.thejournal.ie/factcheck-undocumented-irish-usa-3559047-Aug2017/   None   None   None   None   None   None   <span class="date">
+                                        Aug 23rd 2017, 12:05 AM                </span>   None
+None   FactCheck: Do 70% of Irish people see themselves as middle class?   None   http://www.thejournal.ie/varadkar-70-factcheck-3519985-Aug2017/   None   None   None   None   None   None   <span class="date">
+                                        Aug 4th 2017, 12:01 AM                </span>   None
+None   FactCheck: Has the rate of illegal drug use increased most among young Irish people?   Taking all this into account, we rate the claim as: Mostly TRUE.   http://www.thejournal.ie/illegal-drug-rising-young-people-ireland-factcheck-3514169-Jul2017/   None   None   None   None   None   None   <span class="date">
+                                        Jul 25th 2017, 8:30 PM                </span>   None
+None   FactCheck: Did the government really save €500 million due to reported welfare fraud last year?   None   http://www.thejournal.ie/fact-check-leo-varadkar-welfare-cheats-3404165-Jun2017/   Conclusion: False   None   None   None   None   None   <span class="date">
+                                        Jun 18th 2017, 12:05 AM                </span>   None
+None   FactCheck: Are there more homeless people in Ireland now than at any time since the Famine?   Mostly-FALSE   http://www.thejournal.ie/fact-check-homeless-3370182-May2017/   None   None   None   None   None   None   <span class="date">
+                                        May 6th 2017, 10:00 PM                </span>   None
+None   FactFind: How much water do we actually use?   None   http://www.thejournal.ie/average-water-use-ireland-facts-3339951-May2017/   None   None   None   None   None   None   <span class="date">
+                                        May 1st 2017, 10:00 PM                </span>   None
+None   FactFind: Is Shane Ross right to say his drink-driving bill could save 35 lives?   None   http://www.thejournal.ie/shane-ross-drink-driving-ban-road-deaths-facts-3333397-Apr2017/   None   None   None   None   None   None   <span class="date">
+                                        Apr 14th 2017, 10:00 PM                </span>   None
+None   FactCheck: Is secondary picketing actually illegal?   Half TRUE   http://www.thejournal.ie/secondary-picketing-ireland-law-facts-3323844-Apr2017/   None   None   None   None   None   None   <span class="date">
+                                        Apr 7th 2017, 12:05 AM                </span>   None
+None   FactFind: How generous is maternity leave in Ireland?   None   http://www.thejournal.ie/maternity-leave-ireland-european-rankings-facts-3311670-Apr2017/   None   None   None   None   None   None   <span class="date">
+                                        Apr 5th 2017, 12:05 AM                </span>   None
+None   FactCheck: Are Catholic schools more socially diverse than other schools?   Mostly TRUE   http://www.thejournal.ie/catholic-primary-schools-diversity-divestment-facts-ireland-3252590-Mar2017/   None   None   None   None   None   None   <span class="date">
+                                        Mar 24th 2017, 10:22 AM                </span>   None
+None   FactFind: One year in, is this really a "do-nothing" Dáil?   None   http://www.thejournal.ie/do-nothing-dail-2016-2017-facts-3277846-Mar2017/   None   None   None   None   None   None   <span class="date">
+                                        Mar 19th 2017, 8:30 PM                </span>   None
+None   FactCheck: Did Enda Kenny really never call Donald Trump "racist"?   Mostly TRUE   http://www.thejournal.ie/enda-kenny-donald-trump-racist-comments-facts-video-3290245-Mar2017/   None   None   None   None   None   None   <span class="date">
+                                        Mar 16th 2017, 10:30 PM                </span>   None
+None   FactCheck: How many new social housing units did the government provide last year?   Half-TRUE   http://www.thejournal.ie/social-housing-units-provided-2016-ireland-facts-3258246-Feb2017/   None   None   None   None   None   None   <span class="date">
+                                        Feb 28th 2017, 12:01 AM                </span>   None
+None   FactCheck: Are there really 8,500 social housing units currently being built?   FALSE   http://www.thejournal.ie/social-housing-current-construction-ireland-2017-facts-3257356-Feb2017/   None   None   None   None   None   None   <span class="date">
+                                        Feb 26th 2017, 8:30 PM                </span>   None
+None   FactCheck: Did Right2Water this week support charging for excessive water use?   Mostly TRUE   http://www.thejournal.ie/right2water-excessive-water-use-charge-barry-cowen-facts-3251913-Feb2017/   None   None   None   None   None   None   <span class="date">
+                                        Feb 25th 2017, 7:30 PM                </span>   None
+None   FactCheck: How many new social housing units does the government plan to build?   FALSE   http://www.thejournal.ie/social-housing-construction-rebuilding-ireland-fact-check-3250029-Feb2017/   None   None   None   None   None   None   <span class="date">
+                                        Feb 22nd 2017, 8:30 PM                </span>   None
+None   FactCheck: Do supervised injection centres reduce drug-related deaths?   FALSE   http://www.thejournal.ie/medically-supervised-injection-centres-facilities-deaths-fact-check-3245282-Feb2017/   None   None   None   None   None   None   <span class="date">
+                                        Feb 20th 2017, 10:00 PM                </span>   None
+None   FactCheck: Do supervised injection centres reduce drug-related crime?   None   http://www.thejournal.ie/supervised-injection-centres-crime-fact-check-3238499-Feb2017/   None   None   None   None   None   None   <span class="date">
+                                        Feb 19th 2017, 10:00 PM                </span>   None
+None   FactCheck: How many detox beds are there in Ireland?   FALSE   http://www.thejournal.ie/detox-beds-rehab-beds-ireland-facts-3241485-Feb2017/   None   None   None   None   None   None   <span class="date">
+                                        Feb 18th 2017, 12:18 AM                </span>   None
+None   FactCheck: Are there really more Polish speakers than Irish speakers in Northern Ireland?   Mostly FALSE   http://www.thejournal.ie/arlene-foster-polish-speakers-irish-speakers-northern-ireland-facts-3228915-Feb2017/   None   None   None   None   None   None   <span class="date">
+                                        Feb 12th 2017, 10:00 PM                </span>   None
+None   FactCheck: Are there really fewer people on hospital trolleys this year?   Half True.   http://www.thejournal.ie/factcheck-hospital-trolleys-3225082-Feb2017/   None   None   None   None   None   None   <span class="date">
+                                        Feb 8th 2017, 8:00 PM                </span>   None
+None   FactCheck: Are Michael O'Leary and Ryanair right about Dublin Airport charges increasing?   FALSE   http://www.thejournal.ie/ryanair-michael-o-leary-daa-dublin-airport-authority-charges-claim-facts-3221799-Feb2017/   None   None   None   None   None   None   <span class="date">
+                                        Feb 7th 2017, 8:30 PM                </span>   None
+None   FactCheck: Which public transport services get the most state funding?   TRUE   http://www.thejournal.ie/public-transport-state-funding-ireland-facts-3206997-Feb2017/   None   None   None   None   None   None   <span class="date">
+                                        Feb 5th 2017, 7:00 PM                </span>   None
+None   FactFind: Are there many differences between Fianna Fáil and Soc Dems manifestos?   None   http://www.thejournal.ie/factfind-fianna-fail-soc-dems-3221006-Feb2017/   None   None   None   None   None   None   <span class="date">
+                                        Feb 4th 2017, 12:05 AM                </span>   None
+None   FactCheck: Is Richard Bruton right to say housing starts are on the rise?   TRUE   http://www.thejournal.ie/housing-construction-starts-commencements-ireland-growth-richard-bruton-3209336-Feb2017/   None   None   None   None   None   None   <span class="date">
+                                        Feb 1st 2017, 8:30 PM                </span>   None
+None   FactFind: Is Donald Trump's travel ban 'similar to what Obama did'?   None   http://www.thejournal.ie/fact-find-obama-trump-3215035-Jan2017/   None   None   None   None   None   None   <span class="date">
+                                        Jan 31st 2017, 5:34 PM                </span>   None
+None   FactCheck: Did Jim Daly really propose getting rid of the free travel pass?   TRUE   http://www.thejournal.ie/free-travel-pass-jim-daly-fine-gael-fianna-fail-bus-eireann-3213373-Jan2017/   None   None   None   None   None   None   <span class="date">
+                                        Jan 31st 2017, 6:15 AM                </span>   None
+None   FactCheck: Did the DUP really never commit to an Irish Language Act?   Verdict: TRUE   http://www.thejournal.ie/factcheck-irish-language-act-3209218-Jan2017/   None   None   None   None   None   None   <span class="date">
+                                        Jan 28th 2017, 8:15 PM                </span>   None
+None   FactCheck: Is Regina Doherty right to say she didn't support the use of civil disobedience?   None   http://www.thejournal.ie/regina-doherty-civil-disobedience-pylons-facts-3201736-Jan2017/   None   None   None   None   None   None   <span class="date">
+                                        Jan 24th 2017, 8:30 PM                </span>   None
+None   Six lessons for 2017 from an Irish fact-checker in a "fake news" era   None   http://www.thejournal.ie/readme/fact-checking-fake-news-ireland-3188614-Jan2017/   None   None   None   None   None   None   <span class="date">
+                                        Jan 20th 2017, 12:01 AM                </span>   None
+None   FactCheck: You asked, we answered - "real unemployment"   None   http://www.thejournal.ie/real-unemployment-ireland-jobbridge-job-activation-3121652-Jan2017/   None   None   None   None   None   None   <span class="date">
+                                        Jan 1st 2017, 7:00 PM                </span>   None
+None   The 2016 FactCheck Review of the Year   None   http://www.thejournal.ie/thejournal-ie-2016-factcheck-review-of-the-year-3129320-Dec2016/   None   None   None   None   None   None   <span class="date">
+                                        Dec 31st 2016, 8:00 AM                </span>   None
+None   FactCheck: The 2016 False Claim of the Year - as chosen by you   None   http://www.thejournal.ie/factcheck-ireland-thejournal-ie-false-claim-of-the-year-3149192-Dec2016/   None   None   None   None   None   None   <span class="date">
+                                        Dec 29th 2016, 9:30 PM                </span>   None
+None   FactCheck: You asked, we answered - how does Irish politicians' pay compare to Europe?   None   http://www.thejournal.ie/politicians-salaries-europe-ireland-3149607-Dec2016/   None   None   None   None   None   None   <span class="date">
+                                        Dec 28th 2016, 10:30 PM                </span>   None
+None   FactCheck: Can Santa really deliver all the world's presents in one night?   None   http://www.thejournal.ie/santa-claus-present-delivery-facts-3110146-Dec2016/   None   None   None   None   None   None   <span class="date">
+                                        Dec 24th 2016, 8:00 AM                </span>   None
+None   FactCheck: You asked, we answered - the gender pay gap   None   http://www.thejournal.ie/gender-pay-gap-ireland-statistics-facts-3133536-Dec2016/   None   None   None   None   None   None   <span class="date">
+                                        Dec 21st 2016, 9:30 PM                </span>   None
+None   What will Budget 2019 mean for those earning around €50,000?   None   http://www.thejournal.ie/budget-2019-e50000-4276321-Oct2018/   None   None   None   None   None   None   None   None
+None   Poll: Do you agree with plans to increase the VAT rate for hotels and restaurants by 50%?   None   http://www.thejournal.ie/poll-vat-rate-hospitality-budget-2019-4275490-Oct2018/   None   None   None   None   None   None   None   None
+None   Rebecca Humphries says Seann Walsh branded her 'a psycho' when she questioned his behaviour   None   http://www.dailyedge.ie/rebecca-humphries-4275382-Oct2018/   None   None   None   None   None   None   None   None
+None   Burke and Towell among the players cut from Ireland squad for double header   None   http://www.the42.ie/ireland-squad-uefa-nations-league-wales-denmark-4275649-Oct2018/   None   None   None   None   None   None   None   None
+None   FactCheck: You asked, we answered - suicide, austerity and the Troubles   Mostly TRUE   http://www.thejournal.ie/suicide-austerity-troubles-ireland-tim-pat-coogan-3124487-Dec2016/   None   None   None   None   None   None   <span class="date">
+                                        Dec 18th 2016, 8:30 PM                </span>   None
+None   FactCheck: Is Willie O'Dea right to say Ireland has the highest child poverty rate in the OECD?   FALSE   http://www.thejournal.ie/willie-o-dea-ireland-child-poverty-rate-oecd-highest-3124268-Dec2016/   None   None   None   None   None   None   <span class="date">
+                                        Dec 11th 2016, 9:30 PM                </span>   None
+None   FactCheck: Do you have any nagging questions from 2016? Get in touch   None   http://www.thejournal.ie/factcheck-nagging-questions-2016-3109586-Dec2016/   None   None   None   None   None   None   <span class="date">
+                                        Dec 4th 2016, 10:00 PM                </span>   None
+None   FactCheck: The False claim of the Year, 2016 - Vote now   None   http://www.thejournal.ie/factcheck-thejournal-ie-false-claim-3107056-Dec2016/   None   None   None   None   None   None   <span class="date">
+                                        Dec 3rd 2016, 8:30 AM                </span>   None
+None   FactCheck: How many people boycotted water charges?   None   http://www.thejournal.ie/irish-water-charges-payment-statistics-boycott-3112027-Dec2016/   None   None   None   None   None   None   <span class="date">
+                                        Dec 1st 2016, 8:00 PM                </span>   None
+None   FactCheck: Are motor insurance claims and legal fees going up or down?   FALSE   http://www.thejournal.ie/motor-insurance-ireland-compensation-legal-fees-facts-statistics-law-society-insurance-ireland-3098074-Nov2016/   None   None   None   None   None   None   <span class="date">
+                                        Nov 27th 2016, 10:00 PM                </span>   None
+None   FactCheck: Nursing union leader Liam Doran's claims about the Irish health service   Mostly FALSE.   http://www.thejournal.ie/liam-doran-inmo-claire-byrne-live-nursing-health-service-facts-ireland-3103178-Nov2016/   None   None   None   None   None   None   <span class="date">
+                                        Nov 26th 2016, 8:00 AM                </span>   None
+None   FactCheck: Is Fine Gael right to claim the credit for a fall in mortgages in arrears?   Mostly FALSE   http://www.thejournal.ie/fine-gael-mortgages-in-arrears-decline-facts-3094518-Nov2016/   None   None   None   None   None   None   <span class="date">
+                                        Nov 23rd 2016, 7:59 PM                </span>   None
+None   FactCheck: Do 700,000 jobs really depend on our "open access" to the EU   None   http://www.thejournal.ie/ireland-jobs-depend-on-eu-700000-richard-bruton-3084024-Nov2016/   None   None   None   None   None   None   <span class="date">
+                                        Nov 20th 2016, 9:30 PM                </span>   None
+None   FactCheck: National Party leader Justin Barrett's claims about immigration   FALSE   http://www.thejournal.ie/national-party-justin-barrett-immigration-facts-3087878-Nov2016/   None   None   None   None   None   None   <span class="date">
+                                        Nov 19th 2016, 7:20 AM                </span>   None
+None   An open letter to Mark Zuckerberg from the world’s fact-checkers (including TheJournal.ie)   None   http://www.thejournal.ie/readme/international-fact-checking-network-open-letter-to-mark-zuckerberg-facebook-fake-news-3087057-Nov2016/   None   None   None   None   None   None   <span class="date">
+                                        Nov 17th 2016, 3:44 PM                </span>   None
+None   FactCheck: Is Denis Naughten right about the deaths caused by air pollution in Ireland?   Mostly TRUE   http://www.thejournal.ie/ireland-air-pollution-deaths-3083710-Nov2016/   None   None   None   None   None   None   <span class="date">
+                                        Nov 16th 2016, 8:00 PM                </span>   None
+None   FactCheck: How many refugees is Ireland taking in at the moment?   Mostly TRUE   http://www.thejournal.ie/ireland-refugee-asylum-seeker-numbers-2016-3077058-Nov2016/   None   None   None   None   None   None   <span class="date">
+                                        Nov 13th 2016, 9:15 PM                </span>   None
+None   FactCheck: No, Ireland is NOT "officially accepting Trump refugees"   None   http://www.thejournal.ie/ireland-officially-accepting-trump-refugees-inishturk-facts-3074777-Nov2016/   None   None   None   None   None   None   <span class="date">
+                                        Nov 10th 2016, 6:18 PM                </span>   None
+None   FactCheck: Does this pro-life leaflet stand up to scrutiny?   Mostly TRUE   http://www.thejournal.ie/yes-to-life-life-institute-8th-amendment-abortion-leaflet-facts-3058066-Nov2016/   None   None   None   None   None   None   <span class="date">
+                                        Nov 6th 2016, 9:00 PM                </span>   None
+None   FactCheck: Does this year's Budget include the biggest ever investment in health?   TRUE   http://www.thejournal.ie/budget-2017-ireland-health-spending-biggest-ever-facts-3032121-Nov2016/   None   None   None   None   None   None   <span class="date">
+                                        Nov 5th 2016, 6:10 AM                </span>   None
+None   FactCheck: Was damage to the ozone layer caused by nuclear testing?   FALSE   http://www.thejournal.ie/ozone-layer-damage-depletion-nuclear-testing-danny-healy-rae-3057410-Nov2016/   None   None   None   None   None   None   <span class="date">
+                                        Nov 2nd 2016, 8:01 PM                </span>   None
+None   FactCheck: Was Enda Kenny right about Charlie Flanagan and the Russian ambassador?   Mostly FALSE   http://www.thejournal.ie/charlie-flanagan-russian-ambassador-enda-kenny-3044539-Oct2016/   None   None   None   None   None   None   <span class="date">
+                                        Oct 27th 2016, 8:00 PM                </span>   None
+None   FactCheck: Has the government actually cut the mental health budget by €20 million?   FALSE   http://www.thejournal.ie/mental-health-e20-million-cut-budget-2017-facts-3044032-Oct2016/   None   None   None   None   None   None   <span class="date">
+                                        Oct 25th 2016, 8:00 PM                </span>   None
+None   FactCheck: Does the Budget give four times more to "sheep welfare" than home childcare?   Mostly TRUE.   http://www.thejournal.ie/sheep-welfare-home-carers-budget-2017-3039714-Oct2016/   None   None   None   None   None   None   <span class="date">
+                                        Oct 23rd 2016, 8:30 AM                </span>   None
+None   FactCheck: Is it really "illegal" for the government to negotiate with the UK before Brexit?   FALSE   http://www.thejournal.ie/illegal-irish-government-brexit-talks-before-article-50-3035204-Oct2016/   None   None   None   None   None   None   <span class="date">
+                                        Oct 20th 2016, 7:00 PM                </span>   None
+None   FactCheck: How many workers are on the minimum wage?   None   http://www.thejournal.ie/number-of-minimum-wage-workers-ireland-3025400-Oct2016/   None   None   None   None   None   None   <span class="date">
+                                        Oct 16th 2016, 9:30 PM                </span>   None
+None   FactCheck: Was Willie O'Dea really not aware of concerns over Lariam, while he was Minister?   FALSE   http://www.thejournal.ie/willie-o-dea-lariam-defence-forces-irish-troops-3024987-Oct2016/   None   None   None   None   None   None   <span class="date">
+                                        Oct 13th 2016, 8:01 PM                </span>   None
+None   FactCheck: How do jobseeker's payments here compare to Northern Ireland?   TRUE   http://www.thejournal.ie/jobseekers-payments-northern-ireland-republic-comparison-3019455-Oct2016/   None   None   None   None   None   None   <span class="date">
+                                        Oct 11th 2016, 8:00 AM                </span>   None
+None   FactCheck: Does every other country in Europe have water charges?   Correction: Due to an error, the verdict on this article was previously stated as ‘mostly FALSE’. It has been corrected now to the correct verdict of ‘Mostly TRUE’.   http://www.thejournal.ie/what-countries-in-europe-have-water-charges-facts-3002075-Oct2016/   None   None   None   None   None   None   <span class="date">
+                                        Oct 6th 2016, 8:00 PM                </span>   None
+None   FactCheck: Does Ireland really lead the world for skilled labour?   FALSE   http://www.thejournal.ie/ireland-competitiveness-skilled-labour-global-ranking-enda-kenny-3001252-Oct2016/   None   None   None   None   None   None   <span class="date">
+                                        Oct 2nd 2016, 8:00 PM                </span>   None
+None   FactCheck: How do Dublin Bus drivers' earnings compare with their European counterparts?   Mostly TRUE   http://www.thejournal.ie/dublin-bus-drivers-wages-europe-facts-3000886-Sep2016/   None   None   None   None   None   None   <span class="date">
+                                        Sep 29th 2016, 4:56 PM                </span>   None
+None   FactCheck: Did the last government cut payments to lone parents?   Mostly FALSE   http://www.thejournal.ie/one-parent-family-payment-changes-ireland-facts-2997502-Sep2016/   None   None   None   None   None   None   <span class="date">
+                                        Sep 27th 2016, 7:07 PM                </span>   None
+None   A factual claim:   FALSE:   http://www.thejournal.ie/factcheck-thejournal-ie-readers-guide-2987611-Sep2016/   None   None   None   None   None   None   <span class="date">
+                                        Sep 26th 2016, 7:10 PM                </span>   None
+None   FactCheck: Does Ireland really have the "highest education" in Europe?   FALSE   http://www.thejournal.ie/ireland-european-education-rankings-facts-eoghan-murphy-cnbc-2992092-Sep2016/   None   None   None   None   None   None   <span class="date">
+                                        Sep 25th 2016, 9:30 PM                </span>   None
+None   FactCheck: Has no government minister ever gone before the Public Accounts Committee?   FALSE   http://www.thejournal.ie/ministers-before-public-accounts-committee-pac-michael-noonan-leo-varadkar-2989075-Sep2016/   None   None   None   None   None   None   <span class="date">
+                                        Sep 21st 2016, 8:38 PM                </span>   None
+None   FactCheck: Would a new government bill really decriminalise sex workers?   Mostly FALSE   http://www.thejournal.ie/sexual-offences-bill-2015-decriminalisation-sex-workers-ireland-2981672-Sep2016/   None   None   None   None   None   None   <span class="date">
+                                        Sep 18th 2016, 7:00 PM                </span>   None
+None   FactCheck: Has Fianna Fáil's position on water charges really been "consistent"?   Half-TRUE.   http://www.thejournal.ie/fianna-fail-water-charges-policy-changes-2976299-Sep2016/   None   None   None   None   None   None   <span class="date">
+                                        Sep 14th 2016, 8:06 PM                </span>   None
+None   FactCheck: How much do multinationals actually contribute in taxes?   TRUE   http://www.thejournal.ie/multinationals-tax-contribution-ireland-facts-2972139-Sep2016/   None   None   None   None   None   None   <span class="date">
+                                        Sep 9th 2016, 7:07 PM                </span>   None
+None   FactCheck: Does this Dublin Bus drivers' leaflet stand up to scrutiny?   Mostly TRUE   http://www.thejournal.ie/dublin-bus-drivers-strike-september-2016-nbru-facts-2967501-Sep2016/   None   None   None   None   None   None   <span class="date">
+                                        Sep 7th 2016, 9:23 PM                </span>   None
+None   FactCheck: Is Apple really the "largest taxpayer in Ireland"?   None   http://www.thejournal.ie/apple-biggest-taxpayer-ireland-facts-tim-cook-michael-noonan-2960327-Sep2016/   None   None   None   None   None   None   <span class="date">
+                                        Sep 4th 2016, 10:00 PM                </span>   None
+None   FactCheck: How many people actually work for foreign companies in Ireland?   FALSE   http://www.thejournal.ie/fdi-employment-foreign-companies-jobs-ireland-facts-numbers-2956661-Sep2016/   None   None   None   None   None   None   <span class="date">
+                                        Sep 1st 2016, 8:16 PM                </span>   None
+None   FactCheck: Is Ireland actually the world's "most globalised" country?   None   http://www.thejournal.ie/ireland-worlds-most-globalised-country-fact-check-2954572-Aug2016/   None   None   None   None   None   None   <span class="date">
+                                        Aug 30th 2016, 8:03 PM                </span>   None
+None   FactCheck: What do HSE guidelines actually say about the effects of abortion?   FALSE   http://www.thejournal.ie/hse-guidelines-maternal-bereavement-abortion-pro-life-campaign-factcheck-2947615-Aug2016/   None   None   None   None   None   None   <span class="date">
+                                        Aug 26th 2016, 7:35 PM                </span>   None
+None   FactCheck: Are there fewer gardaí dealing with a growing drugs problem?   Mostly TRUE   http://www.thejournal.ie/garda-drug-units-numbers-facts-2944139-Aug2016/   None   None   None   None   None   None   <span class="date">
+                                        Aug 24th 2016, 8:05 PM                </span>   None
+None   What will Budget 2019 mean for those earning around €50,000?   None   http://www.thejournal.ie/budget-2019-e50000-4276321-Oct2018/   None   None   None   None   None   None   None   None
+None   Poll: Do you agree with plans to increase the VAT rate for hotels and restaurants by 50%?   None   http://www.thejournal.ie/poll-vat-rate-hospitality-budget-2019-4275490-Oct2018/   None   None   None   None   None   None   None   None
+None   Rebecca Humphries says Seann Walsh branded her 'a psycho' when she questioned his behaviour   None   http://www.dailyedge.ie/rebecca-humphries-4275382-Oct2018/   None   None   None   None   None   None   None   None
+None   Burke and Towell among the players cut from Ireland squad for double header   None   http://www.the42.ie/ireland-squad-uefa-nations-league-wales-denmark-4275649-Oct2018/   None   None   None   None   None   None   None   None
+None   FactCheck: Is minimum unit alcohol pricing "proven" to work?   Mostly FALSE   http://www.thejournal.ie/minimum-unit-pricing-alcohol-ireland-facts-2932210-Aug2016/   None   None   None   None   None   None   <span class="date">
+                                        Aug 21st 2016, 10:15 PM                </span>   None
+None   FactCheck: Do Irish students really pay some of the highest fees in the world?   Mostly TRUE.   http://www.thejournal.ie/student-contribution-university-fees-ireland-one-of-highest-in-the-world-facts-2936999-Aug2016/   None   None   None   None   None   None   <span class="date">
+                                        Aug 19th 2016, 5:24 PM                </span>   None
+None   FactCheck: Who's right about Ireland's record on maternal deaths?   Mostly TRUE   http://www.thejournal.ie/maternal-deaths-mortality-rate-ireland-pro-life-campaign-statistics-2921139-Aug2016/   None   None   None   None   None   None   <span class="date">
+                                        Aug 15th 2016, 8:02 PM                </span>   None
+None   Factcheck: Is it illegal for gardaí to go on strike?   MOSTLY TRUE   http://www.thejournal.ie/factcheck-garda-strike-2900761-Aug2016/   None   None   None   None   None   None   <span class="date">
+                                        Aug 7th 2016, 9:00 PM                </span>   None
+None   FactCheck: Was Richard Bruton right to say that newer TDs get paid less?   None   http://www.thejournal.ie/tds-salary-long-service-increment-public-service-workers-2911496-Aug2016/   None   None   None   None   None   None   <span class="date">
+                                        Aug 7th 2016, 7:00 AM                </span>   None
+None   FactCheck: Is there faster broadband on the moon than in Roscommon?   Half-True   http://www.thejournal.ie/internet-on-the-moon-2907926-Aug2016/   None   None   None   None   None   None   <span class="date">
+                                        Aug 6th 2016, 8:30 AM                </span>   None
+None   FactCheck: Who got it right on "abortion up to birth" - Cora Sherlock or Ivana Bacik?   FALSE   http://www.thejournal.ie/abortion-up-to-birth-law-around-the-world-2905518-Aug2016/   None   None   None   None   None   None   <span class="date">
+                                        Aug 3rd 2016, 8:42 PM                </span>   None
+None   FactCheck: Is Frances Fitzgerald right about Ireland's financial gain from the EU?   TRUE   http://www.thejournal.ie/ireland-financial-gain-from-eu-frances-fitzgerald-facts-2894694-Jul2016/   None   None   None   None   None   None   <span class="date">
+                                        Jul 31st 2016, 10:00 PM                </span>   None
+None   FactCheck: No, "Irish slaves" did NOT build the White House   FALSE   http://www.thejournal.ie/irish-slaves-myth-fact-check-white-house-michelle-obama-2896699-Jul2016/   None   None   None   None   None   None   <span class="date">
+                                        Jul 26th 2016, 8:28 PM                </span>   None
+None   FactCheck: Is it cheaper for the State to build houses directly than to use the private sector?   HALF TRUE.   http://www.thejournal.ie/social-housing-ireland-cost-of-state-private-building-2888760-Jul2016/   None   None   None   None   None   None   <span class="date">
+                                        Jul 24th 2016, 7:30 PM                </span>   None
+None   FactCheck: A look back over the 32nd Dáil so far   None   http://www.thejournal.ie/dail-tds-claims-factcheck-2887345-Jul2016/   None   None   None   None   None   None   <span class="date">
+                                        Jul 21st 2016, 7:00 AM                </span>   None
+None   FactCheck: Is Luke 'Ming' Flanagan right about other Irish MEPs' poor record of attendance?   FALSE   http://www.thejournal.ie/luke-ming-flanagan-irish-meps-agrictulture-committee-attendance-factcheck-2880742-Jul2016/   None   None   None   None   None   None   <span class="date">
+                                        Jul 18th 2016, 6:15 AM                </span>   None
+None   FactCheck: Is Pat Rabbitte right about RTE's coverage of water charges?   FALSE   http://www.thejournal.ie/pat-rabbitte-rte-criticism-water-charges-2878020-Jul2016/   None   None   None   None   None   None   <span class="date">
+                                        Jul 17th 2016, 7:00 AM                </span>   None
+None   FactCheck: Did Fianna Fáil REALLY get union support for their zero hour contracts plan?   Mostly FALSE   http://www.thejournal.ie/fianna-fail-niall-collins-banded-hour-contracts-ictu-sinn-fein-factcheck-2868658-Jul2016/   None   None   None   None   None   None   <span class="date">
+                                        Jul 8th 2016, 9:50 PM                </span>   None
+None   FactCheck: How much worse are hospital waiting lists getting?   Mostly TRUE   http://www.thejournal.ie/ireland-hospital-waiting-lists-statistics-factcheck-thejournal-ie-2865706-Jul2016/   None   None   None   None   None   None   <span class="date">
+                                        Jul 7th 2016, 9:34 PM                </span>   None
+None   FactCheck: Do EU rules prevent us from spending money to build more social housing?   Mostly TRUE.   http://www.thejournal.ie/social-housing-eu-fiscal-rules-nama-isif-2855526-Jul2016/   None   None   None   None   None   None   <span class="date">
+                                        Jul 1st 2016, 8:09 PM                </span>   None
+None   FactCheck: Who uses water most, and who pays most of the cost?   Mostly FALSE   http://www.thejournal.ie/households-businesses-irish-water-usage-costs-factcheck-2852594-Jun2016/   None   None   None   None   None   None   <span class="date">
+                                        Jun 29th 2016, 9:27 PM                </span>   None
+None   FactCheck: No, this photo does NOT show a mad rush for Irish passports in the UK   FALSE   http://www.thejournal.ie/british-demand-for-irish-passports-de-standaard-photo-hoax-factcheck-2849259-Jun2016/   None   None   None   None   None   None   <span class="date">
+                                        Jun 27th 2016, 7:27 PM                </span>   None
+None   FactCheck: Is Enda Kenny really obliged to work towards a United Ireland?   FALSE   http://www.thejournal.ie/united-ireland-brexit-gerry-adams-sinn-fein-enda-kenny-constitution-2844815-Jun2016/   None   None   None   None   None   None   <span class="date">
+                                        Jun 24th 2016, 8:37 PM                </span>   None
+None   Ruth Coppinger’s claim:   Mostly TRUE   http://www.thejournal.ie/abortion-down-syndrome-fatal-foetal-abnormality-cora-sherlock-ruth-coppinger-eighth-amendment-vincent-browne-2842048-Jun2016/   None   None   None   None   None   None   <span class="date">
+                                        Jun 23rd 2016, 10:24 PM                </span>   None
+None   FactCheck: Is Sinn Féin right about how many gardaí Dublin's inner city has lost?   Mostly FALSE   http://www.thejournal.ie/factcheck-thejournal-ie-sinn-fein-dublin-inner-city-crime-garda-numbers-2825283-Jun2016/   None   None   None   None   None   None   <span class="date">
+                                        Jun 22nd 2016, 8:30 PM                </span>   None
+None   FactCheck: Has Eircode really "saved lives"?   None   http://www.thejournal.ie/denis-naughten-eircode-has-saved-lives-factcheck-thejournal-ie-2831170-Jun2016/   None   None   None   None   None   None   <span class="date">
+                                        Jun 21st 2016, 8:30 PM                </span>   None
+None   FactCheck: Can Donald Trump actually be banned from Ireland?   TRUE   http://www.thejournal.ie/donald-trump-ban-ireland-possible-law-factcheck-thejournal-ie-2822301-Jun2016/   None   None   None   None   None   None   <span class="date">
+                                        Jun 17th 2016, 8:01 PM                </span>   None
+None   FactCheck: Did Enda Kenny mislead the Dáil over the Eighth Amendment?   also FALSE   http://www.thejournal.ie/enda-kenny-eighth-amendment-abortion-referenda-claim-dail-factcheck-thejournal-ie-2803279-Jun2016/   None   None   None   None   None   None   <span class="date">
+                                        Jun 5th 2016, 9:00 PM                </span>   None
+None   FactCheck: Has crime actually increased since all those garda stations were closed?   None   http://www.thejournal.ie/factcheck-thejournal-ie-garda-station-closures-and-crime-rates-2750163-May2016/   None   None   None   None   None   None   <span class="date">
+                                        May 25th 2016, 9:00 PM                </span>   None
+None   FactCheck: Did Michael Noonan tell "bare-faced lies" in the Dáil?   FALSE   http://www.thejournal.ie/factcheck-thejournal-ie-michael-noonan-dail-claim-fianna-fail-mortgage-bill-bank-shares-2784738-May2016/   None   None   None   None   None   None   <span class="date">
+                                        May 24th 2016, 9:00 PM                </span>   None
+None   FactCheck: Are restricted dog breeds inherently more dangerous than all the rest?   None   http://www.thejournal.ie/factcheck-thejournal-ie-dangerous-dogs-restricted-breeds-2775130-May2016/   None   None   None   None   None   None   <span class="date">
+                                        May 22nd 2016, 10:00 PM                </span>   None
+None   FactCheck: Is there a rush for Irish passports because of Trump and Brexit?   None   http://www.thejournal.ie/thejournal-ie-factcheck-donald-trump-brexit-irish-passports-2767102-May2016/   None   None   None   None   None   None   <span class="date">
+                                        May 14th 2016, 9:30 PM                </span>   None
+None   FactCheck: Did only 10 TDs really show up to debate mental health last night?   None   http://www.thejournal.ie/tds-present-for-mental-health-debate-april-2016-thejournal-ie-factcheck-2737477-Apr2016/   None   None   None   None   None   None   <span class="date">
+                                        Apr 27th 2016, 3:28 AM                </span>   None
+None   FactCheck: How much have TDs and ministers been paid since the election?   Mostly FALSE   http://www.thejournal.ie/thejournal-ie-factcheck-tds-ministers-pay-salary-since-election-2016-2731877-Apr2016/   None   None   None   None   None   None   <span class="date">
+                                        Apr 25th 2016, 9:55 PM                </span>   None
+None   Seanad Debate FactCheck: Did David Norris really once get 1,000,000 retweets?   None   http://www.thejournal.ie/the-journal-seanad-debate-factcheck-tv3-2726693-Apr2016/   None   None   None   None   None   None   <span class="date">
+                                        Apr 21st 2016, 7:38 PM                </span>   None
+None   FactCheck: Is MMA really safer than boxing?   Half-TRUE   http://www.thejournal.ie/the-journal-factcheck-mma-boxing-safety-injury-2713577-Apr2016/   None   None   None   None   None   None   <span class="date">
+                                        Apr 16th 2016, 7:00 AM                </span>   None
+None   FactCheck: Are children who get smacked more successful later in life?   FALSE   http://www.thejournal.ie/the-journal-factcheck-smacking-children-liveline-joe-duffy-alive-2709852-Apr2016/   None   None   None   None   None   None   <span class="date">
+                                        Apr 12th 2016, 8:56 AM                </span>   None
+None   FactCheck: Is Ireland really one of the world's most obese countries?   None   http://www.thejournal.ie/fact-check-thejournal-ireland-obesity-the-lancet-2705623-Apr2016/   None   None   None   None   None   None   <span class="date">
+                                        Apr 11th 2016, 1:00 AM                </span>   None
+None   FactCheck: Are Luas drivers really paid more than junior doctors?   None   http://www.thejournal.ie/luas-drivers-junior-doctors-pay-transdev-strike-2016-2655652-Mar2016/   None   None   None   None   None   None   <span class="date">
+                                        Mar 26th 2016, 8:40 AM                </span>   None
+None   FactCheck: Can water charges really be abolished?   None   http://www.thejournal.ie/ge16-fact-check-election-2016-water-charges-irish-water-2622813-Feb2016/   None   None   None   None   None   None   <span class="date">
+                                        Feb 25th 2016, 7:49 PM                </span>   None
+None   FactCheck: The truth and the lies from the final Leaders' Debate   None   http://www.thejournal.ie/ge16-fact-check-election-2016-ireland-final-leaders-debate-rte-prime-time-2621007-Feb2016/   None   None   None   None   None   None   <span class="date">
+                                        Feb 24th 2016, 3:38 PM                </span>   None
+None   FactCheck: Does Northern Ireland really have four times more homelessness than us?   None   http://www.thejournal.ie/ge16-fact-check-election-2016-ireland-northern-ireland-sinn-fein-homelessness-child-poverty-2610158-Feb2016/   None   None   None   None   None   None   <span class="date">
+                                        Feb 21st 2016, 8:30 PM                </span>   None
+None   FactCheck: Exactly how good are the jobs created since 2011?   None   http://www.thejournal.ie/ge16-fact-check-election-2016-ireland-jobs-employment-full-time-permanent-2605908-Feb2016/   None   None   None   None   None   None   <span class="date">
+                                        Feb 20th 2016, 8:30 PM                </span>   None
+None   FactCheck: Is Fine Gael right to say it has "maintained disability spending"?   None   http://www.thejournal.ie/ge16-fact-check-election-2016-ireland-disability-spending-2601538-Feb2016/   None   None   None   None   None   None   <span class="date">
+                                        Feb 18th 2016, 11:58 PM                </span>   None
+None   What will Budget 2019 mean for those earning around €50,000?   None   http://www.thejournal.ie/budget-2019-e50000-4276321-Oct2018/   None   None   None   None   None   None   None   None
+None   Poll: Do you agree with plans to increase the VAT rate for hotels and restaurants by 50%?   None   http://www.thejournal.ie/poll-vat-rate-hospitality-budget-2019-4275490-Oct2018/   None   None   None   None   None   None   None   None
+None   Rebecca Humphries says Seann Walsh branded her 'a psycho' when she questioned his behaviour   None   http://www.dailyedge.ie/rebecca-humphries-4275382-Oct2018/   None   None   None   None   None   None   None   None
+None   Burke and Towell among the players cut from Ireland squad for double header   None   http://www.the42.ie/ireland-squad-uefa-nations-league-wales-denmark-4275649-Oct2018/   None   None   None   None   None   None   None   None
+None   FactCheck: The truth and the lies from TV3's Deputy Leaders' Debate   None   http://www.thejournal.ie/ge16-fact-check-election-2016-ireland-tv3-deputy-leaders-debate-2607866-Feb2016/   None   None   None   None   None   None   <span class="date">
+                                        Feb 16th 2016, 10:39 PM                </span>   None
+None   FactCheck: The truth and the lies from last night's RTÉ Leaders' Debate   None   http://www.thejournal.ie/rte-claire-byrne-leaders-debate-ge16-election-2016-ireland-fact-check-2606432-Feb2016/   None   None   None   None   None   None   <span class="date">
+                                        Feb 16th 2016, 6:59 AM                </span>   None
+None   FactCheck: What effect does JobBridge and other schemes have on our unemployment rate?   None   http://www.thejournal.ie/ge16-election-2016-ireland-fact-check-job-activation-unemployment-2601799-Feb2016/   None   None   None   None   None   None   <span class="date">
+                                        Feb 14th 2016, 6:00 PM                </span>   None
+None   FactCheck: Exactly how many people are homeless in Ireland?   None   http://www.thejournal.ie/ge16-fact-check-election-2016-ireland-homelessness-2602020-Feb2016/   None   None   None   None   None   None   <span class="date">
+                                        Feb 13th 2016, 7:30 AM                </span>   None
+None   FactCheck: The truth and the lies from last night's Leaders' Debate   None   http://www.thejournal.ie/ge16-leaders-debate-tv3-fact-check-election-2016-ireland-2599657-Feb2016/   None   None   None   None   None   None   <span class="date">
+                                        Feb 12th 2016, 6:50 AM                </span>   None
+None   FactCheck: Does Ireland really have the fastest-growing economy in Europe?   None   http://www.thejournal.ie/ge16-election-2016-ireland-fact-check-economic-growth-rate-2592574-Feb2016/   None   None   None   None   None   None   <span class="date">
+                                        Feb 10th 2016, 7:00 PM                </span>   None
+None   FactCheck: Who wants to get rid of the Special Criminal Court?   None   http://www.thejournal.ie/ge16-election-2016-ireland-fact-check-special-criminal-court-2594422-Feb2016/   None   None   None   None   None   None   <span class="date">
+                                        Feb 10th 2016, 7:00 AM                </span>   None
+None   FactCheck: How many social housing units were actually built last year?   None   http://www.thejournal.ie/ge16-fact-check-election-2016-ireland-social-housing-2587923-Feb2016/   None   None   None   None   None   None   <span class="date">
+                                        Feb 9th 2016, 10:58 PM                </span>   None
+None   FactCheck: Did Enda Kenny really call Michael Lowry 'a man of the highest integrity'?   None   http://www.thejournal.ie/ge16-election-2016-ireland-fact-check-michael-lowry-honour-integrity-enda-kenny-2583729-Feb2016/   None   None   None   None   None   None   <span class="date">
+                                        Feb 7th 2016, 8:15 AM                </span>   None
+None   FactCheck: Is Alan Kelly right to say 80% of people are paying for water?   None   http://www.thejournal.ie/election-2016-ireland-fact-check-alan-kelly-water-charges-2587603-Feb2016/   None   None   None   None   None   None   <span class="date">
+                                        Feb 6th 2016, 9:00 PM                </span>   None
+None   FactCheck: Did Labour really break a pledge not to increase student fees?   None   http://www.thejournal.ie/ge16-election-2016-ireland-fact-check-labour-student-fees-2587899-Feb2016/   None   None   None   None   None   None   <span class="date">
+                                        Feb 6th 2016, 7:15 AM                </span>   None
+None   FactCheck: Were 135,000 new jobs really gained under Fine Gael?   None   http://www.thejournal.ie/fact-check-election-2016-ireland-ge16-fine-gael-fianna-fail-job-creation-2587372-Feb2016/   None   None   None   None   None   None   <span class="date">
+                                        Feb 5th 2016, 7:00 PM                </span>   None
+None   What will Budget 2019 mean for those earning around €50,000?   None   http://www.thejournal.ie/budget-2019-e50000-4276321-Oct2018/   None   None   None   None   None   None   None   None
+None   Poll: Do you agree with plans to increase the VAT rate for hotels and restaurants by 50%?   None   http://www.thejournal.ie/poll-vat-rate-hospitality-budget-2019-4275490-Oct2018/   None   None   None   None   None   None   None   None
+None   Rebecca Humphries says Seann Walsh branded her 'a psycho' when she questioned his behaviour   None   http://www.dailyedge.ie/rebecca-humphries-4275382-Oct2018/   None   None   None   None   None   None   None   None
+None   Burke and Towell among the players cut from Ireland squad for double header   None   http://www.the42.ie/ireland-squad-uefa-nations-league-wales-denmark-4275649-Oct2018/   None   None   None   None   None   None   None   None
