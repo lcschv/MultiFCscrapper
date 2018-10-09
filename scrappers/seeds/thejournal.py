@@ -34,45 +34,66 @@ def parse(doc):
 		print('link:',link)
 		get_page(link,claim_obj)
 
-		global count
-		count = count+1
-		print(count)
-		dict_objects[count] = claim_obj
-
 def get_page(url,claim_obj):
 	doc = comm._get_full_doc_(url)
 	soup = BeautifulSoup(doc,features='html.parser')
 	article = soup.find('div',{'id':'articleContent'})
 	ps = article.find_all('p')
 	flag = 0
+	
 	for p in ps:
+		inline_count =0
 		p_txt = p.text.strip()
-		sec_title = p.find('strong')
-		if sec_title is not None:
-			title = sec_title.text.strip()
-			if 'claim:' in title:
+		strong_part = p.find('strong')
+		if strong_part is not None:
+			bold_txt = strong_part.text.strip()
+			if bold_txt.startswith('claim:'):
+				inline_count = inline_count+1
+				# judge to output previous one 
+				if inline_count>1:
+					global count
+					count = count+1
+					print(count)
+					dict_objects[str(count)+'_'+str(inline_count)] = claim_obj
+
 				if len(p_txt)>15:
 					claim_obj.set_claim(p_txt)
 				else:
 					flag = 1
-
-			if 'Conclusion:' in title:
+			if bold_txt.startswith('CLAIM:'):
+				inline_count = inline_count+1
+				if inline_count>1:
+					count = count+1
+					print(count)
+					dict_objects[str(count)+'_'+str(inline_count)] = claim_obj
+				if len(p_txt)>15:
+					claim_obj.set_claim(p_txt)
+				else:
+					flag = 1
+				inline_count = inline_count+1
+			if 'Conclusion:' in bold_txt:
 				if len(p_txt)>15:
 					claim_obj.set_reason(p_txt)
 				else:
 					flag = 2	# title
-			if 'True' in title:
-				claim_obj.set_label(title)
-			if 'FALSE' in title:
-				claim_obj.set_label(title)
-			if 'TRUE' in title:
-				claim_obj.set_label(title)
+			if 'True' in bold_txt:
+				claim_obj.set_label(p_txt)
+			if 'FALSE' in bold_txt:
+				claim_obj.set_label(p_txt)
+			if 'TRUE' in bold_txt:
+				claim_obj.set_label(p_txt)
+			if 'Verdict' in bold_txt:
+				claim_obj.set_label(p_txt)
+
 		else:
 			if flag==1:
 				claim_obj.set_claim(p_txt)
 			if flag ==2:
 				claim_obj.set_reason(p_txt)
 			flag = 0
+		count = count+1
+		print(count)
+		dict_objects[str(count)] = claim_obj
 
 if __name__ == '__main__':
 	comm = Commons('C:\L\CredibilityDataset\CredibilityDataset\scrappers\seeds\chromedriver.exe')

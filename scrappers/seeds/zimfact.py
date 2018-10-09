@@ -12,7 +12,7 @@ iterate
 2. 
 """
 base_url = 'https://zimfact.org/category/fact-reports/page/'
-maximum = 4
+maximum = 5
 count = 0
 dict_objects = {}
 
@@ -20,7 +20,7 @@ comm = Commons('C:\L\CredibilityDataset\CredibilityDataset\scrappers\seeds\chrom
 
 
 def parse(doc):
-	soup = BeautifulSoup(doc,features='lxml')
+	soup = BeautifulSoup(doc,features='html.parser')
 	primary_section = soup.find(id='primary')
 	article_list = primary_section.find_all('article',{'class':'page-article'})
 	for article in article_list:
@@ -57,19 +57,37 @@ def get_page(url, claim_obj):
 	# find claim and label
 	block = soup.find('div',{'class':'entry-content'})
 	ps = block.find_all('p')
+	flag = 0
 	for p in ps:
 		p_txt = p.text.strip()
-		if 'CLAIM:' in p_txt:
-			# print('claim:',p_txt)
-			claim_obj.set_claim(p_txt)
-		if 'CONCLUSION:' in p_txt:
-			print('conclusion:',p_txt)
-			claim_obj.set_reason(p_txt)
-		if 'VERDICT:' in p_txt:
-			print('VERDICT:',p_txt)
-			claim_obj.set_label(p_txt)
-		if 'Source:' in p_txt:
-			claim_obj.set_speaker(p_txt)
+		bold = p.find('strong')
+		if bold is not None:
+			bold_txt = bold.text.strip()
+			if 'CLAIM:' in bold_txt:
+				# print('claim:',p_txt)
+				if len(p_txt)>15:
+					claim_obj.set_claim(p_txt)
+				else:
+					flag = 1	# claim
+			if 'CONCLUSION:' in bold_txt:
+				# print('conclusion:',p_txt)
+				if len(p_txt)>15:
+					claim_obj.set_reason(p_txt)
+				else:
+					flag = 2
+			if 'VERDICT:' in bold_txt:
+				print('VERDICT:',p_txt)
+				claim_obj.set_label(p_txt)
+			if 'Source:' in bold_txt:
+				claim_obj.set_speaker(p_txt)
+			if 'Author:' in bold_txt:
+				claim_obj.set_checker(p_txt)
+		else:
+			if flag==1:
+				claim_obj.set_claim(p_txt)
+			if flag==2:
+				claim_obj.set_reason(p_txt)
+			flag=0
 
 if __name__ == '__main__':
 	
