@@ -1,7 +1,7 @@
 import sys
-sys.path.append("..")
-from Commons import *
-from ClaimSchema import *
+# sys.path.append("..")
+from scrappers.Commons import *
+from scrappers.ClaimSchema import *
 from bs4 import BeautifulSoup
 
 
@@ -20,38 +20,45 @@ def parse(doc):
 	soup = BeautifulSoup(doc,features='html')
 	claim_list = soup.select('.article-content')
 	for claim in claim_list:
-		claim_obj = ClaimSchema()
+		# claim_obj = ClaimSchema()
 
 		claim_title = claim.find('h2')
+
 		# print('claim_title:',claim_title[0].string)
-		claim_obj.set_article_title(claim_title.text.strip())
+		# claim_obj.set_article_title(claim_title.text.strip())
 		# get link under claim_title
 		link = claim_title.find('a').get('href')
 		# print('link:',link[0]['href'])
-		claim_obj.set_claim_url(link)
+		# claim_obj.set_claim_url(link)
 
 		#get report verdict
-		report_verdict = claim.find('div',{'class':'report-verdict'})
-		if report_verdict is not None:
-			claim_obj.set_label(report_verdict.text.strip())
+		# label = None
+		# report_verdict = claim.find('div',{'class':'report-verdict'})
+		# if report_verdict is not None:
+			# claim_obj.set_label(report_verdict.text.strip())
+			# label = report_verdict.text.strip()
 		# get update time
-		update_time = claim.select('time')
-		print('date-published:',update_time[0]['datetime'])
-		claim_obj.set_publish_date(update_time)
+		update_time = claim.find('time').get('datetime')
+		# print('date-published:',update_time[0]['datetime'])
+		# claim_obj.set_publish_date(update_time)
 		
-		get_page(link,claim_obj)
+		get_page(link, claim_title, link, update_time)
 		global count
 		print(count)
 		count = count+1
 		
 
-def get_page(url, claim_obj):
+def get_page(url, claim_title, link,  update_time):
 	doc = comm._get_full_doc_(url)
 	soup = BeautifulSoup(doc,features='html.parser')
 
 	claims = soup.find_all('div',{'class':'inline-rating'})
 	in_count = 1
 	for claim in claims:
+		claim_obj = ClaimSchema()
+		claim_obj.set_publish_date(update_time)
+		claim_obj.set_article_title(claim_title.text.strip())
+		claim_obj.set_claim_url(link)
 		c_content = claim.find('p',{'class':'claim-content'})
 		claim_obj.set_claim(c_content.text.strip())
 		verdict = claim.find('div',{'class':'indicator'})
@@ -59,12 +66,15 @@ def get_page(url, claim_obj):
 			claim_obj.set_label(verdict.find('span').text.strip())
 		in_count = in_count+1
 		global count
+
 		dict_objects[str(count)+'_'+str(in_count)] = claim_obj
+
+		claim_obj.pretty_print()
 
 
 
 if __name__ == '__main__':
-	comm = Commons('C:\L\CredibilityDataset\CredibilityDataset\scrappers\seeds\chromedriver.exe')
+	comm = Commons()
 	
 	for i in range(maximum):
 		page_num = i+1
