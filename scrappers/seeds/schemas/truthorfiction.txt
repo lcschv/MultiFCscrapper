@@ -1208,9 +1208,7 @@ claim_id  claim  label  claim_url  reason  categories  speaker  checker  tags  a
 1208   An Email about called “The Last of the Kennedy Dynasty”    Truth! Fiction! & Unproven!   https://www.truthorfiction.com/ted-kennedy-legacy/   None   crime-police   None   None   None   An Email about called “The Last of the Kennedy Dynasty”   Mar 17, 2015   None
 1209   L.A. Sheriff Department Warns Of Gang Tactics Used To Get Drivers To Pull Over   Fiction!   https://www.truthorfiction.com/lasd-warning-carseat-eggs/   None   crime-police   None   None   None   L.A. Sheriff Department Warns Of Gang Tactics Used To Get Drivers To Pull Over   Mar 17, 2015   None
 1210   Lesley McSpadden Investigated for Robbery – Truth! & Investigation Pending!      https://www.truthorfiction.com/lesley-mcspadden-robbery/   None   crime-police   None   None   None   Lesley McSpadden Investigated for Robbery – Truth! & Investigation Pending!   Mar 17, 2015   None
-1211   Muslims Are Meeting to Pray on the Capitol Steps on September 25,
-2009   Truth!   https://www.truthorfiction.com/jumamah-capitol-steps/   None   crime-police   None   None   None   Muslims Are Meeting to Pray on the Capitol Steps on September 25,
-2009   Mar 17, 2015   None
+1211   Muslims Are Meeting to Pray on the Capitol Steps on September 25, 2009   Truth!   https://www.truthorfiction.com/jumamah-capitol-steps/   None   crime-police   None   None   None   Muslims Are Meeting to Pray on the Capitol Steps on September 25, 2009   Mar 17, 2015   None
 1212   Kelsey Brooke Jones, a missing little girl   Fiction!   https://www.truthorfiction.com/kelsey/   None   crime-police   None   None   None   Kelsey Brooke Jones, a missing little girl   Mar 17, 2015   None
 1213   Discussion of Canadian Health Care   Mostly Truth!   https://www.truthorfiction.com/hillarys-health-care-plan/   None   crime-police   None   None   None   Discussion of Canadian Health Care   Mar 17, 2015   None
 1214   Have you been targeted by an assassin?      https://www.truthorfiction.com/hitman/   None   crime-police   None   None   None   Have you been targeted by an assassin?   Mar 17, 2015   None
@@ -2078,9 +2076,7 @@ claim_id  claim  label  claim_url  reason  categories  speaker  checker  tags  a
 2079   Prayer Request From President Bush in China   Truth!   https://www.truthorfiction.com/bushprayerreq/   None   inspirational   None   None   None   Prayer Request From President Bush in China   Mar 17, 2015   None
 2080   Angels hang out at the Big Wheel truck stop   Unproven!   https://www.truthorfiction.com/bigwheel/   None   inspirational   None   None   None   Angels hang out at the Big Wheel truck stop   Mar 17, 2015   None
 2081   Christmas Wreaths At Arlington Cemetery   Truth!   https://www.truthorfiction.com/wreaths/   None   inspirational   None   None   None   Christmas Wreaths At Arlington Cemetery   Mar 17, 2015   None
-2082   The Private Train That Took Wounded Vets to the Army Navy Game in
-2005   Truth!   https://www.truthorfiction.com/vet-train/   None   inspirational   None   None   None   The Private Train That Took Wounded Vets to the Army Navy Game in
-2005   Mar 17, 2015   None
+2082   The Private Train That Took Wounded Vets to the Army Navy Game in 2005   Truth!   https://www.truthorfiction.com/vet-train/   None   inspirational   None   None   None   The Private Train That Took Wounded Vets to the Army Navy Game in 2005   Mar 17, 2015   None
 2083   Diary of a Marine’s final flight home   Truth!   https://www.truthorfiction.com/last-flight/   None   inspirational   None   None   None   Diary of a Marine’s final flight home   Mar 17, 2015   None
 2084   The Easter story of Edith Burns   Fiction!   https://www.truthorfiction.com/edith-burns/   None   inspirational   None   None   None   The Easter story of Edith Burns   Mar 17, 2015   None
 2085   Two Egyptian Children Buried for 15 Days Say Jesus Saved Their Lives   Unproven!   https://www.truthorfiction.com/egyptian-miracle/   None   inspirational   None   None   None   Two Egyptian Children Buried for 15 Days Say Jesus Saved Their Lives   Mar 17, 2015   None
@@ -2610,9 +2606,7 @@ claim_id  claim  label  claim_url  reason  categories  speaker  checker  tags  a
 2609   Photos of Mass Weddings in Gaza Showing Hamas Playing Host to Pedophilia   Fiction!   https://www.truthorfiction.com/gaza-mass-weddings/   None   miscellaneous   None   None   None   Photos of Mass Weddings in Gaza Showing Hamas Playing Host to Pedophilia   Mar 17, 2015   None
 2610   Planned Parenthood Brochures Distributed to Girl Scouts at United Nations    Fiction!   https://www.truthorfiction.com/girl-scouts-un/   None   miscellaneous   None   None   None   Planned Parenthood Brochures Distributed to Girl Scouts at United Nations   Mar 17, 2015   None
 2611   Amazing Video of a Flying Lawnmower   Truth!   https://www.truthorfiction.com/flying-lawn-mower/   None   miscellaneous   None   None   None   Amazing Video of a Flying Lawnmower   Mar 17, 2015   None
-2612   The website That Builds Your Vocabulary and Donates Rice To the
-Poor   Truth!   https://www.truthorfiction.com/freerice/   None   miscellaneous   None   None   None   The website That Builds Your Vocabulary and Donates Rice To the
-Poor   Mar 17, 2015   None
+2612   The website That Builds Your Vocabulary and Donates Rice To the Poor   Truth!   https://www.truthorfiction.com/freerice/   None   miscellaneous   None   None   None   The website That Builds Your Vocabulary and Donates Rice To the Poor   Mar 17, 2015   None
 2613   Waves Frozen in Place   Fiction!   https://www.truthorfiction.com/frozen-waves/   None   miscellaneous   None   None   None   Waves Frozen in Place   Mar 17, 2015   None
 2614   Ford Dealer Report   Pending Investigation!   https://www.truthorfiction.com/ford-dealer-report/   None   miscellaneous   None   None   None   Ford Dealer Report   Mar 17, 2015   None
 2615   Disney Magic Kingdom Makeover   Fiction! but an ad campaign!   https://www.truthorfiction.com/disney-makeover/   None   miscellaneous   None   None   None   Disney Magic Kingdom Makeover   Mar 17, 2015   None
@@ -2620,14 +2614,9 @@ Poor   Mar 17, 2015   None
 2617   Photo of a High Speed Boat Used to Smuggle Drugs   Truth!   https://www.truthorfiction.com/drug-boat/   None   miscellaneous   None   None   None   Photo of a High Speed Boat Used to Smuggle Drugs   Mar 17, 2015   None
 2618   Ten-Year-Old Ten-Year-Old Boy Drowns Several Hours After Swimming   Truth!   https://www.truthorfiction.com/drydrown/   None   miscellaneous   None   None   None   Ten-Year-Old Ten-Year-Old Boy Drowns Several Hours After Swimming   Mar 17, 2015   None
 2619   Mozilla CEO Stepped Down Over Proposition 8 Donation   Truth!   https://www.truthorfiction.com/brendan-eich-mozilla/   None   miscellaneous   None   None   None   Mozilla CEO Stepped Down Over Proposition 8 Donation   Mar 17, 2015   None
-2620   People Getting Cash Back by Using Food Stamp/EBT Cards With Minimum
-Purchase at Gainesville Publix Store    Fiction!   https://www.truthorfiction.com/ebt-2-penny-grapes/   None   miscellaneous   None   None   None   People Getting Cash Back by Using Food Stamp/EBT Cards With Minimum
-Purchase at Gainesville Publix Store   Mar 17, 2015   None
-2621   Daughter of Murdered Couple Protests No “In God We Trust”   Unproven! &
-Pending Investigation!   https://www.truthorfiction.com/court-room-oath/   None   miscellaneous   None   None   None   Daughter of Murdered Couple Protests No “In God We Trust”   Mar 17, 2015   None
-2622   Weather Channel Co-Founder John Coleman Calls Global Warming a
-Hoax   Truth!   https://www.truthorfiction.com/john-coleman/   None   miscellaneous   None   None   None   Weather Channel Co-Founder John Coleman Calls Global Warming a
-Hoax   Mar 17, 2015   None
+2620   People Getting Cash Back by Using Food Stamp/EBT Cards With Minimum Purchase at Gainesville Publix Store    Fiction!   https://www.truthorfiction.com/ebt-2-penny-grapes/   None   miscellaneous   None   None   None   People Getting Cash Back by Using Food Stamp/EBT Cards With Minimum Purchase at Gainesville Publix Store   Mar 17, 2015   None
+2621   Daughter of Murdered Couple Protests No “In God We Trust”   Unproven! & Pending Investigation!   https://www.truthorfiction.com/court-room-oath/   None   miscellaneous   None   None   None   Daughter of Murdered Couple Protests No “In God We Trust”   Mar 17, 2015   None
+2622   Weather Channel Co-Founder John Coleman Calls Global Warming a Hoax   Truth!   https://www.truthorfiction.com/john-coleman/   None   miscellaneous   None   None   None   Weather Channel Co-Founder John Coleman Calls Global Warming a Hoax   Mar 17, 2015   None
 2623   Cesar Millan Died of Heart Attack – Fiction!      https://www.truthorfiction.com/cesar-millan-died-of-heart-attack/   None   miscellaneous   None   None   None   Cesar Millan Died of Heart Attack – Fiction!   Mar 17, 2015   None
 2624   Chase Bank Employee LBGT Loyalty Survey   Fiction!   https://www.truthorfiction.com/chase-gay-loyalty-survey/   None   miscellaneous   None   None   None   Chase Bank Employee LBGT Loyalty Survey   Mar 17, 2015   None
 2625   Potholes used to slow down speeders in Canada   Fiction!   https://www.truthorfiction.com/canadian-potholes/   None   miscellaneous   None   None   None   Potholes used to slow down speeders in Canada   Mar 17, 2015   None
@@ -2639,16 +2628,11 @@ Hoax   Mar 17, 2015   None
 2631   Bank of American offering credit cards to Illegal aliens   Truth!   https://www.truthorfiction.com/bofa-creditcards/   None   miscellaneous   None   None   None   Bank of American offering credit cards to Illegal aliens   Mar 17, 2015   None
 2632   Border Patrol Agents Imprisoned-Drug Smuggler Set Free   Disputed!   https://www.truthorfiction.com/border-agents/   None   miscellaneous   None   None   None   Border Patrol Agents Imprisoned-Drug Smuggler Set Free   Mar 17, 2015   None
 2633   Australian Government Official Says Muslims Who Want to Live by Sharia Law Not Welcome There – Truth!      https://www.truthorfiction.com/australian-costello-shari/   None   miscellaneous   None   None   None   Australian Government Official Says Muslims Who Want to Live by Sharia Law Not Welcome There – Truth!   Mar 17, 2015   None
-2634   Mother of Eight on Welfare Said She was the Family Breadwinner   Confirmed
-Authorship!   https://www.truthorfiction.com/breadwinner/   None   miscellaneous   None   None   None   Mother of Eight on Welfare Said She was the Family Breadwinner   Mar 17, 2015   None
-2635   The Person on the Bridge      https://www.truthorfiction.com/bridge/   None   miscellaneous   None   None   None   The Person on the Bridge   Mar 17, 2015   None
-2636   Parking attendant at British zoo takes off with the funds    Fiction! 
-Possible Aprils Fool Joke!   https://www.truthorfiction.com/bristol-zoo-carpark/   None   miscellaneous   None   None   None   Parking attendant at British zoo takes off with the funds   Mar 17, 2015   None
+2634   Mother of Eight on Welfare Said She was the Family Breadwinner   Confirmed Authorship!   https://www.truthorfiction.com/breadwinner/   None   miscellaneous   None   None   None   Mother of Eight on Welfare Said She was the Family Breadwinner   Mar 17, 2015   None2635   The Person on the Bridge      https://www.truthorfiction.com/bridge/   None   miscellaneous   None   None   None   The Person on the Bridge   Mar 17, 2015   None
+2636   Parking attendant at British zoo takes off with the funds    Fiction!  Possible Aprils Fool Joke!   https://www.truthorfiction.com/bristol-zoo-carpark/   None   miscellaneous   None   None   None   Parking attendant at British zoo takes off with the funds   Mar 17, 2015   None
 2637   Budweiser is Ditching its Clydesdales – Fiction!      https://www.truthorfiction.com/budweiser-ditching-clydesdales/   None   miscellaneous   None   None   None   Budweiser is Ditching its Clydesdales – Fiction!   Mar 17, 2015   None
 2638   11-year-old with shotgun stops invaders   Fiction!   https://www.truthorfiction.com/butte-invasion/   None   miscellaneous   None   None   None   11-year-old with shotgun stops invaders   Mar 17, 2015   None
-2639   Bank of America in Arizona Turned Away Business With Firearms
-Manufacturer    Disputed!   https://www.truthorfiction.com/bofa-mcmillan/   None   miscellaneous   None   None   None   Bank of America in Arizona Turned Away Business With Firearms
-Manufacturer   Mar 17, 2015   None
+2639   Bank of America in Arizona Turned Away Business With Firearms Manufacturer    Disputed!   https://www.truthorfiction.com/bofa-mcmillan/   None   miscellaneous   None   None   None   Bank of America in Arizona Turned Away Business With Firearms Manufacturer   Mar 17, 2015   None
 2640   Best Buy Advertisement with a Muslim Holiday Greeting    Truth!   https://www.truthorfiction.com/best-buy-holiday/   None   miscellaneous   None   None   None   Best Buy Advertisement with a Muslim Holiday Greeting    Mar 17, 2015   None
 2641   Large Oil Deposits Found In Montana   Truth!   https://www.truthorfiction.com/bakken/   None   miscellaneous   None   None   None   Large Oil Deposits Found In Montana   Mar 17, 2015   None
 2642   Archeologists Discover The Ancient Bones Of Biblical Giants   Fiction!   https://www.truthorfiction.com/biblical-giants/   None   miscellaneous   None   None   None   Archeologists Discover The Ancient Bones Of Biblical Giants   Mar 17, 2015   None
@@ -2660,16 +2644,12 @@ Manufacturer   Mar 17, 2015   None
 2648   Ben Stein Commentary on Christmas      https://www.truthorfiction.com/ben-stein-christmas/   None   miscellaneous   None   None   None   Ben Stein Commentary on Christmas   Mar 17, 2015   None
 2649   Ken Blackwell commentary about Barack Obama   Truth!   https://www.truthorfiction.com/blackwell/   None   miscellaneous   None   None   None   Ken Blackwell commentary about Barack Obama   Mar 17, 2015   None
 2650   Fox Business Channel Warning about E15 Gasoline   Confirmed Authorship!   https://www.truthorfiction.com/aaa-warning-e15/   None   miscellaneous   None   None   None   Fox Business Channel Warning about E15 Gasoline   Mar 17, 2015   None
-2651   Chairman of Progressive Insurance Peter Lewis Donated Millions to Left
-Wing Organizations   Truth!   https://www.truthorfiction.com/aclu-lewis/   None   miscellaneous   None   None   None   Chairman of Progressive Insurance Peter Lewis Donated Millions to Left
-Wing Organizations   Mar 17, 2015   None
+2651   Chairman of Progressive Insurance Peter Lewis Donated Millions to Left Wing Organizations   Truth!   https://www.truthorfiction.com/aclu-lewis/   None   miscellaneous   None   None   None   Chairman of Progressive Insurance Peter Lewis Donated Millions to Left Wing Organizations   Mar 17, 2015   None
 2652   “Why Believe in a god?” Campaign   Truth!   https://www.truthorfiction.com/american-humanist-ads/   None   miscellaneous   None   None   None   “Why Believe in a god?” Campaign   Mar 17, 2015   None
 2653   Ancient Army Found at the Bottom of the Red Sea   Fiction!   https://www.truthorfiction.com/ancient-army-found/   None   miscellaneous   None   None   None   Ancient Army Found at the Bottom of the Red Sea   Mar 17, 2015   None
 2654   Compressed Air Car Coming to Market – Truth! & Fiction!      https://www.truthorfiction.com/air-car/   None   miscellaneous   None   None   None   Compressed Air Car Coming to Market – Truth! & Fiction!   Mar 17, 2015   None
 2655   Music from Tractor Parts   Fiction!   https://www.truthorfiction.com/animusic/   None   miscellaneous   None   None   None   Music from Tractor Parts   Mar 17, 2015   None
-2656   George Soros’ Evil Plan of Buying Up American Gun and Ammunitions
-Companies    Fiction!   https://www.truthorfiction.com/cerberus-soros/   None   miscellaneous   None   None   None   George Soros’ Evil Plan of Buying Up American Gun and Ammunitions
-Companies   Mar 17, 2015   None
+2656   George Soros’ Evil Plan of Buying Up American Gun and Ammunitions Companies    Fiction!   https://www.truthorfiction.com/cerberus-soros/   None   miscellaneous   None   None   None   George Soros’ Evil Plan of Buying Up American Gun and Ammunitions Companies   Mar 17, 2015   None
 2657   Petition for a girl who says her father was shot and killed because of racism   Fiction!   https://www.truthorfiction.com/racism/   None   miscellaneous   None   None   None   Petition for a girl who says her father was shot and killed because of racism   Mar 17, 2015   None
 2658   White Star on Montblanc pens was designed for Hitler by a Jew   Fiction!   https://www.truthorfiction.com/montblanc/   None   miscellaneous   None   None   None   White Star on Montblanc pens was designed for Hitler by a Jew   Mar 17, 2015   None
 2659   Forward an email about a mysterious story and you’ll receive the end of the story   Fiction!   https://www.truthorfiction.com/maggie-justin/   None   miscellaneous   None   None   None   Forward an email about a mysterious story and you’ll receive the end of the story   Mar 17, 2015   None
@@ -2705,15 +2685,11 @@ Companies   Mar 17, 2015   None
 2689   Claims about 2015 Tax Rates – Fiction!      https://www.truthorfiction.com/2015-tax-rates/   None   money-financial   None   None   None   Claims about 2015 Tax Rates – Fiction!   Mar 17, 2015   None
 2690   You can make millions by transferring some money for a foreigner   Scam!   https://www.truthorfiction.com/nigeriascams/   None   money-financial   None   None   None   You can make millions by transferring some money for a foreigner   Mar 17, 2015   None
 2691   Make big bucks in a PayPal Scheme   Fiction!   https://www.truthorfiction.com/paypalchain/   None   money-financial   None   None   None   Make big bucks in a PayPal Scheme   Mar 17, 2015   None
-2692   Scammers Using Clever Schemes to Try to Get Your Personal Financial
-Information   Truth!   https://www.truthorfiction.com/phishing/   None   money-financial   None   None   None   Scammers Using Clever Schemes to Try to Get Your Personal Financial
-Information   Mar 17, 2015   None
+2692   Scammers Using Clever Schemes to Try to Get Your Personal Financial Information   Truth!   https://www.truthorfiction.com/phishing/   None   money-financial   None   None   None   Scammers Using Clever Schemes to Try to Get Your Personal Financial Information   Mar 17, 2015   None
 2693   Scam to get your credit card number   Scam!   https://www.truthorfiction.com/pornmail/   None   money-financial   None   None   None   Scam to get your credit card number   Mar 17, 2015   None
 2694   Not One Damn Dime Day   Grass Roots Effort!   https://www.truthorfiction.com/notonedamndime/   None   money-financial   None   None   None   Not One Damn Dime Day   Mar 17, 2015   None
 2695   The killer who uses a $5 bill to lure victims   Fiction!   https://www.truthorfiction.com/cashkiller/   None   money-financial   None   None   None   The killer who uses a $5 bill to lure victims   Mar 17, 2015   None
-2696   Detroit Loses Money on $30 Parking Tickets – Previously Truth! Now
-Resolved!      https://www.truthorfiction.com/detroit-loses-money-on-30-dollar-parking-tickets/   None   money-financial   None   None   None   Detroit Loses Money on $30 Parking Tickets – Previously Truth! Now
-Resolved!   Mar 17, 2015   None
+2696   Detroit Loses Money on $30 Parking Tickets – Previously Truth! Now Resolved!      https://www.truthorfiction.com/detroit-loses-money-on-30-dollar-parking-tickets/   None   money-financial   None   None   None   Detroit Loses Money on $30 Parking Tickets – Previously Truth! Now Resolved!   Mar 17, 2015   None
 2697   H.R. 2847 Expected to Cause U.S. Dollar to Collapse   Unproven!   https://www.truthorfiction.com/hr-2847-dollar-collapse/   None   money-financial   None   None   None   H.R. 2847 Expected to Cause U.S. Dollar to Collapse   Mar 17, 2015   None
 2698   36 Cities Dump U.S. Dollar for Thomas Edison’s Monetary System    Unproven!   https://www.truthorfiction.com/bitcoin/   None   money-financial   None   None   None   36 Cities Dump U.S. Dollar for Thomas Edison’s Monetary System   Mar 17, 2015   None
 2699   Money from Saudi Arabian McDonald’s helping terrorists   Fiction!   https://www.truthorfiction.com/mcdonalds/   None   money-financial   None   None   None   Money from Saudi Arabian McDonald’s helping terrorists   Mar 17, 2015   None
@@ -2730,8 +2706,7 @@ Resolved!   Mar 17, 2015   None
 2710   Before and after pictures of the tsunami areas   Truth!   https://www.truthorfiction.com/beforeandafter/   None   natural-disasters   None   None   None   Before and after pictures of the tsunami areas   Mar 19, 2015   None
 2711   Help the Victims of the Tsunami      https://www.truthorfiction.com/tsunamirelief/   None   natural-disasters   None   None   None   Help the Victims of the Tsunami   Mar 17, 2015   None
 2712   400 Christians saved from tsunami death in Indonesia?   Unproven!   https://www.truthorfiction.com/meulaboh/   None   natural-disasters   None   None   None   400 Christians saved from tsunami death in Indonesia?   Mar 17, 2015   None
-2713   Help identify a child who surivived the tsunami   Truth, but with a Happy
-Ending!   https://www.truthorfiction.com/hannes/   None   natural-disasters   None   None   None   Help identify a child who surivived the tsunami   Mar 17, 2015   None
+2713   Help identify a child who surivived the tsunami   Truth, but with a Happy Ending!   https://www.truthorfiction.com/hannes/   None   natural-disasters   None   None   None   Help identify a child who surivived the tsunami   Mar 17, 2015   None
 2714   Boeing test pilot tells it like it is to the Europeans   Fiction!   https://www.truthorfiction.com/boeingtestpilot/   None   natural-disasters   None   None   None   Boeing test pilot tells it like it is to the Europeans   Mar 17, 2015   None
 2715   “Core Competency: Read Please and Wake Up America!” Commentary on Facebook   Fiction!   https://www.truthorfiction.com/core-competency-read-please-wake-america/   None   obama   None   None   ['barack obama', 'donald trump', 'government waste', 'presidencies']   “Core Competency: Read Please and Wake Up America!” Commentary on Facebook   Dec 1, 2017   None
 2716   Intel Officer: Obama Could Be First President With Felony Indictment   Outdated!   https://www.truthorfiction.com/intel-officer-obama-could-be-first-president-felony-indictment/   None   obama   None   None   ['2016 election', 'barack obama', 'donald trump', 'fbi']   Intel Officer: Obama Could Be First President With Felony Indictment   Nov 27, 2017   None
@@ -2793,8 +2768,7 @@ Ending!   https://www.truthorfiction.com/hannes/   None   natural-disasters   No
 2772   Photo of President Obama Kissing Venezuela’s Hugo Chavez   Fiction!   https://www.truthorfiction.com/obama-kiss-chavez/   None   obama   None   None   None   Photo of President Obama Kissing Venezuela’s Hugo Chavez   Mar 25, 2015   None
 2773   Questions about President Obama Long Form Birth Certificate      https://www.truthorfiction.com/obama-birth-certificate/   None   obama   None   None   None   Questions about President Obama Long Form Birth Certificate   Mar 18, 2015   None
 2774   Obama’s Daughters Listed as Senior Staffers on Africa Trip   Disputed!   https://www.truthorfiction.com/obama-daughters-staffers-051512/   None   obama   None   None   None   Obama’s Daughters Listed as Senior Staffers on Africa Trip   Mar 17, 2015   None
-2775   Sean Hannity Investigates Barack Obama on Fox News   Truth! Fiction! &
-Unproven!   https://www.truthorfiction.com/obama-sean-hannity/   None   obama   None   None   None   Sean Hannity Investigates Barack Obama on Fox News   Mar 17, 2015   None
+2775   Sean Hannity Investigates Barack Obama on Fox News   Truth! Fiction! & Unproven!   https://www.truthorfiction.com/obama-sean-hannity/   None   obama   None   None   None   Sean Hannity Investigates Barack Obama on Fox News   Mar 17, 2015   None
 2776   Questions About Barack Obama’s status as a “natural born citizen”      https://www.truthorfiction.com/lawyersues/   None   obama   None   None   None   Questions About Barack Obama’s status as a “natural born citizen”   Mar 17, 2015   None
 2777   “No He Can’t” by Dr. Anne Wortham   Truth!   https://www.truthorfiction.com/worthan-no-he-cant/   None   obama   None   None   None   “No He Can’t” by Dr. Anne Wortham   Mar 17, 2015   None
 2778   American flag removed from the tail of Obama’s campaign plane   Truth!   https://www.truthorfiction.com/obama-plane/   None   obama   None   None   None   American flag removed from the tail of Obama’s campaign plane   Mar 17, 2015   None
@@ -2802,9 +2776,7 @@ Unproven!   https://www.truthorfiction.com/obama-sean-hannity/   None   obama   
 2780   The Foreign Student Identification Card of Barry Soetoro   Fiction!   https://www.truthorfiction.com/obama-student-id/   None   obama   None   None   None   The Foreign Student Identification Card of Barry Soetoro   Mar 17, 2015   None
 2781   Jesus named the Antichrist—and it’s Barack Obama   Fiction!   https://www.truthorfiction.com/obama-antichrist-video/   None   obama   None   None   None   Jesus named the Antichrist—and it’s Barack Obama   Mar 17, 2015   None
 2782   Barack Obama Quote Against Raising the Debt Limit   Truth!   https://www.truthorfiction.com/obama-debt-limit/   None   obama   None   None   None   Barack Obama Quote Against Raising the Debt Limit   Mar 17, 2015   None
-2783   2012 Election Prediction From Conservative Author Dr. Walter
-Williams   Fiction!   https://www.truthorfiction.com/walter-williams-election-prediction/   None   obama   None   None   None   2012 Election Prediction From Conservative Author Dr. Walter
-Williams   Mar 17, 2015   None
+2783   2012 Election Prediction From Conservative Author Dr. Walter Williams   Fiction!   https://www.truthorfiction.com/walter-williams-election-prediction/   None   obama   None   None   None   2012 Election Prediction From Conservative Author Dr. Walter Williams   Mar 17, 2015   None
 2784   Obama Signs on the I-5 in Washington State   Unproven!   https://www.truthorfiction.com/i-5-signs-washington-state/   None   obama   None   None   None   Obama Signs on the I-5 in Washington State   Mar 17, 2015   None
 2785   Obama Appointee With Possible Indian Terrorist Links    Truth! but She Denies It Reflects Her Views!   https://www.truthorfiction.com/sonal-shah/   None   obama   None   None   None   Obama Appointee With Possible Indian Terrorist Links    Mar 17, 2015   None
 2786   “Obama, You No Longer Scare Me, You Terrify Me” by Lou Pritchett   Truth!   https://www.truthorfiction.com/pritchett-obama-youscareme/   None   obama   None   None   None   “Obama, You No Longer Scare Me, You Terrify Me” by Lou Pritchett   Mar 17, 2015   None
@@ -2816,20 +2788,15 @@ Williams   Mar 17, 2015   None
 2792   Obama’s Second Swearing Officiated by a Muslim Imam   Fiction!   https://www.truthorfiction.com/obama-oath-take2/   None   obama   None   None   None   Obama’s Second Swearing Officiated by a Muslim Imam   Mar 17, 2015   None
 2793   Picture of Barack Obama Holding a Phone Upside Down   Fiction!   https://www.truthorfiction.com/obamaphone/   None   obama   None   None   None   Picture of Barack Obama Holding a Phone Upside Down   Mar 17, 2015   None
 2794   Quotes from the writings of Barack Obama   Truth! & Fiction!   https://www.truthorfiction.com/obama-books/   None   obama   None   None   None   Quotes from the writings of Barack Obama   Mar 17, 2015   None
-2795   President Obama skips the inaugural ball honoring Medal Of Honor
-recipients   Truth!   https://www.truthorfiction.com/obamas-balls/   None   obama   None   None   None   President Obama skips the inaugural ball honoring Medal Of Honor
-recipients   Mar 17, 2015   None
+2795   President Obama skips the inaugural ball honoring Medal Of Honor recipients   Truth!   https://www.truthorfiction.com/obamas-balls/   None   obama   None   None   None   President Obama skips the inaugural ball honoring Medal Of Honor recipients   Mar 17, 2015   None
 2796   Michelle Walks Out As Obama Divorce Battle Explodes    Pending Investigation!   https://www.truthorfiction.com/obama-heading-for-divorce/   None   obama   None   None   None   Michelle Walks Out As Obama Divorce Battle Explodes   Mar 17, 2015   None
-2797   Barack Obama’s Church is Committed to Africa, not the U.S., and only
-African Americans are Admitted for Membership   Truth! & Fiction!   https://www.truthorfiction.com/obama-church/   None   obama   None   None   None   Barack Obama’s Church is Committed to Africa, not the U.S., and only
-African Americans are Admitted for Membership   Mar 17, 2015   None
+2797   Barack Obama’s Church is Committed to Africa, not the U.S., and only African Americans are Admitted for Membership   Truth! & Fiction!   https://www.truthorfiction.com/obama-church/   None   obama   None   None   None   Barack Obama’s Church is Committed to Africa, not the U.S., and only African Americans are Admitted for Membership   Mar 17, 2015   None
 2798   Barack Obama Explains Why He Didn’t Follow Protocol During the National Anthem   Fiction!   https://www.truthorfiction.com/obama-pin/   None   obama   None   None   None   Barack Obama Explains Why He Didn’t Follow Protocol During the National Anthem   Mar 17, 2015   None
 2799   Obama Tidal Wave   Fiction!   https://www.truthorfiction.com/obamatidalwave/   None   obama   None   None   None   Obama Tidal Wave   Mar 17, 2015   None
 2800   Costly Presidential Trip To India   Truth! & Fiction!   https://www.truthorfiction.com/obama-india-2010-trip/   None   obama   None   None   None   Costly Presidential Trip To India   Mar 17, 2015   None
 2801   Obama’s Fannie Mae/Freddie Mac Connection   Truth!   https://www.truthorfiction.com/obama-contributions/   None   obama   None   None   None   Obama’s Fannie Mae/Freddie Mac Connection   Mar 17, 2015   None
 2802   Jack Wheeler Description of Obama Commentary    Authorship Confirmed!   https://www.truthorfiction.com/jack-wheeler-on-obama/   None   obama   None   None   None   Jack Wheeler Description of Obama Commentary   Mar 17, 2015   None
-2803   Biography of Barak Obama on Brochure Shows “Kenya” as Birth Place   Truth!
-& Fiction!   https://www.truthorfiction.com/obama-kenya-booklet/   None   obama   None   None   None   Biography of Barak Obama on Brochure Shows “Kenya” as Birth Place   Mar 17, 2015   None
+2803   Biography of Barak Obama on Brochure Shows “Kenya” as Birth Place   Truth! & Fiction!   https://www.truthorfiction.com/obama-kenya-booklet/   None   obama   None   None   None   Biography of Barak Obama on Brochure Shows “Kenya” as Birth Place   Mar 17, 2015   None
 2804   Cuban Flag at Obama Campaign Office   Truth!   https://www.truthorfiction.com/obama-cuba/   None   obama   None   None   None   Cuban Flag at Obama Campaign Office   Mar 17, 2015   None
 2805   President’s 13 Year Old Daughter Spent Spring Break in Mexico   Truth!   https://www.truthorfiction.com/malia-obama-trip-mexico/   None   obama   None   None   None   President’s 13 Year Old Daughter Spent Spring Break in Mexico   Mar 17, 2015   None
 2806   Obama “idiot quote”   Fiction!   https://www.truthorfiction.com/obama-quote/   None   obama   None   None   None   Obama “idiot quote”   Mar 17, 2015   None
@@ -2847,17 +2814,11 @@ African Americans are Admitted for Membership   Mar 17, 2015   None
 2818   Video of President Obama Saying That He Was Born in Kenya    Fiction!   https://www.truthorfiction.com/obama-kenya-birth-videos/   None   obama   None   None   None   Video of President Obama Saying That He Was Born in Kenya   Mar 17, 2015   None
 2819   President Obama Flew on Air Force One 172 Times in 2010   Truth!   https://www.truthorfiction.com/obama-2010-air-force-one-trip-count/   None   obama   None   None   None   President Obama Flew on Air Force One 172 Times in 2010   Mar 17, 2015   None
 2820   Photo of Kenyan Birth Certificate Alleged to Belong to Barack Obama   Fiction!   https://www.truthorfiction.com/obama-kenya-fake-birth-certificate/   None   obama   None   None   None   Photo of Kenyan Birth Certificate Alleged to Belong to Barack Obama   Mar 17, 2015   None
-2821   Obama Sex Video or Acceptance Speech Video Could Be Infected With
-Spyware   Truth!   https://www.truthorfiction.com/obama-sex-virus/   None   obama   None   None   None   Obama Sex Video or Acceptance Speech Video Could Be Infected With
-Spyware   Mar 17, 2015   None
+2821   Obama Sex Video or Acceptance Speech Video Could Be Infected With Spyware   Truth!   https://www.truthorfiction.com/obama-sex-virus/   None   obama   None   None   None   Obama Sex Video or Acceptance Speech Video Could Be Infected With Spyware   Mar 17, 2015   None
 2822   Obama Launched Reelection Campaign Targeting African Americans   Truth!   https://www.truthorfiction.com/obama-african-americans-for/   None   obama   None   None   None   Obama Launched Reelection Campaign Targeting African Americans   Mar 17, 2015   None
 2823   Obama’s connections with Kenya   Truth!, Unproven!, & Fiction!   https://www.truthorfiction.com/obama-kenya/   None   obama   None   None   None   Obama’s connections with Kenya   Mar 17, 2015   None
-2824   Barack Obama is America’s Most Biblically Hostile U.S.
-President   Commentary!   https://www.truthorfiction.com/obama-barton-commentary/   None   obama   None   None   None   Barack Obama is America’s Most Biblically Hostile U.S.
-President   Mar 17, 2015   None
-2825   Barack Obama Was Wrong When he Claimed That His Uncle Helped Liberate
-Auschwitz   Truth!   https://www.truthorfiction.com/obama-auschwitz/   None   obama   None   None   None   Barack Obama Was Wrong When he Claimed That His Uncle Helped Liberate
-Auschwitz   Mar 17, 2015   None
+2824   Barack Obama is America’s Most Biblically Hostile U.S. President   Commentary!   https://www.truthorfiction.com/obama-barton-commentary/   None   obama   None   None   None   Barack Obama is America’s Most Biblically Hostile U.S. President   Mar 17, 2015   None
+2825   Barack Obama Was Wrong When he Claimed That His Uncle Helped Liberate Auschwitz   Truth!   https://www.truthorfiction.com/obama-auschwitz/   None   obama   None   None   None   Barack Obama Was Wrong When he Claimed That His Uncle Helped Liberate Auschwitz   Mar 17, 2015   None
 2826   Obama Lies?   Truth!, Fiction!, and Unproven!   https://www.truthorfiction.com/obama-lies/   None   obama   None   None   None   Obama Lies?   Mar 17, 2015   None
 2827   Obama Volunteer Alerted Secret Service   Truth!   https://www.truthorfiction.com/obama-volunteer-secret-service/   None   obama   None   None   None   Obama Volunteer Alerted Secret Service   Mar 17, 2015   None
 2828   Fannie Mae & Lehman Execs Advising Obama   Truth & Fiction!   https://www.truthorfiction.com/obama-fannie-mae-advisors/   None   obama   None   None   None   Fannie Mae & Lehman Execs Advising Obama   Mar 17, 2015   None
@@ -2866,30 +2827,20 @@ Auschwitz   Mar 17, 2015   None
 2831   Obama & Biden Health Concerns? Truth! & Fiction!      https://www.truthorfiction.com/obama-biden-health/   None   obama   None   None   None   Obama & Biden Health Concerns? Truth! & Fiction!   Mar 17, 2015   None
 2832   Pinch Yourself by Melanie Phillips   Opinion!   https://www.truthorfiction.com/obama-melanie-phillips/   None   obama   None   None   None   Pinch Yourself by Melanie Phillips   Mar 17, 2015   None
 2833   Senator Barack Obama is a Moslem   Fiction!   https://www.truthorfiction.com/obama/   None   obama   None   None   None   Senator Barack Obama is a Moslem   Mar 17, 2015   None
-2834   Hawaii Was Not a State When Obama was Born There and his Mother Was Not
-Eligible to Give Birth to a U.S. Citizen   Fiction!   https://www.truthorfiction.com/obama-birth/   None   obama   None   None   None   Hawaii Was Not a State When Obama was Born There and his Mother Was Not
-Eligible to Give Birth to a U.S. Citizen   Mar 17, 2015   None
+2834   Hawaii Was Not a State When Obama was Born There and his Mother Was Not Eligible to Give Birth to a U.S. Citizen   Fiction!   https://www.truthorfiction.com/obama-birth/   None   obama   None   None   None   Hawaii Was Not a State When Obama was Born There and his Mother Was Not Eligible to Give Birth to a U.S. Citizen   Mar 17, 2015   None
 2835   Michelle Obama’s $447.39 Meal at the Waldorf-Astoria in New York   Fiction!   https://www.truthorfiction.com/obama-michelle-lunch/   None   obama   None   None   None   Michelle Obama’s $447.39 Meal at the Waldorf-Astoria in New York   Mar 17, 2015   None
 2836   Obama Makes Fun of the Bible   It’s a Matter of Opinion!   https://www.truthorfiction.com/obamabible/   None   obama   None   None   None   Obama Makes Fun of the Bible   Mar 17, 2015   None
 2837   President Obama Cancelled 21st Annual National Day Of Prayer   Truth! & Fiction!   https://www.truthorfiction.com/nationaldayofprayer-obama/   None   obama   None   None   None   President Obama Cancelled 21st Annual National Day Of Prayer   Mar 17, 2015   None
 2838   CBS Review of 2016: Obama’s America by Scott Paulsen   Confirmed Authorship!   https://www.truthorfiction.com/2016-cbs-review-obama/   None   obama   None   None   None   CBS Review of 2016: Obama’s America by Scott Paulsen   Mar 17, 2015   None
-2839   Associated Press Story About Obama Citizenship Case Reaching Supreme
-Court    Fiction!   https://www.truthorfiction.com/ap-obama-case/   None   obama   None   None   None   Associated Press Story About Obama Citizenship Case Reaching Supreme
-Court   Mar 17, 2015   None
-2840   Michelle Obama cuts trip short because her husband is a Muslim and Sharia
-restrictions    Fiction!   https://www.truthorfiction.com/michelle-obama-trip/   None   obama   None   None   None   Michelle Obama cuts trip short because her husband is a Muslim and Sharia
-restrictions   Mar 17, 2015   None
+2839   Associated Press Story About Obama Citizenship Case Reaching Supreme Court    Fiction!   https://www.truthorfiction.com/ap-obama-case/   None   obama   None   None   None   Associated Press Story About Obama Citizenship Case Reaching Supreme Court   Mar 17, 2015   None
+2840   Michelle Obama cuts trip short because her husband is a Muslim and Sharia restrictions    Fiction!   https://www.truthorfiction.com/michelle-obama-trip/   None   obama   None   None   None   Michelle Obama cuts trip short because her husband is a Muslim and Sharia restrictions   Mar 17, 2015   None
 2841   Questions about Michelle Obama      https://www.truthorfiction.com/michelle-obama/   None   obama   None   None   None   Questions about Michelle Obama   Mar 17, 2015   None
 2842   The Ku Klux Klan has endorsed Barack Obama for president   Fiction!   https://www.truthorfiction.com/kkk-obama/   None   obama   None   None   None   The Ku Klux Klan has endorsed Barack Obama for president   Mar 17, 2015   None
 2843   Air Force Veteran Wrote Predictions For The Obama Presidency   Truth!   https://www.truthorfiction.com/kit-lange/   None   obama   None   None   None   Air Force Veteran Wrote Predictions For The Obama Presidency   Mar 17, 2015   None
-2844   The Howard Stern Shows Interviews People in Harlem about Obama    The Audio
-Clips are Real!  Don’t Know to What Extent They’ve Been Edited!   https://www.truthorfiction.com/stern-harlem/   None   obama   None   None   None   The Howard Stern Shows Interviews People in Harlem about Obama   Mar 17, 2015   None
-2845   95 Year Old Former U.S. Naval Sailor Tells Obama to Shape up or Ship Out   
-Opinion!   https://www.truthorfiction.com/harold-estes-obama-letter/   None   obama   None   None   None   95 Year Old Former U.S. Naval Sailor Tells Obama to Shape up or Ship Out   Mar 17, 2015   None
+2844   The Howard Stern Shows Interviews People in Harlem about Obama    The Audio Clips are Real!  Don’t Know to What Extent They’ve Been Edited!   https://www.truthorfiction.com/stern-harlem/   None   obama   None   None   None   The Howard Stern Shows Interviews People in Harlem about Obama   Mar 17, 2015   None
+2845   95 Year Old Former U.S. Naval Sailor Tells Obama to Shape up or Ship Out    Opinion!   https://www.truthorfiction.com/harold-estes-obama-letter/   None   obama   None   None   None   95 Year Old Former U.S. Naval Sailor Tells Obama to Shape up or Ship Out   Mar 17, 2015   None
 2846   President Obama Refused to Sign Eagle Scout Certificates   Fiction!   https://www.truthorfiction.com/obama-eagle-scouts/   None   obama   None   None   None   President Obama Refused to Sign Eagle Scout Certificates   Mar 17, 2015   None
-2847   Maureen Dowd says Obama’s Internet donations are mostly from
-foreigners   Fiction!   https://www.truthorfiction.com/dowd-obama/   None   obama   None   None   None   Maureen Dowd says Obama’s Internet donations are mostly from
-foreigners   Mar 17, 2015   None
+2847   Maureen Dowd says Obama’s Internet donations are mostly from foreigners   Fiction!   https://www.truthorfiction.com/dowd-obama/   None   obama   None   None   None   Maureen Dowd says Obama’s Internet donations are mostly from foreigners   Mar 17, 2015   None
 2848   Eddie Sessions and The Wall Street Journal Size Up Obama   Incorrect Authorship!   https://www.truthorfiction.com/eddie-sessions-wsj/   None   obama   None   None   None   Eddie Sessions and The Wall Street Journal Size Up Obama   Mar 17, 2015   None
 2849   Congressional Letter of Correction to President Obama   Truth!   https://www.truthorfiction.com/congress-letter-to-obama/   None   obama   None   None   None   Congressional Letter of Correction to President Obama   Mar 17, 2015   None
 2850   Obama the Antichrist?      https://www.truthorfiction.com/obama-antichrist/   None   obama   None   None   None   Obama the Antichrist?   Mar 17, 2015   None
@@ -2908,10 +2859,7 @@ foreigners   Mar 17, 2015   None
 2863   Forward an email to provide medical care for Natalie   Fiction!   https://www.truthorfiction.com/natalie/   None   pleas   None   None   None   Forward an email to provide medical care for Natalie   Mar 17, 2015   None
 2864   Nickelodeon-program about homosexuality?   Truth?   https://www.truthorfiction.com/nickelodeon-gays/   None   pleas   None   None   None   Nickelodeon-program about homosexuality?   Mar 17, 2015   None
 2865   Prayer for Kati Moss in Georgia   Truth! & Unproven   https://www.truthorfiction.com/kati-moss/   None   pleas   None   None   None   Prayer for Kati Moss in Georgia   Mar 17, 2015   None
-2866   Boycott gas stations to protest rising fuel prices?   Grass Roots Effort
-& Fiction!   https://www.truthorfiction.com/fuelprotest/   None   pleas   None   None   None   Boycott gas stations to protest rising fuel prices?   Mar 17, 2015   None
-2867   Click the pink ribbon at Cigna to fight breast cancer   Was Truth!, Now
-Ended.   https://www.truthorfiction.com/cigna-pinkribbon/   None   pleas   None   None   None   Click the pink ribbon at Cigna to fight breast cancer   Mar 17, 2015   None
+2866   Boycott gas stations to protest rising fuel prices?   Grass Roots Effort & Fiction!   https://www.truthorfiction.com/fuelprotest/   None   pleas   None   None   None   Boycott gas stations to protest rising fuel prices?   Mar 17, 2015   None 2867   Click the pink ribbon at Cigna to fight breast cancer   Was Truth!, Now Ended.   https://www.truthorfiction.com/cigna-pinkribbon/   None   pleas   None   None   None   Click the pink ribbon at Cigna to fight breast cancer   Mar 17, 2015   None
 2868   Senate Bill seeks to regulate “grass roots” lobbying   Truth! But Overturned!   https://www.truthorfiction.com/lobbyists/   None   pleas   None   None   None   Senate Bill seeks to regulate “grass roots” lobbying   Mar 17, 2015   None
 2869   Help The Lopez Family   Truth!   https://www.truthorfiction.com/help-lopez/   None   pleas   None   None   None   Help The Lopez Family   Mar 17, 2015   None
 2870   Pray for 5-year old Ella Newmiller who has brain cancer   Truth!   https://www.truthorfiction.com/ella-newmiller/   None   pleas   None   None   None   Pray for 5-year old Ella Newmiller who has brain cancer   Mar 17, 2015   None
@@ -2934,9 +2882,7 @@ Ended.   https://www.truthorfiction.com/cigna-pinkribbon/   None   pleas   None 
 2887   Eighteen Year Old Jeff has cancer, forwarded emails will help pay his expenses   Fiction!   https://www.truthorfiction.com/jeffdeleon/   None   pleas   None   None   None   Eighteen Year Old Jeff has cancer, forwarded emails will help pay his expenses   Mar 16, 2015   None
 2888   Forward emails for the medical costs of a girl named Fatima   Fiction!   https://www.truthorfiction.com/fatima/   None   pleas   None   None   None   Forward emails for the medical costs of a girl named Fatima   Mar 16, 2015   None
 2889   Click on www.givewater.org to help provide water for the poor   Truth!   https://www.truthorfiction.com/givewater-org/   None   pleas   None   None   None   Click on www.givewater.org to help provide water for the poor   Mar 16, 2015   None
-2890   “Dawne” is Battling Lung Cancer And Her Brother-in-law Is Asking for
-Donations and Encouragement   Truth! But The Battle is Over!   https://www.truthorfiction.com/dawne/   None   pleas   None   None   None   “Dawne” is Battling Lung Cancer And Her Brother-in-law Is Asking for
-Donations and Encouragement   Mar 16, 2015   None
+2890   “Dawne” is Battling Lung Cancer And Her Brother-in-law Is Asking for Donations and Encouragement   Truth! But The Battle is Over!   https://www.truthorfiction.com/dawne/   None   pleas   None   None   None   “Dawne” is Battling Lung Cancer And Her Brother-in-law Is Asking for Donations and Encouragement   Mar 16, 2015   None
 2891   Facebook Hires George Soros to Help Moderate Elections   Mostly Fiction!   https://www.truthorfiction.com/facebook-hires-george-soros-fiction/   None   politics   None   None   ['elections', 'facebook', 'fake news', 'george soros', 'russia']   Facebook Hires George Soros to Help Moderate Elections   May 24, 2018   None
 2892   Rep. Adam Schiff’s Sister is Married to George Soros’ Son   Fiction!   https://www.truthorfiction.com/rep-adam-schiffs-sister-married-george-soros-son-fiction/   None   politics   None   None   ['congress', 'donald trump', 'fbi', 'russia']   Rep. Adam Schiff’s Sister is Married to George Soros’ Son   Feb 6, 2018   None
 2893   Joe Kennedy’s Home Surrounded by a Wall, Proving His Hypocrisy   Fiction!   https://www.truthorfiction.com/joe-kennedys-home-surrounded-wall-proving/   None   politics   None   None   ['congress', 'donald trump', 'kennedy family', 'presidencies']   Joe Kennedy’s Home Surrounded by a Wall, Proving His Hypocrisy   Feb 2, 2018   None
@@ -3200,23 +3146,15 @@ Donations and Encouragement   Mar 16, 2015   None
 3151   Bill Clinton’s Military Career   Disputed!   https://www.truthorfiction.com/bill-clinton-draft-dodger/   None   politics   None   None   None   Bill Clinton’s Military Career   Mar 17, 2015   None
 3152   Political Ad by Billy Graham   Truth!   https://www.truthorfiction.com/billy-graham-political-ad/   None   politics   None   None   None   Political Ad by Billy Graham   Mar 17, 2015   None
 3153   Wayne Allyn Root Writes About Obama   Truth!   https://www.truthorfiction.com/wayne-allyn-root/   None   politics   None   None   None   Wayne Allyn Root Writes About Obama   Mar 17, 2015   None
-3154   San Diego County Officials told pastor that he can not hold a Bible study
-in his home without a permit    Truth!  but Decision Reversed!   https://www.truthorfiction.com/pastor-dave-san-diego-permit/   None   politics   None   None   None   San Diego County Officials told pastor that he can not hold a Bible study
-in his home without a permit    Mar 17, 2015   None
-3155   Senator Hillary Clinton named “Walking Eagle” by American
-Indians   Fiction!   https://www.truthorfiction.com/walkingeagle/   None   politics   None   None   None   Senator Hillary Clinton named “Walking Eagle” by American
-Indians   Mar 17, 2015   None
+3154   San Diego County Officials told pastor that he can not hold a Bible study in his home without a permit    Truth!  but Decision Reversed!   https://www.truthorfiction.com/pastor-dave-san-diego-permit/   None   politics   None   None   None   San Diego County Officials told pastor that he can not hold a Bible study in his home without a permit    Mar 17, 2015   None
+3155   Senator Hillary Clinton named “Walking Eagle” by American Indians   Fiction!   https://www.truthorfiction.com/walkingeagle/   None   politics   None   None   None   Senator Hillary Clinton named “Walking Eagle” by American Indians   Mar 17, 2015   None
 3156   Bruce Vincent’s encounter with the president   Truth!   https://www.truthorfiction.com/vincent/   None   politics   None   None   None   Bruce Vincent’s encounter with the president   Mar 17, 2015   None
 3157   Heinz Endowments to Leftist Causes through The Tides Foundation?   Disputed!   https://www.truthorfiction.com/teresakerry/   None   politics   None   None   None   Heinz Endowments to Leftist Causes through The Tides Foundation?   Mar 17, 2015   None
 3158   Meeting President Bush at church   Truth!   https://www.truthorfiction.com/stjohns/   None   politics   None   None   None   Meeting President Bush at church   Mar 17, 2015   None
-3159   A Secret Servie agent’s impressions of the Bushes versus the
-Clintons   Unproven!   https://www.truthorfiction.com/secretservice/   None   politics   None   None   None   A Secret Servie agent’s impressions of the Bushes versus the
-Clintons   Mar 17, 2015   None
+3159   A Secret Servie agent’s impressions of the Bushes versus the Clintons   Unproven!   https://www.truthorfiction.com/secretservice/   None   politics   None   None   None   A Secret Servie agent’s impressions of the Bushes versus the Clintons   Mar 17, 2015   None
 3160   Humorous John Kerry or George Bush quotes   Fiction!   https://www.truthorfiction.com/quaylisms/   None   politics   None   None   None   Humorous John Kerry or George Bush quotes   Mar 17, 2015   None
 3161   The United Nations Dishonored Ronald Reagan?   Fiction!   https://www.truthorfiction.com/reagan/   None   politics   None   None   None   The United Nations Dishonored Ronald Reagan?   Mar 17, 2015   None
-3162   Letter to the people of France about anti-Semitism from Senator Joe
-Lieberman   Fiction!   https://www.truthorfiction.com/leiberman-france/   None   politics   None   None   None   Letter to the people of France about anti-Semitism from Senator Joe
-Lieberman   Mar 17, 2015   None
+3162   Letter to the people of France about anti-Semitism from Senator Joe Lieberman   Fiction!   https://www.truthorfiction.com/leiberman-france/   None   politics   None   None   None   Letter to the people of France about anti-Semitism from Senator Joe Lieberman   Mar 17, 2015   None
 3163   John Kerry endorsed by the Communists   Fiction!   https://www.truthorfiction.com/kerryviet/   None   politics   None   None   None   John Kerry endorsed by the Communists   Mar 17, 2015   None
 3164   John Glenn versus Howard Metzenbaum   Truth!   https://www.truthorfiction.com/glenn-metzenbaum/   None   politics   None   None   None   John Glenn versus Howard Metzenbaum   Mar 17, 2015   None
 3165   John Kerry’s hometown paper endorses Bush for President?   Truth!   https://www.truthorfiction.com/endorsements/   None   politics   None   None   None   John Kerry’s hometown paper endorses Bush for President?   Mar 17, 2015   None
@@ -3227,32 +3165,24 @@ Lieberman   Mar 17, 2015   None
 3170   Socialist Takeover Must be Stopped      https://www.truthorfiction.com/washington-times-writes-opinion/   None   politics   None   None   None   Socialist Takeover Must be Stopped   Mar 17, 2015   None
 3171   An Answer from Dr. Orly Taitz to Nancy Pelosi   Confirmed Authorship!   https://www.truthorfiction.com/taitz-pelosi-response/   None   politics   None   None   None   An Answer from Dr. Orly Taitz to Nancy Pelosi   Mar 17, 2015   None
 3172   “What I Learned at Bain Capital” – by Mitt Romney   Official!   https://www.truthorfiction.com/romney-bain-wsj-article/   None   politics   None   None   None   “What I Learned at Bain Capital” – by Mitt Romney   Mar 17, 2015   None
-3173   Rabbi Pruzansky On Why Obama Won and How We Are Lost   Confirmed
-Authorship!   https://www.truthorfiction.com/rabbi-pruzansky/   None   politics   None   None   None   Rabbi Pruzansky On Why Obama Won and How We Are Lost   Mar 17, 2015   None
-3174   A Proposed 28th Amendment That Says Congress Will Make No Laws That Does
-Not Apply To Them    Grass Roots Movement!   https://www.truthorfiction.com/proposed-28th-amendment/   None   politics   None   None   None   A Proposed 28th Amendment That Says Congress Will Make No Laws That Does
-Not Apply To Them   Mar 17, 2015   None
+3173   Rabbi Pruzansky On Why Obama Won and How We Are Lost   Confirmed Authorship!   https://www.truthorfiction.com/rabbi-pruzansky/   None   politics   None   None   None   Rabbi Pruzansky On Why Obama Won and How We Are Lost   Mar 17, 2015   None
+3174   A Proposed 28th Amendment That Says Congress Will Make No Laws That Does Not Apply To Them    Grass Roots Movement!   https://www.truthorfiction.com/proposed-28th-amendment/   None   politics   None   None   None   A Proposed 28th Amendment That Says Congress Will Make No Laws That Does Not Apply To Them   Mar 17, 2015   None
 3175   Joel Osteen Endorses President Obama    Fiction!   https://www.truthorfiction.com/osteen-obama/   None   politics   None   None   None   Joel Osteen Endorses President Obama   Mar 17, 2015   None
 3176   Welfare Recipients Receive Free Cars  Rumor   Fiction!   https://www.truthorfiction.com/obama-welfare-cars/   None   politics   None   None   None   Welfare Recipients Receive Free Cars  Rumor   Mar 17, 2015   None
 3177   Obama Announces Plans For A Third Term Presidential Run   Fiction!   https://www.truthorfiction.com/obama-3rd-term/   None   politics   None   None   None   Obama Announces Plans For A Third Term Presidential Run   Mar 17, 2015   None
-3178   Letter to Editor Calling President Obama “No Ordinary Weakling”   Confirmed
-Authorship!   https://www.truthorfiction.com/letter-to-editor-no-ordinary-weakling/   None   politics   None   None   None   Letter to Editor Calling President Obama “No Ordinary Weakling”   Mar 17, 2015   None
+3178   Letter to Editor Calling President Obama “No Ordinary Weakling”   Confirmed Authorship!   https://www.truthorfiction.com/letter-to-editor-no-ordinary-weakling/   None   politics   None   None   None   Letter to Editor Calling President Obama “No Ordinary Weakling”   Mar 17, 2015   None
 3179   Connection Between AG Nominee Loretta Lynch and Eric Holder   Truth!   https://www.truthorfiction.com/lynch-holder-connection/   None   politics   None   None   None   Connection Between AG Nominee Loretta Lynch and Eric Holder   Mar 17, 2015   None
 3180   Congresswoman Said U.S. Constitution is 400 Years Old   Truth!   https://www.truthorfiction.com/sheila-jackson-lee-constitution-400/   None   politics   None   None   None   Congresswoman Said U.S. Constitution is 400 Years Old   Mar 17, 2015   None
 3181   Governor Returns Illegal Children Who Were Sent to Iowa   Fiction!   https://www.truthorfiction.com/iowa-returns-illegals/   None   politics   None   None   None   Governor Returns Illegal Children Who Were Sent to Iowa   Mar 17, 2015   None
 3182   Dr. Ben Carson Considering White House Run   Truth!   https://www.truthorfiction.com/dr-ben-carson-2016/   None   politics   None   None   None   Dr. Ben Carson Considering White House Run   Mar 17, 2015   None
-3183   Czech President Vaclav Klaus Quote on the Election of President
-Obama   Unproven!   https://www.truthorfiction.com/vaclav-klaus/   None   politics   None   None   None   Czech President Vaclav Klaus Quote on the Election of President
-Obama   Mar 17, 2015   None
+3183   Czech President Vaclav Klaus Quote on the Election of President Obama   Unproven!   https://www.truthorfiction.com/vaclav-klaus/   None   politics   None   None   None   Czech President Vaclav Klaus Quote on the Election of President Obama   Mar 17, 2015   None
 3184   Hillary Clinton Wants to Ban Beards   Fiction!   https://www.truthorfiction.com/clinton-beard-ban/   None   politics   None   None   None   Hillary Clinton Wants to Ban Beards   Mar 17, 2015   None
 3185   Dianne Feinstein’s Husband Brokering Post Offices   Truth!   https://www.truthorfiction.com/blum-post-office-sale-061013/   None   politics   None   None   None   Dianne Feinstein’s Husband Brokering Post Offices   Mar 17, 2015   None
 3186   Obama and the 8 Levels of Control by Saul Alinsky   Unproven!   https://www.truthorfiction.com/8-levels-saul-alinksy/   None   politics   None   None   None   Obama and the 8 Levels of Control by Saul Alinsky   Mar 17, 2015   None
 3187   George Will on President Obama    Incorrect Authorship!   https://www.truthorfiction.com/george-will-obama/   None   politics   None   None   None   George Will on President Obama   Mar 17, 2015   None
 3188   Open Letter to President Obama by Matt Walsh   Confirmed Authorship!   https://www.truthorfiction.com/walsh-letter-obama-101313/   None   politics   None   None   None   Open Letter to President Obama by Matt Walsh   Mar 17, 2015   None
 3189   Members of Obama Administration are Related to People in the Mainstream Media   Truth!   https://www.truthorfiction.com/white-house-media-relations-052013/   None   politics   None   None   None   Members of Obama Administration are Related to People in the Mainstream Media   Mar 17, 2015   None
-3190   There Was Widespread Voter Fraud in the 2012 Presidential
-Election   Fiction!   https://www.truthorfiction.com/2012-voter-fraud/   None   politics   None   None   None   There Was Widespread Voter Fraud in the 2012 Presidential
-Election   Mar 17, 2015   None
+3190   There Was Widespread Voter Fraud in the 2012 Presidential Election   Fiction!   https://www.truthorfiction.com/2012-voter-fraud/   None   politics   None   None   None   There Was Widespread Voter Fraud in the 2012 Presidential Election   Mar 17, 2015   None
 3191   Sherry Hackett’s Opinion Piece Called “We Noticed” about President Obama    Incorrect Authorship!   https://www.truthorfiction.com/we-noticed/   None   politics   None   None   None   Sherry Hackett’s Opinion Piece Called “We Noticed” about President Obama   Mar 17, 2015   None
 3192   Fred Thompson’s Retort Likens Obama to a Dog at a Fire Hydrant   Confirmed Authorship!   https://www.truthorfiction.com/fred-thompson-fire-hydrant/   None   politics   None   None   None   Fred Thompson’s Retort Likens Obama to a Dog at a Fire Hydrant   Mar 17, 2015   None
 3193   Thomas Sowell Endorses John McCain?   Fiction!   https://www.truthorfiction.com/thomas-sowell/   None   politics   None   None   None   Thomas Sowell Endorses John McCain?   Mar 17, 2015   None
@@ -3260,11 +3190,8 @@ Election   Mar 17, 2015   None
 3195   Tagg Romney Invested in Ohio Voting Machines   Fiction!   https://www.truthorfiction.com/tagg-romney-voting-machines/   None   politics   None   None   None   Tagg Romney Invested in Ohio Voting Machines   Mar 17, 2015   None
 3196   Angry Letter to Wyoming Senator Alan Simpson    Unconfirmed Attribution!   https://www.truthorfiction.com/simpson-vent/   None   politics   None   None   None   Angry Letter to Wyoming Senator Alan Simpson   Mar 17, 2015   None
 3197   Who Shut Down the Government? by Thomas Sowell   Confirmed Authorship!   https://www.truthorfiction.com/sowell-thomas-shut-down-101413/   None   politics   None   None   None   Who Shut Down the Government? by Thomas Sowell   Mar 17, 2015   None
-3198   Election Ballots of U.S. Citizens Living Abroad to be Tabulated by a
-Company in Spain    Fiction!   https://www.truthorfiction.com/spanish-voter-tabulation/   None   politics   None   None   None   Election Ballots of U.S. Citizens Living Abroad to be Tabulated by a
-Company in Spain   Mar 17, 2015   None
-3199   Secret Service Agents Perspective of U.S. Presidents   Truth! & Fiction! &
-Unproven!   https://www.truthorfiction.com/secret-service-presidents/   None   politics   None   None   None   Secret Service Agents Perspective of U.S. Presidents   Mar 17, 2015   None
+3198   Election Ballots of U.S. Citizens Living Abroad to be Tabulated by a Company in Spain    Fiction!   https://www.truthorfiction.com/spanish-voter-tabulation/   None   politics   None   None   None   Election Ballots of U.S. Citizens Living Abroad to be Tabulated by a Company in Spain   Mar 17, 2015   None
+3199   Secret Service Agents Perspective of U.S. Presidents   Truth! & Fiction! & Unproven!   https://www.truthorfiction.com/secret-service-presidents/   None   politics   None   None   None   Secret Service Agents Perspective of U.S. Presidents   Mar 17, 2015   None
 3200   Shorebank Bailed Out Because of Connections With Obama   Unproven!   https://www.truthorfiction.com/shorebank-obama-ties/   None   politics   None   None   None   Shorebank Bailed Out Because of Connections With Obama   Mar 17, 2015   None
 3201   Straight Ticket Voting Warning   Depends on Where You Vote!   https://www.truthorfiction.com/straight-ticket-warning/   None   politics   None   None   None   Straight Ticket Voting Warning   Mar 17, 2015   None
 3202   Government Shutdown Was Orchestrated   Unproven!   https://www.truthorfiction.com/shutdown-2013-orchestrated/   None   politics   None   None   None   Government Shutdown Was Orchestrated   Mar 17, 2015   None
@@ -3281,42 +3208,28 @@ Unproven!   https://www.truthorfiction.com/secret-service-presidents/   None   p
 3213   Who Is Sarah Palin? by Anne Kilkenny   Truth! But an Opinion!   https://www.truthorfiction.com/palin-kilkenny/   None   politics   None   None   None   Who Is Sarah Palin? by Anne Kilkenny   Mar 17, 2015   None
 3214   Bold Speech Given By Ehud Olmert about Israel and Hezobollah?   Fiction!   https://www.truthorfiction.com/olmertspeech/   None   politics   None   None   None   Bold Speech Given By Ehud Olmert about Israel and Hezobollah?   Mar 17, 2015   None
 3215   Orson Scott Card’s Open Letter To Every Local Paper in USA   Truth!   https://www.truthorfiction.com/orson-scott-card/   None   politics   None   None   None   Orson Scott Card’s Open Letter To Every Local Paper in USA   Mar 17, 2015   None
-3216   Sarah Palin’s Controversy about Wolves   Truth!  But a Conservation
-Effort!   https://www.truthorfiction.com/palin-wolves/   None   politics   None   None   None   Sarah Palin’s Controversy about Wolves   Mar 17, 2015   None
+3216   Sarah Palin’s Controversy about Wolves   Truth!  But a Conservation Effort!   https://www.truthorfiction.com/palin-wolves/   None   politics   None   None   None   Sarah Palin’s Controversy about Wolves   Mar 17, 2015   None
 3217   PBS Palin Poll   Truth!   https://www.truthorfiction.com/pbs-palin-poll/   None   politics   None   None   None   PBS Palin Poll   Mar 17, 2015   None
 3218   Pelosi On A Plane   Truth! & Fiction!   https://www.truthorfiction.com/pelosi-plane/   None   politics   None   None   None   Pelosi On A Plane   Mar 17, 2015   None
 3219   Houston Mayor Annise Parker Subpoenas Sermons   Truth!   https://www.truthorfiction.com/annise-parker-subpoenas/   None   politics   None   None   None   Houston Mayor Annise Parker Subpoenas Sermons   Mar 17, 2015   None
 3220   Washington Post Published Critical Opinion About President Obama   Confirmed Authorship! But Inaccurate Attribution!   https://www.truthorfiction.com/matt-patterson-post/   None   politics   None   None   ['barack obama', 'liberal agenda', 'media']   Washington Post Published Critical Opinion About President Obama   Mar 17, 2015   None
-3221   An Alaskan Fishman’s Commentary About Governor Sarah Palin   Confirmed
-Authorship!   https://www.truthorfiction.com/palin-whetsell-commentary/   None   politics   None   None   None   An Alaskan Fishman’s Commentary About Governor Sarah Palin   Mar 17, 2015   None
+3221   An Alaskan Fishman’s Commentary About Governor Sarah Palin   Confirmed Authorship!   https://www.truthorfiction.com/palin-whetsell-commentary/   None   politics   None   None   None   An Alaskan Fishman’s Commentary About Governor Sarah Palin   Mar 17, 2015   None
 3222   Barack Obama Reading Post-American World   Truth! & Fiction!   https://www.truthorfiction.com/post-american-world/   None   politics   None   None   None   Barack Obama Reading Post-American World   Mar 17, 2015   None
 3223   Alaskan Bush Pilot Views on Sarah Palin   Truth!   https://www.truthorfiction.com/palin-bush-pilot/   None   politics   None   None   None   Alaskan Bush Pilot Views on Sarah Palin   Mar 17, 2015   None
 3224   Czech News Quote About the Election of President Obama   Unproven!   https://www.truthorfiction.com/prager-zeitung/   None   politics   None   None   None   Czech News Quote About the Election of President Obama   Mar 17, 2015   None
 3225   President Obama’s Thank You to Muslims in Oklahoma   Truth!   https://www.truthorfiction.com/obama-thanks-moore-muslims/   None   politics   None   None   None   President Obama’s Thank You to Muslims in Oklahoma   Mar 17, 2015   None
 3226   Obama Thanks Muslims for Their Contribution to U.S.A.   Truth!   https://www.truthorfiction.com/obama-thanks-muslims/   None   politics   None   None   None   Obama Thanks Muslims for Their Contribution to U.S.A.   Mar 17, 2015   None
 3227   President Obama Snubbed U.K. Over Thatcher Funeral   Truth! & Fiction!   https://www.truthorfiction.com/obama-thatcher-snub-071813/   None   politics   None   None   None   President Obama Snubbed U.K. Over Thatcher Funeral   Mar 17, 2015   None
-3228   Barack and Michelle Obama Law Licenses are Voluntarily Retired and
-Inactive Status   Truth!   https://www.truthorfiction.com/obama-law-license/   None   politics   None   None   None   Barack and Michelle Obama Law Licenses are Voluntarily Retired and
-Inactive Status   Mar 17, 2015   None
+3228   Barack and Michelle Obama Law Licenses are Voluntarily Retired and Inactive Status   Truth!   https://www.truthorfiction.com/obama-law-license/   None   politics   None   None   None   Barack and Michelle Obama Law Licenses are Voluntarily Retired and Inactive Status   Mar 17, 2015   None
 3229   Veterans Demanded That Flag With President Obama’s Face be Taken Down From Florida Democratic HQ   Truth!   https://www.truthorfiction.com/obama-face-flag/   None   politics   None   None   None   Veterans Demanded That Flag With President Obama’s Face be Taken Down From Florida Democratic HQ   Mar 17, 2015   None
 3230   Barack Obama Quotes The Bible?   Fiction!   https://www.truthorfiction.com/obama-john316/   None   politics   None   None   None   Barack Obama Quotes The Bible?   Mar 17, 2015   None
-3231   President Obama Worked Behind-the-Scenes Deals to Get the AMA and AARP to
-Endorse Health Care Reform   Commentary!   https://www.truthorfiction.com/obamacare-endorsements/   None   politics   None   None   None   President Obama Worked Behind-the-Scenes Deals to Get the AMA and AARP to
-Endorse Health Care Reform   Mar 17, 2015   None
-3232   President Obama Signed an Executive Order That Grants the President Power
-to Institute Martial Law    Fiction!   https://www.truthorfiction.com/obama-executive-order-martial-law/   None   politics   None   None   None   President Obama Signed an Executive Order That Grants the President Power
-to Institute Martial Law   Mar 17, 2015   None
-3233   Georgia Judge Hears Case To Strike Barack Obama From Presidential Primary
-Ballot   Truth!   https://www.truthorfiction.com/obama-georgia-ballot-case/   None   politics   None   None   None   Georgia Judge Hears Case To Strike Barack Obama From Presidential Primary
-Ballot   Mar 17, 2015   None
+3231   President Obama Worked Behind-the-Scenes Deals to Get the AMA and AARP to Endorse Health Care Reform   Commentary!   https://www.truthorfiction.com/obamacare-endorsements/   None   politics   None   None   None   President Obama Worked Behind-the-Scenes Deals to Get the AMA and AARP to Endorse Health Care Reform   Mar 17, 2015   None
+3232   President Obama Signed an Executive Order That Grants the President Power to Institute Martial Law    Fiction!   https://www.truthorfiction.com/obama-executive-order-martial-law/   None   politics   None   None   None   President Obama Signed an Executive Order That Grants the President Power to Institute Martial Law   Mar 17, 2015   None
+3233   Georgia Judge Hears Case To Strike Barack Obama From Presidential Primary Ballot   Truth!   https://www.truthorfiction.com/obama-georgia-ballot-case/   None   politics   None   None   None   Georgia Judge Hears Case To Strike Barack Obama From Presidential Primary Ballot   Mar 17, 2015   None
 3234   President Obama Omits God From Gettysburg Address   Truth! But Not Intentionally!   https://www.truthorfiction.com/obama-gettysburg-address/   None   politics   None   None   None   President Obama Omits God From Gettysburg Address   Mar 17, 2015   None
 3235   Obama’s New World Order Speech   Fiction!   https://www.truthorfiction.com/obama-new-world-order/   None   politics   None   None   None   Obama’s New World Order Speech   Mar 17, 2015   None
-3236   Commentary by Newt Gingrich Disapproving The Construction of a Proposed
-Mosque Near Ground Zero   Confirmed Authorship!   https://www.truthorfiction.com/newt-911-mosque/   None   politics   None   None   None   Commentary by Newt Gingrich Disapproving The Construction of a Proposed
-Mosque Near Ground Zero   Mar 17, 2015   None
-3237   Law Professor points out some interesting facts concerning the
-Presidential election   Fiction!   https://www.truthorfiction.com/joseph-olson/   None   politics   None   None   None   Law Professor points out some interesting facts concerning the
-Presidential election   Mar 17, 2015   None
+3236   Commentary by Newt Gingrich Disapproving The Construction of a Proposed Mosque Near Ground Zero   Confirmed Authorship!   https://www.truthorfiction.com/newt-911-mosque/   None   politics   None   None   None   Commentary by Newt Gingrich Disapproving The Construction of a Proposed Mosque Near Ground Zero   Mar 17, 2015   None
+3237   Law Professor points out some interesting facts concerning the Presidential election   Fiction!   https://www.truthorfiction.com/joseph-olson/   None   politics   None   None   None   Law Professor points out some interesting facts concerning the Presidential election   Mar 17, 2015   None
 3238   My Holiday With John McCain   Unproven!   https://www.truthorfiction.com/turtle-island-mccain/   None   politics   None   None   None   My Holiday With John McCain   Mar 17, 2015   None
 3239   Meet Maine ‘s New Governor Paul R. LePage   Opinion!   https://www.truthorfiction.com/meet-lepage/   None   politics   None   None   None   Meet Maine ‘s New Governor Paul R. LePage   Mar 17, 2015   None
 3240   Pastor Mark Arnold Meets McCain and Palin   Reported to be Truth!   https://www.truthorfiction.com/mark-arnolds/   None   politics   None   None   None   Pastor Mark Arnold Meets McCain and Palin   Mar 17, 2015   None
@@ -3327,8 +3240,7 @@ Presidential election   Mar 17, 2015   None
 3245   The Writings of Thomas Jefferson   Truth! & Unproven!   https://www.truthorfiction.com/jefferson-quotes/   None   politics   None   None   None   The Writings of Thomas Jefferson   Mar 17, 2015   None
 3246   Accomplishments of Thomas Jefferson   Reported to be True!   https://www.truthorfiction.com/accomplishments-jefferson/   None   politics   None   None   None   Accomplishments of Thomas Jefferson   Mar 17, 2015   None
 3247   Energy Comparisons Between Al Gore and George Bush homes   Truth!   https://www.truthorfiction.com/gore-bush-houses/   None   politics   None   None   None   Energy Comparisons Between Al Gore and George Bush homes   Mar 17, 2015   None
-3248   Attorney’s letter to Speaker of the House Nancy Pelosi    Confirmed
-Authorship!   https://www.truthorfiction.com/guthrie-to-pelosi/   None   politics   None   None   None   Attorney’s letter to Speaker of the House Nancy Pelosi   Mar 17, 2015   None
+3248   Attorney’s letter to Speaker of the House Nancy Pelosi    Confirmed Authorship!   https://www.truthorfiction.com/guthrie-to-pelosi/   None   politics   None   None   None   Attorney’s letter to Speaker of the House Nancy Pelosi   Mar 17, 2015   None
 3249   Obama Plans to Name Holder the Supreme Court – Fiction!      https://www.truthorfiction.com/eric-holder-justice/   None   politics   None   None   None   Obama Plans to Name Holder the Supreme Court – Fiction!   Mar 17, 2015   None
 3250   NY Times Predicted Bail Out in 1999   Truth!   https://www.truthorfiction.com/nyt-fannie-mae-clinton-1999/   None   politics   None   None   None   NY Times Predicted Bail Out in 1999   Mar 17, 2015   None
 3251   Muslim Clerics to Replace Rejected Cardinal for Democratic Convention Prayer   Fiction!   https://www.truthorfiction.com/dnc-jumah-2012/   None   politics   None   None   None   Muslim Clerics to Replace Rejected Cardinal for Democratic Convention Prayer   Mar 17, 2015   None
@@ -3336,9 +3248,7 @@ Authorship!   https://www.truthorfiction.com/guthrie-to-pelosi/   None   politic
 3253   Dutch Give up Multiculturalism   Truth! & Fiction!   https://www.truthorfiction.com/dutch-multiculturalism/   None   politics   None   None   None   Dutch Give up Multiculturalism   Mar 17, 2015   None
 3254   Personal comments by Deepak Chopra Obama & Palin    Truth!   https://www.truthorfiction.com/deepak-chopra-obama-palin/   None   politics   None   None   None   Personal comments by Deepak Chopra Obama & Palin    Mar 17, 2015   None
 3255   Economic Stabilaztion Bill Earmarks   Truth! &  Unproven!   https://www.truthorfiction.com/earmarks-bailout/   None   politics   None   None   None   Economic Stabilaztion Bill Earmarks   Mar 17, 2015   None
-3256   DNC Banned Churches From Distributing Gift Baskets to Delegates at
-Convention   Truth!   https://www.truthorfiction.com/dnc-basket-ban/   None   politics   None   None   None   DNC Banned Churches From Distributing Gift Baskets to Delegates at
-Convention   Mar 17, 2015   None
+3256   DNC Banned Churches From Distributing Gift Baskets to Delegates at Convention   Truth!   https://www.truthorfiction.com/dnc-basket-ban/   None   politics   None   None   None   DNC Banned Churches From Distributing Gift Baskets to Delegates at Convention   Mar 17, 2015   None
 3257   Bill and Hillary Clinton’s $11 million Mansion   Truth! & Fiction!   https://www.truthorfiction.com/clinton-mansion/   None   politics   None   None   None   Bill and Hillary Clinton’s $11 million Mansion   Mar 17, 2015   None
 3258   The life and experiences of Cindy McCain   Truth!   https://www.truthorfiction.com/cindy-mccain/   None   politics   None   None   None   The life and experiences of Cindy McCain   Mar 17, 2015   None
 3259   Hillary Clinton Six Quotes on Socialism   Fiction!   https://www.truthorfiction.com/hillary-clinton-six-quotes/   None   politics   None   None   None   Hillary Clinton Six Quotes on Socialism   Mar 17, 2015   None
@@ -3348,34 +3258,20 @@ Convention   Mar 17, 2015   None
 3263   Hillary Clinton’s Accomplishments as Secretary of State   Fiction!   https://www.truthorfiction.com/hillary-clinton-accomplishments/   None   politics   None   None   None   Hillary Clinton’s Accomplishments as Secretary of State   Mar 17, 2015   None
 3264   Chelsea Clinton’s Father-In-Law is Edward Mezvinsky   Truth!   https://www.truthorfiction.com/chelsea-clinton-mezvinsky/   None   politics   None   None   None   Chelsea Clinton’s Father-In-Law is Edward Mezvinsky   Mar 17, 2015   None
 3265   “Chief Justice Roberts Is A Genius”   Commentary!   https://www.truthorfiction.com/chief-justice-roberts-genius/   None   politics   None   None   None   “Chief Justice Roberts Is A Genius”   Mar 17, 2015   None
-3266   Chinese flag will be hoisted over the White House South Lawn on September
-20, 2009   Fiction!   https://www.truthorfiction.com/chinese-flag-at-white-house/   None   politics   None   None   None   Chinese flag will be hoisted over the White House South Lawn on September
-20, 2009   Mar 17, 2015   None
-3267   White House Will Not Accept Christmas Ornaments With Religious
-Themes   Fiction!   https://www.truthorfiction.com/christmas-ornaments-white-house/   None   politics   None   None   None   White House Will Not Accept Christmas Ornaments With Religious
-Themes   Mar 17, 2015   None
+3266   Chinese flag will be hoisted over the White House South Lawn on September 20, 2009   Fiction!   https://www.truthorfiction.com/chinese-flag-at-white-house/   None   politics   None   None   None   Chinese flag will be hoisted over the White House South Lawn on September 20, 2009   Mar 17, 2015   None
+3267   White House Will Not Accept Christmas Ornaments With Religious Themes   Fiction!   https://www.truthorfiction.com/christmas-ornaments-white-house/   None   politics   None   None   None   White House Will Not Accept Christmas Ornaments With Religious Themes   Mar 17, 2015   None
 3268   Incredible Ad By The Catholic Church   Inaccurate Attribution!   https://www.truthorfiction.com/catholic-political-ad/   None   politics   None   None   None   Incredible Ad By The Catholic Church   Mar 17, 2015   None
-3269   Bush Admin. Had a Plan To Create An Agency for Fannie Mae and Freddie Mac
-In 2003   Truth!   https://www.truthorfiction.com/bush-administration-lending/   None   politics   None   None   None   Bush Admin. Had a Plan To Create An Agency for Fannie Mae and Freddie Mac
-In 2003   Mar 17, 2015   None
+3269   Bush Admin. Had a Plan To Create An Agency for Fannie Mae and Freddie Mac In 2003   Truth!   https://www.truthorfiction.com/bush-administration-lending/   None   politics   None   None   None   Bush Admin. Had a Plan To Create An Agency for Fannie Mae and Freddie Mac In 2003   Mar 17, 2015   None
 3270   Has Bill Clinton Been Snared in a Pedophile Ring?   Pending Investigation!   https://www.truthorfiction.com/bill-clinton-snared/   None   politics   None   None   None   Has Bill Clinton Been Snared in a Pedophile Ring?   Mar 17, 2015   None
 3271   Michelle Bachman’s Tweet About Coke Ad   Fiction!   https://www.truthorfiction.com/bachman-tweet/   None   politics   None   None   None   Michelle Bachman’s Tweet About Coke Ad   Mar 17, 2015   None
-3272   Arizona State Senator Sylvia Allen Explains Why She Supports SB 1070, The
-Border State’s Tough New Immigration Law   Commentary!   https://www.truthorfiction.com/az-senator-allen/   None   politics   None   None   None   Arizona State Senator Sylvia Allen Explains Why She Supports SB 1070, The
-Border State’s Tough New Immigration Law   Mar 17, 2015   None
-3273   Vice President Biden’s Two Night Trip to London and Paris Cost Over $1
-Million   Truth!   https://www.truthorfiction.com/biden-million-trip-2013/   None   politics   None   None   None   Vice President Biden’s Two Night Trip to London and Paris Cost Over $1
-Million   Mar 17, 2015   None
+3272   Arizona State Senator Sylvia Allen Explains Why She Supports SB 1070, The Border State’s Tough New Immigration Law   Commentary!   https://www.truthorfiction.com/az-senator-allen/   None   politics   None   None   None   Arizona State Senator Sylvia Allen Explains Why She Supports SB 1070, TheBorder State’s Tough New Immigration Law   Mar 17, 2015   None
+3273   Vice President Biden’s Two Night Trip to London and Paris Cost Over $1 Million   Truth!   https://www.truthorfiction.com/biden-million-trip-2013/   None   politics   None   None   None   Vice President Biden’s Two Night Trip to London and Paris Cost Over $1 Million   Mar 17, 2015   None
 3274   Joe Biden To Step Down October 5   Unproven!   https://www.truthorfiction.com/biden-to-step-down/   None   politics   None   None   None   Joe Biden To Step Down October 5   Mar 17, 2015   None
 3275   News Article Said Vice President Biden’s Weekend Trips Cost Taxpayers $1 Million Annually   Truth!   https://www.truthorfiction.com/biden-million-trips/   None   politics   None   None   None   News Article Said Vice President Biden’s Weekend Trips Cost Taxpayers $1 Million Annually   Mar 17, 2015   None
 3276   Ohio Man Registered To Vote 72 Times By ACORN   Reported to be Truth!   https://www.truthorfiction.com/acorn-registration-fraud/   None   politics   None   None   None   Ohio Man Registered To Vote 72 Times By ACORN   Mar 17, 2015   None
 3277   Alaskan Opinion of Sarah Palin   Truth!   https://www.truthorfiction.com/alaskan-view-palin/   None   politics   None   None   None   Alaskan Opinion of Sarah Palin   Mar 17, 2015   None
-3278   18 States Are Attempting to Implement “Micro-Stamp Encoding” on Fire Arms
-and Ammunition   Truth!   https://www.truthorfiction.com/ammunition-accountability-act/   None   politics   None   None   None   18 States Are Attempting to Implement “Micro-Stamp Encoding” on Fire Arms
-and Ammunition   Mar 17, 2015   None
-3279   New California law prohibits “mom” or “dad” in
-textbooks   Fiction!   https://www.truthorfiction.com/california-code/   None   politics   None   None   None   New California law prohibits “mom” or “dad” in
-textbooks   Mar 17, 2015   None
+3278   18 States Are Attempting to Implement “Micro-Stamp Encoding” on Fire Arms and Ammunition   Truth!   https://www.truthorfiction.com/ammunition-accountability-act/   None   politics   None   None   None   18 States Are Attempting to Implement “Micro-Stamp Encoding” on Fire Arms and Ammunition   Mar 17, 2015   None
+3279   New California law prohibits “mom” or “dad” in textbooks   Fiction!   https://www.truthorfiction.com/california-code/   None   politics   None   None   None   New California law prohibits “mom” or “dad” in textbooks   Mar 17, 2015   None
 3280   Damage to the White House during trasition from Clinton to Bush   Truth!   https://www.truthorfiction.com/trashingthewhitehouse/   None   politics   None   None   None   Damage to the White House during trasition from Clinton to Bush   Mar 17, 2015   None
 3281   Comparison of presidential IQ’s   Fiction!   https://www.truthorfiction.com/presidentialiq/   None   politics   None   None   None   Comparison of presidential IQ’s   Mar 16, 2015   None
 3282   Al Gore’s horse-thief ancestor   Fiction!   https://www.truthorfiction.com/goreancestor/   None   politics   None   None   None   Al Gore’s horse-thief ancestor   Mar 16, 2015   None
@@ -3406,9 +3302,7 @@ textbooks   Mar 17, 2015   None
 3307   Read the email, make a wish, and it will come true   Fiction!   https://www.truthorfiction.com/ringwishes/   None   promises   None   None   None   Read the email, make a wish, and it will come true   Mar 16, 2015   None
 3308   Forward an email to five friends and win $100   Fiction!   https://www.truthorfiction.com/onehundreddollaremail/   None   promises   None   None   None   Forward an email to five friends and win $100   Mar 16, 2015   None
 3309   You can buy a required “Hands-free” headset for your cell phone for $1   Fiction!   https://www.truthorfiction.com/handsfree/   None   promises   None   None   None   You can buy a required “Hands-free” headset for your cell phone for $1   Mar 16, 2015   None
-3310   Gerber is offering savings bonds to parents as part of a lawsuit
-settlement   Fiction!   https://www.truthorfiction.com/gerber/   None   promises   None   None   None   Gerber is offering savings bonds to parents as part of a lawsuit
-settlement   Mar 16, 2015   None
+3310   Gerber is offering savings bonds to parents as part of a lawsuit settlement   Fiction!   https://www.truthorfiction.com/gerber/   None   promises   None   None   None   Gerber is offering savings bonds to parents as part of a lawsuit settlement   Mar 16, 2015   None
 3311   Focus on Chain Letters      https://www.truthorfiction.com/chains/   None   promises   None   None   None   Focus on Chain Letters   Mar 16, 2015   None
 3312   Free British Airways tickets   Fiction!   https://www.truthorfiction.com/britishair/   None   promises   None   None   None   Free British Airways tickets   Mar 16, 2015   None
 3313   The Starbucks Coupon That Went Too Far      https://www.truthorfiction.com/starbucks-lawsuit/   None   redfaces   None   None   None   The Starbucks Coupon That Went Too Far   Mar 17, 2015   None
@@ -3488,8 +3382,7 @@ settlement   Mar 16, 2015   None
 3387   Pope Condemned Racism and Declared All Religions True   Fiction! & Satire!   https://www.truthorfiction.com/pope-francis-declaration/   None   religious   None   None   None   Pope Condemned Racism and Declared All Religions True   Mar 28, 2015   None
 3388   ABC-insulting letter to TV viewer   Truth!   https://www.truthorfiction.com/abc-practice/   None   religious   None   None   None   ABC-insulting letter to TV viewer   Mar 17, 2015   None
 3389   Spiritually needy man who got a voice mail message from “Almighty God”   Fiction!   https://www.truthorfiction.com/almightygod/   None   religious   None   None   None   Spiritually needy man who got a voice mail message from “Almighty God”   Mar 17, 2015   None
-3390   The FCC has approved widespread use of the F-word in broadcasts   Truth!
-& Fiction!   https://www.truthorfiction.com/fcc-fword/   None   religious   None   None   None   The FCC has approved widespread use of the F-word in broadcasts   Mar 17, 2015   None
+3390   The FCC has approved widespread use of the F-word in broadcasts   Truth! & Fiction!   https://www.truthorfiction.com/fcc-fword/   None   religious   None   None   None   The FCC has approved widespread use of the F-word in broadcasts   Mar 17, 2015   None
 3391   “A German’s View on Islam” by Dr. Emanuel Tanay   Fiction!   https://www.truthorfiction.com/tanay-merek-german-islam/   None   religious   None   None   None   “A German’s View on Islam” by Dr. Emanuel Tanay   Mar 17, 2015   None
 3392   The Execution of Christian Pastor Youcef Nadarkhani in Iran   Fiction!   https://www.truthorfiction.com/youcef-nadarkhani-executed/   None   religious   None   None   None   The Execution of Christian Pastor Youcef Nadarkhani in Iran   Mar 17, 2015   None
 3393   Pictures of Muslim Protests in London   Truth!   https://www.truthorfiction.com/muslim-burn-isis/   None   religious   None   None   None   Pictures of Muslim Protests in London   Mar 17, 2015   None
@@ -3504,9 +3397,7 @@ settlement   Mar 16, 2015   None
 3402   Human shield changed his mind about Iraq?   Disputed!   https://www.truthorfiction.com/kenjosephs/   None   religious   None   None   None   Human shield changed his mind about Iraq?   Mar 17, 2015   None
 3403   Harry Potter author admits that she is a Satanist   Fiction!   https://www.truthorfiction.com/jkrowlings/   None   religious   None   None   None   Harry Potter author admits that she is a Satanist   Mar 17, 2015   None
 3404   Prison Minister Shames Moslem During a Prison Training Session   Disputed!   https://www.truthorfiction.com/infidels/   None   religious   None   None   None   Prison Minister Shames Moslem During a Prison Training Session   Mar 17, 2015   None
-3405   More Christian persecution in Uzbekistan when Clinton was
-president?   Unproven!   https://www.truthorfiction.com/jameslair/   None   religious   None   None   None   More Christian persecution in Uzbekistan when Clinton was
-president?   Mar 17, 2015   None
+3405   More Christian persecution in Uzbekistan when Clinton was president?   Unproven!   https://www.truthorfiction.com/jameslair/   None   religious   None   None   None   More Christian persecution in Uzbekistan when Clinton was president?   Mar 17, 2015   None
 3406   Paul Harvey commentary on faith in America   Fiction!   https://www.truthorfiction.com/gholson/   None   religious   None   None   None   Paul Harvey commentary on faith in America   Mar 17, 2015   None
 3407   Einstein proves God in an encounter with a professor   Fiction!   https://www.truthorfiction.com/einstein-god/   None   religious   None   None   None   Einstein proves God in an encounter with a professor   Mar 17, 2015   None
 3408   Chaplian’s Report From Bombing in Mosul, Iraq   Truth!   https://www.truthorfiction.com/chaplainlewis/   None   religious   None   None   None   Chaplian’s Report From Bombing in Mosul, Iraq   Mar 17, 2015   None
@@ -3518,30 +3409,24 @@ president?   Mar 17, 2015   None
 3414   Nun Sues Krishna   Unproven!   https://www.truthorfiction.com/nun-sues-krishnia/   None   religious   None   None   None   Nun Sues Krishna   Mar 17, 2015   None
 3415   Jefferson vs. Muslim Pirates      https://www.truthorfiction.com/jefferson-vs-muslims/   None   religious   None   None   None   Jefferson vs. Muslim Pirates   Mar 17, 2015   None
 3416   Muslim Group Seeks Pork-Free Options at Food Bank   Truth!   https://www.truthorfiction.com/muslim-food-bank/   None   religious   None   None   None   Muslim Group Seeks Pork-Free Options at Food Bank   Mar 17, 2015   None
-3417   CAIR Instructs Home Depot on How to Make Stores More
-Sharia-Compliant   Disputed!   https://www.truthorfiction.com/home-depot-cair/   None   religious   None   None   None   CAIR Instructs Home Depot on How to Make Stores More
-Sharia-Compliant   Mar 17, 2015   None
+3417   CAIR Instructs Home Depot on How to Make Stores More Sharia-Compliant   Disputed!   https://www.truthorfiction.com/home-depot-cair/   None   religious   None   None   None   CAIR Instructs Home Depot on How to Make Stores More Sharia-Compliant   Mar 17, 2015   None
 3418   Black Mass at Harvard to Reenact Satanic Rituals   Truth!   https://www.truthorfiction.com/harvard-black-mass/   None   religious   None   None   None   Black Mass at Harvard to Reenact Satanic Rituals   Mar 17, 2015   None
 3419   Edible Arrangements CEO Supports Hamas   Fiction!   https://www.truthorfiction.com/edible-arrangements/   None   religious   None   None   None   Edible Arrangements CEO Supports Hamas   Mar 17, 2015   None
 3420   Boycott Whole Foods Market Because They Support Hamas   Fiction!   https://www.truthorfiction.com/whole-foods-boycott/   None   religious   None   None   None   Boycott Whole Foods Market Because They Support Hamas   Mar 17, 2015   None
 3421   Does God speak today?   Unproven!   https://www.truthorfiction.com/thevoiceofgod/   None   religious   None   None   None   Does God speak today?   Mar 17, 2015   None
-3422   Tyson Foods Substituted Labor Day with a Moslem holiday    Truth! But
-Decision was Reversed!   https://www.truthorfiction.com/tysonlaborday/   None   religious   None   None   None   Tyson Foods Substituted Labor Day with a Moslem holiday    Mar 17, 2015   None
+3422   Tyson Foods Substituted Labor Day with a Moslem holiday    Truth! But Decision was Reversed!   https://www.truthorfiction.com/tysonlaborday/   None   religious   None   None   None   Tyson Foods Substituted Labor Day with a Moslem holiday    Mar 17, 2015   None
 3423   Fliers Call for Jews to Register with Pro-Russians in Ukrainian City   Pending Investigation!   https://www.truthorfiction.com/ukraine-jews-registration/   None   religious   None   None   None   Fliers Call for Jews to Register with Pro-Russians in Ukrainian City   Mar 17, 2015   None
 3424   Teacher Fired For Quoting a Verse From the Bible to Student   Truth!   https://www.truthorfiction.com/teacher-fired-over-bible/   None   religious   None   None   None   Teacher Fired For Quoting a Verse From the Bible to Student   Mar 17, 2015   None
 3425   Russian President Vladimir Putin Says No to Sharia   Fiction!   https://www.truthorfiction.com/putin-says-no/   None   religious   None   None   None   Russian President Vladimir Putin Says No to Sharia   Mar 17, 2015   None
 3426   Joel Osteen’s Biblically Incorrect Facebook Post   Truth!   https://www.truthorfiction.com/osteen-facebook-flub/   None   religious   None   None   None   Joel Osteen’s Biblically Incorrect Facebook Post   Mar 17, 2015   None
-3427   Petition to Stop the Removal of Religious Services and Teachers From
-Airwaves – Fiction!      https://www.truthorfiction.com/petition-2493/   None   religious   None   None   None   Petition to Stop the Removal of Religious Services and Teachers From
-Airwaves – Fiction!   Mar 17, 2015   None
+3427   Petition to Stop the Removal of Religious Services and Teachers From Airwaves – Fiction!      https://www.truthorfiction.com/petition-2493/   None   religious   None   None   None   Petition to Stop the Removal of Religious Services and Teachers From Airwaves – Fiction!   Mar 17, 2015   None
 3428   Photo of Pope John Paul II and Virgin Mary   Fiction!   https://www.truthorfiction.com/photo-pope-virgin/   None   religious   None   None   None   Photo of Pope John Paul II and Virgin Mary   Mar 17, 2015   None
 3429   TV Pastor Joel Osteen Denounces Christianity and Calls it Quits   Fiction!   https://www.truthorfiction.com/joel-osteen-quits/   None   religious   None   None   None   TV Pastor Joel Osteen Denounces Christianity and Calls it Quits   Mar 17, 2015   None
 3430   Muslims Gather Every Friday in the Streets of New York City to Pray   Fiction!   https://www.truthorfiction.com/muslim-day-nyc/   None   religious   None   None   None   Muslims Gather Every Friday in the Streets of New York City to Pray   Mar 17, 2015   None
 3431   A Federal Judge Halted 2010 National Day of Prayer    Fiction!   https://www.truthorfiction.com/national-day-prayer-unconstitutional/   None   religious   None   None   None   A Federal Judge Halted 2010 National Day of Prayer   Mar 17, 2015   None
 3432   500 Nigerians Brutally Murdered by Muslims    Truth! but Inaccurate Details & Photo!   https://www.truthorfiction.com/nigerian-catholics/   None   religious   None   None   None   500 Nigerians Brutally Murdered by Muslims   Mar 17, 2015   None
 3433   Explorers Have Found the Biblical Noah’s Ark on Mt. Ararat in Turkey   Unproven!   https://www.truthorfiction.com/noahs-ark-turkey/   None   religious   None   None   None   Explorers Have Found the Biblical Noah’s Ark on Mt. Ararat in Turkey   Mar 17, 2015   None
-3434   Retailers urging Happy Holidays instead of Merry Christmas?   Truth! &
-Fiction!   https://www.truthorfiction.com/merrychristmas/   None   religious   None   None   None   Retailers urging Happy Holidays instead of Merry Christmas?   Mar 17, 2015   None
+3434   Retailers urging Happy Holidays instead of Merry Christmas?   Truth! & Fiction!   https://www.truthorfiction.com/merrychristmas/   None   religious   None   None   None   Retailers urging Happy Holidays instead of Merry Christmas?   Mar 17, 2015   None
 3435   One minute of prayer each night   Grass Roots Effort!   https://www.truthorfiction.com/minute-prayer/   None   religious   None   None   None   One minute of prayer each night   Mar 17, 2015   None
 3436   Family Tomb in Jerusalem is That of Jesus and His Family   Disputed!   https://www.truthorfiction.com/jesus-family-tomb/   None   religious   None   None   None   Family Tomb in Jerusalem is That of Jesus and His Family   Mar 17, 2015   None
 3437   Kay Arthur’s Prophecy of Famine for USA   Fiction!   https://www.truthorfiction.com/kay-arthur-prophecy/   None   religious   None   None   None   Kay Arthur’s Prophecy of Famine for USA   Mar 17, 2015   None
@@ -3553,14 +3438,9 @@ Fiction!   https://www.truthorfiction.com/merrychristmas/   None   religious   N
 3443   New Forever Stamp Commemorates Muslim Holiday    Fiction!   https://www.truthorfiction.com/2013-eid-forever-stamp-kali/   None   religious   None   None   None   New Forever Stamp Commemorates Muslim Holiday   Mar 17, 2015   None
 3444   Steven Curis Chapman’s daughter accidentally killed in family driveway   Truth!   https://www.truthorfiction.com/chapman/   None   religious   None   None   None   Steven Curis Chapman’s daughter accidentally killed in family driveway   Mar 17, 2015   None
 3445   Chariot wheels found at the bottom of the Red Sea?   Unproven!   https://www.truthorfiction.com/chariot-wheels/   None   religious   None   None   None   Chariot wheels found at the bottom of the Red Sea?   Mar 17, 2015   None
-3446   New NBC Show for January, 2006 titled The Book of Daniel   Truth! But
-Cancelled!   https://www.truthorfiction.com/book-of-daniel/   None   religious   None   None   None   New NBC Show for January, 2006 titled The Book of Daniel   Mar 17, 2015   None
-3447   Plug pulled on valedictorian because of the religious content of her
-speech   Truth!   https://www.truthorfiction.com/brittanymccomb/   None   religious   None   None   None   Plug pulled on valedictorian because of the religious content of her
-speech   Mar 17, 2015   None
-3448   Butterball Turkeys Sold in the U.S.A. Are Blessed by Allah and Halal
-Certified   Fiction!   https://www.truthorfiction.com/butterball-turkey-hala/   None   religious   None   None   None   Butterball Turkeys Sold in the U.S.A. Are Blessed by Allah and Halal
-Certified   Mar 17, 2015   None
+3446   New NBC Show for January, 2006 titled The Book of Daniel   Truth! But Cancelled!   https://www.truthorfiction.com/book-of-daniel/   None   religious   None   None   None   New NBC Show for January, 2006 titled The Book of Daniel   Mar 17, 2015   None
+3447   Plug pulled on valedictorian because of the religious content of her speech   Truth!   https://www.truthorfiction.com/brittanymccomb/   None   religious   None   None   None   Plug pulled on valedictorian because of the religious content of her speech   Mar 17, 2015   None
+3448   Butterball Turkeys Sold in the U.S.A. Are Blessed by Allah and Halal Certified   Fiction!   https://www.truthorfiction.com/butterball-turkey-hala/   None   religious   None   None   None   Butterball Turkeys Sold in the U.S.A. Are Blessed by Allah and Halal Certified   Mar 17, 2015   None
 3449   1500 Year Old Bible Confirms That Jesus Christ Was Not Crucified   Fiction!   https://www.truthorfiction.com/gospel-of-barnabas/   None   religious   None   None   None   1500 Year Old Bible Confirms That Jesus Christ Was Not Crucified   Mar 17, 2015   None
 3450   Billy Graham Prayer for the Nation   Fiction!   https://www.truthorfiction.com/billygraham-prayer/   None   religious   None   None   None   Billy Graham Prayer for the Nation   Mar 17, 2015   None
 3451   Lunar Astronaut Buzz Aldrin Celebrated Communion on the Moon    Truth!   https://www.truthorfiction.com/aldrin-communion/   None   religious   None   None   None   Lunar Astronaut Buzz Aldrin Celebrated Communion on the Moon    Mar 17, 2015   None
@@ -3609,17 +3489,11 @@ Certified   Mar 17, 2015   None
 3494   “The Eye of God” Picture From Space by the Hubble Telescope   Truth!   https://www.truthorfiction.com/eyeofgod/   None   space-aviation   None   None   None   “The Eye of God” Picture From Space by the Hubble Telescope   Mar 17, 2015   None
 3495   Satellite Pictures From Space of the Shuttle Columbia Disintegrating   Fiction!   https://www.truthorfiction.com/columbiapix/   None   space-aviation   None   None   None   Satellite Pictures From Space of the Shuttle Columbia Disintegrating   Mar 17, 2015   None
 3496   USS Seawolf Shot Down TWA 800   Unproven!   https://www.truthorfiction.com/seawolf-twa-800-conspiracy/   None   space-aviation   None   None   None   USS Seawolf Shot Down TWA 800   Mar 17, 2015   None
-3497   Alien Life Researchers Report That Three Giant Spaceships Are Heading
-Toward Earth   Fiction!   https://www.truthorfiction.com/seti-alien-attack/   None   space-aviation   None   None   None   Alien Life Researchers Report That Three Giant Spaceships Are Heading
-Toward Earth   Mar 17, 2015   None
-3498   Family Members Killed in Montana Plane Crash Connected to Abortion Chain
-in California   Truth!   https://www.truthorfiction.com/montana-plane-crash/   None   space-aviation   None   None   None   Family Members Killed in Montana Plane Crash Connected to Abortion Chain
-in California   Mar 17, 2015   None
+3497   Alien Life Researchers Report That Three Giant Spaceships Are Heading Toward Earth   Fiction!   https://www.truthorfiction.com/seti-alien-attack/   None   space-aviation   None   None   None   Alien Life Researchers Report That Three Giant Spaceships Are Heading Toward Earth   Mar 17, 2015   None
+3498   Family Members Killed in Montana Plane Crash Connected to Abortion Chain in California   Truth!   https://www.truthorfiction.com/montana-plane-crash/   None   space-aviation   None   None   None   Family Members Killed in Montana Plane Crash Connected to Abortion Chain in California   Mar 17, 2015   None
 3499   Bomber Designed in 1933 by Russia had a wingspan greater than a US B-52   Truth!   https://www.truthorfiction.com/k7bomber/   None   space-aviation   None   None   None   Bomber Designed in 1933 by Russia had a wingspan greater than a US B-52   Mar 17, 2015   None
 3500   Secret Renovation of the Enola Gay for National Flying Tour    Fiction! & April Fools Joke!   https://www.truthorfiction.com/enola-gay-flying-tour/   None   space-aviation   None   None   None   Secret Renovation of the Enola Gay for National Flying Tour   Mar 17, 2015   None
-3501   Email from Delta Airlines regarding your Ticket Purchase – Fiction! 
-It is a Virus!      https://www.truthorfiction.com/delta-phish-warning/   None   space-aviation   None   None   None   Email from Delta Airlines regarding your Ticket Purchase – Fiction! 
-It is a Virus!   Mar 17, 2015   None
+3501   Email from Delta Airlines regarding your Ticket Purchase – Fiction!  It is a Virus!      https://www.truthorfiction.com/delta-phish-warning/   None   space-aviation   None   None   None   Email from Delta Airlines regarding your Ticket Purchase – Fiction!  It is a Virus!   Mar 17, 2015   None
 3502   Busted Pilot Forgets to Turn Off Chemtrails While Landing   Fiction!   https://www.truthorfiction.com/chemtrail-pilot/   None   space-aviation   None   None   None   Busted Pilot Forgets to Turn Off Chemtrails While Landing   Mar 17, 2015   None
 3503   New Boeing 797 Giant “Blended Wing” Passenger Airliner   Fiction!   https://www.truthorfiction.com/b797/   None   space-aviation   None   None   None   New Boeing 797 Giant “Blended Wing” Passenger Airliner   Mar 17, 2015   None
 3504   Aircraft Meets Retaining Wall    Truth! & Fiction!   https://www.truthorfiction.com/aircraft-hits-wall/   None   space-aviation   None   None   None   Aircraft Meets Retaining Wall    Mar 17, 2015   None
@@ -3663,27 +3537,15 @@ It is a Virus!   Mar 17, 2015   None
 3542   “Europe Died in Auschwitz” by Spanish Writer Sebastian Vilar Rodrigez   Commentary!   https://www.truthorfiction.com/europe-died-in-auschwitz-by-spanish-writer-sebastian-vilar-rodrigez/   None   terrorism   None   None   None   “Europe Died in Auschwitz” by Spanish Writer Sebastian Vilar Rodrigez   Aug 7, 2015   None
 3543   Picture of Palestinian baby dressed as a suicide bomber   Truth!   https://www.truthorfiction.com/babybomber/   None   terrorism   None   None   None   Picture of Palestinian baby dressed as a suicide bomber   Mar 30, 2015   None
 3544   Islamberg, New York, is a Militant Muslim Enclave – Disputed!      https://www.truthorfiction.com/islamberg-new-york-is-a-militant-muslim-enclave/   None   terrorism   None   None   None   Islamberg, New York, is a Militant Muslim Enclave – Disputed!   Mar 17, 2015   None
-3545   Warning that a message offering pictures of Osama Bin Laden’s death are
-viruses   Truth! and Fiction!   https://www.truthorfiction.com/osama/   None   terrorism   None   None   None   Warning that a message offering pictures of Osama Bin Laden’s death are
-viruses   Mar 17, 2015   None
+3545   Warning that a message offering pictures of Osama Bin Laden’s death are viruses   Truth! and Fiction!   https://www.truthorfiction.com/osama/   None   terrorism   None   None   None   Warning that a message offering pictures of Osama Bin Laden’s death are viruses   Mar 17, 2015   None
 3546   The “Triangle of Life” can save your life during an earthquake   Disputed!   https://www.truthorfiction.com/triangle-of-life/   None   terrorism   None   None   None   The “Triangle of Life” can save your life during an earthquake   Mar 17, 2015   None
-3547   President Obama, Hillary Clinton Charged With Conspiring with Muslim
-Brotherhood   Fiction!   https://www.truthorfiction.com/president-obama-and-hillary-clinton-charged-with-conspiring-with-muslim-brotherhood/   None   terrorism   None   None   None   President Obama, Hillary Clinton Charged With Conspiring with Muslim
-Brotherhood   Mar 17, 2015   None
+3547   President Obama, Hillary Clinton Charged With Conspiring with Muslim Brotherhood   Fiction!   https://www.truthorfiction.com/president-obama-and-hillary-clinton-charged-with-conspiring-with-muslim-brotherhood/   None   terrorism   None   None   None   President Obama, Hillary Clinton Charged With Conspiring with Muslim Brotherhood   Mar 17, 2015   None
 3548   Obama Flashes Shahada Muslim Gang Sign   Fiction!   https://www.truthorfiction.com/obama-flashes-shahada-muslim-gang-sign/   None   terrorism   None   None   None   Obama Flashes Shahada Muslim Gang Sign   Mar 17, 2015   None
 3549   Norway Targets Muslims for Deportation, Crime Rate Drops   Fiction!   https://www.truthorfiction.com/norway-targets-muslims-for-deportation-crime-rate-drops/   None   terrorism   None   None   None   Norway Targets Muslims for Deportation, Crime Rate Drops   Mar 17, 2015   None
-3550   Mike Gallagher’s “President Obama: It Was You” Essay – Inaccurate
-Attribution!      https://www.truthorfiction.com/mike-gallaghers-president-obama-it-was-you-essay/   None   terrorism   None   None   None   Mike Gallagher’s “President Obama: It Was You” Essay – Inaccurate
-Attribution!   Mar 17, 2015   None
-3551   Jordan’s King Abdullah II Will Fly Combat Missions Against Islamic State
-– Fiction!      https://www.truthorfiction.com/jordans-king-abdullah-ii-will-fly-combat-missions-against-islamic-state/   None   terrorism   None   None   None   Jordan’s King Abdullah II Will Fly Combat Missions Against Islamic State
-– Fiction!   Mar 17, 2015   None
-3552   Hostage Kayla Mueller’s Death “Deserves No Tears” Because She Supported
-Terrorism – Fiction!      https://www.truthorfiction.com/hostage-kayla-muellers-death-deserves-no-tears-because-she-supported-terrorism/   None   terrorism   None   None   None   Hostage Kayla Mueller’s Death “Deserves No Tears” Because She Supported
-Terrorism – Fiction!   Mar 17, 2015   None
-3553   Gleneagles Hospital Warning of Poisonous Perfume Arriving in Homes by
-Mail   Fiction!   https://www.truthorfiction.com/gleneagles-hospital-posison/   None   terrorism   None   None   None   Gleneagles Hospital Warning of Poisonous Perfume Arriving in Homes by
-Mail   Mar 17, 2015   None
+3550   Mike Gallagher’s “President Obama: It Was You” Essay – Inaccurate Attribution!      https://www.truthorfiction.com/mike-gallaghers-president-obama-it-was-you-essay/   None   terrorism   None   None   None   Mike Gallagher’s “President Obama: It Was You” Essay – Inaccurate Attribution!   Mar 17, 2015   None
+3551   Jordan’s King Abdullah II Will Fly Combat Missions Against Islamic State – Fiction!      https://www.truthorfiction.com/jordans-king-abdullah-ii-will-fly-combat-missions-against-islamic-state/   None   terrorism   None   None   None   Jordan’s King Abdullah II Will Fly Combat Missions Against Islamic State – Fiction!   Mar 17, 2015   None
+3552   Hostage Kayla Mueller’s Death “Deserves No Tears” Because She Supported Terrorism – Fiction!      https://www.truthorfiction.com/hostage-kayla-muellers-death-deserves-no-tears-because-she-supported-terrorism/   None   terrorism   None   None   None   Hostage Kayla Mueller’s Death “Deserves No Tears” Because She Supported Terrorism – Fiction!   Mar 17, 2015   None
+3553   Gleneagles Hospital Warning of Poisonous Perfume Arriving in Homes by Mail   Fiction!   https://www.truthorfiction.com/gleneagles-hospital-posison/   None   terrorism   None   None   None   Gleneagles Hospital Warning of Poisonous Perfume Arriving in Homes by Mail   Mar 17, 2015   None
 3554   Pam Foster commentary on Islam   Fiction!   https://www.truthorfiction.com/doug-patton/   None   terrorism   None   None   None   Pam Foster commentary on Islam   Mar 17, 2015   None
 3555   Poisonous perfume arriving in homes by mail   Fiction!   https://www.truthorfiction.com/poisonperfume/   None   terrorism   None   None   None   Poisonous perfume arriving in homes by mail   Mar 17, 2015   None
 3556   Maxine Waters: Next Supreme Court Justice Should Be an Illegal Immigrant   Fiction!   https://www.truthorfiction.com/maxine-waters-illegal-immigrant-supreme-court/   None   trump   None   None   ['congress', 'donald trump', 'Maxine Waters', 'social media', 'supreme court']   Maxine Waters: Next Supreme Court Justice Should Be an Illegal Immigrant   Jul 9, 2018   None
@@ -3707,9 +3569,7 @@ Mail   Mar 17, 2015   None
 3574   Safeway Offers $55 Coupon for 100th Anniversary   Fiction!   https://www.truthorfiction.com/safeway-offers-55-coupon-100th-anniversary/   None   virus   None   None   None   Safeway Offers $55 Coupon for 100th Anniversary   Jul 5, 2016   None
 3575   Kohls Coupon $75 off $80 Purchase   Scam!   https://www.truthorfiction.com/kohls-coupon-75-off-80-purchase-scam/   None   virus   None   None   None   Kohls Coupon $75 off $80 Purchase   May 24, 2016   None
 3576   Warnings About “Sonia Disowns Rahul” Video Virus   Reported as Fiction!   https://www.truthorfiction.com/warnings-sonia-disowns-rahul-video-virus/   None   virus   None   None   None   Warnings About “Sonia Disowns Rahul” Video Virus   Mar 17, 2016   None
-3577   “Facebook Invitation”, “Black in the White House,” “Invitation” or
-“Olympic Torch” Virus Warning   Fiction!   https://www.truthorfiction.com/invitation/   None   virus   None   None   None   “Facebook Invitation”, “Black in the White House,” “Invitation” or
-“Olympic Torch” Virus Warning   Mar 17, 2015   None
+3577   “Facebook Invitation”, “Black in the White House,” “Invitation” or “Olympic Torch” Virus Warning   Fiction!   https://www.truthorfiction.com/invitation/   None   virus   None   None   None   “Facebook Invitation”, “Black in the White House,” “Invitation” or “Olympic Torch” Virus Warning   Mar 17, 2015   None
 3578   It Takes Guts to say Jesus Virus   Fiction!   https://www.truthorfiction.com/gutstosayjesus/   None   virus   None   None   None   It Takes Guts to say Jesus Virus   Mar 17, 2015   None
 3579   Budweiser Frogs Screen Saver Virus   Fiction!   https://www.truthorfiction.com/budweiserfrogs/   None   virus   None   None   None   Budweiser Frogs Screen Saver Virus   Mar 17, 2015   None
 3580   The Charles IX Virus   Fiction!   https://www.truthorfiction.com/aprilvirus/   None   virus   None   None   None   The Charles IX Virus   Mar 17, 2015   None
@@ -3726,9 +3586,7 @@ Mail   Mar 17, 2015   None
 3591   Advances in Iraq Since the Iraq War of 2003   Truth!   https://www.truthorfiction.com/iraqadvance/   None   war   None   None   None   Advances in Iraq Since the Iraq War of 2003   Mar 17, 2015   None
 3592   Halliburton docks the pay of employee hostage of Iraqis?   Fiction!   https://www.truthorfiction.com/halliburtion-hamill/   None   war   None   None   None   Halliburton docks the pay of employee hostage of Iraqis?   Mar 17, 2015   None
 3593   Words from Soldier to Anti   War Mom – Unproven!   https://www.truthorfiction.com/kuwaitsoldier/   None   war   None   None   None   Words from Soldier to Anti   Mar 17, 2015   None
-3594   CNN Refrained From Reporting Atrocities about Saddam Hussein until after
-the war in Iraq   Truth!   https://www.truthorfiction.com/cnn-iraq/   None   war   None   None   None   CNN Refrained From Reporting Atrocities about Saddam Hussein until after
-the war in Iraq   Mar 17, 2015   None
+3594   CNN Refrained From Reporting Atrocities about Saddam Hussein until after the war in Iraq   Truth!   https://www.truthorfiction.com/cnn-iraq/   None   war   None   None   None   CNN Refrained From Reporting Atrocities about Saddam Hussein until after the war in Iraq   Mar 17, 2015   None
 3595   Media Ignores a Military Victory   Truth!   https://www.truthorfiction.com/victory-ignored/   None   war   None   None   None   Media Ignores a Military Victory   Mar 17, 2015   None
 3596   Supermarket rebuke of an Iraqi woman   Unproven!   https://www.truthorfiction.com/supermarket-put-down/   None   war   None   None   None   Supermarket rebuke of an Iraqi woman   Mar 17, 2015   None
 3597   Thieves Cloning Auto Door Lock Codes, Breaking Into Cars   Truth!   https://www.truthorfiction.com/thieves-cloning-auto-door-lock-codes-breaking-cars-truth/   None   warnings   None   None   ['crime', 'police', 'warnings']   Thieves Cloning Auto Door Lock Codes, Breaking Into Cars   Jan 18, 2018   None
@@ -3758,11 +3616,7 @@ the war in Iraq   Mar 17, 2015   None
 3621   Scam Artists Are Working out of Area Code 809, 284, or 876   Truth! & Fiction!   https://www.truthorfiction.com/area809/   None   warnings   None   None   None   Scam Artists Are Working out of Area Code 809, 284, or 876   Mar 17, 2015   None
 3622   Michael Jackson Viruses   Truth!   https://www.truthorfiction.com/michaeljacksonvirus/   None   warnings   None   None   None   Michael Jackson Viruses   Mar 17, 2015   None
 3623   Forward an email or else you will die   Fiction!   https://www.truthorfiction.com/emailordie/   None   warnings   None   None   None   Forward an email or else you will die   Mar 17, 2015   None
-3624   Your vehicle identification number can lead to a stolen car   Truth! &
-Fiction!   https://www.truthorfiction.com/vin/   None   warnings   None   None   None   Your vehicle identification number can lead to a stolen car   Mar 17, 2015   None
-3625   Zabasearch-a new site that probably has your name, address, and phone
-number   Truth!   https://www.truthorfiction.com/zabasearch/   None   warnings   None   None   None   Zabasearch-a new site that probably has your name, address, and phone
-number   Mar 17, 2015   None
+3624   Your vehicle identification number can lead to a stolen car   Truth! & Fiction!   https://www.truthorfiction.com/vin/   None   warnings   None   None   None   Your vehicle identification number can lead to a stolen car   Mar 17, 2015   None 3625   Zabasearch-a new site that probably has your name, address, and phone number   Truth!   https://www.truthorfiction.com/zabasearch/   None   warnings   None   None   None   Zabasearch-a new site that probably has your name, address, and phone number   Mar 17, 2015   None
 3626   The Petroleum Equipment Institute report on gasoline fires started by sparks   Truth!   https://www.truthorfiction.com/sparks/   None   warnings   None   None   None   The Petroleum Equipment Institute report on gasoline fires started by sparks   Mar 17, 2015   None
 3627   The Mexican Mafia is targeting black men for death   Unproven!   https://www.truthorfiction.com/mexicanmafia/   None   warnings   None   None   None   The Mexican Mafia is targeting black men for death   Mar 17, 2015   None
 3628   Fragrance Product Line Named FCUK   Truth!   https://www.truthorfiction.com/fcuk/   None   warnings   None   None   None   Fragrance Product Line Named FCUK   Mar 17, 2015   None
@@ -3770,9 +3624,7 @@ number   Mar 17, 2015   None
 3630   Kyle, the 14-year-old who died inhaling Dust-Off   Truth!   https://www.truthorfiction.com/dustoff/   None   warnings   None   None   None   Kyle, the 14-year-old who died inhaling Dust-Off   Mar 17, 2015   None
 3631   Don’t use cruise control in the rain   Truth!   https://www.truthorfiction.com/cruisecontrol/   None   warnings   None   None   None   Don’t use cruise control in the rain   Mar 17, 2015   None
 3632   New method being used by carjackers   Fiction!   https://www.truthorfiction.com/carjack/   None   warnings   None   None   None   New method being used by carjackers   Mar 17, 2015   None
-3633   Beware of Car Jackers Who Leave a Piece of Paper on Your Rear
-Window   Fiction!   https://www.truthorfiction.com/carjackers/   None   warnings   None   None   None   Beware of Car Jackers Who Leave a Piece of Paper on Your Rear
-Window   Mar 17, 2015   None
+3633   Beware of Car Jackers Who Leave a Piece of Paper on Your Rear Window   Fiction!   https://www.truthorfiction.com/carjackers/   None   warnings   None   None   None   Beware of Car Jackers Who Leave a Piece of Paper on Your Rear Window   Mar 17, 2015   None
 3634   Cell phone cameras being used at check stands?   Unproven!   https://www.truthorfiction.com/cellcameras/   None   warnings   None   None   None   Cell phone cameras being used at check stands?   Mar 17, 2015   None
 3635   Do not call list for cell phone numbers?   Fiction!   https://www.truthorfiction.com/celldirectory/   None   warnings   None   None   None   Do not call list for cell phone numbers?   Mar 17, 2015   None
 3636   Your credit card has been used on the BestBuy website   Fiction!   https://www.truthorfiction.com/bestbuy/   None   warnings   None   None   None   Your credit card has been used on the BestBuy website   Mar 17, 2015   None
@@ -3785,29 +3637,19 @@ Window   Mar 17, 2015   None
 3643   Canadian Revenue Agency Warning   Phishing Scam!   https://www.truthorfiction.com/canadian-revenue-agency-warning/   None   warnings   None   None   None   Canadian Revenue Agency Warning   Mar 17, 2015   None
 3644   112 is the Emergency Number worldwide for Cell Phones   Fiction!   https://www.truthorfiction.com/112-emergency-call/   None   warnings   None   None   None   112 is the Emergency Number worldwide for Cell Phones   Mar 17, 2015   None
 3645   10,856 Blacks Were Killed By Other Blacks in 503 Days in U.S.   Fiction!   https://www.truthorfiction.com/blacks-killing-blacks/   None   warnings   None   None   None   10,856 Blacks Were Killed By Other Blacks in 503 Days in U.S.   Mar 17, 2015   None
-3646   Warning about Homemade Bottle Bombs made with Soda Bottles and Household
-Products   Truth!   https://www.truthorfiction.com/works-bombs/   None   warnings   None   None   None   Warning about Homemade Bottle Bombs made with Soda Bottles and Household
-Products   Mar 17, 2015   None
+3646   Warning about Homemade Bottle Bombs made with Soda Bottles and Household Products   Truth!   https://www.truthorfiction.com/works-bombs/   None   warnings   None   None   None   Warning about Homemade Bottle Bombs made with Soda Bottles and Household Products   Mar 17, 2015   None
 3647   Gangs Using Children to Lure Victims   Fiction!   https://www.truthorfiction.com/gang-rape-warning/   None   warnings   None   None   None   Gangs Using Children to Lure Victims   Mar 17, 2015   None
 3648   Skin injury from thongs purchased at Wal-Mart   Truth!   https://www.truthorfiction.com/wal-mart-flipflops/   None   warnings   None   None   None   Skin injury from thongs purchased at Wal-Mart   Mar 17, 2015   None
 3649   Gangs Using Baby Car Seats to Stop Motorists   Fiction!   https://www.truthorfiction.com/tn-gang-week/   None   warnings   None   None   None   Gangs Using Baby Car Seats to Stop Motorists   Mar 17, 2015   None
-3650   U.N. Disarmament Commission Study on Military Grade Weapons in
-U.S.   Fiction!   https://www.truthorfiction.com/un-disarmament-commission-082113/   None   warnings   None   None   None   U.N. Disarmament Commission Study on Military Grade Weapons in
-U.S.   Mar 17, 2015   None
-3651   Deputy Attorney General Designate David Ogden Drafting a Gun Ban Against
-Seniors    Fiction! & Satire!   https://www.truthorfiction.com/senior-gun-contol/   None   warnings   None   None   None   Deputy Attorney General Designate David Ogden Drafting a Gun Ban Against
-Seniors   Mar 17, 2015   None
+3650   U.N. Disarmament Commission Study on Military Grade Weapons in U.S.   Fiction!   https://www.truthorfiction.com/un-disarmament-commission-082113/   None   warnings   None   None   None   U.N. Disarmament Commission Study on Military Grade Weapons in U.S.   Mar 17, 2015   None
+3651   Deputy Attorney General Designate David Ogden Drafting a Gun Ban Against Seniors    Fiction! & Satire!   https://www.truthorfiction.com/senior-gun-contol/   None   warnings   None   None   None   Deputy Attorney General Designate David Ogden Drafting a Gun Ban Against Seniors   Mar 17, 2015   None
 3652   Stolen license plates used to steal gas   Unproven!   https://www.truthorfiction.com/stolen-plates/   None   warnings   None   None   None   Stolen license plates used to steal gas   Mar 17, 2015   None
 3653   Warnings of an Illegal Methamphetamine Substance Called “Strawberry Quick”   Truth!   https://www.truthorfiction.com/strawberry-meth/   None   warnings   None   None   None   Warnings of an Illegal Methamphetamine Substance Called “Strawberry Quick”   Mar 17, 2015   None
 3654   Severe burns on a man’s hands from a hand sanitizer fire?   Fiction!   https://www.truthorfiction.com/purell/   None   warnings   None   None   None   Severe burns on a man’s hands from a hand sanitizer fire?   Mar 17, 2015   None
 3655   Haiti Made a Pact with the Devil   Disputed!   https://www.truthorfiction.com/pat-robertson-haiti/   None   warnings   None   None   None   Haiti Made a Pact with the Devil   Mar 17, 2015   None
-3656   Noted Narcissism Expert Wrote that Barack Obama Appears to be a
-Narcissist – Truth! & Fiction!      https://www.truthorfiction.com/obama-vaknin/   None   warnings   None   None   None   Noted Narcissism Expert Wrote that Barack Obama Appears to be a
-Narcissist – Truth! & Fiction!   Mar 17, 2015   None
+3656   Noted Narcissism Expert Wrote that Barack Obama Appears to be a Narcissist – Truth! & Fiction!      https://www.truthorfiction.com/obama-vaknin/   None   warnings   None   None   None   Noted Narcissism Expert Wrote that Barack Obama Appears to be a Narcissist – Truth! & Fiction!   Mar 17, 2015   None
 3657   NASA Confirms Six Days of Darkness Ahead   Fiction!   https://www.truthorfiction.com/nasa-prediction/   None   warnings   None   None   None   NASA Confirms Six Days of Darkness Ahead   Mar 17, 2015   None
-3658   Scam Artists Can Trick You Into Dialing “90#” on Your Phone And Use Your
-Line For Long Distance Calls    Truth!  & Fiction!   https://www.truthorfiction.com/ninezeropound/   None   warnings   None   None   None   Scam Artists Can Trick You Into Dialing “90#” on Your Phone And Use Your
-Line For Long Distance Calls    Mar 17, 2015   None
+3658   Scam Artists Can Trick You Into Dialing “90#” on Your Phone And Use Your Line For Long Distance Calls    Truth!  & Fiction!   https://www.truthorfiction.com/ninezeropound/   None   warnings   None   None   None   Scam Artists Can Trick You Into Dialing “90#” on Your Phone And Use Your Line For Long Distance Calls    Mar 17, 2015   None
 3659   Emailed Pleas For Donations For Japan Earthquake Relief May Be A Scam   Truth!   https://www.truthorfiction.com/japan-earthquake-relief-scam/   None   warnings   None   None   None   Emailed Pleas For Donations For Japan Earthquake Relief May Be A Scam   Mar 17, 2015   None
 3660   Gift Card Scam Warning   Truth!   https://www.truthorfiction.com/giftcardscam/   None   warnings   None   None   None   Gift Card Scam Warning   Mar 17, 2015   None
 3661   Hacker Alerts naming people who can harm your computer   Fiction!   https://www.truthorfiction.com/hacker-alerts/   None   warnings   None   None   None   Hacker Alerts naming people who can harm your computer   Mar 17, 2015   None
@@ -3817,15 +3659,10 @@ Line For Long Distance Calls    Mar 17, 2015   None
 3665   Energy Saving Bulb Dangers–Fiction!      https://www.truthorfiction.com/cfl-bulb-dangers/   None   warnings   None   None   None   Energy Saving Bulb Dangers–Fiction!   Mar 17, 2015   None
 3666   Popping Corn with Cell Phones?   Fiction!   https://www.truthorfiction.com/cell-popcorn/   None   warnings   None   None   None   Popping Corn with Cell Phones?   Mar 17, 2015   None
 3667   Lock bumping-a threat to home or office security   Truth!   https://www.truthorfiction.com/bumping/   None   warnings   None   None   None   Lock bumping-a threat to home or office security   Mar 17, 2015   None
-3668   Woman poisoned by a business card soaked with the Colombian drug
-burundanga   Unproven!   https://www.truthorfiction.com/burundanga/   None   warnings   None   None   None   Woman poisoned by a business card soaked with the Colombian drug
-burundanga   Mar 17, 2015   None
+3668   Woman poisoned by a business card soaked with the Colombian drug burundanga   Unproven!   https://www.truthorfiction.com/burundanga/   None   warnings   None   None   None   Woman poisoned by a business card soaked with the Colombian drug burundanga   Mar 17, 2015   None
 3669   Bathroom Robbery      https://www.truthorfiction.com/bathroom-robber/   None   warnings   None   None   None   Bathroom Robbery   Mar 17, 2015   None
-3670   Be Sure to Press “Clear” at the Gas Pump to Prevent Being
-Overcharged   Fiction!   https://www.truthorfiction.com/atm-terminals/   None   warnings   None   None   None   Be Sure to Press “Clear” at the Gas Pump to Prevent Being
-Overcharged   Mar 17, 2015   None
-3671   An Automated Phone Call Alerting You That You Lost Your ATM Card   
-Phishing Scam!   https://www.truthorfiction.com/automated-phone-call-lost-card/   None   warnings   None   None   None   An Automated Phone Call Alerting You That You Lost Your ATM Card   Mar 17, 2015   None
+3670   Be Sure to Press “Clear” at the Gas Pump to Prevent Being Overcharged   Fiction!   https://www.truthorfiction.com/atm-terminals/   None   warnings   None   None   None   Be Sure to Press “Clear” at the Gas Pump to Prevent Being Overcharged   Mar 17, 2015   None
+3671   An Automated Phone Call Alerting You That You Lost Your ATM Card   Phishing Scam!   https://www.truthorfiction.com/automated-phone-call-lost-card/   None   warnings   None   None   None   An Automated Phone Call Alerting You That You Lost Your ATM Card   Mar 17, 2015   None
 3672   A New Coin Called the “Amero” Is Being Minted As The Future Currency Of The U.S.A.   Fiction!   https://www.truthorfiction.com/amero/   None   warnings   None   None   None   A New Coin Called the “Amero” Is Being Minted As The Future Currency Of The U.S.A.   Mar 17, 2015   None
 3673   Abductions of women from shopping malls   Fiction!   https://www.truthorfiction.com/mallabduct/   None   warnings   None   None   None   Abductions of women from shopping malls   Mar 17, 2015   None
 3674   sulfnbk.exe virus warning   Fiction!   https://www.truthorfiction.com/sulfnbk/   None   warnings   None   None   None   sulfnbk.exe virus warning   Mar 17, 2015   None
