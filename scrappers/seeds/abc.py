@@ -13,6 +13,7 @@ class Abc(Commons):
         self.dict_unique_urls = {}
         self.dict_claims_category = {}
         self.claim_num = 1
+        self.dict_objects = {}
 
     def get_claim(self, soup, url):
         claim = ""
@@ -114,7 +115,13 @@ class Abc(Commons):
 
     def parse_claim_url(self):
         for claim_id, claim_url in self.dict_claims_urls.items():
-            html = self._get_full_doc_(claim_url)
+            try:
+                html = self._get_full_doc_(claim_url)
+                with open("raw_content/abc/"+str(claim_id)+".html","w") as f:
+                    f.write(str(html))
+            except:
+                self.reopen_driver()
+                continue
             soup = BeautifulSoup(html, 'html.parser')
             self.clean_soup(soup)
             ###THIS IS ASSUMING THAT THE LABEL IS DIVIDED INTO 3, however it's not just that.
@@ -134,15 +141,25 @@ class Abc(Commons):
 
             claim_object.set_id(claim_id)
             claim_object.set_claim_url(claim_url)
-            claim_object.set_claim(claim)
-            claim_object.set_label(label)
-            claim_object.set_article_title(article_title)
-            claim_object.set_categories(category)
-            claim_object.set_reason(reason)
+            if claim != "":
+                claim_object.set_claim(claim)
+            else:
+                continue
+            if label != "":
+                claim_object.set_label(label)
+            if article_title != "":
+                claim_object.set_article_title(article_title)
+            if category != "":
+                claim_object.set_categories(category)
+            if reason != "":
+                claim_object.set_reason(reason)
             # # claim_object.set_checker(author)
-            claim_object.set_publish_date(publish_date)
+            if publish_date != "":
+                claim_object.set_publish_date(publish_date)
             # # claim_object.set_reason(author)
-            claim_object.set_tags(tags)
+            if tags != "":
+                claim_object.set_tags(tags)
+            self.dict_objects[claim_id] = claim_object
             #
             claim_object.pretty_print()
 
@@ -180,8 +197,8 @@ class Abc(Commons):
         ## There is no direct answer to who spoke the claim.
         ## SHOULD DOUBLE CHECK IF THE TITLE OF THE ARTICLE IS THE CLAIM, OR THE CLAIM IS IN THE <h2> THE CLAIM
 
-        # categories = {"in-the-red":3, "in-the-green":3, "in-between":5}
-        categories = {"in-the-red":1, "in-the-green":1, "in-between":1}
+        categories = {"in-the-red":3, "in-the-green":3, "in-between":5}
+        # categories = {"in-the-red":1, "in-the-green":1, "in-between":1}
         # categories = {"in-between":1}
         for category, max in categories.items():
             #Enter the first time to crawl
@@ -201,11 +218,12 @@ class Abc(Commons):
         # for key, url in self.dict_unique_urls.items():
         #     print (key, url)
         self.parse_claim_url()
+        self.print_object_as_tsv("schemas/abc.txt", self.dict_objects)
+        self.summarize_statistics("statistics/abc.txt", self.dict_objects)
 
                 # filepath = self.destination_folder + str(i)+".txt"
                 # self.write_webpage_content_tofile(html, filepath)
         self.driver.close()
-
 
 if __name__ == '__main__':
     abc = Abc(4, "http://www.abc.net.au/news/factcheck/", "C:\Lucas\PhD\CredibilityDataset\scrappers\seeds\chromedriver.exe")

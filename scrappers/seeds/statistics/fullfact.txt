@@ -1,0 +1,4 @@
+Information claim_id   claim   label   claim_url   reason   categories   speaker   checker   tags   article_title   publish_date   claim_date
+Total   338   338   338   338   338   338   338   338   338   338   338   338
+Collected   338   338   338   338   338   338   0   338   0   338   338   0
+Missed   0   0   0   0   0   0   338   0   338   0   0   338

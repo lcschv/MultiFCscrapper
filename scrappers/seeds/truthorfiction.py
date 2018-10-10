@@ -13,7 +13,7 @@ class TruthOrFiction(Commons):
         self.dict_unique_urls = {}
         self.dict_claims_category = {}
         self.claim_num = 1
-
+        self.dict_objects = {}
     def get_claim(self, soup, url, title):
         claim = ""
         div_tag = soup.find_all("div",{"class": "inner-post-entry"})
@@ -38,11 +38,15 @@ class TruthOrFiction(Commons):
         except Exception as e:
             # self.cont_errors += 1
             print(str(e), "wrong label at url: ", url)
-            label = "wrong label"
+            label = ""
         return label
 
     def get_publish_date(self, soup, url):
-        publish_date = soup.find("div",{"class":"post-box-meta-single"}).find("span").text.strip()
+        publish_date = ""
+        try:
+            publish_date = soup.find("div",{"class":"post-box-meta-single"}).find("span").text.strip()
+        except:
+            return publish_date
         return publish_date
 
     def get_author(self):
@@ -76,37 +80,65 @@ class TruthOrFiction(Commons):
 
     def get_article_title_and_label(self, soup, url):
         title=""
-        entire_title = soup.find("h1",{"class":"post-title single-post-title"}).text.strip()
-        title = entire_title.rsplit('-',1)[0]
-        label = entire_title.rsplit('-', 1)[1]
+        label = ""
+        try:
+            entire_title = soup.find("h1",{"class":"post-title single-post-title"}).text.strip()
+            title = entire_title.rsplit('-', 1)[0]
+            label = entire_title.rsplit('-', 1)[1]
+        except:
+            return title, label
+
+
         return title, label
 
 
     def parse_claim_url(self):
         for claim_id, claim_url in self.dict_claims_urls.items():
-            html = self._get_full_doc_(claim_url)
+            try:
+                html = self._get_full_doc_(claim_url)
+                with open("raw_content/truthorfiction/" + str(claim_id) + ".html", "w") as f:
+                    f.write(str(html))
+            except:
+                self.reopen_driver()
+                continue
             soup = BeautifulSoup(html, 'html.parser')
-            self.clean_soup(soup)
-            category = self.dict_claims_category[claim_url]
+            # self.clean_soup(soup)
+            claim_object = ClaimSchema()
             article_title, label = self.get_article_title_and_label(soup, claim_url)
-            publish_date = self.get_publish_date(soup,claim_url)
             claim = self.get_claim(soup, claim_url, article_title)
+            if claim != "":
+                claim_object.set_claim(claim)
+            else:
+                continue
+            try:
+                category = self.dict_claims_category[claim_url]
+                claim_object.set_categories(category)
+            except:
+                category =""
+
+            if article_title != "":
+                claim_object.set_article_title(article_title)
+                claim_object.set_label(label)
+            publish_date = self.get_publish_date(soup, claim_url)
+            if publish_date != "":
+                claim_object.set_publish_date(publish_date)
+
+
             # author, publish_date =self.article_info(soup, claim_url)
             # category = self.get_claim_category(soup, claim_url)
             tags = self.get_tags(soup, claim_url)
+            if len(tags)>0:
+                claim_object.set_tags(tags)
+
             # # print (claim_id, claim, label, article_title, author, publish_date)
-            claim_object = ClaimSchema()
+
             #
             claim_object.set_id(claim_id)
             claim_object.set_claim_url(claim_url)
-            claim_object.set_claim(claim)
-            claim_object.set_label(label)
-            claim_object.set_article_title(article_title)
-            claim_object.set_categories(category)
+
+            self.dict_objects[claim_id] = claim_object
             # claim_object.set_checker(author)
-            claim_object.set_publish_date(publish_date)
             # claim_object.set_reason(author)
-            claim_object.set_tags(tags)
 
             claim_object.pretty_print()
 
@@ -128,16 +160,16 @@ class TruthOrFiction(Commons):
         [s.extract() for s in soup('style')]
 
     def start(self):
-        # categories = ["9-11-attack","animals", "appeals","business", "celebrities","christmas", "clinton",
-        #               "clintons", "computers", "crime-police", "education", "environment", "food", "government",
-        #               "guns","health-medical", "holidays", "household", "humorous", "natural-disasters/hurricane",
-        #               "immigration","insects", "inspirational", "international", "internet","natural-disasters/katrina",
-        #               "mass-shootings", "medical", "military", "miscellaneous", "missing", "money-financial", "natural-disasters",
-        #               "obama", "pleas", "politics", "prayers", "promises", "redfaces", "religious", "russia", "social-media",
-        #               "space-aviation", "sports", "terrorism", "trump", "politics/trump-politics", "natural-disasters/tsunami",
-        #               "virus", "war", "warnings"]
+        categories = ["9-11-attack","animals", "appeals","business", "celebrities","christmas", "clinton",
+                      "clintons", "computers", "crime-police", "education", "environment", "food", "government",
+                      "guns","health-medical", "holidays", "household", "humorous", "natural-disasters/hurricane",
+                      "immigration","insects", "inspirational", "international", "internet","natural-disasters/katrina",
+                      "mass-shootings", "medical", "military", "miscellaneous", "missing", "money-financial", "natural-disasters",
+                      "obama", "pleas", "politics", "prayers", "promises", "redfaces", "religious", "russia", "social-media",
+                      "space-aviation", "sports", "terrorism", "trump", "politics/trump-politics", "natural-disasters/tsunami",
+                      "virus", "war", "warnings"]
 
-        categories = ["animals"]
+        # categories = ["animals"]
         for category in categories:
             #Enter the first time to crawl
             i=1
@@ -155,7 +187,8 @@ class TruthOrFiction(Commons):
                 request = requests.get(url)
 
         self.parse_claim_url()
-
+        self.print_object_as_tsv("schemas/truthorfiction.txt", self.dict_objects)
+        self.summarize_statistics("statistics/truthorfiction.txt", self.dict_objects)
                 # filepath = self.destination_folder + str(i)+".txt"
                 # self.write_webpage_content_tofile(html, filepath)
         self.driver.close()

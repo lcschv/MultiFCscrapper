@@ -174,8 +174,8 @@ class FactCheckOrg(Commons):
         Same label might occur twice differently (this happens because sometimes I can extract directly, other times I extract from the imagesrc.
         """
 
-        # categories = ["the-factcheck-wire","featured-posts", "scicheck","askfactcheck", "fake-news"]
-        categories = ["the-factcheck-wire"]
+        categories = ["the-factcheck-wire","featured-posts", "scicheck","askfactcheck", "fake-news"]
+        # categories = ["the-factcheck-wire"]
 
         for category in categories:
             #Enter the first time to crawl
@@ -189,7 +189,7 @@ class FactCheckOrg(Commons):
                 soup = BeautifulSoup(html, 'html.parser')
                 self.clean_soup(soup)
                 self.get_list_claims_url(soup, category)
-                i += 50
+                i += 1
                 url = self.seed_url + category + "/page/" + str(i)
                 request = requests.get(url)
 
