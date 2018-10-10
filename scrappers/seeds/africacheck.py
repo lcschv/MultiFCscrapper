@@ -1,7 +1,7 @@
 import sys
-# sys.path.append("..")
-from scrappers.Commons import *
-from scrappers.ClaimSchema import *
+sys.path.append("..")
+from Commons import *
+from ClaimSchema import *
 from bs4 import BeautifulSoup
 
 

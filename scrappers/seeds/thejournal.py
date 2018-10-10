@@ -23,7 +23,7 @@ def parse(doc):
 		claim_obj = ClaimSchema()
 		date = claim.find('span',{'class','date'})
 		if date is not None:
-			claim_obj.set_publish_date(date)	#date
+			claim_obj.set_publish_date(date.text.strip())	#date
 		claim_txt = claim.find('h4')
 		if claim_txt==None:
 			continue
@@ -35,7 +35,10 @@ def parse(doc):
 		get_page(link,claim_obj)
 
 def get_page(url,claim_obj):
-	doc = comm._get_full_doc_(url)
+	try:
+		doc = comm._get_full_doc_(url)
+	except:
+		return
 	soup = BeautifulSoup(doc,features='html.parser')
 	article = soup.find('div',{'id':'articleContent'})
 	ps = article.find_all('p')
