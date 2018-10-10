@@ -3,7 +3,7 @@ sys.path.append("..")
 from Commons import *
 from ClaimSchema import *
 from bs4 import BeautifulSoup
-
+import copy
 
 """
 iterate 
@@ -17,7 +17,7 @@ count = 0
 dict_objects = {}
 
 def parse(doc):
-	soup = BeautifulSoup(doc,features='html')
+	soup = BeautifulSoup(doc,features='html.parser')
 	claim_list = soup.select('.article-content')
 	for claim in claim_list:
 		claim_obj = ClaimSchema()
@@ -59,7 +59,9 @@ def get_page(url, claim_obj):
 			claim_obj.set_label(verdict.find('span').text.strip())
 		in_count = in_count+1
 		global count
-		dict_objects[str(count)+'_'+str(in_count)] = claim_obj
+		obj2 = ClaimSchema()
+		obj2 = copy.deepcopy(claim_obj)
+		dict_objects[str(count)+'_'+str(in_count)] = obj2
 
 
 

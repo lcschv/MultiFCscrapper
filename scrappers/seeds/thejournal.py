@@ -3,7 +3,7 @@ sys.path.append("..")
 from Commons import *
 from ClaimSchema import *
 from bs4 import BeautifulSoup
-
+import copy
 
 """
 iterate 
@@ -28,7 +28,7 @@ def parse(doc):
 		if claim_txt==None:
 			continue
 		# print('claim:',claim_txt.text.strip())
-		claim_obj.set_claim(claim_txt.text.strip())
+		claim_obj.set_article_title(claim_txt.text.strip())
 		link = claim_txt.find('a').get('href')
 		claim_obj.set_claim_url(link)
 		print('link:',link)
@@ -47,35 +47,54 @@ def get_page(url,claim_obj):
 		strong_part = p.find('strong')
 		if strong_part is not None:
 			bold_txt = strong_part.text.strip()
-			if bold_txt.startswith('claim:'):
+			if 'claim:' in bold_txt:
 				inline_count = inline_count+1
 				# judge to output previous one 
 				if inline_count>1:
 					global count
 					count = count+1
-					print(count)
-					dict_objects[str(count)+'_'+str(inline_count)] = claim_obj
+					obj2 = copy.deepcopy(claim_obj)
+					print(count,':',obj2.get_claim())
+					dict_objects[str(count)+'_'+str(inline_count)] = obj2
 
 				if len(p_txt)>15:
 					claim_obj.set_claim(p_txt)
 				else:
 					flag = 1
-			if bold_txt.startswith('CLAIM:'):
+			if 'Claim:' in bold_txt:
 				inline_count = inline_count+1
+				# judge to output previous one 
 				if inline_count>1:
 					count = count+1
-					print(count)
-					dict_objects[str(count)+'_'+str(inline_count)] = claim_obj
+					obj2 = copy.deepcopy(claim_obj)
+					print(inline_count,':',obj2.get_claim())
+					dict_objects[str(count)+'_'+str(inline_count)] = obj2
+
 				if len(p_txt)>15:
 					claim_obj.set_claim(p_txt)
 				else:
 					flag = 1
+			if 'CLAIM:' in bold_txt:
 				inline_count = inline_count+1
+				if inline_count>1:
+					count = count+1
+					obj3 = copy.deepcopy(claim_obj)
+					print(count,':',obj3.get_claim())
+					dict_objects[str(count)+'_'+str(inline_count)] = obj3
+				if len(p_txt)>15:
+					claim_obj.set_claim(p_txt)
+				else:
+					flag = 1
 			if 'Conclusion:' in bold_txt:
 				if len(p_txt)>15:
 					claim_obj.set_reason(p_txt)
 				else:
 					flag = 2	# title
+			if 'facts:' in bold_txt:
+				if len(p_txt)>15:
+					claim_obj.set_label(p_txt)
+				else:
+					flag = 3	# title
 			if 'True' in bold_txt:
 				claim_obj.set_label(p_txt)
 			if 'FALSE' in bold_txt:
@@ -90,10 +109,12 @@ def get_page(url,claim_obj):
 				claim_obj.set_claim(p_txt)
 			if flag ==2:
 				claim_obj.set_reason(p_txt)
+			if flag ==3:
+				claim_obj.set_label(p_txt)
 			flag = 0
-		count = count+1
-		print(count)
-		dict_objects[str(count)] = claim_obj
+	count = count+1
+	print(count,':',claim_obj.get_claim())
+	dict_objects[str(count)] = claim_obj
 
 if __name__ == '__main__':
 	comm = Commons('C:\L\CredibilityDataset\CredibilityDataset\scrappers\seeds\chromedriver.exe')
