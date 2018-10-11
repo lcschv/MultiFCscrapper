@@ -47,7 +47,7 @@ def get_page(url, claim_obj):
 		claim_obj.set_article_title(title.text.strip())
 	date = main_part.find('time')
 	if date is not None:
-		claim_obj.set_publish_date(date)
+		claim_obj.set_publish_date(date.get('datetime'))
 	cates = main_part.find('span',{'class':'entry-catagory'})
 	if cates is not None:
 		claim_obj.set_categories(cates.text.strip())
