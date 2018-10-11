@@ -40,12 +40,12 @@ class Commons:
         self.driver.set_page_load_timeout(20)
 
     def print_object_as_tsv(self, file_name, dict_objects):
-        header = '  '.join("%s"% item[0] for item in vars(dict_objects[(list(dict_objects.keys())[0])]).items())
+        header = '\t'.join("%s"% item[0] for item in vars(dict_objects[(list(dict_objects.keys())[0])]).items())
         with io.open(file_name,"w", encoding="utf8") as f:
             f.write(header+"\n")
             for id, object in dict_objects.items():
                 attrs = vars(object)
-                f.write('   '.join("%s"% item[1] for item in attrs.items())+"\n")
+                f.write('\t'.join("%s"% item[1].replace("\t"," ") for item in attrs.items())+"\n")
 
     def summarize_statistics(self, file_out, dict_objects):
         dict_summary = {}
@@ -60,10 +60,10 @@ class Commons:
                 else:
                     dict_summary[key]["collected"] += 1
         with open(file_out,"w") as f:
-            f.write("Information"+" "+'   '.join("%s" % item[0] for item in dict_summary.items()) + "\n")
-            f.write("Total" + "   " + '   '.join("%s" % str(item[1]["missed"]+ item[1]["collected"]) for item in dict_summary.items())+"\n")
-            f.write("Collected"+"   "+'   '.join("%s" % item[1]["collected"] for item in dict_summary.items())+"\n")
-            f.write("Missed"+"   "+'   '.join("%s" % item[1]["missed"] for item in dict_summary.items()))
+            f.write("Information"+"\t"+'\t'.join("%s" % item[0] for item in dict_summary.items()) + "\n")
+            f.write("Total" + "\t" + '\t'.join("%s" % str(item[1]["missed"]+ item[1]["collected"]) for item in dict_summary.items())+"\n")
+            f.write("Collected"+"\t"+'\t'.join("%s" % item[1]["collected"] for item in dict_summary.items())+"\n")
+            f.write("Missed"+"\t"+'\t'.join("%s" % item[1]["missed"] for item in dict_summary.items()))
 
 
             # print('\t'.join("%s" % item[1] for item in attrs.items()))
