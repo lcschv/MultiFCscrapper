@@ -63,7 +63,7 @@ class Pandora(Commons):
                     claim_object.set_article_title(article_title)
                 label = self.dict_labels[claim_id]
                 claim_object.set_label(label)
-
+    
                 speaker = self.dict_speaker[claim_id]
                 claim_object.set_speaker(speaker)
 
