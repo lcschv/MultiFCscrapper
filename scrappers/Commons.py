@@ -45,7 +45,7 @@ class Commons:
             f.write(header+"\n")
             for id, object in dict_objects.items():
                 attrs = vars(object)
-                f.write('\t'.join("%s"% item[1].replace("\t"," ") for item in attrs.items())+"\n")
+                f.write('\t'.join("%s"% str(item[1]).replace("\t"," ") for item in attrs.items())+"\n")
 
     def summarize_statistics(self, file_out, dict_objects):
         dict_summary = {}

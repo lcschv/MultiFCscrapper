@@ -1,0 +1,672 @@
+4	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/uk-still-fastest-growing-g7-economy/
+4	https://twitter.com/intent/tweet?text=Is the UK still the fastest growing G7 economy?&url=https://fullfact.org/economy/uk-still-fastest-growing-g7-economy/&via=FullFact
+5	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/do-top-1-earners-pay-28-tax-burden/
+5	https://twitter.com/intent/tweet?text=Do the top 1% of earners pay 28% of the tax burden?&url=https://fullfact.org/economy/do-top-1-earners-pay-28-tax-burden/&via=FullFact
+7	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/unanswered-questions-extra-1-billion-mental-health/
+7	https://twitter.com/intent/tweet?text=Unanswered questions on \xe2\x80\x9cextra \xc2\xa31 billion\xe2\x80\x9d for mental health&url=https://fullfact.org/health/unanswered-questions-extra-1-billion-mental-health/&via=FullFact
+10	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/tax-avoidance-evasion-uk/
+10	https://twitter.com/intent/tweet?text=Tax: evasion and avoidance in the UK&url=https://fullfact.org/economy/tax-avoidance-evasion-uk/&via=FullFact
+13	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/uk-wealth-1-percent/
+13	https://twitter.com/intent/tweet?text=UK wealth: how much is owned by the 1%?&url=https://fullfact.org/europe/uk-wealth-1-percent/&via=FullFact
+18	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/immigration/do-eu-immigrants-contribute-134-every-1-they-receive/
+18	https://twitter.com/intent/tweet?text=Do EU immigrants contribute \xc2\xa31.34 for every \xc2\xa31 received from the UK?&url=https://fullfact.org/immigration/do-eu-immigrants-contribute-134-every-1-they-receive/&via=FullFact
+20	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/law/how-much-money-does-legal-aid-save-country/
+20	https://twitter.com/intent/tweet?text=How much money does legal aid save the country?&url=https://fullfact.org/law/how-much-money-does-legal-aid-save-country/&via=FullFact
+21	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/stop-and-search-arrest-rate/
+21	https://twitter.com/intent/tweet?text=Stop and search: higher arrest rate?&url=https://fullfact.org/crime/stop-and-search-arrest-rate/&via=FullFact
+24	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/pay-carers-will-national-living-wage-increase-spending-1-billion-year/
+24	https://twitter.com/intent/tweet?text=Pay for carers: will the \'national living wage\' increase spending by \xc2\xa31 billion a year?&url=https://fullfact.org/economy/pay-carers-will-national-living-wage-increase-spending-1-billion-year/&via=FullFact
+33	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/a-e-waiting-times-pmqs/
+33	https://twitter.com/intent/tweet?text=A&E waiting times&url=https://fullfact.org/health/a-e-waiting-times-pmqs/&via=FullFact
+35	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/did-conservatives-break-manifesto-promise-national-insurance/
+35	https://twitter.com/intent/tweet?text=Did the Conservatives break a manifesto promise on national insurance?&url=https://fullfact.org/economy/did-conservatives-break-manifesto-promise-national-insurance/&via=FullFact
+41	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/has-public-opinion-swung-favour-second-eu-referendum/
+41	https://twitter.com/intent/tweet?text=Has public opinion swung in favour of a second EU referendum?&url=https://fullfact.org/europe/has-public-opinion-swung-favour-second-eu-referendum/&via=FullFact
+45	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/uk-public-spending-down-us-levels-201819/
+45	https://twitter.com/intent/tweet?text=UK public spending down to US levels by 2018/19&url=https://fullfact.org/economy/uk-public-spending-down-us-levels-201819/&via=FullFact
+49	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/uk-public-debt-rising/
+49	https://twitter.com/intent/tweet?text=The UK public debt is rising&url=https://fullfact.org/economy/uk-public-debt-rising/&via=FullFact
+50	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/eu-behind-1-billion-increase-aid-spending/
+50	https://twitter.com/intent/tweet?text=Is the EU behind a \xc2\xa31 billion increase in aid spending?&url=https://fullfact.org/europe/eu-behind-1-billion-increase-aid-spending/&via=FullFact
+51	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/are-mental-health-nurse-numbers-down/
+51	https://twitter.com/intent/tweet?text=Are mental health nurse numbers down?&url=https://fullfact.org/health/are-mental-health-nurse-numbers-down/&via=FullFact
+64	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/news/princess-and-pcs-what-will-policing-princess-eugenies-wedding-cost/
+64	https://twitter.com/intent/tweet?text=The Princess and the PCs: What will policing Princess Eugenie\xe2\x80\x99s wedding cost?&url=https://fullfact.org/news/princess-and-pcs-what-will-policing-princess-eugenies-wedding-cost/&via=FullFact
+67	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/million-more-pupils-good-or-outstanding-schools-not-just-simple-story-school-improvement/
+67	https://twitter.com/intent/tweet?text=A million more pupils in good or outstanding schools? Not just a simple story of school improvement&url=https://fullfact.org/education/million-more-pupils-good-or-outstanding-schools-not-just-simple-story-school-improvement/&via=FullFact
+68	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/prison-officer-numbers-have-fallen/
+68	https://twitter.com/intent/tweet?text=Fewer prison officers in England and Wales&url=https://fullfact.org/crime/prison-officer-numbers-have-fallen/&via=FullFact
+74	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/do-benefit-fraud-investigators-outnumber-tax-inspectors-ten-one/
+74	https://twitter.com/intent/tweet?text=Do benefit fraud investigators outnumber tax inspectors 10:1?&url=https://fullfact.org/economy/do-benefit-fraud-investigators-outnumber-tax-inspectors-ten-one/&via=FullFact
+75	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/state-private-rented-homes/
+75	https://twitter.com/intent/tweet?text=The state of private rented homes&url=https://fullfact.org/economy/state-private-rented-homes/&via=FullFact
+77	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/what-did-courts-rule-pip/
+77	https://twitter.com/intent/tweet?text=What did the courts rule on PIP? &url=https://fullfact.org/health/what-did-courts-rule-pip/&via=FullFact
+81	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/more-people-nhs/
+81	https://twitter.com/intent/tweet?text=More people, more (NHS) problems?&url=https://fullfact.org/health/more-people-nhs/&via=FullFact
+83	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/uk-jobs-and-eu-owned-businesses/
+83	https://twitter.com/intent/tweet?text=UK jobs and EU-owned businesses&url=https://fullfact.org/economy/uk-jobs-and-eu-owned-businesses/&via=FullFact
+84	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/inflation-prices-soaring/
+84	https://twitter.com/intent/tweet?text=Adjective inflation: are prices \xe2\x80\x9csoaring\xe2\x80\x9d?&url=https://fullfact.org/economy/inflation-prices-soaring/&via=FullFact
+85	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/aande-england-has-never-been-busier/
+85	https://twitter.com/intent/tweet?text=A&E in England has never been busier&url=https://fullfact.org/health/aande-england-has-never-been-busier/&via=FullFact
+93	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/how-much-our-energy-comes-wind-mps-disagree/
+93	https://twitter.com/intent/tweet?text=How much of our energy comes from wind? MPs disagree&url=https://fullfact.org/economy/how-much-our-energy-comes-wind-mps-disagree/&via=FullFact
+97	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/news/humanitarian-aid-syria-2015/
+97	https://twitter.com/intent/tweet?text=Humanitarian aid to Syria in 2015&url=https://fullfact.org/news/humanitarian-aid-syria-2015/&via=FullFact
+99	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/poorer-children-are-less-likely-go-grammar-schools/
+99	https://twitter.com/intent/tweet?text=Poorer children are less likely to go to grammar schools&url=https://fullfact.org/education/poorer-children-are-less-likely-go-grammar-schools/&via=FullFact
+102	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/pound-fallen-since-brexit/
+102	https://twitter.com/intent/tweet?text=The pound has fallen in value since the Brexit vote&url=https://fullfact.org/economy/pound-fallen-since-brexit/&via=FullFact
+108	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/are-more-people-being-paid-advance-their-universal-credit/
+108	https://twitter.com/intent/tweet?text=Are more people being paid an advance on their Universal Credit?&url=https://fullfact.org/economy/are-more-people-being-paid-advance-their-universal-credit/&via=FullFact
+110	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/rail-fares-25-six-years/
+110	https://twitter.com/intent/tweet?text=Rail fares: up 25% in six years?&url=https://fullfact.org/economy/rail-fares-25-six-years/&via=FullFact
+113	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/did-conservatives-refuse-support-6500-british-shipbuilding-jobs/
+113	https://twitter.com/intent/tweet?text=Did the Conservatives refuse to support 6500 British shipbuilding jobs?&url=https://fullfact.org/economy/did-conservatives-refuse-support-6500-british-shipbuilding-jobs/&via=FullFact
+116	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/immigration/immigration-wages/
+116	https://twitter.com/intent/tweet?text=What does immigration do to wages?&url=https://fullfact.org/immigration/immigration-wages/&via=FullFact
+125	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/universal-credit-will-it-make-work-pay/
+125	https://twitter.com/intent/tweet?text=Universal Credit: will it "make work pay"?&url=https://fullfact.org/economy/universal-credit-will-it-make-work-pay/&via=FullFact
+126	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/128000-children-are-homeless-britain/
+126	https://twitter.com/intent/tweet?text=How many children are homeless in England, Scotland and Wales?&url=https://fullfact.org/economy/128000-children-are-homeless-britain/&via=FullFact
+127	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/immigration/ask-full-fact-germany-hasnt-accepted-800000-syrian-refugees/
+127	https://twitter.com/intent/tweet?text=Ask Full Fact: Germany hasn\'t accepted 800,000 Syrian refugees&url=https://fullfact.org/immigration/ask-full-fact-germany-hasnt-accepted-800000-syrian-refugees/&via=FullFact
+128	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/law/human-rights-court-pseudo-judges-or-super-judges/
+128	https://twitter.com/intent/tweet?text=Human rights court: "pseudo-judges" or super judges?&url=https://fullfact.org/law/human-rights-court-pseudo-judges-or-super-judges/&via=FullFact
+133	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/immigration/immigration-unemployment-uk/
+133	https://twitter.com/intent/tweet?text=Immigration and unemployment in the UK&url=https://fullfact.org/immigration/immigration-unemployment-uk/&via=FullFact
+138	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/how-many-men-have-sexual-interest-children/
+138	https://twitter.com/intent/tweet?text=How many men have a sexual interest in children?&url=https://fullfact.org/crime/how-many-men-have-sexual-interest-children/&via=FullFact
+144	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/immigration/parents-born-outside-uk/
+144	https://twitter.com/intent/tweet?text=A third of babies have at least one parent born outside the UK&url=https://fullfact.org/immigration/parents-born-outside-uk/&via=FullFact
+148	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/vegetarian-vegan-uk/
+148	https://twitter.com/intent/tweet?text=How much meat do we eat?&url=https://fullfact.org/health/vegetarian-vegan-uk/&via=FullFact
+154	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/conservative-manifestos-onshore-wind-pledge/
+154	https://twitter.com/intent/tweet?text=The Conservative manifesto\'s onshore wind pledge&url=https://fullfact.org/economy/conservative-manifestos-onshore-wind-pledge/&via=FullFact
+164	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/immigration/about-32-million-eu-nationals-live-uk/
+164	https://twitter.com/intent/tweet?text=About 3.2 million citizens of other EU countries live in the UK&url=https://fullfact.org/immigration/about-32-million-eu-nationals-live-uk/&via=FullFact
+165	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/what-parity-esteem/
+165	https://twitter.com/intent/tweet?text=What is parity of esteem?&url=https://fullfact.org/health/what-parity-esteem/&via=FullFact
+166	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/deja-eu-referendum/
+166	https://twitter.com/intent/tweet?text=Deja-EU referendum?&url=https://fullfact.org/europe/deja-eu-referendum/&via=FullFact
+172	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/eu-referendum-voting-guide-vote-leave-our-eu-membership-fee/
+172	https://twitter.com/intent/tweet?text=EU Referendum Voting Guide: Vote Leave on our EU membership fee&url=https://fullfact.org/europe/eu-referendum-voting-guide-vote-leave-our-eu-membership-fee/&via=FullFact
+175	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/staffing-e/
+175	https://twitter.com/intent/tweet?text=Staffing in A&E&url=https://fullfact.org/health/staffing-e/&via=FullFact
+179	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/increasing-state-pension-age/
+179	https://twitter.com/intent/tweet?text=Increasing the state pension age&url=https://fullfact.org/economy/increasing-state-pension-age/&via=FullFact
+180	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/appealing-fit-for-work-decision/
+180	https://twitter.com/intent/tweet?text=Appealing a \xe2\x80\x98Fit for Work\xe2\x80\x99 decision&url=https://fullfact.org/health/appealing-fit-for-work-decision/&via=FullFact
+184	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/uk-economy-slow-lane/
+184	https://twitter.com/intent/tweet?text=Is the UK economy in the slow lane?&url=https://fullfact.org/economy/uk-economy-slow-lane/&via=FullFact
+185	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/does-government-spend-50-billion-debt-interest-payments/
+185	https://twitter.com/intent/tweet?text=Does the government spend \xc2\xa350 billion on debt interest payments?&url=https://fullfact.org/economy/does-government-spend-50-billion-debt-interest-payments/&via=FullFact
+186	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/-children-gangs/
+186	https://twitter.com/intent/tweet?text=How many children are in gangs? The data\xe2\x80\x99s not good enough to know&url=https://fullfact.org/crime/-children-gangs/&via=FullFact
+191	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/law/diversity-judges-statistics/
+191	https://twitter.com/intent/tweet?text=Diversity among judges: a mixed picture&url=https://fullfact.org/law/diversity-judges-statistics/&via=FullFact
+192	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/wealth-uk-richest-1-and-poorest-20/
+192	https://twitter.com/intent/tweet?text=Wealth in the UK: The richest 1% and the poorest 20%&url=https://fullfact.org/economy/wealth-uk-richest-1-and-poorest-20/&via=FullFact
+193	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/conservative-manifesto-single-market/
+193	https://twitter.com/intent/tweet?text=The Conservative manifesto on the single market &url=https://fullfact.org/europe/conservative-manifesto-single-market/&via=FullFact
+194	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/trade-across-irish-sea/
+194	https://twitter.com/intent/tweet?text=Trade across the Irish Sea&url=https://fullfact.org/europe/trade-across-irish-sea/&via=FullFact
+195	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/doing-sterling-job-how-uks-employment-record-compares-eu/
+195	https://twitter.com/intent/tweet?text=Doing a sterling job? How the UK\xe2\x80\x99s employment record compares to the EU&url=https://fullfact.org/economy/doing-sterling-job-how-uks-employment-record-compares-eu/&via=FullFact
+196	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/whats-happening-inequality/
+196	https://twitter.com/intent/tweet?text=What\xe2\x80\x99s happening to inequality?&url=https://fullfact.org/economy/whats-happening-inequality/&via=FullFact
+197	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/immigration/36-million-isnt-just-close-calais-jungle/
+197	https://twitter.com/intent/tweet?text=We aren\'t spending \xc2\xa336m just to close the Calais \'jungle\'&url=https://fullfact.org/immigration/36-million-isnt-just-close-calais-jungle/&via=FullFact
+200	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/processed-meat-isnt-big-cause-cancer-smoking/
+200	https://twitter.com/intent/tweet?text=Processed meat isn\'t as big a cause of cancer as smoking&url=https://fullfact.org/health/processed-meat-isnt-big-cause-cancer-smoking/&via=FullFact
+201	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/un-wrong-asylum-seekers-britain/
+201	https://twitter.com/intent/tweet?text=UN wrong on asylum seekers in Britain&url=https://fullfact.org/europe/un-wrong-asylum-seekers-britain/&via=FullFact
+202	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/immigration/ask-full-fact-are-asylum-seekers-mostly-men/
+202	https://twitter.com/intent/tweet?text=Ask Full Fact: are asylum seekers mostly men?&url=https://fullfact.org/immigration/ask-full-fact-are-asylum-seekers-mostly-men/&via=FullFact
+205	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/uk-largest-economies-eu/
+205	https://twitter.com/intent/tweet?text=The UK is one of the three largest economies in the EU&url=https://fullfact.org/economy/uk-largest-economies-eu/&via=FullFact
+208	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/what-trade-deficit-and-do-we-have-one-eu/
+208	https://twitter.com/intent/tweet?text=What is a trade deficit and do we have one with the EU?&url=https://fullfact.org/europe/what-trade-deficit-and-do-we-have-one-eu/&via=FullFact
+213	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/what-do-wealthiest-pay-tax/
+213	https://twitter.com/intent/tweet?text=What do the wealthiest pay in tax?&url=https://fullfact.org/economy/what-do-wealthiest-pay-tax/&via=FullFact
+214	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/nhs-funding-blocked-blood-glucose-monitors/
+214	https://twitter.com/intent/tweet?text=Has NHS funding been blocked for glucose sensors?&url=https://fullfact.org/health/nhs-funding-blocked-blood-glucose-monitors/&via=FullFact
+215	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/article-50-two-year-limit/
+215	https://twitter.com/intent/tweet?text=Article 50: a two-year limit&url=https://fullfact.org/europe/article-50-two-year-limit/&via=FullFact
+217	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/tax-credits-how-much-has-spending-increased-16-years/
+217	https://twitter.com/intent/tweet?text=Tax credits: how much has spending increased in 16 years?&url=https://fullfact.org/economy/tax-credits-how-much-has-spending-increased-16-years/&via=FullFact
+227	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/do-companies-bidding-government-contracts-have-back-brexit/
+227	https://twitter.com/intent/tweet?text=Do companies bidding for government contracts have to back Brexit?&url=https://fullfact.org/europe/do-companies-bidding-government-contracts-have-back-brexit/&via=FullFact
+228	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/vote-leave-facts-leaflet-eu-law/
+228	https://twitter.com/intent/tweet?text=Vote Leave "facts" leaflet: EU law&url=https://fullfact.org/europe/vote-leave-facts-leaflet-eu-law/&via=FullFact
+230	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/esa-extra-money-some/
+230	https://twitter.com/intent/tweet?text=ESA: "extra money" for some&url=https://fullfact.org/economy/esa-extra-money-some/&via=FullFact
+232	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/factcheck-has-cap-infant-class-sizes-been-scrapped/
+232	https://twitter.com/intent/tweet?text=Factcheck: Has the cap on infant class sizes been scrapped? &url=https://fullfact.org/education/factcheck-has-cap-infant-class-sizes-been-scrapped/&via=FullFact
+236	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/are-computers-getting-better-humans-reading/
+236	https://twitter.com/intent/tweet?text=Are computers getting better than humans at reading?&url=https://fullfact.org/economy/are-computers-getting-better-humans-reading/&via=FullFact
+240	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/economic-outlook-imf-or-ifs/
+240	https://twitter.com/intent/tweet?text=The economic outlook: IMF or IFS?&url=https://fullfact.org/economy/economic-outlook-imf-or-ifs/&via=FullFact
+242	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/law/changing-law-abortion-mps-vote-decriminalisation/
+242	https://twitter.com/intent/tweet?text=What would changing the law on abortion mean?&url=https://fullfact.org/law/changing-law-abortion-mps-vote-decriminalisation/&via=FullFact
+243	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/pension-changes-mean-thirty-seven-million/
+243	https://twitter.com/intent/tweet?text=Do pension changes mean 37 million people working longer?&url=https://fullfact.org/economy/pension-changes-mean-thirty-seven-million/&via=FullFact
+246	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/news/150-million-bbc-licence-fee-loophole/
+246	https://twitter.com/intent/tweet?text=The \xc2\xa3150 million BBC licence fee loophole?&url=https://fullfact.org/news/150-million-bbc-licence-fee-loophole/&via=FullFact
+247	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/vote-leave-facts-leaflet-exports/
+247	https://twitter.com/intent/tweet?text=Vote Leave "facts" leaflet: exports&url=https://fullfact.org/europe/vote-leave-facts-leaflet-exports/&via=FullFact
+248	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/exchange-rates-and-imf/
+248	https://twitter.com/intent/tweet?text=Was the pound overvalued before the EU referendum?&url=https://fullfact.org/economy/exchange-rates-and-imf/&via=FullFact
+252	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/does-uk-have-poorest-regions-northern-europe/
+252	https://twitter.com/intent/tweet?text=Does the UK have the poorest regions in northern Europe?&url=https://fullfact.org/economy/does-uk-have-poorest-regions-northern-europe/&via=FullFact
+254	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/fall-number-children-being-placed-adoption/
+254	https://twitter.com/intent/tweet?text=Fall in the number of children being placed for adoption&url=https://fullfact.org/education/fall-number-children-being-placed-adoption/&via=FullFact
+261	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/bme-students-oxford/
+261	https://twitter.com/intent/tweet?text=Black and ethnic minority students at the University of Oxford&url=https://fullfact.org/education/bme-students-oxford/&via=FullFact
+267	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/do-you-pay-higher-tax-rate-millionaire/
+267	https://twitter.com/intent/tweet?text=Do you pay a higher tax rate than a millionaire?&url=https://fullfact.org/economy/do-you-pay-higher-tax-rate-millionaire/&via=FullFact
+268	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/how-much-money-does-uk-spend-aid-compared-rest-g7/
+268	https://twitter.com/intent/tweet?text=How much money does the UK spend on aid compared to the rest of the G7?&url=https://fullfact.org/economy/how-much-money-does-uk-spend-aid-compared-rest-g7/&via=FullFact
+269	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/childhood-type-2-diabetes-40/
+269	https://twitter.com/intent/tweet?text=Is childhood type 2 diabetes up 40%?&url=https://fullfact.org/health/childhood-type-2-diabetes-40/&via=FullFact
+272	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/nhs-pay-whats-deal/
+272	https://twitter.com/intent/tweet?text=NHS pay: what\xe2\x80\x99s the deal?&url=https://fullfact.org/health/nhs-pay-whats-deal/&via=FullFact
+287	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/private-sector-hit-hardest-recession/
+287	https://twitter.com/intent/tweet?text=Was the private sector hit hardest by the recession?&url=https://fullfact.org/economy/private-sector-hit-hardest-recession/&via=FullFact
+288	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/women-killed-by-men/
+288	https://twitter.com/intent/tweet?text=Women killed by men&url=https://fullfact.org/crime/women-killed-by-men/&via=FullFact
+292	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/immigration/how-many-syrian-refugees-are-there-uk/
+292	https://twitter.com/intent/tweet?text=How many Syrian refugees are there in the UK?&url=https://fullfact.org/immigration/how-many-syrian-refugees-are-there-uk/&via=FullFact
+308	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/can-you-be-single-market-without-being-eu-member/
+308	https://twitter.com/intent/tweet?text=Can you be in the single market without being an EU member?&url=https://fullfact.org/europe/can-you-be-single-market-without-being-eu-member/&via=FullFact
+309	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/how-many-stop-and-searches-are-knife-crime-related/
+309	https://twitter.com/intent/tweet?text=How many stop and searches are knife crime related?&url=https://fullfact.org/crime/how-many-stop-and-searches-are-knife-crime-related/&via=FullFact
+310	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/immigration/what-was-known-about-windrush-2014/
+310	https://twitter.com/intent/tweet?text=What was known about Windrush in 2014?&url=https://fullfact.org/immigration/what-was-known-about-windrush-2014/&via=FullFact
+312	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/are-driver-only-trains-safe/
+312	https://twitter.com/intent/tweet?text=Rail dispute: are driver-only trains safe?&url=https://fullfact.org/economy/are-driver-only-trains-safe/&via=FullFact
+323	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/immigration/have-house-prices-risen-because-immigrants/
+323	https://twitter.com/intent/tweet?text=Have house prices risen because of immigrants?&url=https://fullfact.org/immigration/have-house-prices-risen-because-immigrants/&via=FullFact
+324	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/universal-credit-driving-people-food-banks/
+324	https://twitter.com/intent/tweet?text=Is Universal Credit driving people to food banks?&url=https://fullfact.org/economy/universal-credit-driving-people-food-banks/&via=FullFact
+327	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/why-homicide-now-2700-times-more-serious-cannabis/
+327	https://twitter.com/intent/tweet?text=Why homicide is now 2,700 times more serious than cannabis&url=https://fullfact.org/crime/why-homicide-now-2700-times-more-serious-cannabis/&via=FullFact
+328	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/news/deradicalisation-referrals-young-and-increasing/
+328	https://twitter.com/intent/tweet?text="Deradicalisation" referrals: young and increasing?&url=https://fullfact.org/news/deradicalisation-referrals-young-and-increasing/&via=FullFact
+331	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/benefit-fraud-tax-inspectors-numbers/
+331	https://twitter.com/intent/tweet?text=Do benefit fraud investigators outnumber super-rich tax inspectors 8:1?&url=https://fullfact.org/economy/benefit-fraud-tax-inspectors-numbers/&via=FullFact
+332	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/immigration/conservatives-migration-record/
+332	https://twitter.com/intent/tweet?text=The Conservatives\xe2\x80\x99 migration record&url=https://fullfact.org/immigration/conservatives-migration-record/&via=FullFact
+339	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/how-many-es-are-going-close/
+339	https://twitter.com/intent/tweet?text=How many A&Es are going to close?&url=https://fullfact.org/health/how-many-es-are-going-close/&via=FullFact
+343	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/news/can-scotland-recognise-catalonia-independent-state/
+343	https://twitter.com/intent/tweet?text=Can Scotland recognise Catalonia as an independent state?&url=https://fullfact.org/news/can-scotland-recognise-catalonia-independent-state/&via=FullFact
+352	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/eu-referendum-voting-guide-stronger-economy/
+352	https://twitter.com/intent/tweet?text=EU Referendum Voting Guide: Stronger In on the economy&url=https://fullfact.org/europe/eu-referendum-voting-guide-stronger-economy/&via=FullFact
+357	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/income-tax-cuts-basic-rate-payers/
+357	https://twitter.com/intent/tweet?text=Income tax cuts for basic rate payers&url=https://fullfact.org/economy/income-tax-cuts-basic-rate-payers/&via=FullFact
+373	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/are-children-being-used-carry-drugs/
+373	https://twitter.com/intent/tweet?text=Are children being used to carry drugs?&url=https://fullfact.org/crime/are-children-being-used-carry-drugs/&via=FullFact
+386	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/pay-gap-record-employment-and-extra-23-billion-gdp-women-and-workplace/
+386	https://twitter.com/intent/tweet?text=The pay gap, record employment and an extra \xc2\xa323 billion to GDP: women and the workplace&url=https://fullfact.org/economy/pay-gap-record-employment-and-extra-23-billion-gdp-women-and-workplace/&via=FullFact
+389	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/business-rates-how-many-council-areas-will-face-rate-rises/
+389	https://twitter.com/intent/tweet?text=Business rates: how many council areas will face rate rises?&url=https://fullfact.org/economy/business-rates-how-many-council-areas-will-face-rate-rises/&via=FullFact
+390	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/allegations-rape/
+390	https://twitter.com/intent/tweet?text=Allegations of rape&url=https://fullfact.org/crime/allegations-rape/&via=FullFact
+392	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/carillion-leeds-city-council/
+392	https://twitter.com/intent/tweet?text=Did a Labour-run council sign a PFI contract with Carillion in December?&url=https://fullfact.org/economy/carillion-leeds-city-council/&via=FullFact
+393	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/governments-pay-rise-public-sector-workers-real-terms-pay-cut/
+393	https://twitter.com/intent/tweet?text=Is the government\xe2\x80\x99s pay rise for public sector workers a real-terms pay cut?&url=https://fullfact.org/economy/governments-pay-rise-public-sector-workers-real-terms-pay-cut/&via=FullFact
+404	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/theres-only-so-much-existing-data-can-tell-us-about-teacher-vacancies/
+404	https://twitter.com/intent/tweet?text=There\'s only so much the data can tell us about teacher vacancies&url=https://fullfact.org/education/theres-only-so-much-existing-data-can-tell-us-about-teacher-vacancies/&via=FullFact
+405	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/hs2-it-faster/
+405	https://twitter.com/intent/tweet?text=HS2: is it faster?&url=https://fullfact.org/economy/hs2-it-faster/&via=FullFact
+406	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/how-many-excess-deaths-are-there-winter/
+406	https://twitter.com/intent/tweet?text=How many excess deaths are there in winter?&url=https://fullfact.org/health/how-many-excess-deaths-are-there-winter/&via=FullFact
+408	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/business-rates-up-or-down/
+408	https://twitter.com/intent/tweet?text=Business rates: up or down?&url=https://fullfact.org/economy/business-rates-up-or-down/&via=FullFact
+409	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/amendments-pip-legislation/
+409	https://twitter.com/intent/tweet?text=Amendments to PIP legislation&url=https://fullfact.org/economy/amendments-pip-legislation/&via=FullFact
+410	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/primary-class-sizes-england-and-wales/
+410	https://twitter.com/intent/tweet?text=Primary class sizes in England and Wales&url=https://fullfact.org/education/primary-class-sizes-england-and-wales/&via=FullFact
+411	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/are-nhs-workers-getting-4-pay-rise/
+411	https://twitter.com/intent/tweet?text=Are NHS workers getting a 4% pay rise?&url=https://fullfact.org/health/are-nhs-workers-getting-4-pay-rise/&via=FullFact
+412	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/what-does-obesity-cost-economy/
+412	https://twitter.com/intent/tweet?text=What does obesity cost the economy?&url=https://fullfact.org/health/what-does-obesity-cost-economy/&via=FullFact
+414	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/crime-now-starting-rise/
+414	https://twitter.com/intent/tweet?text=Is crime now starting to rise?&url=https://fullfact.org/crime/crime-now-starting-rise/&via=FullFact
+415	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/how-much-money-does-nhs-need/
+415	https://twitter.com/intent/tweet?text=How much money does the NHS need and how much is it actually getting?&url=https://fullfact.org/health/how-much-money-does-nhs-need/&via=FullFact
+416	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/immigration/how-many-child-asylum-seekers-are-found-be-adults/
+416	https://twitter.com/intent/tweet?text=How many child asylum seekers are found to be adults?&url=https://fullfact.org/immigration/how-many-child-asylum-seekers-are-found-be-adults/&via=FullFact
+421	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/immigration/what-would-australian-style-points-system-mean-uk-immigration/
+421	https://twitter.com/intent/tweet?text=What would an Australian-style immigration points system mean for the UK?&url=https://fullfact.org/immigration/what-would-australian-style-points-system-mean-uk-immigration/&via=FullFact
+422	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/immigration/more-refugees-eu-are-syrian-any-other-nationality/
+422	https://twitter.com/intent/tweet?text=More refugees in the EU are Syrian than any other nationality&url=https://fullfact.org/immigration/more-refugees-eu-are-syrian-any-other-nationality/&via=FullFact
+424	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/would-early-closure-renewables-obligation-onshore-wind-cost-100-million/
+424	https://twitter.com/intent/tweet?text=Would early closure of the Renewables Obligation to onshore wind cost \xc2\xa3100 million?&url=https://fullfact.org/economy/would-early-closure-renewables-obligation-onshore-wind-cost-100-million/&via=FullFact
+428	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/gp-opening-hoursfive-years-pledges/
+428	https://twitter.com/intent/tweet?text=GP opening hours\xe2\x80\x94five years of pledges&url=https://fullfact.org/health/gp-opening-hoursfive-years-pledges/&via=FullFact
+431	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/shortage-midwives/
+431	https://twitter.com/intent/tweet?text=A shortage of midwives?&url=https://fullfact.org/health/shortage-midwives/&via=FullFact
+432	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/hospitals-safety-versus-quality/
+432	https://twitter.com/intent/tweet?text=Hospitals: safety versus quality&url=https://fullfact.org/health/hospitals-safety-versus-quality/&via=FullFact
+433	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/will-there-be-cap-social-care-costs/
+433	https://twitter.com/intent/tweet?text=Will there be a cap on social care costs?&url=https://fullfact.org/health/will-there-be-cap-social-care-costs/&via=FullFact
+442	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/immigration/just-under-half-migrants-and-asylum-seekers-whove-crossed-europe-are-syrian/
+442	https://twitter.com/intent/tweet?text=Just under half of migrants and asylum seekers who\'ve crossed into Europe are Syrian&url=https://fullfact.org/immigration/just-under-half-migrants-and-asylum-seekers-whove-crossed-europe-are-syrian/&via=FullFact
+443	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/ask-full-fact-does-world-health-organisation-think-uk-no-longer-has-nhs/
+443	https://twitter.com/intent/tweet?text=Ask Full Fact: Does the World Health Organisation think the UK no longer has an NHS?&url=https://fullfact.org/health/ask-full-fact-does-world-health-organisation-think-uk-no-longer-has-nhs/&via=FullFact
+444	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/news/refugees-lebanon-and-uk/
+444	https://twitter.com/intent/tweet?text=Refugees in Lebanon and the UK&url=https://fullfact.org/news/refugees-lebanon-and-uk/&via=FullFact
+445	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/law/limits-immigration-detention/
+445	https://twitter.com/intent/tweet?text=Limits on immigration detention&url=https://fullfact.org/law/limits-immigration-detention/&via=FullFact
+447	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/social-care-and-hospital-delays/
+447	https://twitter.com/intent/tweet?text=Social care and hospital delays&url=https://fullfact.org/health/social-care-and-hospital-delays/&via=FullFact
+448	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/how-many-suspects-are-wanted-police/
+448	https://twitter.com/intent/tweet?text=How many suspects are wanted by police?&url=https://fullfact.org/crime/how-many-suspects-are-wanted-police/&via=FullFact
+450	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/lorries-dover/
+450	https://twitter.com/intent/tweet?text=Lorries at Dover&url=https://fullfact.org/europe/lorries-dover/&via=FullFact
+451	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/mental-health-during-pregnancy/
+451	https://twitter.com/intent/tweet?text=Mental health during pregnancy&url=https://fullfact.org/health/mental-health-during-pregnancy/&via=FullFact
+468	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/whats-happening-high-skilled-jobs/
+468	https://twitter.com/intent/tweet?text=What\'s happening to high-skilled jobs?&url=https://fullfact.org/economy/whats-happening-high-skilled-jobs/&via=FullFact
+471	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/uk-trade-anglosphere-EU/
+471	https://twitter.com/intent/tweet?text=Trade with the English-speaking world&url=https://fullfact.org/europe/uk-trade-anglosphere-EU/&via=FullFact
+472	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/law/us-uk-syrian-refugees/
+472	https://twitter.com/intent/tweet?text=The UK, the USA, and Syrian refugees&url=https://fullfact.org/law/us-uk-syrian-refugees/&via=FullFact
+473	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/brexit-uk-economy-growing-or-slowing/
+473	https://twitter.com/intent/tweet?text=Brexit: is the UK economy growing or slowing?&url=https://fullfact.org/economy/brexit-uk-economy-growing-or-slowing/&via=FullFact
+474	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/student-debt-what-did-labour-say/
+474	https://twitter.com/intent/tweet?text=Student debt: what did Labour say?&url=https://fullfact.org/education/student-debt-what-did-labour-say/&via=FullFact
+475	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/nurses-second-jobs/
+475	https://twitter.com/intent/tweet?text=Are nurses taking a second job to survive?&url=https://fullfact.org/health/nurses-second-jobs/&via=FullFact
+476	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/benefit-fraud-living-alone/
+476	https://twitter.com/intent/tweet?text=Falsely claiming to live alone accounts for around 9% of benefit fraud&url=https://fullfact.org/economy/benefit-fraud-living-alone/&via=FullFact
+478	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/police-budgets-numbers-and-community-policing/
+478	https://twitter.com/intent/tweet?text=Police budgets, numbers and community policing&url=https://fullfact.org/crime/police-budgets-numbers-and-community-policing/&via=FullFact
+479	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/was-eu-referendum-advisory/
+479	https://twitter.com/intent/tweet?text=Was the EU referendum \xe2\x80\x9cadvisory\xe2\x80\x9d?&url=https://fullfact.org/europe/was-eu-referendum-advisory/&via=FullFact
+480	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/defence-spending/
+480	https://twitter.com/intent/tweet?text=Government defence spending is 2% of GDP&url=https://fullfact.org/economy/defence-spending/&via=FullFact
+481	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/eu-referendum-and-irish-border/
+481	https://twitter.com/intent/tweet?text=The Irish border and Brexit&url=https://fullfact.org/europe/eu-referendum-and-irish-border/&via=FullFact
+483	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/are-only-one-five-asylum-seekers-syrian/
+483	https://twitter.com/intent/tweet?text=Are only one in five asylum seekers Syrian?&url=https://fullfact.org/europe/are-only-one-five-asylum-seekers-syrian/&via=FullFact
+486	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/hospitals-red-size-nhs-provider-deficit/
+486	https://twitter.com/intent/tweet?text=Hospitals in the red: the size of the NHS provider deficit&url=https://fullfact.org/health/hospitals-red-size-nhs-provider-deficit/&via=FullFact
+497	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/brexit-impact-assessments/
+497	https://twitter.com/intent/tweet?text=Brexit impact assessments: did the government bluff about their existence?&url=https://fullfact.org/europe/brexit-impact-assessments/&via=FullFact
+511	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/do-one-five-uk-muslims-sympathise-britons-fighting/
+511	https://twitter.com/intent/tweet?text=Do one in five UK Muslims sympathise with Britons fighting for IS?&url=https://fullfact.org/crime/do-one-five-uk-muslims-sympathise-britons-fighting/&via=FullFact
+512	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/news/deaths-during-military-training-worse-iraq/
+512	https://twitter.com/intent/tweet?text=Deaths during military training: worse than Iraq?&url=https://fullfact.org/news/deaths-during-military-training-worse-iraq/&via=FullFact
+513	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/half-nhs-not-clinically-qualified/
+513	https://twitter.com/intent/tweet?text=Is half of the NHS not clinically qualified?&url=https://fullfact.org/health/half-nhs-not-clinically-qualified/&via=FullFact
+514	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/class-sizes-under-conservatives/
+514	https://twitter.com/intent/tweet?text=Class sizes under the Conservatives&url=https://fullfact.org/education/class-sizes-under-conservatives/&via=FullFact
+515	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/eu-staff-great-ormond-street-hospital/
+515	https://twitter.com/intent/tweet?text=EU staff at Great Ormond Street hospital&url=https://fullfact.org/health/eu-staff-great-ormond-street-hospital/&via=FullFact
+517	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/immigration/immigration-uk-has-been-rising/
+517	https://twitter.com/intent/tweet?text=Immigration to the UK has been rising&url=https://fullfact.org/immigration/immigration-uk-has-been-rising/&via=FullFact
+518	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/eu-customs-union-and-irish-border/
+518	https://twitter.com/intent/tweet?text=EU customs union and the Irish border&url=https://fullfact.org/europe/eu-customs-union-and-irish-border/&via=FullFact
+519	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/are-rail-fares-out-control/
+519	https://twitter.com/intent/tweet?text=Are rail fares out of control?&url=https://fullfact.org/economy/are-rail-fares-out-control/&via=FullFact
+533	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/eu-referendum-voting-guide-stronger-jobs/
+533	https://twitter.com/intent/tweet?text=EU Referendum Voting Guide: Stronger In on jobs&url=https://fullfact.org/europe/eu-referendum-voting-guide-stronger-jobs/&via=FullFact
+534	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/eu-referendum-voting-guide-vote-leave-eu-law/
+534	https://twitter.com/intent/tweet?text=EU Referendum Voting Guide: Vote Leave on EU law&url=https://fullfact.org/europe/eu-referendum-voting-guide-vote-leave-eu-law/&via=FullFact
+536	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/no-longer-partying-all-night-london-nightclubs-closing/
+536	https://twitter.com/intent/tweet?text=No longer partying all night&url=https://fullfact.org/economy/no-longer-partying-all-night-london-nightclubs-closing/&via=FullFact
+538	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/uk-economy-relegation-zone/
+538	https://twitter.com/intent/tweet?text=Is the UK economy in the relegation zone?&url=https://fullfact.org/economy/uk-economy-relegation-zone/&via=FullFact
+539	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/cannabis-kids-under-18s-prosecuted/
+539	https://twitter.com/intent/tweet?text=Cannabis kids: are more under-18s being prosecuted for supplying the drug?&url=https://fullfact.org/crime/cannabis-kids-under-18s-prosecuted/&via=FullFact
+543	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/google-paying-3-tax/
+543	https://twitter.com/intent/tweet?text=Is Google paying 3% tax?&url=https://fullfact.org/economy/google-paying-3-tax/&via=FullFact
+547	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/how-many-people-die-fires/
+547	https://twitter.com/intent/tweet?text=How many people die in fires?&url=https://fullfact.org/health/how-many-people-die-fires/&via=FullFact
+551	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/renegotiating-ever-closer-union/
+551	https://twitter.com/intent/tweet?text=Renegotiating "ever closer union"&url=https://fullfact.org/europe/renegotiating-ever-closer-union/&via=FullFact
+554	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/eu-has-shrunk-percentage-world-economy/
+554	https://twitter.com/intent/tweet?text=The EU has shrunk as a percentage of the world economy&url=https://fullfact.org/europe/eu-has-shrunk-percentage-world-economy/&via=FullFact
+555	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/do-asset-sales-save-government-money/
+555	https://twitter.com/intent/tweet?text=Do asset sales save the government money?&url=https://fullfact.org/economy/do-asset-sales-save-government-money/&via=FullFact
+559	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/corporation-tax-rates-and-revenues/
+559	https://twitter.com/intent/tweet?text=Corporation tax: could we have raised more?&url=https://fullfact.org/economy/corporation-tax-rates-and-revenues/&via=FullFact
+562	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/brexit-beer-sales-pubs/
+562	https://twitter.com/intent/tweet?text=Brexit and the great British pub&url=https://fullfact.org/europe/brexit-beer-sales-pubs/&via=FullFact
+563	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/has-uk-created-more-jobs-rest-eu-combined/
+563	https://twitter.com/intent/tweet?text=Has the UK created more jobs than the rest of the EU combined?&url=https://fullfact.org/europe/has-uk-created-more-jobs-rest-eu-combined/&via=FullFact
+572	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/law/assaults-nhs-staff/
+572	https://twitter.com/intent/tweet?text=Assaults on NHS staff&url=https://fullfact.org/law/assaults-nhs-staff/&via=FullFact
+573	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/schools-funding-manifesto-breach/
+573	https://twitter.com/intent/tweet?text=Schools funding: a manifesto breach? &url=https://fullfact.org/education/schools-funding-manifesto-breach/&via=FullFact
+577	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/uks-stake-european-investment-bank/
+577	https://twitter.com/intent/tweet?text=The UK\'s stake in the European Investment Bank&url=https://fullfact.org/economy/uks-stake-european-investment-bank/&via=FullFact
+580	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/are-we-short-40000-nurses/
+580	https://twitter.com/intent/tweet?text=Are we short of 40,000 nurses?&url=https://fullfact.org/health/are-we-short-40000-nurses/&via=FullFact
+581	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/cost-lifting-public-sector-pay-cap/
+581	https://twitter.com/intent/tweet?text=The cost of lifting the public sector pay cap&url=https://fullfact.org/economy/cost-lifting-public-sector-pay-cap/&via=FullFact
+588	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/ask-full-fact-have-100-eu-powers-been-returned-uk/
+588	https://twitter.com/intent/tweet?text=Ask Full Fact: have 100 EU \'powers\' been returned to the UK?&url=https://fullfact.org/europe/ask-full-fact-have-100-eu-powers-been-returned-uk/&via=FullFact
+592	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/factcheck-men-accused-rape-dont-have-prove-woman-said-yes/
+592	https://twitter.com/intent/tweet?text=Men accused of rape don\'t have to "prove that a woman said Yes"&url=https://fullfact.org/crime/factcheck-men-accused-rape-dont-have-prove-woman-said-yes/&via=FullFact
+593	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/can-killers-now-avoid-life-prison-guilty-plea/
+593	https://twitter.com/intent/tweet?text=Can killers now avoid life in prison with a guilty plea?&url=https://fullfact.org/crime/can-killers-now-avoid-life-prison-guilty-plea/&via=FullFact
+596	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/factcheck-has-budget-deficit-been-halved/
+596	https://twitter.com/intent/tweet?text=Factcheck: Has the budget deficit been halved?&url=https://fullfact.org/economy/factcheck-has-budget-deficit-been-halved/&via=FullFact
+599	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/german-cars-uk/
+599	https://twitter.com/intent/tweet?text=About 1 in 7 German cars are sold in the UK&url=https://fullfact.org/europe/german-cars-uk/&via=FullFact
+600	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/social-care-funding-pmqs/
+600	https://twitter.com/intent/tweet?text=Social care funding&url=https://fullfact.org/health/social-care-funding-pmqs/&via=FullFact
+601	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/shortfall-social-care-funding/
+601	https://twitter.com/intent/tweet?text=A \xc2\xa32.5 billion shortfall in social care funding?&url=https://fullfact.org/health/shortfall-social-care-funding/&via=FullFact
+602	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/how-many-hospital-black-alerts-were-there-week/
+602	https://twitter.com/intent/tweet?text=How many hospital black alerts were there this week?&url=https://fullfact.org/health/how-many-hospital-black-alerts-were-there-week/&via=FullFact
+603	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/teachers-first-class-degrees/
+603	https://twitter.com/intent/tweet?text=Teachers with first class degrees&url=https://fullfact.org/education/teachers-first-class-degrees/&via=FullFact
+605	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/have-some-police-officers-had-32-pay-rise/
+605	https://twitter.com/intent/tweet?text=Have some police officers had a 32% pay rise?&url=https://fullfact.org/crime/have-some-police-officers-had-32-pay-rise/&via=FullFact
+606	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/food-and-drinks-industry-after-eu-referendum/
+606	https://twitter.com/intent/tweet?text=The food and drinks industry after the EU referendum&url=https://fullfact.org/economy/food-and-drinks-industry-after-eu-referendum/&via=FullFact
+607	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/productivity-germany/
+607	https://twitter.com/intent/tweet?text=Productivity: are we keeping up with Germany?&url=https://fullfact.org/economy/productivity-germany/&via=FullFact
+619	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/are-grammar-schools-facing-crisis-funding/
+619	https://twitter.com/intent/tweet?text=Are grammar schools facing a crisis of funding?&url=https://fullfact.org/education/are-grammar-schools-facing-crisis-funding/&via=FullFact
+620	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/fair-fares-how-much-are-season-tickets-increasing/
+620	https://twitter.com/intent/tweet?text=Fair fares? How much are season tickets increasing by?&url=https://fullfact.org/economy/fair-fares-how-much-are-season-tickets-increasing/&via=FullFact
+622	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/UK-EU-trade-agreements/
+622	https://twitter.com/intent/tweet?text=Over half of UK exports were via EU trade agreements in 2016&url=https://fullfact.org/europe/UK-EU-trade-agreements/&via=FullFact
+626	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/did-government-keep-its-promise-cancer-drugs-fund/
+626	https://twitter.com/intent/tweet?text=Did the government keep its promise on the Cancer Drugs Fund?&url=https://fullfact.org/health/did-government-keep-its-promise-cancer-drugs-fund/&via=FullFact
+631	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/are-more-working-class-students-dropping-out-university/
+631	https://twitter.com/intent/tweet?text=Are more working class students dropping out of university? &url=https://fullfact.org/education/are-more-working-class-students-dropping-out-university/&via=FullFact
+633	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/social-renting-scotland/
+633	https://twitter.com/intent/tweet?text=The state of social renting in Scotland&url=https://fullfact.org/economy/social-renting-scotland/&via=FullFact
+637	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/about-27-europeans-are-likely-experience-mental-health-problem-year/
+637	https://twitter.com/intent/tweet?text=About 27% of Europeans are likely to experience a mental health problem in a year&url=https://fullfact.org/health/about-27-europeans-are-likely-experience-mental-health-problem-year/&via=FullFact
+639	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/immigration/population-immigration-and-eu-renegotiation/
+639	https://twitter.com/intent/tweet?text=Population, immigration, and EU renegotiation&url=https://fullfact.org/immigration/population-immigration-and-eu-renegotiation/&via=FullFact
+640	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/factcheck-can-white-teachers-be-discriminated-against/
+640	https://twitter.com/intent/tweet?text=Factcheck: Can white teachers be discriminated against?&url=https://fullfact.org/education/factcheck-can-white-teachers-be-discriminated-against/&via=FullFact
+643	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/immigration/does-immigration-reduce-wages/
+643	https://twitter.com/intent/tweet?text=Does a 10% rise in immigration lead to a 2% reduction in wages?&url=https://fullfact.org/immigration/does-immigration-reduce-wages/&via=FullFact
+649	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/cracking-efficiency-criminal-courts/
+649	https://twitter.com/intent/tweet?text=Cracking up: efficiency in the criminal courts&url=https://fullfact.org/crime/cracking-efficiency-criminal-courts/&via=FullFact
+650	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/government-borrowing/
+650	https://twitter.com/intent/tweet?text=Government borrowing&url=https://fullfact.org/economy/government-borrowing/&via=FullFact
+651	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/news/welsh-views-independence/
+651	https://twitter.com/intent/tweet?text=Welsh views on independence&url=https://fullfact.org/news/welsh-views-independence/&via=FullFact
+652	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/are-there-one-million-people-hospital-nowhere-else-go/
+652	https://twitter.com/intent/tweet?text=Are there one million people in hospital with nowhere else to go? &url=https://fullfact.org/health/are-there-one-million-people-hospital-nowhere-else-go/&via=FullFact
+654	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/uk-eurozone-lower-unemployment/
+654	https://twitter.com/intent/tweet?text=Does the UK have lower unemployment than the Eurozone?&url=https://fullfact.org/economy/uk-eurozone-lower-unemployment/&via=FullFact
+655	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/ambulances-delayed/
+655	https://twitter.com/intent/tweet?text=More ambulances are being delayed outside A&Es&url=https://fullfact.org/health/ambulances-delayed/&via=FullFact
+656	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/news/homeless-people-cold-weather/
+656	https://twitter.com/intent/tweet?text=What help is available for homeless people sleeping outside in cold weather?&url=https://fullfact.org/news/homeless-people-cold-weather/&via=FullFact
+657	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/has-number-murders-london-overtaken-new-york/
+657	https://twitter.com/intent/tweet?text=Has the number of murders in London overtaken New York?&url=https://fullfact.org/crime/has-number-murders-london-overtaken-new-york/&via=FullFact
+658	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/eu-prisoners/
+658	https://twitter.com/intent/tweet?text=4,000 EU prisoners in England and Wales&url=https://fullfact.org/crime/eu-prisoners/&via=FullFact
+659	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/news/how-are-theresa-may-and-jeremy-corbyn-doing-polls/
+659	https://twitter.com/intent/tweet?text=How are Theresa May and Jeremy Corbyn doing in the polls?&url=https://fullfact.org/news/how-are-theresa-may-and-jeremy-corbyn-doing-polls/&via=FullFact
+660	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/about-15-uks-electricity-comes-wind/
+660	https://twitter.com/intent/tweet?text=About 15% of the UK\xe2\x80\x99s electricity comes from wind&url=https://fullfact.org/economy/about-15-uks-electricity-comes-wind/&via=FullFact
+661	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/claim-about-2000-cost-hard-brexit-comes-typo/
+661	https://twitter.com/intent/tweet?text=This claim about the \xc2\xa32,000 cost of a hard Brexit comes from a typo&url=https://fullfact.org/europe/claim-about-2000-cost-hard-brexit-comes-typo/&via=FullFact
+666	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/free-school-meals-and-universal-credit/
+666	https://twitter.com/intent/tweet?text=Free school meals and Universal Credit&url=https://fullfact.org/education/free-school-meals-and-universal-credit/&via=FullFact
+681	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/could-opt-out-organ-donation-save-700-lives-year/
+681	https://twitter.com/intent/tweet?text=Could \xe2\x80\x98opt-out\xe2\x80\x99 organ donation save 700 lives a year?&url=https://fullfact.org/health/could-opt-out-organ-donation-save-700-lives-year/&via=FullFact
+686	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/are-people-mental-health-conditions-now-receiving-higher-disability-benefit-payments/
+686	https://twitter.com/intent/tweet?text=Are people with mental health conditions now receiving higher disability benefit payments?&url=https://fullfact.org/economy/are-people-mental-health-conditions-now-receiving-higher-disability-benefit-payments/&via=FullFact
+687	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/cost-creating-internal-market-nhs/
+687	https://twitter.com/intent/tweet?text=No-one knows the exact cost or benefit of the NHS internal market in England&url=https://fullfact.org/health/cost-creating-internal-market-nhs/&via=FullFact
+696	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/have-conservatives-brought-70-billion-worth-tax-cuts/
+696	https://twitter.com/intent/tweet?text=Have the Conservatives brought in \xc2\xa370 billion worth of tax cuts?&url=https://fullfact.org/economy/have-conservatives-brought-70-billion-worth-tax-cuts/&via=FullFact
+698	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/stops-and-searches-are-becoming-less-common/
+698	https://twitter.com/intent/tweet?text=Stops and searches are becoming less common&url=https://fullfact.org/crime/stops-and-searches-are-becoming-less-common/&via=FullFact
+700	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/are-there-record-numbers-young-people-going-university/
+700	https://twitter.com/intent/tweet?text=Are there record numbers of young people going to university?&url=https://fullfact.org/education/are-there-record-numbers-young-people-going-university/&via=FullFact
+714	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/law/fire-safety-regulations-has-government-delayed-reviewing-them/
+714	https://twitter.com/intent/tweet?text=Fire safety regulations: has the government delayed reviewing them? &url=https://fullfact.org/law/fire-safety-regulations-has-government-delayed-reviewing-them/&via=FullFact
+723	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/can-working-immigrants-claim-over-10000-benefits/
+723	https://twitter.com/intent/tweet?text=Can working immigrants claim over \xc2\xa310,000 in benefits?&url=https://fullfact.org/economy/can-working-immigrants-claim-over-10000-benefits/&via=FullFact
+724	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/immigration/ask-full-fact-how-many-refugees-are-uk-population/
+724	https://twitter.com/intent/tweet?text=Ask Full Fact: how many refugees are in the UK population?&url=https://fullfact.org/immigration/ask-full-fact-how-many-refugees-are-uk-population/&via=FullFact
+728	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/16-19-education-saw-largest-fall-education-spending-over-last-parliament/
+728	https://twitter.com/intent/tweet?text=16-19 education saw the largest fall in education spending over the last Parliament&url=https://fullfact.org/education/16-19-education-saw-largest-fall-education-spending-over-last-parliament/&via=FullFact
+729	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/factcheck-did-eu-rule-obesity-disability/
+729	https://twitter.com/intent/tweet?text=Did the EU rule that obesity is a disability?&url=https://fullfact.org/europe/factcheck-did-eu-rule-obesity-disability/&via=FullFact
+730	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/law/dwp-reviewing-link-between-suicides-and-welfare-reform/
+730	https://twitter.com/intent/tweet?text=Is the DWP reviewing a link between suicides and welfare reform?&url=https://fullfact.org/law/dwp-reviewing-link-between-suicides-and-welfare-reform/&via=FullFact
+735	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/job-applicants-ethnic-minority-sounding-names-are-less-likely-be-called-interview/
+735	https://twitter.com/intent/tweet?text=Job applicants with ethnic minority sounding names are less likely to be called for interview&url=https://fullfact.org/economy/job-applicants-ethnic-minority-sounding-names-are-less-likely-be-called-interview/&via=FullFact
+736	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/are-we-missing-our-targets-renewable-energy/
+736	https://twitter.com/intent/tweet?text=Are we missing our targets on renewable energy?&url=https://fullfact.org/economy/are-we-missing-our-targets-renewable-energy/&via=FullFact
+737	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/are-homes-sold-under-right-buy-being-replaced/
+737	https://twitter.com/intent/tweet?text=Are homes sold under Right to Buy being replaced?&url=https://fullfact.org/economy/are-homes-sold-under-right-buy-being-replaced/&via=FullFact
+743	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/did-cutting-50p-rate-tax-raise-8-billion/
+743	https://twitter.com/intent/tweet?text=Did cutting the 50p rate of tax raise \xc2\xa38 billion?&url=https://fullfact.org/economy/did-cutting-50p-rate-tax-raise-8-billion/&via=FullFact
+745	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/stronger-facts-leaflet-jobs/
+745	https://twitter.com/intent/tweet?text=Stronger In "facts" leaflet: jobs&url=https://fullfact.org/europe/stronger-facts-leaflet-jobs/&via=FullFact
+746	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/pound-isnt-its-highest-level-two-years/
+746	https://twitter.com/intent/tweet?text=The pound isn\xe2\x80\x99t at its highest level in two years&url=https://fullfact.org/economy/pound-isnt-its-highest-level-two-years/&via=FullFact
+747	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/are-six-million-people-earning-less-living-wage/
+747	https://twitter.com/intent/tweet?text=Are six million people earning less than the living wage?&url=https://fullfact.org/economy/are-six-million-people-earning-less-living-wage/&via=FullFact
+748	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/energy-bills-under-conservatives/
+748	https://twitter.com/intent/tweet?text=Energy bills under the Conservatives  &url=https://fullfact.org/economy/energy-bills-under-conservatives/&via=FullFact
+749	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/uk-trade-usa/
+749	https://twitter.com/intent/tweet?text=The UK\xe2\x80\x99s trade with the USA&url=https://fullfact.org/economy/uk-trade-usa/&via=FullFact
+750	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/government-recouped-tax-evasion-avoidance/
+750	https://twitter.com/intent/tweet?text=How much has the government recouped from tax evasion and avoidance?&url=https://fullfact.org/economy/government-recouped-tax-evasion-avoidance/&via=FullFact
+754	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/law/wolf-whistling-about-become-illegal/
+754	https://twitter.com/intent/tweet?text=Is wolf whistling about to become illegal?&url=https://fullfact.org/law/wolf-whistling-about-become-illegal/&via=FullFact
+755	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/uk-foreign-aid-funding-filming-beijing/
+755	https://twitter.com/intent/tweet?text=Is UK foreign aid funding filming in Beijing?&url=https://fullfact.org/economy/uk-foreign-aid-funding-filming-beijing/&via=FullFact
+756	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/how-much-does-uk-recover-health-costs-eu/
+756	https://twitter.com/intent/tweet?text=How much does the UK recover in health costs from the EU?&url=https://fullfact.org/health/how-much-does-uk-recover-health-costs-eu/&via=FullFact
+757	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/midwives-leaving-profession/
+757	https://twitter.com/intent/tweet?text=Midwives leaving the profession&url=https://fullfact.org/health/midwives-leaving-profession/&via=FullFact
+765	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/immigration/has-uk-only-taken-216-syrian-refugees/
+765	https://twitter.com/intent/tweet?text=Has the UK only taken in 216 Syrian refugees?&url=https://fullfact.org/immigration/has-uk-only-taken-216-syrian-refugees/&via=FullFact
+766	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/immigration-affecting-performance-native-english-speakers-schools/
+766	https://twitter.com/intent/tweet?text=Is immigration affecting the performance of native English speakers in schools?&url=https://fullfact.org/education/immigration-affecting-performance-native-english-speakers-schools/&via=FullFact
+769	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/coasting-schools-three-strikes-and-youre-out/
+769	https://twitter.com/intent/tweet?text=Coasting schools: three strikes and you\'re out&url=https://fullfact.org/education/coasting-schools-three-strikes-and-youre-out/&via=FullFact
+770	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/how-many-truanting-fines-go-unpaid-parents/
+770	https://twitter.com/intent/tweet?text=How many truanting fines go unpaid by parents?&url=https://fullfact.org/education/how-many-truanting-fines-go-unpaid-parents/&via=FullFact
+771	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/are-white-applicants-more-likely-receive-offers-top-universities-black-applicants/
+771	https://twitter.com/intent/tweet?text=Are white applicants more likely to receive offers to top universities than black applicants?&url=https://fullfact.org/education/are-white-applicants-more-likely-receive-offers-top-universities-black-applicants/&via=FullFact
+788	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/heathrow-airport-emissions-targets/
+788	https://twitter.com/intent/tweet?text=Heathrow airport emissions targets&url=https://fullfact.org/economy/heathrow-airport-emissions-targets/&via=FullFact
+789	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/food-banks-hard-say-whether-rising-use-reflects-rising-demand/
+789	https://twitter.com/intent/tweet?text=Food banks: hard to say whether rising use reflects rising demand&url=https://fullfact.org/economy/food-banks-hard-say-whether-rising-use-reflects-rising-demand/&via=FullFact
+798	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/public-satisfaction-nhs-2015/
+798	https://twitter.com/intent/tweet?text=Public satisfaction with the NHS&url=https://fullfact.org/health/public-satisfaction-nhs-2015/&via=FullFact
+800	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/tax-cuts-corporation-tax-inheritance-tax-capital-gains-tax-and-bank-levy/
+800	https://twitter.com/intent/tweet?text=Tax cuts: corporation tax, inheritance, capital gains and the bank levy&url=https://fullfact.org/economy/tax-cuts-corporation-tax-inheritance-tax-capital-gains-tax-and-bank-levy/&via=FullFact
+801	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/can-300-million-pay-10000-police-officers/
+801	https://twitter.com/intent/tweet?text=Can \xc2\xa3300 million pay for 10,000 police officers?&url=https://fullfact.org/crime/can-300-million-pay-10000-police-officers/&via=FullFact
+802	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/level-dissatisfaction-nhs-not-highest-record/
+802	https://twitter.com/intent/tweet?text=The level of dissatisfaction with the NHS is not the highest on record&url=https://fullfact.org/health/level-dissatisfaction-nhs-not-highest-record/&via=FullFact
+806	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/100-billion-cost-writing-student-debt/
+806	https://twitter.com/intent/tweet?text=\xc2\xa3100 billion: the cost of writing off student debt?&url=https://fullfact.org/education/100-billion-cost-writing-student-debt/&via=FullFact
+807	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/are-super-rich-paying-less-income-tax/
+807	https://twitter.com/intent/tweet?text=Are the super-rich paying less income tax?&url=https://fullfact.org/economy/are-super-rich-paying-less-income-tax/&via=FullFact
+808	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/paying-buckingham-palace-cost-refurbishment/
+808	https://twitter.com/intent/tweet?text=Paying for Buckingham Palace&url=https://fullfact.org/economy/paying-buckingham-palace-cost-refurbishment/&via=FullFact
+809	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/energy-bill/renewable-subsidy-cuts-might-raise-bills-long-term-we-dont-know-how-much/
+809	https://twitter.com/intent/tweet?text=Renewable subsidy cuts might raise bills in the long term, but we don\xe2\x80\x99t know by how much&url=https://fullfact.org/energy-bill/renewable-subsidy-cuts-might-raise-bills-long-term-we-dont-know-how-much/&via=FullFact
+810	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/spending-housing-benefit/
+810	https://twitter.com/intent/tweet?text=Spending on Housing Benefit&url=https://fullfact.org/economy/spending-housing-benefit/&via=FullFact
+811	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/germans-work-less-earn-more-more-productive-than-uk/
+811	https://twitter.com/intent/tweet?text=Germans are more productive than us, work less, and earn more&url=https://fullfact.org/economy/germans-work-less-earn-more-more-productive-than-uk/&via=FullFact
+814	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/did-george-osborne-promise-eliminate-deficit-year/
+814	https://twitter.com/intent/tweet?text=Did George Osborne promise to eliminate the deficit by this year?&url=https://fullfact.org/economy/did-george-osborne-promise-eliminate-deficit-year/&via=FullFact
+835	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/phonics-are-more-six-year-olds-track-become-confident-readers/
+835	https://twitter.com/intent/tweet?text=Phonics: are more six year olds on track to become confident readers?&url=https://fullfact.org/education/phonics-are-more-six-year-olds-track-become-confident-readers/&via=FullFact
+836	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/free-school-meals-and-educational-performance/
+836	https://twitter.com/intent/tweet?text=Free school meals and educational performance&url=https://fullfact.org/education/free-school-meals-and-educational-performance/&via=FullFact
+837	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/what-rape-clause/
+837	https://twitter.com/intent/tweet?text=What is the "rape clause"?&url=https://fullfact.org/economy/what-rape-clause/&via=FullFact
+840	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/law/are-there-80-sharia-courts-britain/
+840	https://twitter.com/intent/tweet?text=Are there 80 Sharia courts in Britain?&url=https://fullfact.org/law/are-there-80-sharia-courts-britain/&via=FullFact
+843	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/pro-sesh-ional-classes-do-wealthy-people-drink-more-regularly/
+843	https://twitter.com/intent/tweet?text=The Pro-sesh-ional classes: Do wealthy people drink more regularly?&url=https://fullfact.org/health/pro-sesh-ional-classes-do-wealthy-people-drink-more-regularly/&via=FullFact
+845	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/uk-one-biggest-contributors-eu-budget/
+845	https://twitter.com/intent/tweet?text=The UK is one of the biggest contributors to the EU budget&url=https://fullfact.org/europe/uk-one-biggest-contributors-eu-budget/&via=FullFact
+847	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/mental-health-there-are-fewer-beds-nurses-and-psychiatry-trainees-2010/
+847	https://twitter.com/intent/tweet?text=Mental health: there are fewer beds, nurses and psychiatry trainees than in 2010&url=https://fullfact.org/health/mental-health-there-are-fewer-beds-nurses-and-psychiatry-trainees-2010/&via=FullFact
+865	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/relentless-workload-forcing-teachers-leave-lower-paid-jobs/
+865	https://twitter.com/intent/tweet?text=Is a relentless workload forcing teachers to leave for lower paid jobs?&url=https://fullfact.org/education/relentless-workload-forcing-teachers-leave-lower-paid-jobs/&via=FullFact
+874	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/will-changes-tax-credits-cost-families-1300-year/
+874	https://twitter.com/intent/tweet?text=Will changes to tax credits cost families \xc2\xa31,300 a year?&url=https://fullfact.org/economy/will-changes-tax-credits-cost-families-1300-year/&via=FullFact
+877	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/ask-full-fact-stroke-patients-and-weekend-deaths/
+877	https://twitter.com/intent/tweet?text=Ask Full Fact: stroke patients and weekend deaths&url=https://fullfact.org/health/ask-full-fact-stroke-patients-and-weekend-deaths/&via=FullFact
+878	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/do-black-workers-face-widening-pay-gap-more-qualifications-they-earn/
+878	https://twitter.com/intent/tweet?text=Do black workers face a widening pay gap the more qualifications they earn?&url=https://fullfact.org/economy/do-black-workers-face-widening-pay-gap-more-qualifications-they-earn/&via=FullFact
+881	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/child-poverty-depending-how-you-look-it/
+881	https://twitter.com/intent/tweet?text=Child poverty is up, depending on how you look at it&url=https://fullfact.org/economy/child-poverty-depending-how-you-look-it/&via=FullFact
+882	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/law/football-poppy-ban-fifa/
+882	https://twitter.com/intent/tweet?text=FIFA has restrictions on England footballers wearing poppies&url=https://fullfact.org/law/football-poppy-ban-fifa/&via=FullFact
+887	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/brexit-and-economic-apocalypse/
+887	https://twitter.com/intent/tweet?text=Brexit and economic apocalypse&url=https://fullfact.org/economy/brexit-and-economic-apocalypse/&via=FullFact
+888	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/are-there-one-million-older-people-unable-look-after-themselves/
+888	https://twitter.com/intent/tweet?text=Are there one million older people unable to look after themselves?&url=https://fullfact.org/health/are-there-one-million-older-people-unable-look-after-themselves/&via=FullFact
+889	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/uk-trade-commonwealth/
+889	https://twitter.com/intent/tweet?text=Trade with the Commonwealth&url=https://fullfact.org/economy/uk-trade-commonwealth/&via=FullFact
+890	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/ask-full-fact-have-conservatives-redefined-child-poverty/
+890	https://twitter.com/intent/tweet?text=Ask Full Fact: have the Conservatives redefined child poverty? &url=https://fullfact.org/economy/ask-full-fact-have-conservatives-redefined-child-poverty/&via=FullFact
+892	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/how-many-reported-rapes-go-to-trial/
+892	https://twitter.com/intent/tweet?text=Reported rapes that reach trial&url=https://fullfact.org/crime/how-many-reported-rapes-go-to-trial/&via=FullFact
+893	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/immigration/are-one-nine-uk-workers-migrants/
+893	https://twitter.com/intent/tweet?text=Are one in nine UK workers migrants?&url=https://fullfact.org/immigration/are-one-nine-uk-workers-migrants/&via=FullFact
+906	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/diagnosis-unknown-how-many-diabetes-cases-go-undetected/
+906	https://twitter.com/intent/tweet?text=Diagnosis unknown: how many diabetes cases go undetected?&url=https://fullfact.org/health/diagnosis-unknown-how-many-diabetes-cases-go-undetected/&via=FullFact
+907	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/are-three-quarters-hospitals-england-unsafe/
+907	https://twitter.com/intent/tweet?text=Are three-quarters of hospitals in England \'unsafe\'?&url=https://fullfact.org/health/are-three-quarters-hospitals-england-unsafe/&via=FullFact
+910	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/law/far-fewer-social-welfare-cases-get-legal-aid/
+910	https://twitter.com/intent/tweet?text=Far fewer social welfare cases get legal aid&url=https://fullfact.org/law/far-fewer-social-welfare-cases-get-legal-aid/&via=FullFact
+911	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/energy-bill/uk-making-good-progress-towards-its-2020-renewables-target/
+911	https://twitter.com/intent/tweet?text=Is the UK making progress towards its 2020 renewables target?&url=https://fullfact.org/energy-bill/uk-making-good-progress-towards-its-2020-renewables-target/&via=FullFact
+912	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/do-most-secondary-schools-use-non-specialist-teachers/
+912	https://twitter.com/intent/tweet?text=Do most secondary schools use non-specialist teachers?&url=https://fullfact.org/education/do-most-secondary-schools-use-non-specialist-teachers/&via=FullFact
+913	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/spending-disability-benefits-going-or-down/
+913	https://twitter.com/intent/tweet?text=Is spending on disability benefits going up or down? &url=https://fullfact.org/economy/spending-disability-benefits-going-or-down/&via=FullFact
+916	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/school-spending-or-down/
+916	https://twitter.com/intent/tweet?text=School spending: up or down?&url=https://fullfact.org/education/school-spending-or-down/&via=FullFact
+918	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/regional-investment-transport/
+918	https://twitter.com/intent/tweet?text=Regional investment in transport: we don\xe2\x80\x99t know exactly who gets what&url=https://fullfact.org/economy/regional-investment-transport/&via=FullFact
+930	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/whats-been-happening-tax-gap/
+930	https://twitter.com/intent/tweet?text=What\'s been happening to the tax gap?&url=https://fullfact.org/economy/whats-been-happening-tax-gap/&via=FullFact
+932	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/proposed-renewables-obligation-cut-how-much-onshore-wind-capacity-loses-out/
+932	https://twitter.com/intent/tweet?text=The proposed Renewables Obligation cut off: how much onshore wind capacity loses out?&url=https://fullfact.org/economy/proposed-renewables-obligation-cut-how-much-onshore-wind-capacity-loses-out/&via=FullFact
+933	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/what-effect-public-purse-would-closing-renewables-obligation-early-have/
+933	https://twitter.com/intent/tweet?text=What effect on the public purse would closing the Renewables Obligation early have?&url=https://fullfact.org/economy/what-effect-public-purse-would-closing-renewables-obligation-early-have/&via=FullFact
+937	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/uks-international-education-ranking/
+937	https://twitter.com/intent/tweet?text=The UK\'s international education ranking&url=https://fullfact.org/education/uks-international-education-ranking/&via=FullFact
+938	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/nhs-spending-lowest-financial-settlement-ever/
+938	https://twitter.com/intent/tweet?text=NHS spending: the lowest financial settlement ever?&url=https://fullfact.org/health/nhs-spending-lowest-financial-settlement-ever/&via=FullFact
+939	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/trade-offs-local-councils-face-choices-about-adult-social-care-funding/
+939	https://twitter.com/intent/tweet?text=Trade-offs: local councils face choices about adult social care funding&url=https://fullfact.org/health/trade-offs-local-councils-face-choices-about-adult-social-care-funding/&via=FullFact
+940	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/public-sector-pay-bbcqt/
+940	https://twitter.com/intent/tweet?text=Public sector pay&url=https://fullfact.org/economy/public-sector-pay-bbcqt/&via=FullFact
+941	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/theresa-mays-eu-negotiating-experience/
+941	https://twitter.com/intent/tweet?text=Theresa May\'s EU negotiating experience&url=https://fullfact.org/europe/theresa-mays-eu-negotiating-experience/&via=FullFact
+944	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/shared-parental-leave-self-employed-people/
+944	https://twitter.com/intent/tweet?text=Shared parental leave: self-employed people&url=https://fullfact.org/economy/shared-parental-leave-self-employed-people/&via=FullFact
+945	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/cancer-diabetes-mental-health-rise/
+945	https://twitter.com/intent/tweet?text=Healthcheck: cancer, diabetes and mental health conditions on the rise?&url=https://fullfact.org/health/cancer-diabetes-mental-health-rise/&via=FullFact
+947	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/news/are-majority-british-jews-zionists/
+947	https://twitter.com/intent/tweet?text=Are the majority of British Jews Zionists?&url=https://fullfact.org/news/are-majority-british-jews-zionists/&via=FullFact
+961	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/britains-privatised-rail-40-too-expensive/
+961	https://twitter.com/intent/tweet?text=Britain\'s privatised rail: 40% too expensive?&url=https://fullfact.org/economy/britains-privatised-rail-40-too-expensive/&via=FullFact
+962	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/are-sixth-forms-and-further-education-colleges-better-funded/
+962	https://twitter.com/intent/tweet?text=Are sixth forms and further education colleges better funded? &url=https://fullfact.org/education/are-sixth-forms-and-further-education-colleges-better-funded/&via=FullFact
+963	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/rural-properties-are-much-less-likely-have-good-broadband-connections/
+963	https://twitter.com/intent/tweet?text=Rural properties are much less likely to have good broadband connections&url=https://fullfact.org/economy/rural-properties-are-much-less-likely-have-good-broadband-connections/&via=FullFact
+965	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/false-claims-forecasts-eu-referendum/
+965	https://twitter.com/intent/tweet?text=False claims, forecasts, and the EU Referendum&url=https://fullfact.org/europe/false-claims-forecasts-eu-referendum/&via=FullFact
+966	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/have-university-applicant-numbers-fallen-2017/
+966	https://twitter.com/intent/tweet?text=Have university applicant numbers fallen in 2017?&url=https://fullfact.org/education/have-university-applicant-numbers-fallen-2017/&via=FullFact
+967	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/were-no-psychiatric-beds-available-anywhere-england-weekend/
+967	https://twitter.com/intent/tweet?text=Were no psychiatric beds available anywhere in England at the weekend?&url=https://fullfact.org/health/were-no-psychiatric-beds-available-anywhere-england-weekend/&via=FullFact
+969	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/small-businesses-and-brexit/
+969	https://twitter.com/intent/tweet?text=Small businesses and Brexit&url=https://fullfact.org/europe/small-businesses-and-brexit/&via=FullFact
+970	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/immigration/windrush-generation/
+970	https://twitter.com/intent/tweet?text=Windrush generation: what\'s the situation?&url=https://fullfact.org/immigration/windrush-generation/&via=FullFact
+971	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/law/factchecking-campaigning-leaflets-abortion/
+971	https://twitter.com/intent/tweet?text=Factchecking campaigning leaflets on abortion&url=https://fullfact.org/law/factchecking-campaigning-leaflets-abortion/&via=FullFact
+982	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/ask-full-fact-poverty-being-redefined-remove-any-reference-income/
+982	https://twitter.com/intent/tweet?text=Ask Full Fact: is poverty being redefined to remove any reference to income?&url=https://fullfact.org/economy/ask-full-fact-poverty-being-redefined-remove-any-reference-income/&via=FullFact
+989	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/how-do-selective-school-ratings-compare/
+989	https://twitter.com/intent/tweet?text=How do selective school ratings compare?&url=https://fullfact.org/education/how-do-selective-school-ratings-compare/&via=FullFact
+995	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/income-inequality-resolution-foundation/
+995	https://twitter.com/intent/tweet?text=Income inequality&url=https://fullfact.org/economy/income-inequality-resolution-foundation/&via=FullFact
+1002	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/news/olympic-games-factchecked/
+1002	https://twitter.com/intent/tweet?text=The Olympic Games, factchecked&url=https://fullfact.org/news/olympic-games-factchecked/&via=FullFact
+1012	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/are-university-applications-falling-uk/
+1012	https://twitter.com/intent/tweet?text=Are university applications falling in the UK? &url=https://fullfact.org/education/are-university-applications-falling-uk/&via=FullFact
+1025	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/two-thirds-uk-law-made-eu/
+1025	https://twitter.com/intent/tweet?text=Is two thirds of UK law made by the EU?&url=https://fullfact.org/europe/two-thirds-uk-law-made-eu/&via=FullFact
+1029	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/british-influence-eu-council-ministers/
+1029	https://twitter.com/intent/tweet?text=British influence in the EU Council of Ministers&url=https://fullfact.org/europe/british-influence-eu-council-ministers/&via=FullFact
+1030	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/immigration/how-many-international-students-leave-after-studying-uk/
+1030	https://twitter.com/intent/tweet?text=How many international students leave after studying in the UK?&url=https://fullfact.org/immigration/how-many-international-students-leave-after-studying-uk/&via=FullFact
+1032	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/young-peoples-participation-higher-education/
+1032	https://twitter.com/intent/tweet?text=Young people\'s participation in higher education&url=https://fullfact.org/education/young-peoples-participation-higher-education/&via=FullFact
+1033	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/30-hours-free-childcare-only-quarter-places-delivered/
+1033	https://twitter.com/intent/tweet?text=30 hours free childcare: only a quarter of places delivered? &url=https://fullfact.org/education/30-hours-free-childcare-only-quarter-places-delivered/&via=FullFact
+1035	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/world-cup-domestic-abuse/
+1035	https://twitter.com/intent/tweet?text=World Cup: does domestic abuse spike when England lose?&url=https://fullfact.org/crime/world-cup-domestic-abuse/&via=FullFact
+1049	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/ashes-ashes-grants-loans-how-scrapping-maintenance-grants-will-affect-students/
+1049	https://twitter.com/intent/tweet?text=Ashes to ashes, grants to loans: how scrapping maintenance grants will affect students&url=https://fullfact.org/economy/ashes-ashes-grants-loans-how-scrapping-maintenance-grants-will-affect-students/&via=FullFact
+1057	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/what-is-naylor-review/
+1057	https://twitter.com/intent/tweet?text=Naylor Review: will the Conservatives sell NHS property to developers?&url=https://fullfact.org/health/what-is-naylor-review/&via=FullFact
+1058	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/what-happened-violent-crime-london-2008/
+1058	https://twitter.com/intent/tweet?text=What happened to violent crime in London since 2008?&url=https://fullfact.org/crime/what-happened-violent-crime-london-2008/&via=FullFact
+1059	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/heatwave-how-many-deaths/
+1059	https://twitter.com/intent/tweet?text=How many deaths from this summer\xe2\x80\x99s heatwave?&url=https://fullfact.org/health/heatwave-how-many-deaths/&via=FullFact
+1060	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/pay-rises-how-much-do-nurses-police-teachers-and-mps-get-paid/
+1060	https://twitter.com/intent/tweet?text=Pay rises: how much do nurses, the police, teachers and MPs get paid?&url=https://fullfact.org/economy/pay-rises-how-much-do-nurses-police-teachers-and-mps-get-paid/&via=FullFact
+1061	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/ethnic-groups-arrested-terrorism/
+1061	https://twitter.com/intent/tweet?text=What do we know about which ethnic groups get arrested for terrorism charges?&url=https://fullfact.org/crime/ethnic-groups-arrested-terrorism/&via=FullFact
+1065	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/nhs-video-factchecked/
+1065	https://twitter.com/intent/tweet?text=NHS video, factchecked&url=https://fullfact.org/health/nhs-video-factchecked/&via=FullFact
+1080	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/are-state-school-pupils-less-likely-reach-top-jobs/
+1080	https://twitter.com/intent/tweet?text=Are state school pupils less likely to reach top jobs?&url=https://fullfact.org/education/are-state-school-pupils-less-likely-reach-top-jobs/&via=FullFact
+1081	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/125000-operations-predicted-be-cancelled/
+1081	https://twitter.com/intent/tweet?text=Are 125,000 operations predicted to be cancelled?&url=https://fullfact.org/health/125000-operations-predicted-be-cancelled/&via=FullFact
+1093	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/nhs-spending-mental-health/
+1093	https://twitter.com/intent/tweet?text=NHS spending on mental health&url=https://fullfact.org/health/nhs-spending-mental-health/&via=FullFact
+1098	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/reporting-fit-work-deaths-isnt-fit-purpose/
+1098	https://twitter.com/intent/tweet?text=Reporting on "fit for work" deaths isn\'t fit for purpose&url=https://fullfact.org/economy/reporting-fit-work-deaths-isnt-fit-purpose/&via=FullFact
+1102	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/farming-subsidies-uk/
+1102	https://twitter.com/intent/tweet?text=Do farmers make more from subsidies than agriculture?&url=https://fullfact.org/economy/farming-subsidies-uk/&via=FullFact
+1105	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/law/legal-age-limits/
+1105	https://twitter.com/intent/tweet?text=How sweet is sixteen? Legal age limits in England and Wales&url=https://fullfact.org/law/legal-age-limits/&via=FullFact
+1115	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/are-changes-maintenance-grants-being-made-through-arcane-loophole/
+1115	https://twitter.com/intent/tweet?text=Are changes to maintenance grants being made through an arcane loophole?&url=https://fullfact.org/education/are-changes-maintenance-grants-being-made-through-arcane-loophole/&via=FullFact
+1116	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/could-leaving-european-nuclear-club-put-cancer-patients-risk/
+1116	https://twitter.com/intent/tweet?text=Could leaving the European nuclear club put cancer patients at risk?&url=https://fullfact.org/europe/could-leaving-european-nuclear-club-put-cancer-patients-risk/&via=FullFact
+1117	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/mental-health-staff-nhs/
+1117	https://twitter.com/intent/tweet?text=Mental health staff in the NHS&url=https://fullfact.org/health/mental-health-staff-nhs/&via=FullFact
+1126	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/eu-homeopathy-and-norwegian-vets/
+1126	https://twitter.com/intent/tweet?text=The EU, homeopathy and Norwegian vets&url=https://fullfact.org/europe/eu-homeopathy-and-norwegian-vets/&via=FullFact
+1129	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/education/are-more-children-being-taken-from-their-families/
+1129	https://twitter.com/intent/tweet?text=Are more children being taken from their families?&url=https://fullfact.org/education/are-more-children-being-taken-from-their-families/&via=FullFact
+1137	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/health/nhs-vacancies/
+1137	https://twitter.com/intent/tweet?text=Are there 100,000 vacancies in the NHS?&url=https://fullfact.org/health/nhs-vacancies/&via=FullFact
+1140	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/crime/voter-id-scheme/
+1140	https://twitter.com/intent/tweet?text=Has the government\xe2\x80\x99s voter ID scheme been a success?&url=https://fullfact.org/crime/voter-id-scheme/&via=FullFact
+1150	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/does-delaying-airport-expansion-cost-us-6-million-day/
+1150	https://twitter.com/intent/tweet?text=Does delaying airport expansion cost us \xc2\xa36 million a day?&url=https://fullfact.org/economy/does-delaying-airport-expansion-cost-us-6-million-day/&via=FullFact
+1158	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/europe/irish-border-trade-checks/
+1158	https://twitter.com/intent/tweet?text=Irish border: how much trade?&url=https://fullfact.org/europe/irish-border-trade-checks/&via=FullFact
+1167	https://www.facebook.com/sharer/sharer.php?u=https://fullfact.org/economy/employment-growth-insecure-precarious-work/
+1167	https://twitter.com/intent/tweet?text=Has employment growth been driven by a rise in insecure, precarious work?&url=https://fullfact.org/economy/employment-growth-insecure-precarious-work/&via=FullFact

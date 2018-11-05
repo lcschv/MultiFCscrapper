@@ -102,6 +102,10 @@ class WashingtonPost(Commons):
         except:
             return tags
 
+    def get_text_image_test(self):
+        text = self.get_text_from_image("caption_3469858.jpg")
+        print (text)
+        # label = text.replace('\n', ' ')
 
     def get_claim_category(self, soup, url):
         category = ""
@@ -389,5 +393,6 @@ class WashingtonPost(Commons):
 
 if __name__ == '__main__':
     washingtonpost = WashingtonPost(5, "https://www.washingtonpost.com/news/fact-checker/", "C:\Lucas\PhD\CredibilityDataset\scrappers\seeds\chromedriver.exe")
-    washingtonpost.parse_documents()
-    washingtonpost.start()
+    # washingtonpost.parse_documents()
+    # washingtonpost.start()
+    washingtonpost.get_text_image_test()
