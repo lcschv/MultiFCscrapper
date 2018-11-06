@@ -5,17 +5,18 @@ class OutLinkScraper(object):
     def __init__(self, schemas_path="seeds/schemas/"):
         self.self = self
         self.schemas_path = schemas_path
-        self.dict_article_content = {"abc": {"class": "article section"},
-                                     "factcheckorg": {"class": "entry-content"},
-                                     "fullfact": {"class": "col-xs-12"},
-                                     "truthorfiction": {"class": "theiaStickySidebar"},
-                                     "washingtonpost": {"class": "article-body"},
-                                     "hoaxslayer": {"class": "penci-main-sticky-sidebar"},
-                                     "theconversation": {"itemprop": "articleBody"},
-                                     "leadstories": {"class": "l_col_s_12 l_col_m_12 l_col_l_8 l_col_xl_8"},
-                                     "pandora": {"class": "boxmidlede"},
-                                     "radionz": {"class": "article__body"},
-                                     "theguardian": {"itemprop": "articleBody"}}
+        self.dict_article_content = {
+            # "abc": {"class": "article section"},
+                                     # "factcheckorg": {"class": "entry-content"},
+                                     # "fullfact": {"class": "col-xs-12"},
+                                     # "truthorfiction": {"class": "theiaStickySidebar"},
+                                     # "washingtonpost": {"class": "article-body"},
+                                     # "hoaxslayer": {"class": "penci-main-sticky-sidebar"},
+                                     # "theconversation": {"itemprop": "articleBody"},
+                                     # "leadstories": {"class": "l_col_s_12 l_col_m_12 l_col_l_8 l_col_xl_8"},
+                                     "pandora": {"class": "storyblock"}}
+                                     # "radionz": {"class": "article__body"},
+                                     # "theguardian": {"itemprop": "articleBody"}}
 
         # self.dict_article_content = {"radionz": {"class": "article__body"}}
         # , "factcheckorg": {"class": "entry-content"},
@@ -73,7 +74,10 @@ class OutLinkScraper(object):
                     if a.get("href") is not None:
                         if a.get("href").startswith("http"):
                             outlinks += [a.get("href")]
+                        elif seed_name == "pandora" and a.get("href").replace("/external.html?link=","").startswith("http"):
+                            outlinks += [a.get("href").replace("/external.html?link=","")]
         return outlinks
+
 
     def write_outlinks_to_file(self):
         for seed, claims in self.dict_claim_outlinks.items():
