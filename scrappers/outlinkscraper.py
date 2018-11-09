@@ -12,11 +12,14 @@ class OutLinkScraper(object):
                                      # "truthorfiction": {"class": "theiaStickySidebar"},
                                      # "washingtonpost": {"class": "article-body"},
                                      # "hoaxslayer": {"class": "penci-main-sticky-sidebar"},
-                                     # "theconversation": {"itemprop": "articleBody"},
+                                     # "theconversation": {"class": "grid-ten large-grid-nine grid-last content-body content entry-content instapaper_body"},
                                      # "leadstories": {"class": "l_col_s_12 l_col_m_12 l_col_l_8 l_col_xl_8"},
-                                     "pandora": {"class": "storyblock"}}
+                                     # "pandora": {"class": "storyblock"}}
                                      # "radionz": {"class": "article__body"},
                                      # "theguardian": {"itemprop": "articleBody"}}
+                                     # "swissinfo": {"itemprop": "articleBody"}}
+                                     "snopes": {"class": "post-body-card post-card card"}}
+
 
         # self.dict_article_content = {"radionz": {"class": "article__body"}}
         # , "factcheckorg": {"class": "entry-content"},
@@ -59,6 +62,7 @@ class OutLinkScraper(object):
 
                     claim_url = parts[3]
                     full_path = "seeds/raw_content/"+str(seed_name)+"/"+path_id+".html"
+                    print(full_path)
                     self.dict_claim_outlinks[seed_name][claim_id] = self.parse_webdocument(seed_name,full_path)
         self.write_outlinks_to_file()
 

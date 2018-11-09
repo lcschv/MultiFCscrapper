@@ -80,7 +80,10 @@ class Snopes(Commons):
         i=1
         for claim_id, claim_url in self.dict_claims_urls.items():
             try:
+
                 html = self._get_full_doc_(claim_url)
+                with open("raw_content/snopes/"+str(claim_id)+".html","w") as f:
+                    f.write(str(html))
                 soup = BeautifulSoup(html, 'html.parser')
                 self.clean_soup(soup)
                 article_title = self.get_article_title(soup, claim_url)
@@ -110,7 +113,7 @@ class Snopes(Commons):
                 continue
 
     def get_list_claims_url(self, soup):
-        div_tag = soup.find_all("div", {"class": "list-wrapper"})
+        div_tag = soup.find_all("div", {"class": "list-group"})
         for tag in div_tag:
             articleTags = tag.find_all("article")
             for article_tag in articleTags:
@@ -129,9 +132,12 @@ class Snopes(Commons):
         [s.extract() for s in soup('style')]
 
     def start(self):
-        for i in range(0,1026):
-            url = self.seed_url+str(i)
-            html = self._get_full_doc_(url)
+        for i in range(39,40):
+            try:
+                url = self.seed_url+str(i)
+                html = self._get_full_doc_(url)
+            except:
+                continue
             soup = BeautifulSoup(html, 'html.parser')
             self.clean_soup(soup)
             self.get_list_claims_url(soup)
