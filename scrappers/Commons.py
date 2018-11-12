@@ -47,6 +47,8 @@ class Commons:
                 attrs = vars(object)
                 f.write('\t'.join("%s"% str(item[1]).replace("\t"," ") for item in attrs.items())+"\n")
 
+
+
     def summarize_statistics(self, file_out, dict_objects):
         dict_summary = {}
         keys = vars(dict_objects[list(dict_objects.keys())[0]])

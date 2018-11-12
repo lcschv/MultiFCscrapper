@@ -8,17 +8,17 @@ class OutLinkScraper(object):
         self.dict_article_content = {
             # "abc": {"class": "article section"},
                                      # "factcheckorg": {"class": "entry-content"},
-                                     # "fullfact": {"class": "col-xs-12"},
-                                     # "truthorfiction": {"class": "theiaStickySidebar"},
+                                     # "fullfact": {"class": "col-xs-12 no-padding"}}
+                                     "truthorfiction": {"class": "theiaStickySidebar"}}
                                      # "washingtonpost": {"class": "article-body"},
                                      # "hoaxslayer": {"class": "penci-main-sticky-sidebar"},
                                      # "theconversation": {"class": "grid-ten large-grid-nine grid-last content-body content entry-content instapaper_body"},
-                                     # "leadstories": {"class": "l_col_s_12 l_col_m_12 l_col_l_8 l_col_xl_8"},
+                                     # "leadstories": {"class": "l_col_s_12 l_col_m_12 l_col_l_8 l_col_xl_8"}}
                                      # "pandora": {"class": "storyblock"}}
                                      # "radionz": {"class": "article__body"},
                                      # "theguardian": {"itemprop": "articleBody"}}
                                      # "swissinfo": {"itemprop": "articleBody"}}
-                                     "snopes": {"class": "post-body-card post-card card"}}
+                                     # "snopes": {"class": "post-body-card post-card card"}}
 
 
         # self.dict_article_content = {"radionz": {"class": "article__body"}}
@@ -72,7 +72,7 @@ class OutLinkScraper(object):
             # content = f.readlines()
             soup = BeautifulSoup(f.read(), 'html.parser')
             # print (soup)
-            test = soup.find("div", self.dict_article_content[seed_name])
+            test = soup.find("div", self.dict_article_content[seed_name]).find("article")
             if test is not None:
                 for a in test.find_all("a"):
                     if a.get("href") is not None:

@@ -1882,8 +1882,7 @@
 80	http://your.nationwide.co.uk/your-news/articles/Pages/house-price-index-february-2014.aspx
 80	http://www.bbc.co.uk/news/business-26216141
 80	http://www.dfpni.gov.uk/lps/index/about-lps/publications/statistics-and-research-publications.htm
-80	http://Property transactions annually, by type
-\xef\xbf\xbc\xef\xbf\xbchttps://www.cml.org.uk/cml/home/
+80	http://Property transactions annually, by type\xef\xbf\xbc\xef\xbf\xbchttps://www.cml.org.uk/cml/home/
 80	https://www.theguardian.com/discussion/user/id/3274279
 80	https://www.theguardian.com/discussion/user/id/3274279
 80	http://discussion.theguardian.com/comment-permalink/32758418
