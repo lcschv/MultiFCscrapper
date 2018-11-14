@@ -13,7 +13,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 import urllib.request
 #Overriding class urlopener to fake user agent.
-
+import time
 #Defining global variables.
 dict_claim = {}
 dict_url = {}
@@ -72,13 +72,17 @@ class Scrapper(object):
                 # url = 'https://www.google.com/search?q=python'
                 if url.endswith('.pdf') or "twitter.com" in url:
                     if self.seed not in dict_exeptions:
-                        dict_exeptions[self.seed] = {url: "This is a .pdf document, not HTML."}
+                        dict_exeptions[self.seed] = {}
+                    if url not in dict_exeptions[self.seed]:
+                        dict_exeptions[self.seed][url] = "This is a .pdf document, not HTML."
                     continue
                 fp = urllib.request.urlopen(url, timeout=5)
                 content_type = fp.headers.get('content-type')
                 if 'application/pdf' in content_type:
                     if self.seed not in dict_exeptions:
-                        dict_exeptions[self.seed] = {url: "This is a .pdf document, not HTML."}
+                        dict_exeptions[self.seed] = {}
+                    if url not in dict_exeptions[self.seed]:
+                        dict_exeptions[self.seed][url] = "This is a .pdf document, not HTML."
                     continue
                 mybytes = fp.read()
 
@@ -90,14 +94,14 @@ class Scrapper(object):
                 # print (response.read())
             except Exception as e:
                 if self.seed not in dict_exeptions:
-                    dict_exeptions[self.seed] = {url:str(e)}
+                    dict_exeptions[self.seed] = {}
+                if url not in dict_exeptions[self.seed]:
+                    dict_exeptions[self.seed][url] = str(e)
                 # self.reopen_driver()
                 continue
 
     def write_rawdata_tofile(self, url, content):
         for claim_id in dict_url[url]:
-            if url == "https://www.qlrc.qld.gov.au/__data/assets/pdf_file/0004/576166/qlrc-report-76-2018-final.pdf":
-                print ("Vai toma no cu..")
             check_dir_exists_and_create(self.destiny_rawdata_folder+"\\"+self.seed+"\\"+str(claim_id))
             file_id = dict_claim[claim_id][url]
             file_out = open(self.destiny_rawdata_folder+"\\"+self.seed+"\\"+str(claim_id)+"\\"+str(file_id)+".html","w")
@@ -142,7 +146,7 @@ def check_dir_exists_and_create(path):
     if not os.path.isdir(path):
         os.mkdir(path)
 
-import time
+
 
 
 if __name__ == '__main__':
@@ -179,7 +183,7 @@ if __name__ == '__main__':
             thread.join()
         print("Unique url:",len(dict_just_url))
         print("--- Avg: %.2f doc/sec ---" % (len(dict_just_url)/(time.time() - start_time)))
-
+        print("--- Total %.2f sec ---" % ((time.time() - start_time)))
 
     for seed, exceptions in dict_exeptions.items():
         with open("logs_exceptions\\"+str(seed)+".txt", "w") as log_file:

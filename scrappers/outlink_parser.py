@@ -9,7 +9,7 @@ class OutLinkScraper(object):
             # "abc": {"class": "article section"},
                                      # "factcheckorg": {"class": "entry-content"},
                                      # "fullfact": {"class": "col-xs-12 no-padding"}}
-                                     "truthorfiction": {"class": "theiaStickySidebar"}}
+                                     # "truthorfiction": {"class": "theiaStickySidebar"}}
                                      # "washingtonpost": {"class": "article-body"},
                                      # "hoaxslayer": {"class": "penci-main-sticky-sidebar"},
                                      # "theconversation": {"class": "grid-ten large-grid-nine grid-last content-body content entry-content instapaper_body"},
@@ -19,13 +19,14 @@ class OutLinkScraper(object):
                                      # "theguardian": {"itemprop": "articleBody"}}
                                      # "swissinfo": {"itemprop": "articleBody"}}
                                      # "snopes": {"class": "post-body-card post-card card"}}
+                                     #    "observatory":{"class":"entry-content clearfix"}} #section
+                                     #    "wral":{"class":"p402_premium"}} #attrs=
+                                    # "huffingtonpostca":{"class":"post-contents"}}#attrs=
+                                    # "mprnews":{"class":"entry-content"}}#attrs=
+                                    "nytimes":{"itemprop":"articleBody"}}#attrs=
 
 
-        # self.dict_article_content = {"radionz": {"class": "article__body"}}
-        # , "factcheckorg": {"class": "entry-content"},
-        #                              "fullfact": {"class": "col-xs-12 no-padding"},
-        #                              "truthorfiction": {"class": "theiaStickySidebar"},
-        #                              "washingtonpost": {"class": "article-body"}}
+
         self.read_schemas()
         # "div", {"class": "inline-content wysiwyg right"}
 
@@ -36,7 +37,7 @@ class OutLinkScraper(object):
     def read_schemas(self):
         self.dict_claim_outlinks = {}
         schemas = self.get_list_schemas()
-
+        print(schemas)
         for schema in schemas:
             seed_name = schema.split("/")[-1].replace(".txt","")
             print("Parsing: ",seed_name)
@@ -45,12 +46,15 @@ class OutLinkScraper(object):
                 with open(schema, encoding="utf8") as f:
                     content = f.readlines()
                 content = [x.rstrip() for x in content]
+                print(content)
                 #It starts from 1 to remove the header
                 for line in content[1:]:
                     # parts = line.split("   ")
                     parts = line.split("\t")
                     if len(parts) != 12:
                         parts = line.split("   ")
+                        if len(parts) != 12:
+                            parts = line.split("	")
 
                     claim_id = parts[0]
                     path_id = claim_id
@@ -61,7 +65,8 @@ class OutLinkScraper(object):
 
 
                     claim_url = parts[3]
-                    full_path = "seeds/raw_content/"+str(seed_name)+"/"+path_id+".html"
+                    full_path = "seeds/raw_content/"+str(seed_name)+"/"+path_id+".txt"
+
                     print(full_path)
                     self.dict_claim_outlinks[seed_name][claim_id] = self.parse_webdocument(seed_name,full_path)
         self.write_outlinks_to_file()
@@ -72,7 +77,7 @@ class OutLinkScraper(object):
             # content = f.readlines()
             soup = BeautifulSoup(f.read(), 'html.parser')
             # print (soup)
-            test = soup.find("div", self.dict_article_content[seed_name]).find("article")
+            test = soup.find(attrs=self.dict_article_content[seed_name])
             if test is not None:
                 for a in test.find_all("a"):
                     if a.get("href") is not None:
