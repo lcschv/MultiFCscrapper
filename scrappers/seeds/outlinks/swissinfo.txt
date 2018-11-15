@@ -1,6 +1,7 @@
 1_1	https://www.svp.ch/kampagnen/uebersicht/selbstbestimmungsinitiative/
 1_1	https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20093256
 1_1	https://www.admin.ch/opc/de/classified-compilation/19660262/index.html
+1_1	https://www.swissinfo.ch/eng/directdemocracy/controversy-in-parliament-_put-national-law-before-international-law--other-countries-do-/44154932
 1_1	https://ec.europa.eu/info/law/law-making-process/applying-eu-law/infringement-procedure_en
 1_1	https://www.humanrights.ch/upload/pdf/140311_Press_release_ECHR_judgment_Howald_Moor_and_others__v_Switzerland.pdf
 1_1	https://www.humanrights.ch/en/switzerland/internal-affairs/protection/miscellaneous/compulsory-social-measures-long-rehabilitation
@@ -9,11 +10,15 @@
 1_1	https://www.humanrights.ch/upload/pdf/170309_Volksinitiativen_Bausatz_fuer_eine_Reform.pdf
 1_1	https://www.humanrights.ch/upload/pdf/170309_Volksinitiativen_Bausatz_fuer_eine_Reform.pdf
 1_1	http://www.swissinfo.ch/eng/opinion_globalists-vs-tribalists--the-false-debate-over--switzerland-first-/44173534
+1_1	https://www.swissinfo.ch/eng/opinion_globalists-vs-tribalists--the-false-debate-over--switzerland-first-/44173534#comments
+1_1	https://www.swissinfo.ch/eng/in-depth/points-of-view
+1_1	https://www.swissinfo.ch/eng/politics
 1_1	https://www.facebook.com/swissinfo/
 1_1	https://www.facebook.com/swissinfo
 1_2	https://www.svp.ch/kampagnen/uebersicht/selbstbestimmungsinitiative/
 1_2	https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20093256
 1_2	https://www.admin.ch/opc/de/classified-compilation/19660262/index.html
+1_2	https://www.swissinfo.ch/eng/directdemocracy/controversy-in-parliament-_put-national-law-before-international-law--other-countries-do-/44154932
 1_2	https://ec.europa.eu/info/law/law-making-process/applying-eu-law/infringement-procedure_en
 1_2	https://www.humanrights.ch/upload/pdf/140311_Press_release_ECHR_judgment_Howald_Moor_and_others__v_Switzerland.pdf
 1_2	https://www.humanrights.ch/en/switzerland/internal-affairs/protection/miscellaneous/compulsory-social-measures-long-rehabilitation
@@ -22,11 +27,15 @@
 1_2	https://www.humanrights.ch/upload/pdf/170309_Volksinitiativen_Bausatz_fuer_eine_Reform.pdf
 1_2	https://www.humanrights.ch/upload/pdf/170309_Volksinitiativen_Bausatz_fuer_eine_Reform.pdf
 1_2	http://www.swissinfo.ch/eng/opinion_globalists-vs-tribalists--the-false-debate-over--switzerland-first-/44173534
+1_2	https://www.swissinfo.ch/eng/opinion_globalists-vs-tribalists--the-false-debate-over--switzerland-first-/44173534#comments
+1_2	https://www.swissinfo.ch/eng/in-depth/points-of-view
+1_2	https://www.swissinfo.ch/eng/politics
 1_2	https://www.facebook.com/swissinfo/
 1_2	https://www.facebook.com/swissinfo
 1_3	https://www.svp.ch/kampagnen/uebersicht/selbstbestimmungsinitiative/
 1_3	https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20093256
 1_3	https://www.admin.ch/opc/de/classified-compilation/19660262/index.html
+1_3	https://www.swissinfo.ch/eng/directdemocracy/controversy-in-parliament-_put-national-law-before-international-law--other-countries-do-/44154932
 1_3	https://ec.europa.eu/info/law/law-making-process/applying-eu-law/infringement-procedure_en
 1_3	https://www.humanrights.ch/upload/pdf/140311_Press_release_ECHR_judgment_Howald_Moor_and_others__v_Switzerland.pdf
 1_3	https://www.humanrights.ch/en/switzerland/internal-affairs/protection/miscellaneous/compulsory-social-measures-long-rehabilitation
@@ -35,11 +44,15 @@
 1_3	https://www.humanrights.ch/upload/pdf/170309_Volksinitiativen_Bausatz_fuer_eine_Reform.pdf
 1_3	https://www.humanrights.ch/upload/pdf/170309_Volksinitiativen_Bausatz_fuer_eine_Reform.pdf
 1_3	http://www.swissinfo.ch/eng/opinion_globalists-vs-tribalists--the-false-debate-over--switzerland-first-/44173534
+1_3	https://www.swissinfo.ch/eng/opinion_globalists-vs-tribalists--the-false-debate-over--switzerland-first-/44173534#comments
+1_3	https://www.swissinfo.ch/eng/in-depth/points-of-view
+1_3	https://www.swissinfo.ch/eng/politics
 1_3	https://www.facebook.com/swissinfo/
 1_3	https://www.facebook.com/swissinfo
 1_4	https://www.svp.ch/kampagnen/uebersicht/selbstbestimmungsinitiative/
 1_4	https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20093256
 1_4	https://www.admin.ch/opc/de/classified-compilation/19660262/index.html
+1_4	https://www.swissinfo.ch/eng/directdemocracy/controversy-in-parliament-_put-national-law-before-international-law--other-countries-do-/44154932
 1_4	https://ec.europa.eu/info/law/law-making-process/applying-eu-law/infringement-procedure_en
 1_4	https://www.humanrights.ch/upload/pdf/140311_Press_release_ECHR_judgment_Howald_Moor_and_others__v_Switzerland.pdf
 1_4	https://www.humanrights.ch/en/switzerland/internal-affairs/protection/miscellaneous/compulsory-social-measures-long-rehabilitation
@@ -48,6 +61,9 @@
 1_4	https://www.humanrights.ch/upload/pdf/170309_Volksinitiativen_Bausatz_fuer_eine_Reform.pdf
 1_4	https://www.humanrights.ch/upload/pdf/170309_Volksinitiativen_Bausatz_fuer_eine_Reform.pdf
 1_4	http://www.swissinfo.ch/eng/opinion_globalists-vs-tribalists--the-false-debate-over--switzerland-first-/44173534
+1_4	https://www.swissinfo.ch/eng/opinion_globalists-vs-tribalists--the-false-debate-over--switzerland-first-/44173534#comments
+1_4	https://www.swissinfo.ch/eng/in-depth/points-of-view
+1_4	https://www.swissinfo.ch/eng/politics
 1_4	https://www.facebook.com/swissinfo/
 1_4	https://www.facebook.com/swissinfo
 2_1	https://www.bj.admin.ch/bj/de/home/wirtschaft/gesetzgebung/geldspielgesetz.html
@@ -67,6 +83,7 @@
 2_1	https://www.bj.admin.ch/bj/fr/home/wirtschaft/gesetzgebung/geldspielgesetz/faq.html
 2_1	https://spillemyndigheden.dk/sites/default/files/filer-til-download/guidelines_for_operators_of_betting_and_online_casino_-_may_2018_0.pdf
 2_1	http://www.swissinfo.ch/eng/fact-checks-by-swissinfo-ch_how-we-work/43899354
+2_1	https://www.swissinfo.ch/eng/in-depth/fact-checks-by-swissinfo-ch
 2_1	http://www.swissinfo.ch/ara/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%85-%D8%AF%D9%82%D9%82%D8%A9-%D9%85%D9%86-%D8%B7%D8%B1%D9%81-swissinfo-ch--%D9%83%D9%8A%D9%81%D8%BA-%D9%86%D9%82%D9%88%D9%85-%D8%A8%D8%B9%D9%85%D9%84%D9%86%D8%A7/43923674
 2_1	http://www.swissinfo.ch/ger/faktencheck-von-swissinfo-ch_so-gehen-wir-vor/43956364
 2_1	http://www.swissinfo.ch/spa/c%C3%B3mo-verifica-la-informaci%C3%B3n-swissinfo-ch_as%C3%AD-trabajamos/44245066
@@ -94,6 +111,7 @@
 2_2	https://www.bj.admin.ch/bj/fr/home/wirtschaft/gesetzgebung/geldspielgesetz/faq.html
 2_2	https://spillemyndigheden.dk/sites/default/files/filer-til-download/guidelines_for_operators_of_betting_and_online_casino_-_may_2018_0.pdf
 2_2	http://www.swissinfo.ch/eng/fact-checks-by-swissinfo-ch_how-we-work/43899354
+2_2	https://www.swissinfo.ch/eng/in-depth/fact-checks-by-swissinfo-ch
 2_2	http://www.swissinfo.ch/ara/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%85-%D8%AF%D9%82%D9%82%D8%A9-%D9%85%D9%86-%D8%B7%D8%B1%D9%81-swissinfo-ch--%D9%83%D9%8A%D9%81%D8%BA-%D9%86%D9%82%D9%88%D9%85-%D8%A8%D8%B9%D9%85%D9%84%D9%86%D8%A7/43923674
 2_2	http://www.swissinfo.ch/ger/faktencheck-von-swissinfo-ch_so-gehen-wir-vor/43956364
 2_2	http://www.swissinfo.ch/spa/c%C3%B3mo-verifica-la-informaci%C3%B3n-swissinfo-ch_as%C3%AD-trabajamos/44245066
@@ -121,6 +139,7 @@
 2_3	https://www.bj.admin.ch/bj/fr/home/wirtschaft/gesetzgebung/geldspielgesetz/faq.html
 2_3	https://spillemyndigheden.dk/sites/default/files/filer-til-download/guidelines_for_operators_of_betting_and_online_casino_-_may_2018_0.pdf
 2_3	http://www.swissinfo.ch/eng/fact-checks-by-swissinfo-ch_how-we-work/43899354
+2_3	https://www.swissinfo.ch/eng/in-depth/fact-checks-by-swissinfo-ch
 2_3	http://www.swissinfo.ch/ara/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%85-%D8%AF%D9%82%D9%82%D8%A9-%D9%85%D9%86-%D8%B7%D8%B1%D9%81-swissinfo-ch--%D9%83%D9%8A%D9%81%D8%BA-%D9%86%D9%82%D9%88%D9%85-%D8%A8%D8%B9%D9%85%D9%84%D9%86%D8%A7/43923674
 2_3	http://www.swissinfo.ch/ger/faktencheck-von-swissinfo-ch_so-gehen-wir-vor/43956364
 2_3	http://www.swissinfo.ch/spa/c%C3%B3mo-verifica-la-informaci%C3%B3n-swissinfo-ch_as%C3%AD-trabajamos/44245066
@@ -148,6 +167,7 @@
 2_4	https://www.bj.admin.ch/bj/fr/home/wirtschaft/gesetzgebung/geldspielgesetz/faq.html
 2_4	https://spillemyndigheden.dk/sites/default/files/filer-til-download/guidelines_for_operators_of_betting_and_online_casino_-_may_2018_0.pdf
 2_4	http://www.swissinfo.ch/eng/fact-checks-by-swissinfo-ch_how-we-work/43899354
+2_4	https://www.swissinfo.ch/eng/in-depth/fact-checks-by-swissinfo-ch
 2_4	http://www.swissinfo.ch/ara/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%85-%D8%AF%D9%82%D9%82%D8%A9-%D9%85%D9%86-%D8%B7%D8%B1%D9%81-swissinfo-ch--%D9%83%D9%8A%D9%81%D8%BA-%D9%86%D9%82%D9%88%D9%85-%D8%A8%D8%B9%D9%85%D9%84%D9%86%D8%A7/43923674
 2_4	http://www.swissinfo.ch/ger/faktencheck-von-swissinfo-ch_so-gehen-wir-vor/43956364
 2_4	http://www.swissinfo.ch/spa/c%C3%B3mo-verifica-la-informaci%C3%B3n-swissinfo-ch_as%C3%AD-trabajamos/44245066
@@ -175,6 +195,7 @@
 2_5	https://www.bj.admin.ch/bj/fr/home/wirtschaft/gesetzgebung/geldspielgesetz/faq.html
 2_5	https://spillemyndigheden.dk/sites/default/files/filer-til-download/guidelines_for_operators_of_betting_and_online_casino_-_may_2018_0.pdf
 2_5	http://www.swissinfo.ch/eng/fact-checks-by-swissinfo-ch_how-we-work/43899354
+2_5	https://www.swissinfo.ch/eng/in-depth/fact-checks-by-swissinfo-ch
 2_5	http://www.swissinfo.ch/ara/%D8%A8%D9%8A%D8%A7%D9%86%D8%A7%D8%AA-%D9%85-%D8%AF%D9%82%D9%82%D8%A9-%D9%85%D9%86-%D8%B7%D8%B1%D9%81-swissinfo-ch--%D9%83%D9%8A%D9%81%D8%BA-%D9%86%D9%82%D9%88%D9%85-%D8%A8%D8%B9%D9%85%D9%84%D9%86%D8%A7/43923674
 2_5	http://www.swissinfo.ch/ger/faktencheck-von-swissinfo-ch_so-gehen-wir-vor/43956364
 2_5	http://www.swissinfo.ch/spa/c%C3%B3mo-verifica-la-informaci%C3%B3n-swissinfo-ch_as%C3%AD-trabajamos/44245066

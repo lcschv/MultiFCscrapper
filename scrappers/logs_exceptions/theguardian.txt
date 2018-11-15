@@ -1,0 +1,298 @@
+http:// \xe2\x80\x9cTax and benefit changes introduced by the coalition have reduced household incomes by \xc2\xa31,127 a year or 3.3 per cent on average.\xe2\x80\x9d \xe2\x80\x9cLow-income households with children lose the most as a percentage of their income from changes implemented by the coalition.\xe2\x80\x9d \xe2\x80\x9cFor middle and higher income families with children\xe2\x80\xa6 loss of tax credits and child benefit has more than offset the effect of income tax cuts.\xe2\x80\x9d	encoding with 'idna' codec failed (UnicodeError: label empty or too long)
+http:// http://cdn.budgetresponsibility.org.uk/27814-BriefingPaperNo_6.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.bristol247.com/2013/06/11/blaming-our-ills-on-tiny-number-of-single-mums-is-shameful-67564/	HTTP Error 403: Forbidden
+http:// http://www.newdeal2015.uk/	<urlopen error [Errno 11001] getaddrinfo failed>
+http:///www.dft.gov.uk/dvla/	<urlopen error no host given>
+http://www.ons.gov.uk/ons/taxonomy/index.html?nscl=Population+by+Nationality+and+Country+of+Birth#tab-data-tables	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/populationbycountryofbirthandnationalityreport/2015-09-27	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/migrationstatisticsquarterlyreport/february2016#immigration-to-the-uk	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/migrationstatisticsquarterlyreport/february2016#main-points	HTTP Error 403: Forbidden
+https://twitter.com/intent/tweet?text=Does%20the%20Sun\'s%20claim%20about%20UK%20Muslims\'%20sympathy%20for%20jihadis%20stack%20up%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fmedia%2Freality-check%2F2015%2Fnov%2F23%2Fdoes-the-suns-claim-about-uk-muslims-sympathy-for-jihadis-stack-up%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+https://twitter.com/intent/tweet?text=Is%20the%20UK\'s%20slow%20growth%20and%20high%20unemployment%20really%20caused%20by%20the%20eurozone%20crisis%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2Freality-check-with-polly-curtis%2F2011%2Fnov%2F14%2Fdebt-crisis-conservatives%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+http://Property transactions annually, by type\xef\xbf\xbc\xef\xbf\xbchttps://www.cml.org.uk/cml/home/	encoding with 'idna' codec failed (UnicodeError: label too long)
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/483344/EU_finances_2015_final_web_09122015.pdf#page=18	HTTP Error 503: Error page
+https://twitter.com/intent/tweet?text=Reality%20check%3A%20will%20\'Crossrail%20for%20bikes\'%20bring%20gridlock%20to%20central%20London%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fcities%2Freality-check%2F2014%2Foct%2F10%2F-sp-reality-check-crossrail-for-bikes-segregated-cycle-lanes-london%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/533503/Right_to_Buy_sales_in_England_2015_to_2016_quarter_4.pdf	HTTP Error 503: Error page
+http://www.dh.gov.uk/en/Publicationsandstatistics/Statistics/Performancedataandstatistics/HospitalActivityStatistics/DH_129868	HTTP Error 410: Gone
+http://www.openeurope.org.uk/Content/Documents/2012EUTrade_new.pdf	HTTP Error 403: Forbidden
+https://twitter.com/intent/tweet?text=Reality%20check%3A%20will%20\'Crossrail%20for%20bikes\'%20bring%20gridlock%20to%20central%20London%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fcities%2Freality-check%2F2014%2Foct%2F10%2F-sp-reality-check-crossrail-for-bikes-segregated-cycle-lanes-london%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2	HTTP Error 400: Bad Request
+http://www.telegraph.co.uk/finance/personalfinance/investing/buy-to-let/10801014/Labour-rent-controls-policy-begins-to-unravel-critics-claim.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+https://twitter.com/intent/tweet?text=Reality%20check%3A%20will%20\'Crossrail%20for%20bikes\'%20bring%20gridlock%20to%20central%20London%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fcities%2Freality-check%2F2014%2Foct%2F10%2F-sp-reality-check-crossrail-for-bikes-segregated-cycle-lanes-london%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-3%23img-3	HTTP Error 400: Bad Request
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/8995/vehicles-summary.pdf	HTTP Error 503: Error page
+http://www.openeurope.org.uk/about-us/supporters.aspx	HTTP Error 403: Forbidden
+http://www.resolutionfoundation.org/blog/2013/mar/20/budget-2013-new-childcare-support-excludes-familie/	HTTP Error 404: Not Found
+https://twitter.com/intent/tweet?text=Labour\'s%20rent%20control%20plans%20explained&url=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2Freality-check%2F2015%2Fapr%2F26%2Flabour-rent-control-plans-explained-ed-miliband%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+http://www.dh.gov.uk/health/files/2012/06/the-year-and-quarter-4-210612-gw-17802-PDF-2.33MB.pdf	HTTP Error 404: Not Found
+http://articles.nydailynews.com/2012-09-05/news/33623435_1_ipads-and-other-tablets-kindle-or-nook-melatonin	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.openeurope.org.uk/media-centre/pressrelease.aspx?pressreleaseid=183	HTTP Error 403: Forbidden
+http://www.mpa.gov.uk/statistics/annual-police-numbers/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.nyc.gov/html/nypd/downloads/pdf/crime_statistics/cscity.pdf	HTTP Error 404: Not Found
+https://twitter.com/intent/tweet?text=Migrants\'%20money%3A%20how%20does%20the%20NHS%20profit%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2Freality-check%2F2013%2Foct%2F24%2Fmigrants-money-how-does-the-nhs-profit-health-tourism%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+http://www.telegraph.co.uk/health/heal-our-hospitals/10178296/13000-died-needlessly-at-14-worst-NHS-trusts.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+http://en.wikipedia.org/wiki/Voting_in_the_Council_of_the_European_Union in the EU	HTTP Error 400: Bad Request
+https://www.linkedin.com/in/cruzted	HTTP Error 999: Request denied
+https://www.london.gov.uk/media/mayor-press-releases/2014/09/mayor-unveils-his-18-mile-crossrail-for-the-bike	HTTP Error 403: Forbidden
+https://twitter.com/intent/tweet?text=Porn%20filters%3A%2012%20reasons%20why%20they%20won\'t%20work%20(and%203%20reasons%20why%20they%20might)&url=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2Freality-check%2F2013%2Faug%2F08%2Fporn-filters-evidence-for-against%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+https://twitter.com/intent/tweet?text=Fact-checking%20Bill%20Clinton\'s%20defense%20of%20his%20legacy%20on%20crime%20and%20poverty&url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2Freality-check%2F2016%2Fapr%2F09%2Ffact-checking-bill-clinton-poverty-crime-legacy%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+https://www.london.gov.uk/media/mayor-press-releases/2014/09/traffic-modelling-data-released-for-the-mayor-s-east-west-north	HTTP Error 403: Forbidden
+http://www.acma.gov.au/webwr/_assets/main/lib310554/isp-level_internet_content_filtering_trial-report.pdf	HTTP Error 404: Not Found
+http://www.oxydiane.net/IMG/pdf/Uncertainties_and_Bias_in_PISA.pdf	HTTP Error 404: Not Found
+http://your.nationwide.co.uk/your-news/articles/Pages/house-price-index-february-2014.aspx	<urlopen error [Errno 11001] getaddrinfo failed>
+https://twitter.com/intent/tweet?text=Cameron%20on%20Corbyn%3A%20were%20the%20PM\'s%20attacks%20on%20Labour\'s%20leader%20justified%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2F2015%2Foct%2F07%2Fdavid-cameron-attacks-jeremy-corbyn-conservative-conference%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+https://twitter.com/intent/tweet?text=Fact-checking%20Donald%20Trump\'s%20recent%20claims%2C%20from%20Mexico%20to%20San%20Francisco&url=https%3A%2F%2Fwww.theguardian.com%2Fus-news%2Freality-check%2F2015%2Fjul%2F07%2Ffact-checking-donald-trump%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+http://www.foundationtrustnetwork.org/influencing-and-policy/finance/standard-contract/	HTTP Error 403: Forbidden
+http://www.palamedespr.com/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.jrf.org.uk/sites/files/jrf/Forced%20Labour%20in%20the%20UK%20FINAL%20prog%20paper.pdf	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/releases/uklabourmarketstatisticsnov2016	HTTP Error 403: Forbidden
+https://www.gov.uk/government/publications/reported-road-casualties-great-britain-annual-report-2012	HTTP Error 404: Not Found
+http://www.parliament.the-stationery-office.co.uk/pa/cm200405/cmselect/cmhealth/252/252.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.jrf.org.uk/sites/files/jrf/poverty-social-exclusion-assessment-full.pdf	HTTP Error 403: Forbidden
+https://twitter.com/intent/tweet?text=Reality%20check%3A%20Andrea%20Leadsom\'s%20economic%20vision&url=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2Freality-check%2F2016%2Fjul%2F07%2Freality-check-andrea-leadsom-economic-vision%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+http://www.telegraph.co.uk/health/healthnews/9226041/No-evidence-that-mobiles-cause-cancer-but-scientists-still-cant-rule-it-out.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+http://www.adviceguide.org.uk/index/your_money/employment_index_ew/government_employment_schemes.htm#\'work_for_your_benefit\'_schemes	HTTP Error 404: Not Found
+http://www.diabetes.org.uk/upload/About%20us/Consultations/Diabetes%20UK%20Response%20to%20Annex%203%20Consultation%2028April11.pdf	HTTP Error 404: Not Found
+https://twitter.com/intent/tweet?text=Fact-checking%20presidential%20candidates\'%20claims%20about%20Muslims%20after%20Brussels&url=https%3A%2F%2Fwww.theguardian.com%2Fnews%2Freality-check%2F2016%2Fmar%2F24%2Ftrump-cruz-clinton-muslim-comments-fact-check%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+https://www.psychologytoday.com/blog/dreaming-in-the-digital-age/201412/why-sleep-deprivation-is-torture	HTTP Error 403: Forbidden
+http://www.roberthalfon.com/about.html	HTTP Error 404: Not Found
+http://www.labour.org.uk/issues/detail/nhs-time-to-care-fund	HTTP Error 403: Forbidden
+http://www.direct.gov.uk/prod_consum_dg/groups/dg_digitalassets/@dg/@en/documents/digitalasset/dg_187876.pdf	HTTP Error 410: Gone
+http://bitetheballot.co.uk/nvrd/	HTTP Error 404: Not Found
+http://www.labour.org.uk/issues/detail/renting	HTTP Error 403: Forbidden
+https://www.theguardian.com/profile/malik-shiv	HTTP Error 404: Not Found
+https://twitter.com/intent/tweet?text=India%20or%20eastern%20Europe%3F%20Cameron\'s%20immigration%20dilemma&url=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2Freality-check%2F2013%2Fnov%2F14%2Findia-eastern-europe-cameron-immigration-dilemma%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+http://www.telegraph.co.uk/health/healthnews/9441885/Thousands-of-juniors-start-jobs-in-NHS-killing-season.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+http://www.carbontracker.org/site/stranded-assets	HTTP Error 403: Forbidden
+https://twitter.com/intent/tweet?text=Is%20Britain\'s%20debt%20really%20like%20Greece\'s%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fnews%2Freality-check%2F2015%2Fjul%2F08%2Fis-britains-debt-really-like-greeces%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+https://twitter.com/intent/tweet?text=From%20super-fast%20internet%20to%20greener%20energy%3A%20how%20do%20George%20Osborne\'s%20statements%20stand%20up%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2Freality-check-with-polly-curtis%2F2012%2Fmar%2F21%2Fbudget-2012-george-osborne-speech%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+http://www.conservativehome.com/platform/2014/03/robbing-child-benefit-peter-to-pay-child-care-paul.html	HTTP Error 403: Forbidden
+http://www.rssenews.org.uk/2013/07/rss-commission-new-research-into-public-perceptions-of-statistics/?utm_source=rss&utm_medium=rss&utm_campaign=rss-commission-new-research-into-public-perceptions-of-statistics&utm_campaign=Autotweets&utm_source=twitterfeed&utm_medium=twitter	HTTP Error 404: Not Found
+http://www.amazon.co.uk/Facts-are-Sacred-Guardian-ebook/dp/B006PI9PQG/	HTTP Error 404: Not Found
+http://www.landregistry.gov.uk/__data/assets/pdf_file/0004/76117/HPIReport20140224.pdf	HTTP Error 404: Not Found
+http://www.conservativehome.com/thetorydiary/2014/02/what-should-be-the-conservative-partys-new-name.html	HTTP Error 403: Forbidden
+https://twitter.com/intent/tweet?text=Reality%20check%3A%20Does%20the%20electoral%20map%20work%20in%20Trump\'s%20favor%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fnews%2Freality-check%2F2016%2Fmay%2F06%2Fdonald-trump-odds-winning-us-election-reality-check%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+http://www.trl.co.uk/default.htm	HTTP Error 404: Not Found
+https://www.theguardian.com/discussion/user/id/1061003	HTTP Error 404: Not Found
+http://epp.eurostat.ec.europa.eu/cache/ITY_OFFPUB/KS-SF-12-009/EN/KS-SF-12-009-EN.PDF	HTTP Error 404: Not Found
+http://www.rusi.org/go.php?structureID=	HTTP Error 403: Forbidden
+https://twitter.com/intent/tweet?text=Reality%20check%3A%20Does%20the%20electoral%20map%20work%20in%20Trump\'s%20favor%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fnews%2Freality-check%2F2016%2Fmay%2F06%2Fdonald-trump-odds-winning-us-election-reality-check%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-1%23img-1	HTTP Error 400: Bad Request
+http://www.trump.com/publications/	HTTP Error 403: Forbidden
+http://www.latimes.com/local/california/la-me-0705-sf-shooting-20150705-story.html#page=1	HTTP Error 403: Forbidden
+http://www.sciencedaily.com/releases/2009/04/090419133824.htm	HTTP Error 403: Forbidden
+https://twitter.com/intent/tweet?text=Reality%20check%3A%20are%20US-led%20airstrikes%20on%20Syrians%20as%20bad%20as%20Russia\'s%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2Freality-check%2F2016%2Foct%2F12%2Freality-check-are-us-led-airstrikes-on-syrians-as-bad-as-russias%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+https://twitter.com/intent/tweet?text=Was%20the%207%20foot%20\'monster%20slipper\'%20really%20a%20PR%20stunt%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2Freality-check-with-polly-curtis%2F2011%2Foct%2F20%2Fmonster-slipper-stunt%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+http://www.dwp.gov.uk/docs/m-32-11.pdf	HTTP Error 410: Gone
+http://www.latimes.com/local/lanow/la-me-ln-san-francisco-charge-murder-pier-14-20150706-story.html	HTTP Error 403: Forbidden
+http://t.co/HCU6bnCiQA	HTTP Error 404: Not Found
+http://epp.eurostat.ec.europa.eu/cache/ITY_PUBLIC/3-08022012-AP/EN/3-08022012-AP-EN.PDF	HTTP Error 404: Not Found
+https://twitter.com/intent/tweet?text=Is%20David%20Cameron\'s%20EU%20deal%20legally%20binding%3F%20It%20depends%20%7C%20Joshua%20Rozenberg&url=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2Freality-check%2F2016%2Ffeb%2F24%2Fdavid-cameron-eu-deal-legally-binding-michael-gove-analysis-joshua-rozenberg%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+https://twitter.com/intent/tweet?text=What%20difference%20does%20Labour%E2%80%99s%20\'budget%20responsibility%20lock\'%20make%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fnews%2Freality-check%2F2015%2Fapr%2F13%2Fwhat-difference-does-labours-budget-responsibility-lock-make%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+http://www.telegraph.co.uk/health/healthnews/9479664/NHS-waiting-times-rise-for-first-time-in-a-year-official-figures.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+https://twitter.com/intent/tweet?text=What%20difference%20does%20Labour%E2%80%99s%20\'budget%20responsibility%20lock\'%20make%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fnews%2Freality-check%2F2015%2Fapr%2F13%2Fwhat-difference-does-labours-budget-responsibility-lock-make%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2	HTTP Error 400: Bad Request
+https://twitter.com/intent/tweet?text=George%20Osborne\'s%20fuel%20duty%20freeze%3A%20does%20it%20make%20a%20difference%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2Freality-check%2F2013%2Fsep%2F30%2Fgeorge-osborne-fuel-duty-freeze-impact-petrol-prices%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+http://www.oilandgasuk.co.uk/	HTTP Error 403: Forbidden
+https://twitter.com/intent/tweet?text=Reality%20check%3A%20has%20the%20benefit%20cap%20led%20to%20a%20\'rush%20to%20the%20job%20centre\'%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fnews%2Freality-check%2F2015%2Fjan%2F27%2Fbenefit-cap-stampede-job-centre-david-cameron%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+http://www.dwp.gov.uk/publications/specialist-guides/technical-guidance/rr2-a-guide-to-housing-benefit/what-you-can-claim-for/non-dependants/	HTTP Error 410: Gone
+http://news.rpi.edu/update.do?artcenterkey=3074&setappvar=page%281%29	HTTP Error 403: Forbidden
+https://twitter.com/intent/tweet?text=Government\'s%20work%20experience%3A%20what%20are%20the%20schemes%2C%20and%20do%20they%20work%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fglobal%2Freality-check-with-polly-curtis%2F2012%2Ffeb%2F22%2Funemployment-work-programme-welfare%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+https://twitter.com/intent/tweet?text=Reality%20check%3A%20has%20the%20benefit%20cap%20led%20to%20a%20\'rush%20to%20the%20job%20centre\'%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fnews%2Freality-check%2F2015%2Fjan%2F27%2Fbenefit-cap-stampede-job-centre-david-cameron%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2	HTTP Error 400: Bad Request
+http://www.apa.org/monitor/2009/11/terrorism.aspx	HTTP Error 416: Requested Range Not Satisfiable
+http://www.ons.gov.uk/ons/dcp171776_375449.pdf	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/guide-method/census/2011/census-data/2011-census-ad-hoc-tables/ct0116---religion--detailed--by-sex-by-age---england-and-wales.xls	HTTP Error 403: Forbidden
+https://consultations.tfl.gov.uk/consultation_finder	HTTP Error 403: Forbidden
+https://consultations.tfl.gov.uk/cycling/eastwest/user_uploads/proposed-route-alignment.pdf	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/guide-method/geography/beginner-s-guide/census/super-output-areas--soas-/index.html	HTTP Error 403: Forbidden
+https://twitter.com/intent/tweet?text=David%20Cameron\'s%20Conservative%20conference%20speech%3A%20reality%20check&url=https%3A%2F%2Fwww.theguardian.com%2Fbusiness%2Feconomics-blog%2F2013%2Foct%2F02%2Fdavid-cameron-conservative-conference-speech-economic-policy%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+https://twitter.com/intent/tweet?text=Which%20election%20\'truths\'%20should%20we%20be%20mythbusting%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fnews%2Freality-check%2F2015%2Fmar%2F31%2Fwhich-election-truths-should-we-be-mythbusting%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+https://consultations.tfl.gov.uk/cycling/northsouth	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/guide-method/method-quality/specific/population-and-migration/international-migration-methodology/index.html	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/index.html	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/interactive/theme-pages-1-1/index.html	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/publications/re-reference-tables.html?edition=tcm%3A77-306085	HTTP Error 403: Forbidden
+http://www.telegraph.co.uk/health/healthnews/9533249/Using-iPads-before-bed-can-lead-to-a-poor-nights-sleep.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+http://www.ons.gov.uk/ons/rel/bus-register/labour-disputes/annual-article-2013/art---labour-disputes--annual-article-2013.html#tab-Industrial-Analyses	HTTP Error 403: Forbidden
+http://www.twitter.com/gdnrealitycheck	HTTP Error 404: Not Found
+http://www.ons.gov.uk/ons/rel/census/2011-census-analysis/language-in-england-and-wales-2011/rpt---language-in-england-and-wales--2011.html	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/rel/census/2011-census/population-and-household-estimates-for-wards-and-output-areas-in-england-and-wales/stb-population-and-household-estimates-for-small-areas-in-england-and-wales.html	HTTP Error 403: Forbidden
+https://twitter.com/intent/tweet?text=David%20Cameron\'s%20dig%20at%20Brussels%20over%20diabetes%20driving%20directive%20misses%20point&url=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2Freality-check-with-polly-curtis%2F2011%2Foct%2F05%2Fcameron-dig-brussels-diabetes-discriminatory%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+http://www.ons.gov.uk/ons/rel/lmac/self-employed-workers-in-the-uk/2014/rep-self-employed-workers-in-the-uk-2014.html	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/rel/lms/labour-market-statistics/june-2013/statistical-bulletin.html	HTTP Error 403: Forbidden
+http://www.scotlandforward.net/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.ons.gov.uk/ons/rel/lms/labour-market-statistics/march-2015/statistical-bulletin.html	HTTP Error 403: Forbidden
+https://twitter.com/intent/tweet?text=Who%20are%20Britain\'s%201m-plus%20missing%20voters%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fuk-news%2F2015%2Fjan%2F16%2Fbritains-1m-missing-voters%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+http://www.ons.gov.uk/ons/rel/lms/labour-market-statistics/november-2013/index.html	HTTP Error 403: Forbidden
+http://www.lbc.co.uk/boris-admits-1700-police-jobs-lost-in-two-years-50164	HTTP Error 410: GONE
+http://www.eabcn.org/research/documents/ukjobs.pdf	HTTP Error 404: Not Found
+http://www.hendersonchambers.co.uk/wp-content/uploads/2016/02/Sir-Alan-Dashood-QC1.pdf	HTTP Error 403: Forbidden
+https://twitter.com/intent/tweet?text=Who%20are%20Britain\'s%201m-plus%20missing%20voters%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fuk-news%2F2015%2Fjan%2F16%2Fbritains-1m-missing-voters%3FCMP%3Dshare_btn_tw%26page%3Dwith%3Aimg-2%23img-2	HTTP Error 400: Bad Request
+http://www.ons.gov.uk/ons/rel/migration1/migration-statistics-quarterly-report/august-2013/sty-migration.html	HTTP Error 403: Forbidden
+https://twitter.com/intent/tweet?text=Is%20it%20\'impossible\'%20to%20win%20the%20Tour%20de%20France%20without%20doping%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2Freality-check%2F2013%2Fjun%2F28%2Fimpossible-to-win-tour-de-france-without-doping-armstrong%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+http://www.econ.jku.at/members/Schneider/files/publications/2011/IEJ_NewEstimates_ShadEc_World.pdf	HTTP Error 404: Not Found
+https://d3n8a8pro7vhmx.cloudfront.net/voteleave/pages/24/attachments/original/1463745000/Vote_Leave_-_\'Paving_the_road_from_Ankara\'_the_EU__immigration_and_the_NHS.pdf?1463745000	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/rel/migration1/population-by-country-of-birth-and-nationality/revisions-to-population-by-country-of-birth-and-nationality---calendar-years-2004-to-2013/country-of-birth-and-nationality-tables--2013.xls	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/rel/pop-estimate/electoral-statistics-for-uk/2013/stb---2013-electoral-statistics.html	HTTP Error 403: Forbidden
+https://twitter.com/intent/tweet?text=Is%20it%20true%20there%20is%20a%20\'startling\'%20rise%20in%20the%20birthrate%20of%20British%20Muslims%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fnews%2Fdatablog%2F2014%2Fjan%2F10%2Frise-british-muslim-birthrate-the-times-census%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+https://twitter.com/Robert0461/statuses/438270398258765825	HTTP Error 404: Not Found
+http://www.ons.gov.uk/ons/rel/productivity/labour-productivity/q4-2014/stbq414.html#tab-General-commentaryhttp://www.ons.gov.uk/ons/rel/productivity/labour-productivity/q4-2014/stbq414.html#tab-General-commentary	HTTP Error 403: Forbidden
+http://niesr.ac.uk/sites/default/files/publications/annual%20report/AR-2000.PDF	HTTP Error 404: Not Found
+https://twitter.com/intent/tweet?text=Who%20are%20Romney\'s%2047%25%20that%20don\'t%20pay%20tax%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fworld%2F2012%2Fsep%2F18%2Fromneys-47-percent-us-election%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+http://www.ons.gov.uk/ons/rel/rdit2/internet-access---households-and-individuals/2013/stb-ia-2013.html#tab-Internet-activities	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/taxonomy/index.html?nscl=Causes+of+Death#tab-data-tables	HTTP Error 403: Forbidden
+http://www.telegraph.co.uk/news/general-election-2015/11581807/Would-a-government-that-does-very-little-be-such-a-bad-thing.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+http://www.backboris2012.com/9pointplan/counciltax	HTTP Error 408: Request Timeout
+https://flexible.gutools.co.uk/admin/	<urlopen error [Errno 11001] getaddrinfo failed>
+https://flexible.gutools.co.uk/admin/content/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.lbc.co.uk/clegg-v-farage-the-eu-debate-86749	HTTP Error 404: NOT FOUND
+http://t.co/tiyJSHL3	HTTP Error 410: Gone
+https://twitter.com/intent/tweet?text=Why%20Vote%20Leave\'s%20%C2%A3350m%20weekly%20EU%20cost%20claim%20is%20wrong&url=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2Freality-check%2F2016%2Fmay%2F23%2Fdoes-the-eu-really-cost-the-uk-350m-a-week%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+https://twitter.com/intent/tweet?text=Do%20the%20SNP\'s%20manifesto%20sums%20add%20up%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2Freality-check%2F2015%2Fapr%2F20%2Fsnp-sums-add-up-manifesto-austerity-spending%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+http://niesr.ac.uk/users/portes-j	HTTP Error 403: Forbidden
+https://twitter.com/intent/tweet?text=Is%20the%20%20UK%20really%20the%20world\'s%20fastest%20growing%20\'major\'%20economy%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fnews%2Freality-check%2F2015%2Fapr%2F01%2Fclarify-uk-not-worlds-fastest-growing-major-economy%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+https://twitter.com/intent/tweet?text=Do%20the%20Tories%20have%20any%20claim%20to%20be%20the%20Workers\'%20party%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2F2014%2Ffeb%2F25%2Fdo-tories-have-claim-be-workers-party-reality-check%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+https://twitter.com/intent/tweet?text=Will%20David%20Cameron\'s%20veto%20protect%20the%20City%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2Freality-check-with-polly-curtis%2F2011%2Fdec%2F12%2Fdebt-crisis-conservatives%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+https://twitter.com/intent/tweet?text=Does%20Chris%20Christie%20prove%20you%20don\'t%20have%20to%20be%20thin%20to%20win%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fnews%2Fdatablog%2F2013%2Fnov%2F06%2Fchris-christie-thin-win-elected-weight%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+https://docs.google.com/a/guardian.co.uk/spreadsheet/ccc?key=0AtghoqbwkWM9dEZEWWxBbDFlb19hVGFUYkZKRmJRalE&hl=en_US#gid=0	HTTP Error 410: Gone
+http://www.telegraph.co.uk/news/health/news/9109658/Foreigners-to-be-offered-free-treatment-for-HIV-on-the-NHS.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+http://www.hmrc.gov.uk/budget2012/excheq-income-tax-2042.htm	HTTP Error 403: Forbidden
+http://www.leftfootforward.org/2013/04/coalition-presses-ahead-with-shares-for-rights-bill/	HTTP Error 403: Forbidden
+http://www.copacommission.org/papers/hunter-thesis.pdf	HTTP Error 404: Not Found
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/303233/Analysis_of_the_dynamic_effects_of_fuel_duty_reductions.pdf	HTTP Error 503: Error page
+http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/qb110304.pdf	HTTP Error 404: Not Found
+http://www.leftfootforward.org/2013/04/this-is-the-biggest-assault-on-workers-rights-ever/	HTTP Error 403: Forbidden
+http://blog.nhsgooroo.co.uk/index.php/2012/09/waiting-times-tread-water/	<urlopen error timed out>
+http://www.napf.co.uk/	<urlopen error timed out>
+http://file:///Volumes/Downloads/Internet%20Downloads/-images-letterfromsirandrewdilnottojonathanportes17121_tcm97-44314%20(1).pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.leftfootforward.org/2013/09/tuc-take-government-to-eu-over-agency-work-laws/	HTTP Error 403: Forbidden
+http://www.parliament.uk/documents/commons/lib/research/key_issues/Key%20Issues%20Balancing%20the%20UK%20energy%20supply.pdf	HTTP Error 404: Not Found
+http://www.leftfootforward.org/2014/02/the-tories-as-the-workers-party-not-as-ridiculous-as-it-sounds/	HTTP Error 403: Forbidden
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1901950	HTTP Error 403: Forbidden
+http://www.leftfootforward.org/2014/02/the-tories-as-the-workers-party-not-as-ridiculous-as-it-sounds/employment	HTTP Error 403: Forbidden
+http://www.cps.gov.uk/legal/a_to_c/communications_sent_via_social_media/index.html	HTTP Error 404: Not Found
+http://www.pbs.org/greatwar/resources/casdeath_pop.html	HTTP Error 404: Not Found
+http://www.imo.org/Pages/home.aspx	HTTP Error 404: Not Found
+https://syndication.theguardian.com/automation/?url=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2Freality-check%2F2016%2Fmar%2F29%2Fwill-brexit-mean-a-brit-expat-exodus&type=blog&internalpagecode=2480267	HTTP Error 503: Connection timed out
+https://syndication.theguardian.com/automation/?url=https%3A%2F%2Fwww.theguardian.com%2Fnews%2Freality-check%2F2015%2Fjul%2F15%2Fstrikes-tory-crackdown-minister-claim&type=blog&internalpagecode=2337656	HTTP Error 503: Connection timed out
+http://www.independent.co.uk/life-style/health-and-families/health-news/no-evidence-of-mobile-phone-cancer-risk-7679153.html	HTTP Error 404: Not Found
+http://www.independent.co.uk/news/uk/politics/exclusive-ed-miliband-to-the-rescue-of-the-middle-classes-as-labour-leader-says-costofliving-crisis-will-be-at-heart-of-election-manifesto-9242442.html	HTTP Error 404: Not Found
+http://www.uhr.no/documents/6b_Sjoberg_PISA_English_La_Revue_no_20.03..pdf	HTTP Error 404: Not Found
+http://www.crisis.org.uk/pages/srr.html	HTTP Error 404: Not Found
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/382327/44695_Accessible.pdf	HTTP Error 503: Error page
+http://timesofindia.indiatimes.com/world/uk/We-want-to-attract-brightest-and-best-to-Britain-David-Cameron/articleshow/25718406.cms	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.telegraph.co.uk/news/politics/10013943/A-million-on-benefit-capable-of-work.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+http://www.independent.co.uk/news/uk/politics/less-than-half-the-public-back-george-osborne-on-decision-to-raise-most-state-benefits-by-less-than-inflation-8426259.html	HTTP Error 404: Not Found
+http://www.census.gov/quickfacts/table/PST045215/1714000	HTTP Error 404: Not Found
+https://www.census.gov/hhes/www/poverty/data/historical/hstpov4.xls	HTTP Error 404: Not Found
+http://www.independent.co.uk/voices/commentators/alex-salmond-false-claims-wont-deny-us-our-place-in-the-family-of-nations-6288144.html	HTTP Error 404: Not Found
+http://www.lgcplus.com/news/politics/exclusive-national-strikes-under-threat-from-proposed-turnout-rules/5086707.article#.VXlhaRY7TCg.twitter http://www.lgcplus.com/news/politics/exclusive-national-strikes-under-threat-from-proposed-turnout-rules/5086707.article#.VXlhaRY7TCg.twitter http://www.lgcplus.com/news/politics/exclusive-national-strikes-under-threat-from-proposed-turnout-rules/5086707.article#.VXlhaRY7TCg.twitter	HTTP Error 400: Bad Request
+https://www.compas.ox.ac.uk/	HTTP Error 403: Forbidden
+https://login.thesundaytimes.co.uk/sso/login?tenantId=tnl&tokenId=4a0c2a5b-5763-404a-92e6-087c3675d2f7&gotoUrl=http%3A%2F%2Fwww.thetimes.co.uk%2Ftto%2Fnews%2Fpolitics%2Farticle4062693.ece&domain=thesundaytimes.co.uk&domain=0x69416d.co.uk	HTTP Error 500: Internal Server Error
+http://www.insidehousing.co.uk/nao-issues-warning-on-right-to-buy-replacements/7014414.article	HTTP Error 404: Not Found
+http://blogs.lse.ac.uk/politicsandpolicy/2011/11/08/independent-scotland-eu/	HTTP Error 403: Bad Behavior
+http://www.telegraph.co.uk/news/politics/7843887/NHS-waiting-times-are-relaxed-and-abandoned.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+http://www.centreforsocialjustice.org.uk/UserStorage/pdf/Pdf%20reports/CSJ_Fractured_Families_Report_WEB_13.06.13.pdf	HTTP Error 404: Not Found
+http://discovery-dev.ucl.ac.uk/14332/1/14332.pdf	<urlopen error timed out>
+http://www.london.gov.uk/moderngov/mgConvert2PDF.aspx?ID=8751	HTTP Error 403: Forbidden
+https://www.fbi.gov/about-us/cjis/ucr/crime-in-the-u.s/2014/crime-in-the-u.s.-2014/tables/expanded-homicide-data/expanded_homicide_data_table_6_murder_race_and_sex_of_vicitm_by_race_and_sex_of_offender_2014.xls	HTTP Error 403: Forbidden
+http://www.hmrc.gov.uk/budget2013/individuals.htm	timed out
+http://www.london.gov.uk/sites/default/files/Part%201%20FinalDraft%20Consolidated%20Budget%202012-13revised.pdf	HTTP Error 403: Forbidden
+http://www.instituteofhealthequity.org/projects/fair-society-healthy-lives-the-marmot-review	HTTP Error 404: Not Found
+http://twitdoc.com/upload/standardpoors/mortgagearrears.pdf	HTTP Error 999: No Hacking
+http://blogs.lse.ac.uk/politicsandpolicy/2012/04/04/same-sex-marriage-peel/	HTTP Error 403: Bad Behavior
+https://www.theguardian.com/guardian-masterclasses/mastering-speadsheets-how-to-work-with-data-mona-chalabi-digital-course?INTCMP=edi_231034	HTTP Error 404: Not Found
+http://www.hmrc.gov.uk/manuals/cbtmanual/cbtm10070.htm	HTTP Error 403: Forbidden
+http://www.centreforsocialjustice.org.uk/UserStorage/pdf/Pdf%20reports/CSJ_Slavery_Full_Report_WEB(5).pdf	HTTP Error 404: Not Found
+http://www.londonrents.org.uk/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.hmrc.gov.uk/statistics/tax-statistics/table2-6.pdf	HTTP Error 403: Forbidden
+https://twitter.com/intent/tweet?text=Are%20David%20Cameron\'s%20claims%20about%20the%20NHS%20true%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2Freality-check%2F2012%2Foct%2F10%2Fare-david-cameron-claims-nhs-true%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+http://www.telegraph.co.uk/news/politics/9317177/Gay-marriage-poll-suggests-doubts-in-gay-community.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+http://www.ncbi.nlm.nih.gov/books/NBK19958/	HTTP Error 403: Forbidden
+http://www.ippr.org/press-releases/111/7771/uk-recovery-half-obrs-original-prediction	HTTP Error 404: Not Found
+http://www.politifact.com/truth-o-meter/statements/2016/mar/02/bernie-s/sanders-welfare-reform-more-doubled-extreme-povert/	HTTP Error 403: Forbidden
+https://www.education.gov.uk/publications/eOrderingDownload/DCSF-RTP-09-02.pdf	HTTP Error 503: Error page
+https://twitter.com/intent/tweet?text=Are%20doctors\'%20pensions%20too%20generous%3F&url=https%3A%2F%2Fwww.theguardian.com%2Fpolitics%2Freality-check-with-polly-curtis%2F2012%2Fjun%2F21%2Fare-doctors-pensions-too-generous%3FCMP%3Dshare_btn_tw	HTTP Error 400: Bad Request
+http://www.centreforsocialjustice.org.uk/UserStorage/pdf/Press%20releases%202013/CSJ-Press-Release-Lone-Parents.pdf	HTTP Error 404: Not Found
+http://www.pinterest.com/pin/create/button/?description=Reality%20check%3A%20Clinton%20might%20not%20be%20the%20most%20experienced%20candidate&url=https%3A%2F%2Fwww.theguardian.com%2Fnews%2Freality-check%2F2016%2Fapr%2F22%2Ftrump-clinton-sanders-cruz-experience-fact-check%3Fpage%3Dwith%3Aimg-3%23img-3&media=https%3A%2F%2Fmedia.guim.co.uk%2F614796eb3cf655386d5523c431fca64ac7e472de%2F0_167_3500_2100%2F3500.jpg	IncompleteRead(72133 bytes read)
+https://www.theguardian.com/technology/2013/jul/22/david-cameron-crackdown-internet-pornography%20	HTTP Error 404: Not Found
+http://image.theguardian.com/sys-files/Guardian/documents/2012/03/02/HypotheticalScottishSharesofRevenues.doc	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.telegraph.co.uk/news/politics/9401928/Benefits-cap-pushing-thousands-into-work.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+http://infacts.org/mythbusts/uk-doesnt-send-brussels-55m-day/	HTTP Error 403: Forbidden
+http://www.centrica.com/index.asp	HTTP Error 404: Not Found
+http://www.manchestereveningnews.co.uk/news/greater-manchester-news/theresa-came-manchester-asked-three-12039565	HTTP Error 403: Forbidden
+http://www.telegraph.co.uk/news/politics/david-cameron/11370910/David-Cameron-to-reduce-benefits-cap-to-23000-immediately-if-he-wins-the-election.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+http://internet-filter-review.toptenreviews.com/internet-pornography-statistics.html	HTTP Error 404: Not Found
+http://www.nejm.org/doi/full/10.1056/NEJM200003233421206	HTTP Error 403: Forbidden
+http://www.migrationpolicy.org/article/middle-eastern-and-north-african-immigrants-united-states#Age,%20Education%20and%20Employment	HTTP Error 403: Forbidden
+http://www.telegraph.co.uk/news/politics/labour/11507586/General-Election-2015-Labour-threatens-Britains-recovery-say-100-business-chiefs.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+http://journalisted.com/news/weekly-digest-01-01-2011	HTTP Error 503: Service Temporarily Unavailable
+http://www.telegraph.co.uk/news/uknews/10174678/Government-rings-changes-on-ice-cream-chimes.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+http://www.telegraph.co.uk/news/uknews/8837736/Man-orders-size-14.5-slipper-and-gets-size-1450-after-mistranslation-in-China.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+http://www.gingerbread.org.uk/	HTTP Error 403: Forbidden
+http://www.channel4.com/programmes/frontline-fighting-the-brits-battling-isis	HTTP Error 404: Not Found
+http://www.unhcr.org/5592b9b36.html	HTTP Error 403: Forbidden
+http://www.gla.ac.uk/schools/humanities/staff/phillipsobrien/	HTTP Error 404: Not Found
+http://www.telegraph.co.uk/news/uknews/law-and-order/8800962/The-22-million-cost-of-evicting-the-Dale-Farm-travellers.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+http://migrationobservatory.ox.ac.uk/	HTTP Error 403: Forbidden
+http://migrationobservatory.ox.ac.uk/briefings/deportations-removals-and-voluntary-departures-uk	HTTP Error 403: Forbidden
+http://www.europarl.europa.eu/hearings//press_service/product.htm?ref=20100108IPR66990&language=EN	HTTP Error 404: No Content
+http://www.globalbritain.co.uk/about/our-aims	HTTP Error 404: Not Found
+http://uk.linkedin.com/pub/ian-brightmore/35/33/350	HTTP Error 999: Request denied
+http://www.chrishopepolicy.com/2014/04/has-the-treasury-omitted-300-million-per-year-of-extra-climate-impacts-from-its-fuel-duty-reduction-calculations/	HTTP Error 403: Forbidden
+http://www.nhs.uk/Conditions/Flatulence/Pages/Causes.aspx	HTTP Error 403: Forbidden
+http://www.bbc.co.uk/programmes/b036tsn9/live	HTTP Error 404: Not Found
+http://www.nhs.uk/Livewell/STIs/Pages/oral-sex-and-cancer.aspx	HTTP Error 403: Forbidden
+http://www.nhs.uk/NHSEngland/Healthcareabroad/EHIC/Pages/EHICchanges.aspx	HTTP Error 403: Forbidden
+http://www.nhs.uk/NHSEngland/Healthcareabroad/EHIC/Pages/about-the-ehic.aspx	HTTP Error 403: Forbidden
+http://www.telegraph.co.uk/news/worldnews/europe/eu/10194911/EU-declares-Hizbollah-a-terrorist-organisation-in-victory-for-Britain.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+http://www.nhs.uk/NHSEngland/Healthcareabroad/countryguide/Pages/healthcareinHungary.aspx	HTTP Error 403: Forbidden
+http://www.nhs.uk/NHSEngland/bruce-keogh-review/Pages/published-reports.aspx	HTTP Error 403: Forbidden
+http://www.nhs.uk/news/2012/05may/Pages/mrsa-hospital-acquired-infection-rates.aspx	HTTP Error 403: Forbidden
+http://www.vintagescoops.co.uk/home.html	HTTP Error 404: Not Found
+http://www.telegraph.co.uk/technology/news/9508190/For-sleeps-sake-have-a-screen-break-before-bed.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+http://www.cipd.co.uk/pressoffice/press-releases/cipd-welcomes-death-fault-dismissal-140912.aspx	HTTP Error 404: Not Found
+http://www.google.co.uk/search?hl=en&gl=uk&tbm=nws&q=Rensselaer+Polytechnic+Institute+in+New+York&oq=Rensselaer+Polytechnic+Institute+in+New+York&gs_l=news-cc.3..43j43i400.1130.1130.0.1384.1.1.0.0.0.0.64.64.1.1.0...0.0...1ac.559UFa7S2QM	HTTP Error 403: Forbidden
+http://www.voteleavetakecontrol.org/briefing_cost	HTTP Error 404: Not Found
+http://www.thedailybeast.com/articles/2016/03/23/bernie-sanders-on-kimmel-trump-using-brussels-to-attack-all-muslims.html	HTTP Error 403: Forbidden
+http://www.hmrc.gov.uk/stats/mtg-2011.pdf	timed out
+http://www.hmrc.gov.uk/thelibrary/employee-qa.pdf	HTTP Error 403: Forbidden
+http://www.themalaymailonline.com/malaysia/article/pairin-naked-tourist-brought-on-mountains-wrath	HTTP Error 403: Forbidden
+http://britishinfluence.org/business-britain-finds-6-british-businesses-close-eu-exit/	HTTP Error 404: Not Found
+http://www.blogger.com/profile/15687309219927318062	HTTP Error 404: Not Found
+http://www.taxjustice.net/cms/upload/pdf/Domicile_UK_0709_submission.pdf	HTTP Error 403: Forbidden
+http://www.daycaretrust.org.uk/pages/childcare-costs-surveys.html	[WinError 10054] An existing connection was forcibly closed by the remote host
+https://www.whitehouse.gov/ondcp/global-heroin-market	HTTP Error 404: Not Found
+http://www.housing.org.uk/policy/welfare_reform/bedroom_tax.aspx	HTTP Error 404: Not Found
+http://www.mikebakereducation.co.uk/articles/88/schools-should-make-reading-skills-their-top-priority	<urlopen error timed out>
+http://www.hpa.org.uk/NewsCentre/NationalPressReleases/2012PressReleases/120426Mobilephones/	HTTP Error 410: Gone
+http://www.mirror.co.uk/news/uk-news/dead-lion-found-freezer-during-4194174	HTTP Error 403: Forbidden
+http://www.huffingtonpost.co.uk/2014/02/25/hyundai-uk-european-union_n_4853938.html	HTTP Error 403: Forbidden
+http://www.huffingtonpost.com/2015/04/28/bill-clinton-mass-incarceration_n_7164712.html	HTTP Error 403: Forbidden
+http://www.dfpni.gov.uk/lps/index/about-lps/publications/statistics-and-research-publications.htm	HTTP Error 404: Not Found
+http://www.huffingtonpost.com/dennis-gilbert/adventures-with-bernie-sa_b_8963690.html	HTTP Error 403: Forbidden
+http://www.nsandi.com/	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+http://www.taxpolicycenter.org/numbers/displayatab.cfm?DocID=3054	HTTP Error 404: Not Found
+http://www.familyandchildcaretrust.org/Handlers/Download.ashx?IDMF=ac441f45-32fa-468f-b76b-d38579d1af3e	HTTP Error 404: Not Found
+http://www.mirror.co.uk/news/weird-world/2011/10/20/gigantic-xxxxxxxxxxxxxxxxl-slipper-delivered-to-man-who-ordered-a-size-14-5-but-got-a-size-1-450-115875-23500817/	HTTP Error 403: Forbidden
+http://www.bp.com/content/dam/bp/pdf/Energy-economics/statistical-review-2014/BP-statistical-review-of-world-energy-2014-full-report.pdf	HTTP Error 404: Not Found
+http://www.bps.org.uk/news/unemployment-can-lead-depression	HTTP Error 403: Forbidden
+http://www.mirror.co.uk/tv/tv-news/downton-abbey-end-year-cast-5061146	HTTP Error 403: Forbidden
+http://www.hulldailymail.co.uk/MPs-pound-1bn-bolster-Humber-flood-defences/story-22881433-detail/story.html	HTTP Error 410: Gone
+http://www.mit.edu/~westj/articles/JeremyWest_RacialBiasPolice.pdf	HTTP Error 404: Not Found
+http://www.ic.nhs.uk/statistics-and-data-collections/workforce/nhs-staff-numbers/monthly-nhs-hospital-and-community-health-service-hchs-workforce-statistics-in-england--june-2012-provisional-statistics	HTTP Error 404: Not Found
+http://www.icmresearch.com/media-centre/polls/guardian-poll-february-2014	HTTP Error 404: Not Found
+http://www.telegraph.co.uk/comment/columnists/borisjohnson/8788464/BC-or-BCE-The-BBCs-edict-on-how-we-date-events-is-AD-absolute-drivel.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+http://www.telegraph.co.uk/education/educationnews/10201763/Huge-rise-in-number-of-expulsions-from-primary-schools.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+http://www.telegraph.co.uk/finance/economics/11550996/Memo-to-politicians-of-all-parties-you-seek-to-buck-the-market-at-your-peril.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+http://www.telegraph.co.uk/finance/newsbysector/energy/10402931/Government-and-National-Grid-plan-emergency-measures-to-prevent-blackouts.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+http://www.telegraph.co.uk/finance/newsbysector/industry/9796813/Hondas-UK-boss-warns-Britain-must-stay-at-heart-of-EU-as-it-cuts-800-jobs.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
+http://www.fivethirtyeight.com/2009/10/honey-does-this-governor-make-me-look.html	HTTP Error 404: Not Found
+http://www.gq-magazine.co.uk/girls/articles/2012-08/17/gq-sex-survey-questions-2012	HTTP Error 404: Not Found
+http://www.cms.gre.ac.uk/staff/details.asp?id=246	<urlopen error timed out>
+http://cdn.budgetresponsibility.org.uk/SPFCletter.pdf	HTTP Error 400: Bad Request
+http://cdn.hm-treasury.gov.uk/as2011_distributional_analysis.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+http://presidential-candidates.insidegov.com/l/35/Bernie-Sanders	<urlopen error timed out>
+http://chrome-extension//oemmndcbldboiebfnladdacbdfmadadm/http://ec.europa.eu/regional_policy/sources/information/cohesion-policy-achievement-and-future-investment/factsheet/united_kingdom_en.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+http://cironline.org/node/4312	<urlopen error timed out>
+http://presidential-candidates.insidegov.com/l/40/Hillary-Clinton	<urlopen error timed out>
+http://press.labour.org.uk/post/115655950539/the-labour-choice-on-tax-tax-cuts-for-millions	HTTP Error 403: Forbidden
+http://stephennoon.blogspot.com/2011/11/euro-membership.html	HTTP Error 404: Not Found
+http://www.weforum.org/issues/global-competitiveness	HTTP Error 404: Not Found
+http://www.whitbymorrison.com/index.php	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>

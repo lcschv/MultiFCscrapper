@@ -1,0 +1,743 @@
+http://about.universalcredit.service.gov.uk/kms/Pages/Work_allowance_for_Universal_Credit.htm	<urlopen error [Errno 11001] getaddrinfo failed>
+http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-376628_QID_-63E951E5_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;AGE,L,Z,0;SEX,L,Z,1;INDICATORS,C,Z,2;&zSelection=DS-376628AGE,TOTAL;DS-376628SEX,T;DS-376628INDICATORS,OBS_FLAG;&rankName1=AGE_1_2_-1_2&rankName2=INDICATORS_1_2_-1_2&rankName3=SEX_1_2_-1_2&rankName4=TIME_1_0_0_0&rankName5=GEO_1_2_0_1&sortR=ASC_4&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=NONE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23	argument of type 'NoneType' is not iterable
+http://cdn.budgetresponsibility.org.uk/March2016EFO.pdf#page=151	HTTP Error 400: Bad Request
+http://researchbriefings.files.parliament.uk/documents/CBP-7405/CBP-07405-state-pension-age-timetable.pdf	HTTP Error 404: The specified blob does not exist.
+http://www.britishchambers.org.uk/press-office/press-releases/bcc-open-letter-to-pm-businesses-need-clarity-on-brexit.html	HTTP Error 403: Forbidden
+http://www.independent.co.uk/arts-entertainment/music/londons-clubbing-scene-is-suffering-closures-but-what-can-promoters-do-to-be-creative-in-the-face-of-a7209491.html	HTTP Error 404: Not Found
+http://www.independent.co.uk/news/uk/politics/philip-hammond-national-insurance-self-employed-breaks-manifesto-promise-tax-a7618666.html	HTTP Error 404: Not Found
+http://budgetresponsibility.org.uk/wordpress/docs/briefing%20paper%20No2%20FINAL.pdf#page=4	[WinError 10054] An existing connection was forcibly closed by the remote host
+http://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7g7/mm23	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/migrationstatisticsquarterlyreport/august2016#main-points	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/excesswintermortalityinenglandandwales/2015to2016provisionaland2014to2015final#females-and-the-elderly-are-most-affected-by-excess-winter-mortality	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/dcp171778_411032.pdf#page=41	HTTP Error 403: Forbidden
+http://www.theipsa.org.uk/press-releases/press-releases/24-february-2017-mps-pay-for-2017-18/	HTTP Error 404: Not Found
+https://nhsbtdbe.blob.core.windows.net/umbraco-assets-corp/11628/transplant-activity-report-2017-2018.pdf#page=145	HTTP Error 404: The specified blob does not exist.
+https://s3-eu-west-1.amazonaws.com/manifesto2015/ConservativeManifesto2015.pdf#page=40	HTTP Error 403: Forbidden
+https://s3.eu-west-2.amazonaws.com/manifesto2017/Manifesto2017.pdf#page=71	HTTP Error 403: Forbidden
+https://whatukthinks.org/eu/questions/would-you-support-or-oppose-having-a-second-eu-referendum-to-vote-on-the-exit-deal-when-the-details-are-known/	HTTP Error 403: Forbidden
+https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A317DC7FBD645FB34FF8A1D2E2762A5F/S0007125017000095a.pdf/accuracy_of_the_whooley_questions_and_the_edinburgh_postnatal_depression_scale_in_identifying_depression_and_other_mental_disorders_in_early_pregnancy.pdf#page=2	HTTP Error 403: Forbidden
+http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-396046_QID_2A08BCF4_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;NACE_R2,L,Z,0;ISCO08,L,Z,1;WORKTIME,L,Z,2;AGE,L,Z,3;SEX,L,Z,4;INDIC_SE,L,Z,5;INDICATORS,C,Z,6;&zSelection=DS-396046NACE_R2,B-S_X_O;DS-396046WORKTIME,TOTAL;DS-396046INDICATORS,OBS_FLAG;DS-396046ISCO08,TOTAL;DS-396046INDIC_SE,SAL_NR;DS-396046AGE,TOTAL;DS-396046SEX,T;&rankName1=INDIC-SE_1_2_-1_2&rankName2=WORKTIME_1_2_-1_2&rankName3=AGE_1_2_-1_2&rankName4=ISCO08_1_2_-1_2&rankName5=INDICATORS_1_2_-1_2&rankName6=SEX_1_2_-1_2&rankName7=NACE-R2_1_2_-1_2&rankName8=TIME_1_0_0_0&rankName9=GEO_1_2_0_1&sortR=ASC_3&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=NONE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23	argument of type 'NoneType' is not iterable
+https://www.consilium.europa.eu/uedocs/cms_data/docs/pressdata/en/ec/111615.pdf#page=2	HTTP Error 403: Forbidden
+https://www.daera-ni.gov.uk/sites/default/files/publications/dard/farm-incomes-in-northern-ireland-2014-15-final.PDF#page=12	HTTP Error 404: Not Found
+http://blog.cps.gov.uk/2015/01/cps-and-police-focus-on-consent-at-first-joint-national-rape-conference.html	hostname 'blog.cps.gov.uk' doesn't match either of 'ssl919196.cloudflaressl.com', '*.typepad.com', 'typepad.com'
+http://cdn.budgetresponsibility.org.uk/March2016EFO.pdf#page=155	HTTP Error 400: Bad Request
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/463097/legal-aid-statistics-underlying-data-apr-to-jun-15.csv/preview	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/593392/pip-assessment-criteria-equality-analysis.pdf	HTTP Error 429: Too Many Requests
+https://www.gov.uk/paternity-pay-leave/pay	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/news/business-rates-revaluation-the-facts	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/statistics/school-workforce-in-england-november-2014	HTTP Error 429: Too Many Requests
+https://www.gov.uk/guidance/devolution-settlement-scotland	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/speeches/what-does-a-one-nation-justice-policy-look-like	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/479539/bis-15-626-freezing-student-loan-repayment-threshold-government-response.pdf#page=34	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/446309/Cap_on_care_acc.pdf	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/509499/Number_of_regional_jobs_linked_to_EU_exports.pdf	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/663549/technical-appendix-for-continuously-reviewed-benefits.pdf#page=22	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/669750/Energy_Trends_December_2017.pdf#page=69	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/speeches/nick-gibb-on-reading-greater-expectations	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/287937/07-1184x-tackling-obesities-future-choices-report.pdf#page=45	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/publications/undocumented-commonwealth-citizens-resident-in-the-uk/undocumented-commonwealth-citizens-resident-in-the-uk	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/news/government-to-strengthen-child-poverty-measure	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/553942/School_inspection_handbook-section_5.pdf#page=33	HTTP Error 429: Too Many Requests
+https://www.gov.uk/student-finance/new-fulltime-students	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/440718/Main_tables_SFR21_2015.xlsx	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/604913/Naylor_review_data_analysis.pdf#page=9	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/695811/foi-170912003-drug-offences.docx	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/561314/HMRC-measuring-tax-gaps-2016-methodological-annex.pdf#page=3	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/609972/Mar17_Receipts_NS_Bulletin_Final.pdf#page=11	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/48897/universal-credit-full-document.pdf#page=5	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/434821/RR418A_Phonics_screening_check_evaluation.pdf#page=8	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/360044/2014_Background_Documentation_to_DECC_HMT_Supplementary_Appraisal_Guidance.pdf#page=7	HTTP Error 429: Too Many Requests
+https://www.nato.int/nato-welcome/index.html	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/timeseries/l7px/ukea	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/ispayhigherinthepublicorprivatesector/2017-11-16	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/theeffectsoftaxesandbenefitsonhouseholdincome/financialyearending2016#things-you-need-to-know-about-this-release	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/publicsectoremploymentbyindustryemp03	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/2011censuspopulationestimatesfortheunitedkingdom/2012-12-17#the-growth-of-the-population-of-the-united-kingdom	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/domesticabuseinenglandandwales/yearendingmarch2017#main-points	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/aprtojun2017#how-is-the-uk-economy-performing-compared-with-other-european-and-non-european-countries	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/excesswintermortalityinenglandandwales/2015to2016provisionaland2014to2015final#period-of-increased-mortality-extends-beyond-winter-months-in-201516	HTTP Error 403: Forbidden
+https://ec.europa.eu/taxation_customs/sites/taxation/files/transit_manual_en.pdf#page=41	[WinError 10054] An existing connection was forcibly closed by the remote host
+https://www.tuc.org.uk/equality-issues/black-workers/labour-market/black-workers-degrees-earn-quarter-less-white	HTTP Error 403: Forbidden
+http://monographs.iarc.fr/ENG/Classification/ClassificationsGroupOrder.pdf	HTTP Error 404: Not Found
+http://press.labour.org.uk/post/160471248664/desperate-tories-re-announce-energy-bill-plan-with	HTTP Error 403: Forbidden
+http://researchbriefings.files.parliament.uk/documents/CBP-7581/CBP-7581.pdf#page=16	HTTP Error 404: The specified blob does not exist.
+http://www.independent.co.uk/arts-entertainment/tv/news/bbc-iplayer-to-require-tv-license-as-government-closes-loophole-a7166541.html	HTTP Error 404: Not Found
+http://www.independent.co.uk/news/uk/politics/theresa-may-s-speech-to-the-conservative-party-conference-in-full-a6681901.html	HTTP Error 404: Not Found
+http://www.duchyoflancaster.co.uk/financial/financial-reporting/	HTTP Error 403: Forbidden
+http://s3.amazonaws.com/bbpa-prod/attachments/video/658/original/UK%20Quarterly%20Beer%20Barometer%20Q2%202016.xlsx?1469606771	HTTP Error 404: Not Found
+http://www.bankofengland.co.uk/research/Documents/workingpapers/2015/swp574.pdf#page=11	HTTP Error 404: Not Found
+http://www.england.nhs.uk/ourwork/qual-clin-lead/calltoaction/pm-ext-access/pm-about/	HTTP Error 404: Not Found
+http://www.mirror.co.uk/news/uk-news/number-children-living-poverty-soared-8952539	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/excesswintermortalityinenglandandwales/2015to2016provisionaland2014to2015final#main-points	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/april2016#workforce-jobs-first-published-on-16-march-2016	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/dcp171778_411032.pdf#page=9	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/migrationstatisticsquarterlyreport/dec2016	HTTP Error 403: Forbidden
+http://www.phoutcomes.info/public-health-outcomes-framework#page/4/gid/1000049/pat/6/par/E12000001/ati/102/are/E08000022/iid/90366/age/1/sex/2	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+http://www.nuffieldtrust.org.uk/sites/files/nuffield/revised_4_countries_report.pdf#page=32	HTTP Error 404: Not Found
+https://batchgeo.com/map/6f1c8b890691a889502102594e08cb49	HTTP Error 403: Forbidden
+http://www.transport-network.co.uk/RMT-publishes-danger-\'dossier\'-over-axing-guards,-but-regulator-disagrees/12962	HTTP Error 404: Not Found
+http://www.teachers.org.uk/phonics	HTTP Error 404: Not Found
+https://nhsbtdbe.blob.core.windows.net/umbraco-assets-corp/11628/transplant-activity-report-2017-2018.pdf#page=146	HTTP Error 404: The specified blob does not exist.
+https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A317DC7FBD645FB34FF8A1D2E2762A5F/S0007125017000095a.pdf/accuracy_of_the_whooley_questions_and_the_edinburgh_postnatal_depression_scale_in_identifying_depression_and_other_mental_disorders_in_early_pregnancy.pdf#page=3	HTTP Error 403: Forbidden
+https://s3-eu-west-1.amazonaws.com/manifesto2015/ConservativeManifesto2015.pdf#page=41	HTTP Error 403: Forbidden
+https://s3.eu-west-2.amazonaws.com/manifesto2017/Manifesto2017.pdf#page=74	HTTP Error 403: Forbidden
+http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-406763_QID_77B88327_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;UNIT,L,Z,0;NA_ITEM,L,Z,1;INDICATORS,C,Z,2;&zSelection=DS-406763UNIT,CP_MEUR;DS-406763INDICATORS,OBS_FLAG;DS-406763NA_ITEM,B1GQ;&rankName1=UNIT_1_2_-1_2&rankName2=INDICATORS_1_2_-1_2&rankName3=NA-ITEM_1_2_-1_2&rankName4=TIME_1_0_0_0&rankName5=GEO_1_2_0_1&sortR=ASC_9&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=ROLLING&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23	argument of type 'NoneType' is not iterable
+https://womensequality.org.uk/history/	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+http://blog.hansardsociety.org.uk/delegated-legislation-frequently-asked-questions/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://cdn.budgetresponsibility.org.uk/March2016EFO.pdf#page=65	HTTP Error 400: Bad Request
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/594361/NDNS_Y1_to_4_UK_report_full_text_revised_February_2017.pdf#page=57	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/604916/NHS_estates_evidence_review.pdf#page=7	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/492064/PM_EFA_post_16_funding_letter_January_2016.pdf	HTTP Error 429: Too Many Requests
+https://www.daera-ni.gov.uk/sites/default/files/publications/dard/farm-incomes-in-northern-ireland-2014-15-final.PDF#page=18	HTTP Error 404: Not Found
+https://www.gov.uk/government/publications/universal-credit-transition-to-full-service	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/434821/RR418A_Phonics_screening_check_evaluation.pdf#page=9	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/611460/independent-review-of-the-state-pension-age-smoothing-the-transition.pdf	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/361648/mental-health-access.pdf	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/publications/hmrc-tax-and-nics-receipts-for-the-uk	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/663561/fraud-and-error-stats-release-2016-17-final-estimates-tables.xlsx	HTTP Error 429: Too Many Requests
+https://www.gov.uk/pip/eligibility	HTTP Error 429: Too Many Requests
+http://www.un.org/apps/news/infocus/migration.asp	HTTP Error 404: Not Found
+https://www.gov.uk/government/news/gross-domestic-product-gdp-what-it-means-and-why-it-matters	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/671647/average-year-to-december-2017.csv/preview	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/news/thousands-of-new-roles-to-be-created-in-mental-health-workforce-plan	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/442821/Charter_for_Budget_Responsibility_-_Summer_Budget_2015.pdf#page=11	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/561314/HMRC-measuring-tax-gaps-2016-methodological-annex.pdf#page=55	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/statistics/households-below-average-income-199495-to-201617	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/publications/budget-2016-documents/budget-2016#support-for-working-people-1	HTTP Error 429: Too Many Requests
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/underemploymentandoveremploymentemp16	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/theeffectsoftaxesandbenefitsonincomeinequality/1977tofinancialyearending2015#what-about-inequality-at-the-top-of-the-distribution	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/averageweeklyearningsearn01	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/compendium/focusonviolentcrimeandsexualoffences/yearendingmarch2016/homicide#how-are-victims-and-suspects-related	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/excesswintermortalityinenglandandwales/2016to2017provisionaland2015to2016final#pronounced-increase-in-mortality-seen-over-the-winter-months	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualmidyearpopulationestimates/previousReleases	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/timeseries/l83u	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/secondestimateofgdp/julytoseptember2017#how-is-the-uk-economy-performing-compared-with-other-european-and-non-european-countries	HTTP Error 403: Forbidden
+https://www.nato.int/nato_static_fl2014/assets/pdf/pdf_2017_06/20170629_170629-pr2017-111-en.pdf#page=8	HTTP Error 403: Forbidden
+http://researchbriefings.files.parliament.uk/documents/CBP-7581/CBP-7581.pdf#page=17	HTTP Error 404: The specified blob does not exist.
+http://www.independent.co.uk/student/news/labour-launches-opposition-day-debate-and-annulment-motion-to-halt-tory-plans-to-axe-maintenance-a6819251.html	HTTP Error 404: Not Found
+http://www.independent.co.uk/life-style/pregnancy-mental-health-issues-women-depression-anxiety-a8142036.html	HTTP Error 404: Not Found
+http://scienceblog.cancerresearchuk.org/2015/02/04/why-are-cancer-rates-increasing/	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/migrationstatisticsquarterlyreport/dec2016#net-migration-to-the-uk-remains-similar-to-recent-levels	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/dcp171778_414231.pdf#page=9	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/summaryoflabourmarketstatistics	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/excesswintermortalityinenglandandwales/2015to2016provisionaland2014to2015final#respiratory-diseases-caused-most-excess-winter-deaths	HTTP Error 403: Forbidden
+http://www.oecd-ilibrary.org/sites/na_glance-2013-en/05/06/index.html?contentType=&itemId=%2Fcontent%2Fchapter%2Fna_glance-2013-23-en&mimeType=text%2Fhtml&containerItemId=%2Fcontent%2Fserial%2F22200444&accessItemIds=	HTTP Error 403: Forbidden
+http://www.nhs.uk/Conditions/Diabetes/Pages/Diabetes.aspx	HTTP Error 403: Forbidden
+https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A317DC7FBD645FB34FF8A1D2E2762A5F/S0007125017000095a.pdf/accuracy_of_the_whooley_questions_and_the_edinburgh_postnatal_depression_scale_in_identifying_depression_and_other_mental_disorders_in_early_pregnancy.pdf#page=4	HTTP Error 403: Forbidden
+https://nhsbtdbe.blob.core.windows.net/umbraco-assets-corp/11628/transplant-activity-report-2017-2018.pdf#page=16	HTTP Error 404: The specified blob does not exist.
+https://fullfact.org/europe/eu-renegotiation-deal/	HTTP Error 404: Not Found
+http://appsso.eurostat.ec.europa.eu/nui/show.do	argument of type 'NoneType' is not iterable
+https://secondreading.uk/economy/brexit-future-funding-from-the-european-investment-bank/	HTTP Error 403: Forbidden
+http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-446943_QID_-D409A6D_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;CURRENCY,L,Z,0;BOP_ITEM,L,Z,1;STK_FLOW,L,Z,2;PARTNER,L,Z,3;INDICATORS,C,Z,4;&zSelection=DS-446943STK_FLOW,DEB;DS-446943PARTNER,CH;DS-446943BOP_ITEM,S;DS-446943INDICATORS,OBS_FLAG;DS-446943CURRENCY,MIO_EUR;&rankName1=PARTNER_1_2_-1_2&rankName2=STK-FLOW_1_2_-1_2&rankName3=BOP-ITEM_1_2_-1_2&rankName4=CURRENCY_1_2_-1_2&rankName5=INDICATORS_1_2_-1_2&rankName6=TIME_1_0_0_0&rankName7=GEO_1_0_0_1&sortR=ASC_-1_FIRST&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=NONE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23	argument of type 'NoneType' is not iterable
+https://s3-eu-west-1.amazonaws.com/manifesto2015/ConservativeManifesto2015.pdf#page=58	HTTP Error 403: Forbidden
+http://blog.hansardsociety.org.uk/licence-to-kill-should-the-house-of-lords-veto-the-tax-credits-statutory-instrument/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://cdn.budgetresponsibility.org.uk/Nov2016EFO.pdf#page=11	HTTP Error 400: Bad Request
+http://www.unhcr.org/3b66c2aa10.pdf#page=19	HTTP Error 403: Forbidden
+https://www.gov.uk/government/publications/immigration-statistics-april-to-june-2015/asylum	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/news/changes-to-onshore-wind-subsidies-protect-investment-and-get-the-best-deal-for-bill-payers	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/news/unlocking-aspiration-for-a-new-generation-of-home-buyers--2	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/562160/further-review-and-sensitivities-report-airport-capacity-in-the-south-east.pdf#page=9	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/statistical-data-sets/fire-statistics-data-tables#fatalities-and-casualties	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/publications/changes-to-capital-gains-tax-rates/changes-to-capital-gains-tax-rates	HTTP Error 429: Too Many Requests
+https://www.gov.uk/guidance/domestic-violence-and-abuse	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/183364/DFE-RR169.pdf#page=4	HTTP Error 429: Too Many Requests
+https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/timeseries/l83u/ukea	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/timeseries/kac3/lms	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/secondestimateofgdp/quarter1jantomar2017#how-is-the-uk-economy-performing-compared-with-other-european-and-non-european-countries	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/datasets/weeklyprovisionalfiguresondeathsregisteredinenglandandwales	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland	HTTP Error 403: Forbidden
+https://www.gov.uk/jobseekers-allowance/what-youll-get	HTTP Error 429: Too Many Requests
+https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/compendium/wealthingreatbritainwave4/2012to2014/chapter2totalwealthwealthingreatbritain2012to2014	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/compendium/focusonviolentcrimeandsexualoffences/yearendingmarch2016/homicide#things-you-need-to-know	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/workingandworklesshouseholdstableipeopleinhouseholdsbyhousingtenureandcombinedeconomicactivitystatusofhouseholdmembers	HTTP Error 403: Forbidden
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/4204/realising-the-potential-of-gb-rail.pdf#page=39	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/251909/Quantitative_Assessment_of_Visitor_and_Migrant_Use_of_the_NHS_in_England_-_Exploring_the_Data_-_FULL_REPORT.pdf#page=93	HTTP Error 429: Too Many Requests
+https://www.nhs.uk/Tools/Documents/HistoryNHS.html	HTTP Error 403: Forbidden
+http://www.independent.co.uk/news/business/news/pound-sterling-value-crash-mervyn-king-bank-of-england-welcomes-brexit-a7355076.html	HTTP Error 404: Not Found
+http://www.independent.co.uk/voices/terrifyingly-according-to-the-world-health-organisation-definition-the-uk-no-longer-has-a-nhs-a6923126.html	HTTP Error 404: Not Found
+http://press.labour.org.uk/post/160943491984/labour-will-lift-38-billion-debt-burden-from	HTTP Error 403: Forbidden
+http://www.bankofengland.co.uk/research/Documents/workingpapers/2015/swp574.pdf#page=21	HTTP Error 404: Not Found
+http://www.duchyoflancaster.co.uk/wp-content/uploads/2015/07/Duchy-Report-and-Accounts-2015.pdf#page=13	HTTP Error 403: Forbidden
+http://www.england.nhs.uk/wp-content/uploads/2013/04/cdf-sop-2015-16.pdf#page=13	HTTP Error 404: Not Found
+http://www.mirror.co.uk/news/uk-news/number-people-unhappy-nhs-highest-7335360	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/guide-method/method-quality/specific/economy/national-accounts/index.html	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/excesswintermortalityinenglandandwales/2015to2016provisionaland2014to2015final#statisticians-quote	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/populationandmigration/internationalmigration/datasets/migrationstatisticsquarterlyreportprovisionallongterminternationalmigrationltimestimates/current/provisionalestimatesoflongterminternationalmigrationyemarch2016.xls	HTTP Error 403: Forbidden
+http://www.phoutcomes.info/public-health-outcomes-framework#page/6/gid/1000049/pat/6/par/E12000001/ati/102/are/E08000022/iid/90366/age/1/sex/2	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+http://www.bankofengland.co.uk/monetarypolicy/Documents/pdf/chancellorletter160316.pdf	HTTP Error 404: Not Found
+http://www.nhs.uk/Conditions/Stroke/Pages/treatment.aspx	HTTP Error 403: Forbidden
+https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A317DC7FBD645FB34FF8A1D2E2762A5F/S0007125017000095a.pdf/accuracy_of_the_whooley_questions_and_the_edinburgh_postnatal_depression_scale_in_identifying_depression_and_other_mental_disorders_in_early_pregnancy.pdf#page=6	HTTP Error 403: Forbidden
+http://www.local.gov.uk/health-wellbeing-and-adult-social-care/-/journal_content/56/10180/4096799/ARTICLE	HTTP Error 404: Not Found
+http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-513634_QID_-5686D145_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;UNIT,L,Z,0;INDICATORS,C,Z,1;&zSelection=DS-513634INDICATORS,OBS_FLAG;DS-513634UNIT,PPS_HAB_EU;&rankName1=UNIT_1_2_-1_2&rankName2=INDICATORS_1_2_-1_2&rankName3=TIME_1_0_0_0&rankName4=GEO_1_2_0_1&sortR=DESC_9&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=NONE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23	argument of type 'NoneType' is not iterable
+https://s3-eu-west-1.amazonaws.com/manifesto2015/ConservativeManifesto2015.pdf#page=59	HTTP Error 403: Forbidden
+http://cdn.budgetresponsibility.org.uk/Nov2016EFO.pdf#page=194	HTTP Error 400: Bad Request
+http://www.unhcr.org/3b66c2aa10.pdf#page=48	HTTP Error 403: Forbidden
+http://www.slc.co.uk/media/9126/slcsfr012017.pdf	HTTP Error 404: Not Found
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/timeseries/kad8/emp?referrer=search&searchTerm=kad8	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/compendium/focusonviolentcrimeandsexualoffences/yearendingmarch2016/overviewofviolentcrimeandsexualoffences#what-do-we-know-about-sexual-offences	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/methodologies/impactofregistrationdelaysonmortalitystatistics2016	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/timeseries/l83y	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/aguidetolabourmarketstatistics#glossary	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/inflationandpriceindices/articles/shortcomingsoftheretailpricesindexasameasureofinflation/2018-03-08	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/compendium/wealthingreatbritainwave4/2012to2014/chapter2totalwealthwealthingreatbritain2012to2014#introduction	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/timeseries/ukpop/pop	HTTP Error 403: Forbidden
+https://www.nhs.uk/conditions/type-1-diabetes/flash-monitoring-freestyle-libre/	HTTP Error 403: Forbidden
+https://www.gov.uk/government/publications/child-poverty-strategy-2014-to-2017	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/719773/SWFC_Tables.xlsx	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/423621/ChildandWorkingTaxCreditsStatistics-April_2015.pdf#page=19	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/news/hundreds-of-coasting-schools-to-be-transformed	HTTP Error 429: Too Many Requests
+https://digital.nhs.uk/media/32051/NHS-Vacancy-Statistics-England-February-2015-March-2017-Provisional-Experimental-Statistics-Report/pdf/nhs-vac-stats-feb15-mar17-eng-rep	HTTP Error 404: Not Found
+https://www.gov.uk/government/publications/usability-research-building-regulations-approved-documents-b-and-m	HTTP Error 429: Too Many Requests
+https://www.gov.uk/employment-support-allowance/eligibility	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/statistical-data-sets/fire-statistics-data-tables#incidents-attended	HTTP Error 429: Too Many Requests
+http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-053230_QID_152CE537_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;INDIC_IL,L,Z,0;INDICATORS,C,Z,1;&zSelection=DS-053230INDICATORS,OBS_FLAG;DS-053230INDIC_IL,GINI_HND;&rankName1=INDIC-IL_1_2_-1_2&rankName2=INDICATORS_1_2_-1_2&rankName3=TIME_1_0_0_0&rankName4=GEO_1_2_0_1&sortR=ASC_8&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=NONE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23	argument of type 'NoneType' is not iterable
+http://www.independent.co.uk/news/business/news/why-the-plummeting-pound-sterling-is-good-news-for-britain-a7353846.html	HTTP Error 404: Not Found
+http://www.ons.gov.uk/ons/guide-method/method-quality/specific/economy/public-sector-finances/monthly-statistics-on-public-sector-finances--a-methodological-guide.pdf	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/about-ons/business-transparency/freedom-of-information/previous-foi-requests/economy/national-accounts-treatment-of-renewable-obligation/index.html	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/excesswintermortalityinenglandandwales/2015to2016provisionaland2014to2015final#things-you-need-to-know	HTTP Error 403: Forbidden
+http://www.lawsociety.org.uk/news/speeches/access-to-justice-day/	HTTP Error 404: Not Found
+http://www.nhs.uk/NHSEngland/thenhs/about/Pages/authoritiesandtrusts.aspx	HTTP Error 403: Forbidden
+http://blogs.lse.ac.uk/europpblog/2014/02/03/the-lisbon-treatys-change-to-council-voting-rules-will-have-important-implications-for-the-democratic-legitimacy-of-the-eu/	HTTP Error 403: Bad Behavior
+https://www.hesa.ac.uk/data-and-analysis/performance-indicators/non-continuation-summary	HTTP Error 403: Forbidden
+http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-513634_QID_-5FAC62BB_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;UNIT,L,Z,0;INDICATORS,C,Z,1;&zSelection=DS-513634INDICATORS,OBS_FLAG;DS-513634UNIT,PPS_HAB_EU;&rankName1=UNIT_1_2_-1_2&rankName2=INDICATORS_1_2_-1_2&rankName3=TIME_1_0_0_0&rankName4=GEO_1_2_0_1&sortR=DESC_9&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=NONE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23	argument of type 'NoneType' is not iterable
+https://s3-eu-west-1.amazonaws.com/manifesto2015/ConservativeManifesto2015.pdf#page=67	HTTP Error 403: Forbidden
+http://www.unhcr.org/51628f589.html#page=4	HTTP Error 403: Forbidden
+http://cdn.budgetresponsibility.org.uk/Nov2016EFO.pdf#page=96	HTTP Error 400: Bad Request
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/trendsinselfemploymentintheuk/2001to2015	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/lifeexpectancies/datasets/nationallifetablesunitedkingdomreferencetables	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationprojections/bulletins/nationalpopulationprojections/2015-10-29#people-of-working-age-and-state-pension-age	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/bulletintablesfocusonviolentcrimeandsexualoffences	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/timeseries/l87p	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/labourforcesurveylfsqmi#validation-and-quality-assurance	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/datasets/theeffectsoftaxesandbenefitsonhouseholdincomefinancialyearending2014	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7bt/mm23	HTTP Error 403: Forbidden
+https://www.nhs.uk/using-the-nhs/healthcare-abroad/healthcare-when-travelling-abroad/travelling-outside-the-european-economic-area-eea/	HTTP Error 403: Forbidden
+https://digital.nhs.uk/media/35058/Mental-Health-and-Learning-Disabilities-Supplementary-Experimental-Analysis/pdf/Mental_Health_and_Learning_Disabilities_Supplementary_Experimental_Analysis	HTTP Error 404: Not Found
+http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-055296_QID_-483ABF29_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;CITIZEN,L,Z,0;SEX,L,Z,1;AGE,L,Z,2;ASYL_APP,L,Z,3;UNIT,L,Z,4;INDICATORS,C,Z,5;&zSelection=DS-055296ASYL_APP,NASY_APP;DS-055296UNIT,PER;DS-055296CITIZEN,TOTAL;DS-055296INDICATORS,OBS_FLAG;DS-055296AGE,TOTAL;DS-055296SEX,T;&rankName1=UNIT_1_2_-1_2&rankName2=AGE_1_2_-1_2&rankName3=CITIZEN_1_2_-1_2&rankName4=INDICATORS_1_2_-1_2&rankName5=ASYL-APP_1_2_-1_2&rankName6=SEX_1_2_-1_2&rankName7=TIME_1_0_0_0&rankName8=GEO_1_2_0_1&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=NONE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23	argument of type 'NoneType' is not iterable
+http://www.independent.co.uk/news/education/education-news/secondary-school-pupils-taught-by-staff-not-trained-in-their-subject-a6903996.html	HTTP Error 404: Not Found
+https://www.gov.uk/government/organisations/department-for-education/about/statistics	HTTP Error 429: Too Many Requests
+https://www.gov.uk/maternity-allowance/eligibility	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/606978/nnc1.pdf	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/437246/households-below-average-income-1994-95-to-2013-14.pdf#page=25	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/496947/20160203_Adhoc_Statistical_Bulletin_Training_and_Exercise_deaths_in_the_UK_Armed_Forces_REVISION-O.pdf#page=2	HTTP Error 429: Too Many Requests
+https://www.gov.uk/guidance/homelessness-data-notes-and-definitions	HTTP Error 429: Too Many Requests
+http://press.labour.org.uk/post/160944769549/theresa-may-has-thrown-her-own-election-campaign	HTTP Error 403: Forbidden
+http://www.bankofengland.co.uk/research/Documents/workingpapers/2015/swp574.pdf#page=22	HTTP Error 404: Not Found
+http://www.duchyoflancaster.co.uk/wp-content/uploads/2015/07/Duchy-Report-and-Accounts-2015.pdf#page=5	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/excesswintermortalityinenglandandwales/2015to2016provisionaland2014to2015final/relateddata	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/about-ons/business-transparency/freedom-of-information/what-can-i-request/published-ad-hoc-data/econ/october-2014/gross-national-income--blue-book-2014.xls	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/rel/ashe/annual-survey-of-hours-and-earnings/2014-provisional-results/stb-ashe-statistical-bulletin-2014.html#tab-Gender-pay-differences	HTTP Error 403: Forbidden
+http://www.england.nhs.uk/wp-content/uploads/2015/09/ncdf-list-sept15.pdf	HTTP Error 404: Not Found
+http://www.mirror.co.uk/sport/football/news/sports-minister-hugh-robertson-writes-3313254	HTTP Error 403: Forbidden
+https://www.parliamentlive.tv/Event/Index/618c6ebe-5584-4d5e-bae5-62348bcf96c4?in=15:46:30	The read operation timed out
+http://www.nhs.uk/chq/Pages/2344.aspx?CategoryID=53	HTTP Error 403: Forbidden
+https://www.itv.com/hub/good-morning-britain/2a3211a2006	HTTP Error 404: Not Found
+http://www.rssb.co.uk/about-rssb/rssb-and-the-rail-industry	HTTP Error 404: NOT FOUND
+https://www.hesa.ac.uk/data-and-analysis/sfr247/figure-4	HTTP Error 403: Forbidden
+https://www.theccc.org.uk/2016/10/25/uk-aviation-emissions-must-be-consistent-with-uk-climate-change-commitments-ccc-says/	HTTP Error 403: Forbidden
+http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-513634_QID_2945F743_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;UNIT,L,Z,0;INDICATORS,C,Z,1;&zSelection=DS-513634INDICATORS,OBS_FLAG;DS-513634UNIT,PPS_HAB_EU;&rankName1=UNIT_1_2_-1_2&rankName2=INDICATORS_1_2_-1_2&rankName3=TIME_1_0_0_0&rankName4=GEO_1_2_0_1&sortR=DESC_9&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=NONE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23	argument of type 'NoneType' is not iterable
+http://www.local.gov.uk/media-releases/-/journal_content/56/10180/7386419/NEWS	HTTP Error 404: Not Found
+http://parliamentlive.tv/event/index/9bbf17eb-702e-4495-8bd7-cf038238d8ac?in=12:09:11	The read operation timed out
+http://parliamentlive.tv/Event/Index/13964bc9-a921-48db-85d7-3e6aef4f3b82?in=12:11:03	The read operation timed out
+http://parliamentlive.tv/event/index/13964bc9-a921-48db-85d7-3e6aef4f3b82?in=12:06:29	The read operation timed out
+http://www.unhcr.org/52b2febafc5.pdf	HTTP Error 403: Forbidden
+http://press.labour.org.uk/	HTTP Error 403: Forbidden
+https://s3-eu-west-1.amazonaws.com/manifesto2015/ConservativeManifesto2015.pdf#page=74	HTTP Error 403: Forbidden
+http://www.britishpollingcouncil.org/objects-and-rules/	timed out
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/apr2017#employment	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/datasets/birthsummarytables	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/timeseries/lgiw/ukea	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/timeseries/lf24/lms	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/d7g7/mm23	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/datasets/theeffectsoftaxesandbenefitsonhouseholdincomehistoricaldatasets	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/crimeinenglandandwalesappendixtables	HTTP Error 403: Forbidden
+http://www.migrationobservatory.ox.ac.uk/commonwealth-migrants-arriving-1971-year-ending-june-2017/	HTTP Error 403: Forbidden
+https://www.nhscc.org/ccgs/	HTTP Error 403: Forbidden
+http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-055296_QID_29111279_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;CITIZEN,L,Z,0;SEX,L,Z,1;AGE,L,Z,2;ASYL_APP,L,Z,3;UNIT,L,Z,4;INDICATORS,C,Z,5;&zSelection=DS-055296ASYL_APP,NASY_APP;DS-055296UNIT,PER;DS-055296CITIZEN,TOTAL;DS-055296INDICATORS,OBS_FLAG;DS-055296AGE,TOTAL;DS-055296SEX,T;&rankName1=UNIT_1_2_-1_2&rankName2=AGE_1_2_-1_2&rankName3=CITIZEN_1_2_-1_2&rankName4=INDICATORS_1_2_-1_2&rankName5=ASYL-APP_1_2_-1_2&rankName6=SEX_1_2_-1_2&rankName7=TIME_1_0_0_0&rankName8=GEO_1_2_0_1&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=NONE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23	argument of type 'NoneType' is not iterable
+http://www.independent.co.uk/news/education/education-news/three-out-of-four-academy-chains-have-schools-that-are-coasting-says-new-research-10411888.html	HTTP Error 404: Not Found
+https://www.gov.uk/government/publications/civil-service-pay-guidance-2018-to-2019/civil-service-pay-guidance-2018-to-2019	HTTP Error 429: Too Many Requests
+http://www.slc.co.uk/media/9126/slcsfr012017.pdf#page=6	HTTP Error 404: Not Found
+http://blogs.lse.ac.uk/politicsandpolicy/heatwave-public-health/	HTTP Error 403: Bad Behavior
+http://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/families/bulletins/familiesandhouseholds/2015-11-05	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/datasets-and-tables/data-selector.html?cdid=MGSB&dataset=lms&table-id=03	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/rel/census/2011-census/population-and-household-estimates-for-the-united-kingdom/index.html	HTTP Error 403: Forbidden
+http://www.nhs.uk/livewell/goodfood/pages/what-are-processed-foods.aspx	HTTP Error 403: Forbidden
+http://www.bankofengland.co.uk/monetarypolicy/Pages/framework/framework.aspx	HTTP Error 404: Not Found
+https://www.theccc.org.uk/wp-content/uploads/2015/02/CCC-AC-consultation-response.pdf	HTTP Error 403: Forbidden
+http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-513634_QID_4F7314C9_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;UNIT,L,Z,0;INDICATORS,C,Z,1;&zSelection=DS-513634INDICATORS,OBS_FLAG;DS-513634UNIT,PPS_HAB_EU;&rankName1=UNIT_1_2_-1_2&rankName2=INDICATORS_1_2_-1_2&rankName3=TIME_1_0_0_0&rankName4=GEO_1_2_0_1&sortR=DESC_9&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=NONE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23	argument of type 'NoneType' is not iterable
+http://www.nisra.gov.uk/demography/default.asp32.htm	HTTP Error 404: Not Found
+http://www.unhcr.org/548737926.html	HTTP Error 403: Forbidden
+https://ted.europa.eu/udl?uri=TED:NOTICE:209937-2018:TEXT:EN:HTML&WT.mc_id=RSS-Feed&WT.rss_f=Transport+and+Related+Services&WT.rss_a=209937-2018&WT.rss_ev=a	HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.The last 30x error message was: 307
+https://s3-eu-west-1.amazonaws.com/manifesto2015/ConservativeManifesto2015.pdf#page=75	HTTP Error 403: Forbidden
+http://www.bromleyboroughnews.co.uk/article.cfm?id=123895&headline=Bromley%20ID%20pilot%20costs%20%C2%A3200K%20and%20is%20called%20%E2%80%98a%20colossal%20waste%20of%20resources%E2%80%99%20by%20one%20MP&sectionIs=news&searchyear=2018	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/timeseries/lglb/ukea	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/methodologies/livingcostsandfoodsurvey	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/datasets/crimeseverityscoredatatool	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/adhocs/008451childrenaged10to15andadultsaged16to24involvedwithgangsyearendingmarch2017crimesurveyforenglandandwalescsew	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/apr2017#employment-by-nationality-and-country-of-birth-not-seasonally-adjusted-first-published-on-15-february-2017	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/labourproductivity/articles/subregionalproductivity/march2016#results-by-nuts2-subregions-and-city-regions	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/l522/mm23	HTTP Error 403: Forbidden
+http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-055296_QID_2CC9933E_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;CITIZEN,L,Z,0;SEX,L,Z,1;AGE,L,Z,2;ASYL_APP,L,Z,3;UNIT,L,Z,4;INDICATORS,C,Z,5;&zSelection=DS-055296ASYL_APP,NASY_APP;DS-055296UNIT,PER;DS-055296CITIZEN,TOTAL;DS-055296INDICATORS,OBS_FLAG;DS-055296AGE,TOTAL;DS-055296SEX,T;&rankName1=UNIT_1_2_-1_2&rankName2=AGE_1_2_-1_2&rankName3=CITIZEN_1_2_-1_2&rankName4=INDICATORS_1_2_-1_2&rankName5=ASYL-APP_1_2_-1_2&rankName6=SEX_1_2_-1_2&rankName7=TIME_1_0_0_0&rankName8=GEO_1_2_0_1&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=NONE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23	argument of type 'NoneType' is not iterable
+http://www.independent.co.uk/news/uk/crime/almost-1-in-every-35-men-could-be-a-sexual-risk-to-children-national-crime-agency-says-10334624.html	HTTP Error 404: Not Found
+http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/pubs/rp/rp1516/Quick_Guides/MigrationStatistics	HTTP Error 404: Not Found
+https://fts.unocha.org/pageloader.aspx?page=search-reporting_display&CQ=cq040216112319KE2QE4JWBB	HTTP Error 404: Not Found
+http://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/parentscountryofbirthenglandandwales/2015#the-percentage-of-births-to-mothers-born-outside-the-uk-varies-considerably-between-areas	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/datasets-and-tables/data-selector.html?cdid=MGSN&dataset=lms&table-id=01	HTTP Error 403: Forbidden
+http://www.bankofengland.co.uk/research/Documents/workingpapers/2015/swp574.pdf#page=23	HTTP Error 404: Not Found
+http://press.labour.org.uk/post/163361215474/over-seven-million-people-will-lose-out-by-10000	HTTP Error 403: Forbidden
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/221885/budget2013_complete.pdf#page=9	HTTP Error 429: Too Many Requests
+http://www.ons.gov.uk/ons/rel/crime-stats/crime-statistics/year-ending-march-2015/index.html	HTTP Error 403: Forbidden
+https://www.metoffice.gov.uk/climate/uk/summaries/2017/july	HTTP Error 403: Forbidden
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5773858/	HTTP Error 403: Forbidden
+http://www.mirror.co.uk/sport/other-sports/athletics/how-old-you-compete-olympics-8600683	HTTP Error 403: Forbidden
+https://www.aerlingus.com/travel-information/passports-and-visas/travel-to-from-britain/	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+http://www.instituteofhealthequity.org/file-manager/MarmotIndicators2017/marmot-indicators-briefing-18-july-2017-updated-.pdf	HTTP Error 404: Not Found
+http://www.lbc.co.uk/deradicalisation-scheme-eight-referred-daily-117536	HTTP Error 404: NOT FOUND
+http://m.insidehousing.co.uk/fact-check-right-to-buy-stats/7010488.article	HTTP Error 404: Not Found
+https://www.politico.eu/article/uk-will-not-pay-lump-sum-brexit-bill-according-to-draft-eu-uk-brexit-agreement/	HTTP Error 403: Forbidden
+http://www.russellgroup.ac.uk/media/5320/informedchoices.pdf#page=15	HTTP Error 404: Not Found
+https://www.fifa.com/aboutfifa/worldcup/index.html	HTTP Error 403: Forbidden
+https://www.theccc.org.uk/wp-content/uploads/2016/11/CCC-letter-to-Rt-Hon-Greg-Clark-on-UK-airport-expansion-November-2016.pdf	HTTP Error 403: Forbidden
+http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-513634_QID_54CA874A_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;UNIT,L,Z,0;INDICATORS,C,Z,1;&zSelection=DS-513634INDICATORS,OBS_FLAG;DS-513634UNIT,PPS_HAB_EU;&rankName1=UNIT_1_2_-1_2&rankName2=INDICATORS_1_2_-1_2&rankName3=TIME_1_0_0_0&rankName4=GEO_1_2_0_1&sortR=DESC_9&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=NONE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23	argument of type 'NoneType' is not iterable
+http://www.unhcr.org/5538e53d9.html	HTTP Error 403: Forbidden
+https://tfl.gov.uk/corporate/about-tfl/what-we-do/london-underground/rolling-stock	HTTP Error 403: Forbidden
+http://press.labour.org.uk/post/110790504305/a-better-plan-for-education-today-for-the	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/internationalstudentmigrationresearchupdate/april2017	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/timeseries/lgmi/pb?referrer=search&searchTerm=lgmi	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/august2017	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/cancerregistrationstatisticsengland/final2016#cancer-incidence-over-the-last-decade	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/homicideinenglandandwales/yearendingmarch2017#how-is-homicide-defined-and-measured	HTTP Error 403: Forbidden
+http://www.local.gov.uk/media-releases/-/journal_content/56/10180/7991319/NEWS	HTTP Error 404: Not Found
+https://www.ons.gov.uk/economy/inflationandpriceindices/timeseries/l55o/mm23	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/datasets/unemploymentbyageanddurationnotseasonallyadjustedunem01nsa	HTTP Error 403: Forbidden
+http://www.migrationobservatory.ox.ac.uk/press/government-faces-formidable-task-registering-3-million-eu-citizens-already-living-uk/	HTTP Error 403: Forbidden
+https://s3-eu-west-1.amazonaws.com/rbi-communities/wp-content/uploads/sites/7/2014/12/Mental-Health-Spend-Briefing.pdf	HTTP Error 403: Forbidden
+http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-055296_QID_46B507D9_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;CITIZEN,L,Z,0;SEX,L,Z,1;AGE,L,Z,2;ASYL_APP,L,Z,3;UNIT,L,Z,4;INDICATORS,C,Z,5;&zSelection=DS-055296ASYL_APP,NASY_APP;DS-055296UNIT,PER;DS-055296CITIZEN,TOTAL;DS-055296INDICATORS,OBS_FLAG;DS-055296AGE,TOTAL;DS-055296SEX,T;&rankName1=UNIT_1_2_-1_2&rankName2=AGE_1_2_-1_2&rankName3=CITIZEN_1_2_-1_2&rankName4=INDICATORS_1_2_-1_2&rankName5=ASYL-APP_1_2_-1_2&rankName6=SEX_1_2_-1_2&rankName7=TIME_1_0_0_0&rankName8=GEO_1_2_0_1&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=NONE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23	argument of type 'NoneType' is not iterable
+http://www.independent.co.uk/news/uk/home-news/islamic-law-to-be-enshrined-in-british-law-as-solicitors-get-guidelines-on-sharia-compliant-wills-9210682.html	HTTP Error 404: Not Found
+https://cloud.highcharts.com/charts/asecyp	HTTP Error 403: Forbidden
+https://uk.finance.yahoo.com/news/theresa-may-accused-apos-losing-141003860.html	HTTP Error 404: Not Found
+http://calendar.parliament.uk/calendar/Commons/Main-Chamber/2016/1/19/Daily	timed out
+http://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/parentscountryofbirthenglandandwales/2015#things-you-need-to-know	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/dcp171766_387913.pdf#page=10	HTTP Error 403: Forbidden
+https://dataportal.orr.gov.uk/displayreport/report/html/920430f4-6a8d-4bb8-9762-2bf89259e346	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+http://www.ons.gov.uk/ons/rel/crime-stats/crime-statistics/year-ending-march-2015/stb-crime-march-2015.html#tab-Understanding-Crime-Statistics-	HTTP Error 403: Forbidden
+https://www.metoffice.gov.uk/climate/uk/summaries/2017/june	HTTP Error 403: Forbidden
+https://fts.unocha.org/pageloader.aspx?page=search-reporting_display&CQ=cq040216120442fPwMbsWraf	HTTP Error 404: Not Found
+http://www.telegraph.co.uk/news/health/news/12147230/Dissatisfaction-with-NHS-has-greatest-rise-in-30-years.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.The last 30x error message was: Moved Permanently
+https://www.theccc.org.uk/wp-content/uploads/2016/11/CCC-letter-to-Rt-Hon-Greg-Clark-on-UK-airport-expansion-November-2016.pdf#page=2	HTTP Error 403: Forbidden
+http://www.modern-britain.co.uk/wp-content/uploads/2013/01/CAB-Business-Case-for-Legal-Aid.pdf	HTTP Error 404: Not Found
+http://www.unhcr.org/556725e69.pdf#page=47	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/longterminternationalmigration/internationalstudentmigrationwhatdothestatisticstellus	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/bulletins/cancerregistrationstatisticsengland/final2016#main-points	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/timeseries/lgmk/pb?referrer=search&searchTerm=lgmk	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/feb2017#employment	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/researchoutputsdevelopingacrimeseverityscoreforenglandandwalesusingdataoncrimesrecordedbythepolice/2016-11-29	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/adhocs/006656balanceofpaymentsannualgeographicaldatatables	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/datasets/unemploymentbyageanddurationseasonallyadjustedunem01sa	HTTP Error 403: Forbidden
+http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-055296_QID_4A02CF71_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;CITIZEN,L,Z,0;SEX,L,Z,1;AGE,L,Z,2;ASYL_APP,L,Z,3;UNIT,L,Z,4;INDICATORS,C,Z,5;&zSelection=DS-055296ASYL_APP,ASY_APP;DS-055296UNIT,PER;DS-055296CITIZEN,TOTAL;DS-055296INDICATORS,OBS_FLAG;DS-055296AGE,TOTAL;DS-055296SEX,T;&rankName1=UNIT_1_2_-1_2&rankName2=AGE_1_2_-1_2&rankName3=CITIZEN_1_2_-1_2&rankName4=INDICATORS_1_2_-1_2&rankName5=ASYL-APP_1_2_-1_2&rankName6=SEX_1_2_-1_2&rankName7=TIME_1_0_0_0&rankName8=GEO_1_2_0_1&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=NONE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23	argument of type 'NoneType' is not iterable
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/683907/assessing-age-v1.0ext.pdf#page=9	HTTP Error 404: Not Found
+https://www.bma.org.uk/-/media/Files/PDFs/Working%20for%20change/Shaping%20healthcare/Understanding%20the%20NHS%20reforms/understandnhsreforms_choice_aqp_apr2013.pdf	HTTP Error 403: Forbidden
+http://www.independent.co.uk/news/uk/home-news/midnight-embargo-black-workers-face-widening-pay-gap-the-more-qualifications-they-earn-a6845576.html	HTTP Error 404: Not Found
+https://s3-eu-west-1.amazonaws.com/rbi-communities/wp-content/uploads/sites/7/2014/12/Mental-Health-Spend-Briefing.pdf#page=2	HTTP Error 403: Forbidden
+http://www.unrwa.org/palestine-refugees	HTTP Error 403: Forbidden
+https://iea.org.uk/oxfams-inequality-fabrications/	HTTP Error 403: Forbidden
+http://energydesk.greenpeace.org/2015/04/14/manifesto-report-conservatives-promise-to-halt-the-spread-of-onshore-windfarms/	[WinError 10054] An existing connection was forcibly closed by the remote host
+http://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/crimeinenglandandwales/yearendingjune2016	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/dcp171776_399681.pdf	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/rel/family-demography/families-and-households/2014/rft-1--families-and-households--2014.xls	HTTP Error 403: Forbidden
+https://www.metoffice.gov.uk/climate/uk/summaries/2018/july	HTTP Error 403: Forbidden
+http://press.labour.org.uk/post/164208966149/labour-launches-national-state-pension-tour-as	HTTP Error 403: Forbidden
+http://www.bankofengland.co.uk/research/Documents/workingpapers/2015/swp574.pdf#page=24	HTTP Error 404: Not Found
+http://www.publicwhip.org.uk/division.php?date=2015-07-20&number=51&showall=yes#voters	HTTP Error 403: Forbidden
+http://www.sportbusiness.com/sponsorship-insider/rules-kit-design	HTTP Error 403: Forbidden
+http://www.bankofengland.co.uk/monetarypolicy/Pages/letters.aspx	HTTP Error 404: Not Found
+https://www.theccc.org.uk/wp-content/uploads/2017/03/Energy-Prices-and-Bills-Committee-on-Climate-Change-March-2017.pdf#page=7	HTTP Error 403: Forbidden
+https://fts.unocha.org/pageloader.aspx?page=special-syriancrisis&year=2015	HTTP Error 404: Not Found
+http://www.modern-britain.co.uk/wp-content/uploads/2013/01/CAB-Business-Case-for-Legal-Aid.pdf#page=15	HTTP Error 404: Not Found
+http://icar.livingrefugeearchive.org/2010.02.18%20ICAR%20Citizenship%20Briefing.pdf#page=6	HTTP Error 404: Not Found
+http://www.unhcr.org/pages/4a16b1676.html	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/researchoutputsdevelopingacrimeseverityscoreforenglandandwalesusingdataoncrimesrecordedbythepolice/2016-11-29#introduction	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/migrationandthelabourmarketuk/2016	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/conditionsanddiseases/datasets/cancerregistrationstatisticscancerregistrationstatisticsengland	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/timeseries/lgng/ukea?referrer=search&searchTerm=lgng	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/january2018#vacancies	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/bulletins/foreigndirectinvestmentinvolvingukcompanies/2015	HTTP Error 403: Forbidden
+http://www.migrationobservatory.ox.ac.uk/resources/briefings/non-european-student-migration-to-the-uk/	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/file?uri=/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/adhocs/007098numberofworkersinfoodchainsectorsbynationalityukeuandnoneuincludingfurtherbreakdownsuk2010to2016/defraadhocaps201020132016.xls	HTTP Error 403: Forbidden
+http://press.labour.org.uk/post/116144568329/labour-announces-ten-point-plan-to-tackle-tax	HTTP Error 403: Forbidden
+http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-055296_QID_4B0CC2F8_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;CITIZEN,L,Z,0;SEX,L,Z,1;AGE,L,Z,2;ASYL_APP,L,Z,3;UNIT,L,Z,4;INDICATORS,C,Z,5;&zSelection=DS-055296ASYL_APP,NASY_APP;DS-055296UNIT,PER;DS-055296CITIZEN,SY;DS-055296INDICATORS,OBS_FLAG;DS-055296AGE,TOTAL;DS-055296SEX,T;&rankName1=UNIT_1_2_-1_2&rankName2=AGE_1_2_-1_2&rankName3=CITIZEN_1_2_-1_2&rankName4=INDICATORS_1_2_-1_2&rankName5=ASYL-APP_1_2_-1_2&rankName6=SEX_1_2_-1_2&rankName7=TIME_1_0_0_0&rankName8=GEO_1_0_0_1&sortR=ASC_-1_FIRST&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=NONE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23	argument of type 'NoneType' is not iterable
+http://www.independent.co.uk/news/uk/home-news/number-of-children-up-for-adoption-plummets-by-a-quarter-in-a-year-a6676026.html	HTTP Error 404: Not Found
+https://www.bma.org.uk/collective-voice/influence/key-negotiations/terms-and-conditions/junior-doctor-contract-negotiations	HTTP Error 403: Forbidden
+http://www2.nationalgrid.com/uk/our-company/electricity/	HTTP Error 403: Forbidden
+http://www.unrwa.org/sites/default/files/20100118154322_0.pdf#page=20	HTTP Error 403: Forbidden
+https://www.huffingtonpost.co.uk/entry/grenfell-inquiry-hears-moving_uk_5b03e69ee4b07309e05bda5d	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/dcp171776_414724.pdf	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/crimeinenglandandwales/yearendingjune2016#how-have-trends-for-individual-crime-types-changed	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/rel/migration1/long-term-international-migration/2013/table-1-01.xls	HTTP Error 403: Forbidden
+https://www.metoffice.gov.uk/climate/uk/summaries/2018/june	HTTP Error 403: Forbidden
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/535300/UK_Sport_AR16_tagged.pdf#page=9	HTTP Error 404: Not Found
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/562977/police-powers-procedures-hosb1516.pdf#page=25	HTTP Error 429: Too Many Requests
+http://www.railmagazine.com/trains/current-trains/the-pros-and-cons-of-driver-only-operation	HTTP Error 403: Forbidden
+http://www.beerandpub.com/news/buoyant-british-beer-sales-up-31-million-pints-in-q2-quarterly-beer-barometer-from-the-british-beer-pub-association	HTTP Error 403: Forbidden
+https://www.judiciary.gov.uk/wp-content/uploads/2016/07/diversity-stats-2016-tables.xls	HTTP Error 404: Not Found
+http://www.cps.gov.uk/legal/p_to_r/rape_and_sexual_offences/consent/#a03	HTTP Error 404: Not Found
+http://www.satspapers.org.uk/SATs_Papers/Phonics/2014_Phonics/Phonics%20Screening%20Check%202014%20Assessment%20Material.pdf	HTTP Error 403: Forbidden
+http://www.unhcr.org/uk/protection/basic/3b73b0d63/states-parties-1951-convention-its-1967-protocol.html	HTTP Error 403: Forbidden
+http://www.telegraph.co.uk/education/12106463/Megan-Dunn-The-student-finance-debate-the-Tories-didnt-want-us-to-have.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.The last 30x error message was: Moved Permanently
+https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/researchoutputsdevelopingacrimeseverityscoreforenglandandwalesusingdataoncrimesrecordedbythepolice/2016-11-29#methodology	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/latest#vacancies	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/bulletins/uktrade/mar2016#longer-term-perspective	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/timeseries/lgnj/ukea?referrer=search&searchTerm=lgnj	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/articles/updateoninternationalstudentmigrationstatistics/november2016	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/drugusealcoholandsmoking/bulletins/opinionsandlifestylesurveyadultdrinkinghabitsingreatbritain/2017#in-the-week-prior-to-interview-7-in-10-people-working-in-managerial-and-professional-occupations-said-they-drank-alcohol	HTTP Error 403: Forbidden
+http://www.independent.co.uk/news/uk/politics/abortion-decriminalisation-england-wales-mps-debate-parliament-a7627421.html	HTTP Error 404: Not Found
+https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/healthandsocialcare/drugusealcoholandsmoking/datasets/adultdrinkinghabits/2017/greatbritain.xls	HTTP Error 403: Forbidden
+http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-055298_QID_-111253C_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;CITIZEN,L,Z,0;SEX,L,Z,1;AGE,L,Z,2;DECISION,L,Z,3;UNIT,L,Z,4;INDICATORS,C,Z,5;&zSelection=DS-055298CITIZEN,EXT_EU28;DS-055298INDICATORS,OBS_FLAG;DS-055298UNIT,PER;DS-055298SEX,T;DS-055298DECISION,TOTAL;DS-055298AGE,TOTAL;&rankName1=UNIT_1_2_-1_2&rankName2=AGE_1_2_-1_2&rankName3=DECISION_1_2_-1_2&rankName4=CITIZEN_1_2_-1_2&rankName5=INDICATORS_1_2_-1_2&rankName6=SEX_1_2_-1_2&rankName7=TIME_1_0_0_0&rankName8=GEO_1_2_0_1&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=NONE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23	argument of type 'NoneType' is not iterable
+https://www.bma.org.uk/news/media-centre/press-releases/2016/august/bma-announces-industrial-action-after-government-refuses-to-address-junior-doctors-concerns	HTTP Error 403: Forbidden
+https://1q7dqy2unor827bqjls0c4rn-wpengine.netdna-ssl.com/wp-content/uploads/2017/01/The-Femicide-Census-Jan-2017.pdf#page=12	HTTP Error 403: Forbidden
+http://www.lbc.co.uk/ferraris-powerful-lament-as-another-soldier-dies-in-training-134137	HTTP Error 410: GONE
+http://www.itv.com/hub/eu-referendum/2a4566a0002	HTTP Error 404: Not Found
+http://www.voteleavetakecontrol.org/issues_politicians	HTTP Error 404: Not Found
+http://www.modern-britain.co.uk/wp-content/uploads/2013/01/CAB-Business-Case-for-Legal-Aid.pdf#page=16	HTTP Error 404: Not Found
+https://fts.unocha.org/pageloader.aspx?page=special-syriancrisis&year=2016	HTTP Error 404: Not Found
+http://parliamentlive.tv/event/index/ad9e3901-a717-4026-8237-53e57ae51a05?in=12:07:28	timed out
+http://parliamentlive.tv/event/index/13964bc9-a921-48db-85d7-3e6aef4f3b82?in=12:09:05	timed out
+http://parliamentlive.tv/Event/Index/13964bc9-a921-48db-85d7-3e6aef4f3b82?in=12:13:29	timed out
+http://www.eu-norway.org/eu/Financial-contribution/#.VwZ_OvkrKCj	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+http://www.ons.gov.uk/ons/dcp171778_385428.pdf#page=10	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/crimeinenglandandwales/yearendingjune2016#no-change-in-csew-sexual-offences-and-rise-in-police-recorded-offences-slowing	HTTP Error 403: Forbidden
+https://www.huffingtonpost.co.uk/entry/william-and-kates-wedding-cost_uk_5add7c90e4b075b631e733de	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/rel/migration1/population-by-country-of-birth-and-nationality/revisions-to-population-by-country-of-birth-and-nationality---calendar-years-2004-to-2013/country-of-birth-and-nationality-tables--2013.xls	HTTP Error 403: Forbidden
+https://www.metoffice.gov.uk/pub/data/weather/uk/climate/datasets/Tmax/ranked/England.txt	HTTP Error 403: Forbidden
+http://www.bankofengland.co.uk/research/Documents/workingpapers/2015/swp574.pdf#page=36	HTTP Error 404: Not Found
+http://press.labour.org.uk/post/164208966149/labour-launches-national-state-pension-tour-ashttp:/press.labour.org.uk/post/164208966149/labour-launches-national-state-pension-tour-as	HTTP Error 403: Forbidden
+http://frontex.europa.eu/news/more-than-500-000-migrants-detected-at-eu-external-borders-so-far-this-year-fGa82v	HTTP Error 404: NOT FOUND
+http://www.bankofengland.co.uk/publications/Documents/inflationreport/2014/ir14nov.pdf#page=30	HTTP Error 404: Not Found
+https://www.independent.co.uk/news/uk/crime/terror-arrests-white-people-number-home-office-ethic-group-asian-a8535551.html?utm_campaign=Echobox&utm_medium=Social&utm_source=Facebook#Echobox=1536829034	HTTP Error 404: Not Found
+http://www.uniteforoursociety.org/blog/entry/legal-aid-cuts-are-a-false-economy-denying-justice-to-620000-people/	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/october2017	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/datasets/9geographicalbreakdownofthecurrentaccountthepinkbook2016	HTTP Error 403: Forbidden
+http://www.independent.co.uk/news/uk/politics/britain-should-lose-its-eu-veto-if-david-cameron-wants-to-opt-out-of-ever-closer-union-top-merkel-ally-says-10295045.html	HTTP Error 404: Not Found
+https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/articles/researchoutputsdevelopingacrimeseverityscoreforenglandandwalesusingdataoncrimesrecordedbythepolice/2016-11-29#research-findings	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/ukpopulationbycountryofbirthandnationality/august2016#1-in-8-of-the-uk-population-was-born-abroad-and-1-in-12-has-non-british-nationality	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/healthandsocialcare/drugusealcoholandsmoking/datasets/adultdrinkinghabitsingreatbritainsupplementarydata/2017/supplementary.xls	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/drugusealcoholandsmoking/datasets/adultdrinkinghabits	HTTP Error 403: Forbidden
+http://www.migrationobservatory.ox.ac.uk/resources/briefings/who-counts-as-a-migrant-definitions-and-their-consequences/#kp1	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/timeseries/lgny/pb?referrer=search&searchTerm=lgny	HTTP Error 403: Forbidden
+http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-055890_QID_-2C0D8D82_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SEX,L,Z,0;AGE,L,Z,1;CITIZEN,L,Z,2;UNIT,L,Z,3;INDICATORS,C,Z,4;&zSelection=DS-055890INDICATORS,OBS_FLAG;DS-055890SEX,T;DS-055890CITIZEN,TOTAL;DS-055890UNIT,THS;DS-055890AGE,Y15-19;&rankName1=UNIT_1_2_-1_2&rankName2=AGE_1_2_-1_2&rankName3=CITIZEN_1_2_-1_2&rankName4=INDICATORS_1_2_-1_2&rankName5=SEX_1_2_-1_2&rankName6=TIME_1_0_0_0&rankName7=GEO_1_2_0_1&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=FIXED&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23	argument of type 'NoneType' is not iterable
+http://press.labour.org.uk/post/130135691169/speech-by-jeremy-corbyn-to-labour-party-annual	HTTP Error 403: Forbidden
+http://www.noo.org.uk/uploads/doc/vid_8575_Burdenofobesity151110MG.pdf#page=7	HTTP Error 404: Not Found
+http://www.nhsemployers.org/tchandbook/part-2-pay/section-1-pay-structure-for-england-and-wales	HTTP Error 404: Not Found
+http://www.voteleavetakecontrol.org/restoring_public_trust_in_immigration_policy_a_points_based_non_discriminatory_immigration_system	HTTP Error 404: Not Found
+https://www.bod.org.uk/an-essay-on-zionism-and-the-foundation-of-the-state-of-israel/	HTTP Error 403: Forbidden
+https://www.norway.no/contentassets/907168977f114913b2bceeffd13652a1/nou2012_2_chapter_1.pdf#page=7	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+https://fullfact.org/admin/factcheck/content/3882/\\\\FF\\Content records\\2016\\8. August\\Aiport Runways Update\\Peer Reviews\\tfl-response-to-airports-commissions-final-recommendation.pdf	HTTP Error 401: Unauthorized
+http://www.modern-britain.co.uk/wp-content/uploads/2013/01/CAB-Business-Case-for-Legal-Aid.pdf#page=42	HTTP Error 404: Not Found
+http://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/crimeinenglandandwales/yearendingjune2016#what-is-happening-to-trends-in-crime	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/dcp171778_400247.pdf#page=3	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/rel/mro/news-release/national-accounts--impact-of-esa-2010-changes-announced/nr-national-accounts--impact-of-esa-2010-changes-announced.html	HTTP Error 403: Forbidden
+https://www.mirror.co.uk/news/politics/half-nhs-staff-no-better-12251223	HTTP Error 403: Forbidden
+https://www.humanitarianresponse.info/system/files/documents/files/2015_SRP_Syria_EN_AdvanceCopy_171214.pdf	HTTP Error 403: Forbidden
+https://www.independent.co.uk/topic/terrorism	HTTP Error 404: Not Found
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/employmentbycountryofbirthandnationalityemp06	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/datasets/longterminternationalmigrationcitizenshiptable201a	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/populationestimatesforukenglandandwalesscotlandandnorthernireland/mid2001tomid2017detailedtimeseries/ukdetailedtimeseries2001to2017.zip	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/datasets/publicationtablesuktrade	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/crimeinenglandandwales/june2017#overview-of-crime	HTTP Error 403: Forbidden
+http://www.independent.co.uk/news/uk/politics/child-poverty-increases-low-income-families-tory-cuts-conservative-government-austerity-a7340466.html	HTTP Error 404: Not Found
+https://www.ons.gov.uk/peoplepopulationandcommunity/healthandsocialcare/healthandlifeexpectancies/datasets/healthstatelifeexpectancyallagesuk	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/timeseries/lgof/pb?referrer=search&searchTerm=lgof	HTTP Error 403: Forbidden
+http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-055890_QID_66742080_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SEX,L,Z,0;AGE,L,Z,1;CITIZEN,L,Z,2;UNIT,L,Z,3;INDICATORS,C,Z,4;&zSelection=DS-055890INDICATORS,OBS_FLAG;DS-055890SEX,T;DS-055890CITIZEN,TOTAL;DS-055890UNIT,THS;DS-055890AGE,Y_GE15;&rankName1=UNIT_1_2_-1_2&rankName2=AGE_1_2_-1_2&rankName3=CITIZEN_1_2_-1_2&rankName4=INDICATORS_1_2_-1_2&rankName5=SEX_1_2_-1_2&rankName6=TIME_1_0_0_0&rankName7=GEO_1_0_0_1&sortR=ASC_-1_FIRST&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=NONE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23	argument of type 'NoneType' is not iterable
+http://www.votewatch.eu/en/term8-directive-of-the-european-parliament-and-of-the-council-on-the-limitation-of-emissions-of-certain-po.html	HTTP Error 403: Forbidden
+https://www.royal.uk/wedding-princess-eugenie-york-mr-jack-brooksbank-%E2%80%93-members-public-invited-windsor-castle-grounds	HTTP Error 403: Forbidden
+https://www.norway.no/en/missions/eu/areas-of-cooperation/the-eea-agreement/	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+http://www.interights.org/jud-ind-en/index.html	<urlopen error timed out>
+https://www.jrf.org.uk/press/jrf-response-changes-child-poverty-act	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/householddisposableincomeandinequality/financialyearending2015#main-points	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/dcp171778_411032.pdf#page=1	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/rel/pop-estimate/population-estimates-for-uk--england-and-wales--scotland-and-northern-ireland/mid-2014/index.html	HTTP Error 403: Forbidden
+http://www.itv.com/hub/europe-programme/2a4566a0001	HTTP Error 404: Not Found
+https://www.mirror.co.uk/news/uk-news/princess-eugenies-wedding-taxpayers-fork-13091797	HTTP Error 403: Forbidden
+http://www.psni.police.uk/monthly_crime_bulletin_period_ending_aug_15.pdf#page=2	HTTP Error 404: Not Found
+https://www.networkrail.co.uk/who-we-are/how-we-work/performance/	HTTP Error 403: Forbidden
+http://www.modern-britain.co.uk/wp-content/uploads/2013/01/CAB-Business-Case-for-Legal-Aid.pdf#page=46	HTTP Error 404: Not Found
+http://www.bankofengland.co.uk/publications/Documents/inflationreport/2016/aug.pdf#page=52	HTTP Error 404: Not Found
+https://www.humanitarianresponse.info/system/files/documents/files/2015_SRP_Syria_EN_AdvanceCopy_171214.pdf#page=4	HTTP Error 403: Forbidden
+http://www.cps.gov.uk/news/latest_news/cps_and_police_focus_on_consent_at_first_joint_national_rape_conference/	HTTP Error 404: Not Found
+http://www.betteroffout.net/the-case/10-eu-myths-about-withdrawl/	<urlopen error [Errno 11001] getaddrinfo failed>
+https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/timeseries/l7d7	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/file?uri=/peoplepopulationandcommunity/populationandmigration/populationprojections/datasets/tablea11principalprojectionuksummary/2016based/ukpppsummary16.xls	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/employmentunemploymentandeconomicinactivityforpeopleaged16andoverandagedfrom16to64seasonallyadjusteda02sa	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/datasets/migrationstatisticsquarterlyreportprovisionallongterminternationalmigrationltimestimates	HTTP Error 403: Forbidden
+http://www.independent.co.uk/news/uk/politics/london-fire-grenfell-theresa-may-tories-accusations-fire-safety-warnings-ignored-tower-block-a7790501.html	HTTP Error 404: Not Found
+https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/householddisposableincomeandinequality/financialyearending2016#gradual-decline-in-income-inequality-over-the-last-decade	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/crimeinenglandandwales/yearendingseptember2017	HTTP Error 403: Forbidden
+http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/Commentary-Immigration_Policy_0.pdf#page=2	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/nationalaccounts/uksectoraccounts/methodologies/nationalaccounts	HTTP Error 403: Forbidden
+http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-055910_QID_-652A7005_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SEX,L,Z,0;AGE,L,Z,1;CITIZEN,L,Z,2;UNIT,L,Z,3;INDICATORS,C,Z,4;&zSelection=DS-055910AGE,Y15-64;DS-055910INDICATORS,OBS_FLAG;DS-055910UNIT,PC;DS-055910CITIZEN,TOTAL;DS-055910SEX,T;&rankName1=UNIT_1_2_-1_2&rankName2=AGE_1_2_-1_2&rankName3=CITIZEN_1_2_-1_2&rankName4=INDICATORS_1_2_-1_2&rankName5=SEX_1_2_-1_2&rankName6=TIME_1_0_0_0&rankName7=GEO_1_2_0_1&sortR=ASC_1&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=NONE&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23	argument of type 'NoneType' is not iterable
+http://press.labour.org.uk/post/130199854829/speech-by-lord-falconer-of-thoroton-to-labour	HTTP Error 403: Forbidden
+http://www.nordicwelfare.org/PageFiles/4737/LavikNordlund.pdf#page=15	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/migrationstatisticsquarterlyreport/august2016	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/dcp171778_411032.pdf#page=37	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/excesswintermortalityinenglandandwales/2015to2016provisionaland2014to2015final#causes-of-excess-winter-mortality	HTTP Error 403: Forbidden
+https://2c8kkt1ykog81j8k9p47oglb-wpengine.netdna-ssl.com/wp-content/uploads/2015/12/Supporting-Syria-and-the-Region-London-2016-Event-Concept-Note-final-20-01-16.pdf	HTTP Error 404: Not Found
+http://www.gov.scot/Resource/0048/00486516.pdf#page=11	HTTP Error 404: Not Found
+https://www.mirror.co.uk/news/uk-news/wolf-whistling-women-could-classed-12882138	HTTP Error 403: Forbidden
+https://www.icmunlimited.com/wp-content/uploads/2018/05/Voting-30thApr18_pv-only-BPC.pdf#page=9	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+https://nhsbtdbe.blob.core.windows.net/umbraco-assets-corp/11628/transplant-activity-report-2017-2018.pdf	HTTP Error 404: The specified blob does not exist.
+http://econlog.econlib.org/archives/2013/07/vegetarianism_a.html	HTTP Error 403: Forbidden
+http://www.modern-britain.co.uk/wp-content/uploads/2013/01/CAB-Business-Case-for-Legal-Aid.pdf#page=5	HTTP Error 404: Not Found
+http://www.consilium.europa.eu/en/council-eu/voting-system/qualified-majority/	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/fulltimeparttimeandtemporaryworkersseasonallyadjustedemp01sa	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/adhocs/006335annualsurveyofhoursandearningsashenumberandpercentageofemployeejobswithhourlypaybelowthelivingwagebyparliamentaryconstituencyandlocalauthorityukapril2015and2016	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/conceptionandfertilityrates/datasets/conceptionstatisticsenglandandwalesreferencetables	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/timeseries/l7px	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/theeffectsoftaxesandbenefitsonhouseholdincome/financialyearending2015	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/articles/theworkdaypopulationofenglandandwales/2013-10-31#differences-between-the-usually-resident-and-workday-populations	HTTP Error 403: Forbidden
+https://www.rcm.org.uk/news-views-and-analysis/news/act-now-to-avert-growing-crisis-in-our-maternity-services%E2%80%99-says-rcm-as	HTTP Error 500: Service unavailable (with message)
+https://www.ons.gov.uk/peoplepopulationandcommunity/crimeandjustice/bulletins/crimeinenglandandwales/yearendingseptember2017#offences-involving-weapons-recorded-by-the-police-continue-to-rise	HTTP Error 403: Forbidden
+http://appsso.eurostat.ec.europa.eu/nui/show.do?query=BOOKMARK_DS-055968_QID_-441AFCB7_UID_-3F171EB0&layout=TIME,C,X,0;GEO,L,Y,0;SEX,L,Z,0;AGE,L,Z,1;CITIZEN,L,Z,2;UNIT,L,Z,3;INDICATORS,C,Z,4;&zSelection=DS-055968CITIZEN,TOTAL;DS-055968INDICATORS,OBS_FLAG;DS-055968SEX,T;DS-055968UNIT,PC;DS-055968AGE,Y15-74;&rankName1=TIME_1_0_0_0&rankName2=UNIT_1_2_-1_2&rankName3=GEO_1_2_0_1&rankName4=AGE_1_2_-1_2&rankName5=CITIZEN_1_2_-1_2&rankName6=INDICATORS_1_2_-1_2&rankName7=SEX_1_2_-1_2&sortC=ASC_-1_FIRST&rStp=&cStp=&rDCh=&cDCh=&rDM=true&cDM=true&footnes=false&empty=false&wai=false&time_mode=ROLLING&time_most_recent=false&lang=EN&cfo=%23%23%23%2C%23%23%23.%23%23%23	argument of type 'NoneType' is not iterable
+http://www.livingwage.org.uk/news/new-real-living-wage-rates-announced-london-uk-0	HTTP Error 500: Internal Server Error
+https://www.carillionplc.com/news-and-media/2017-first-half-trading-update-strategic-review-and-management-changes/	<urlopen error timed out>
+http://assembly.coe.int/nw/xml/RoP/RoP-XML2HTML-EN.asp?id=EN_CEGCAIFG	timed out
+http://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/bulletins/excesswintermortalityinenglandandwales/2015to2016provisionaland2014to2015final#excess-winter-mortality-ewm-in-england-and-wales-falls-to-be-in-line-with-average-trends	HTTP Error 403: Forbidden
+https://www.thecrownestate.co.uk/estates-map/map	HTTP Error 404: Not Found
+http://www.bankofengland.co.uk/statistics/Pages/iadb/notesiadb/effective_exc.aspx	HTTP Error 404: Not Found
+http://www.labour.org.uk/page/-/Images/manifesto-2017/FUNDING-BRITAINS-FUTURE.PDF#page=4	HTTP Error 403: Forbidden
+https://www.networkrail.co.uk/who-we-are/how-we-work/performance/public-performance-measure/	HTTP Error 403: Forbidden
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/470540/HMRC-measuring-tax-gaps-2015-1.pdf#page=20	HTTP Error 404: Not Found
+http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/justice-committee/the-work-of-the-secretary-of-state-for-justice/oral/18738.html	HTTP Error 404: Not Found
+http://www.bankofengland.co.uk/publications/Documents/inflationreport/2016/nov.pdf#page=44	HTTP Error 404: Not Found
+https://s3.eu-west-2.amazonaws.com/manifesto2017/Manifesto2017.pdf#page=12	HTTP Error 403: Forbidden
+https://nhsbtdbe.blob.core.windows.net/umbraco-assets-corp/11628/transplant-activity-report-2017-2018.pdf#page=10	HTTP Error 404: The specified blob does not exist.
+http://www.ascl.org.uk/news-and-views/news_news-detail.funding-crisis-will-damage-education-say-nine-in-10-school-and-college-leaders.html	The read operation timed out
+http://www.modern-britain.co.uk/wp-content/uploads/2013/01/CAB-Business-Case-for-Legal-Aid.pdf#page=7	HTTP Error 404: Not Found
+http://www.consilium.europa.eu/en/council-eu/voting-system/unanimity/	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/datasets/labourmarketstatistics	HTTP Error 403: Forbidden
+http://www.migrationobservatory.ox.ac.uk/sites/files/migobs/Commentary-Immigration_Policy_0.pdf#page=3	HTTP Error 403: Forbidden
+https://easo.europa.eu/wp-content/uploads/EASO-Annual-Report-2014.pdf#page=113	HTTP Error 404: Not Found
+http://press.labour.org.uk/post/130199874314/speech-by-andy-burnham-to-labour-party-annual	HTTP Error 403: Forbidden
+https://geoportal.statistics.gov.uk/Docs/Maps/Regions_(Eng)_2011_map.pdf	hostname 'geoportal.statistics.gov.uk' doesn't match either of '*.opendata.arcgis.com', 'opendata.arcgis.com'
+https://twitter.com/RalfLittle/status/930132743811489793	HTTP Error 404: Not Found
+https://www.ons.gov.uk/peoplepopulationandcommunity/personalandhouseholdfinances/incomeandwealth/bulletins/theeffectsoftaxesandbenefitsonhouseholdincome/financialyearending2015#longer-term-trends-in-income-inequality	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/economicoutputandproductivity/productivitymeasures/bulletins/internationalcomparisonsofproductivityfirstestimates/2016#uk-productivity-shortfall-with-the-g7-stable-in-2016	HTTP Error 403: Forbidden
+http://www.unitetheunion.org/uploaded/documents/FleetSupportShips-2018-05-1411-34321.pdf#page=5	HTTP Error 404: Not Found
+http://www.elht.nhs.uk/work-for-us/staff-bank.htm	HTTP Error 404: Not Found
+https://improvement.nhs.uk/uploads/documents/1_-_Reference_costs_publication_VSnAQ5x.pdf#page=7	HTTP Error 404: Not Found
+https://rusi.org/sites/default/files/201507_bp_osbornes_summer_surprise_for_defence.pdf#page=4	HTTP Error 403: Forbidden
+http://beefandlamb.ahdb.org.uk/wp-content/uploads/2017/07/UK-Yearbook-2017-Cattle.pdf#page=17	HTTP Error 404: Not Found
+http://www.labour.org.uk/page/-/Images/manifesto-2017/Labour%20Manifesto%202017.pdf#page=45	HTTP Error 403: Forbidden
+http://www.uci.ch/mm/Document/News/Rulesandregulation/16/26/67/11-JO-20151207-E_English.pdf	HTTP Error 403: Forbidden
+http://www.lbc.co.uk/pm-accuses-junior-doctors-of-playing-politics-over-strike-136288	HTTP Error 404: NOT FOUND
+https://s3.eu-west-2.amazonaws.com/manifesto2017/Manifesto2017.pdf#page=16	HTTP Error 403: Forbidden
+https://nhsbtdbe.blob.core.windows.net/umbraco-assets-corp/11628/transplant-activity-report-2017-2018.pdf#page=124	HTTP Error 404: The specified blob does not exist.
+http://www.mydup.com/news/article/dodds-slams-selfish-irish-sea-border-solution	HTTP Error 403: Forbidden
+http://www.consilium.europa.eu/en/council-eu/voting-system/voting-calculator/	HTTP Error 403: Forbidden
+https://www.nato.int/cps/su/natohq/126169.htm	HTTP Error 403: Forbidden
+https://www.warrington.gov.uk/info/201092/business_rates/2217/changes_to_business_rates	The read operation timed out
+http://www.europarl.europa.eu/atyourservice/en/displayFtu.html?ftuId=FTU_6.5.3.html	HTTP Error 404: Not Found
+https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/may2017#how-big-is-public-sector-debt	HTTP Error 403: Forbidden
+https://www.fas.org/sgp/crs/mideast/RL33487.pdf#page=14	HTTP Error 403: Forbidden
+http://www.cps.gov.uk/publications/equality/vaw/what_is_consent.pdf	HTTP Error 404: Not Found
+http://www.energylivenews.com/2015/07/21/amber-rudd-cfds-not-expected-for-onshore-wind/	HTTP Error 403: Forbidden
+http://www.local.gov.uk/documents/10180/7632544/1+24+ASCF+state+of+the+nation+2016_WEB.pdf/e5943f2d-4dbd-41a8-b73e-da0c7209ec12#page=6	HTTP Error 404: Not Found
+https://refcom2018.refcom.ie/refcom-guide-2018-english.pdf#page=3	HTTP Error 404: Not Found
+http://www.economicshelp.org/blog/1882/economics/winners-and-losers-from-weak-pound/	HTTP Error 403: Forbidden
+http://www.labour.org.uk/page/-/Images/manifesto-2017/Labour%20Manifesto%202017.pdf#page=56	HTTP Error 403: Forbidden
+http://parliamentlive.tv/event/index/ad9e3901-a717-4026-8237-53e57ae51a05?in=12:08:26	timed out
+http://parliamentlive.tv/Event/Index/5113fea8-3d4b-4caa-a948-3ad60d093d35?in=12:48:35	timed out
+http://parliamentlive.tv/event/index/13f7429d-852b-4b0b-8182-5c50c7d4b425?in=12:31:23	timed out
+https://s3-eu-west-1.amazonaws.com/manifesto2015/ConservativeManifesto2015.pdf	HTTP Error 403: Forbidden
+https://whatukthinks.org/eu/a-question-of-wording-another-look-at-polling-on-a-second-referendum/	HTTP Error 403: Forbidden
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/470540/HMRC-measuring-tax-gaps-2015-1.pdf#page=5	HTTP Error 404: Not Found
+http://beefandlamb.ahdb.org.uk/wp-content/uploads/2017/07/UK-Yearbook-2017-Cattle.pdf#page=18	HTTP Error 404: Not Found
+http://www.bankofengland.co.uk/publications/Documents/inflationreport/2017/feb.pdf#page=4	HTTP Error 404: Not Found
+https://www.rssb.co.uk/about-rssb/governance/board-and-board-committees	HTTP Error 404: NOT FOUND
+https://s3.eu-west-2.amazonaws.com/manifesto2017/Manifesto2017.pdf#page=67	HTTP Error 403: Forbidden
+https://nhsbtdbe.blob.core.windows.net/umbraco-assets-corp/11628/transplant-activity-report-2017-2018.pdf#page=14	HTTP Error 404: The specified blob does not exist.
+http://www.consilium.europa.eu/en/policies/fight-against-terrorism/	HTTP Error 403: Forbidden
+https://www.nato.int/docu/speech/2006/s060608m.htm	HTTP Error 403: Forbidden
+http://press.labour.org.uk/post/130199952449/speech-by-lucy-powell-to-labour-party-annual	HTTP Error 403: Forbidden
+https://easo.europa.eu/wp-content/uploads/EASO-Annual-Report-2014.pdf#page=114	HTTP Error 404: Not Found
+https://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/grossdomesticproductpreliminaryestimate/jantomar2017	HTTP Error 403: Forbidden
+https://hee.nhs.uk/sites/default/files/documents/HEE%20commissioning%20and%20investment%20plan.pdf#page=4	HTTP Error 404: Not Found
+https://www.fawcettsociety.org.uk/news/campaigners-call-for-police-chiefs-to-make-misogyny-a-hate-crime-nationwide-ahead-of-key-vote	HTTP Error 403: Forbidden
+https://goo.gl/1xTPoK	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+https://www.cafcass.gov.uk/glossary/special-guardianship-order/	HTTP Error 403: Forbidden
+https://www.london.gov.uk/sites/default/files/londons_grassroots_music_venues_-_rescue_plan_-_october_2015.pdf#page=34	HTTP Error 403: Forbidden
+https://improvement.nhs.uk/uploads/documents/2017-18_and_2018-19_National_Tariff_Payment_System.pdf#page=63	HTTP Error 404: Not Found
+http://www.economicshelp.org/blog/21819/concepts/lump-of-labour-fallacy-immigration/	HTTP Error 403: Forbidden
+https://s3-eu-west-1.amazonaws.com/manifesto2015/ConservativeManifesto2015.pdf#=page74	HTTP Error 403: Forbidden
+https://whatukthinks.org/eu/questions/should-a-brexit-deal-be-reached-between-britain-and-the-eu-would-you-support-or-oppose-a-referendum-being-held-asking-the-public-whether-they-accept-or-reject-the-terms-of-the-deal/?groups[0][0]=Strongly%2Bsupport&groups[0][1]=Somewhat%2Bsupport&groups[1][3]=Somewhat%2Boppose&groups[1][4]=Strongly%2Boppose	HTTP Error 403: Forbidden
+https://www.offa.org.uk/wp-content/uploads/2017/06/OFFA-Monitoring-Outcomes-Report-2015-16-Final.pdf#page=17	<urlopen error timed out>
+https://nhsbtdbe.blob.core.windows.net/umbraco-assets-corp/11628/transplant-activity-report-2017-2018.pdf#page=144	HTTP Error 404: The specified blob does not exist.
+https://epi.org.uk/wp-content/uploads/2018/01/UIFSM-evaluation-7.compressed.pdf#page=80	HTTP Error 403: Forbidden
+https://www.london.gov.uk/sites/default/files/londons_grassroots_music_venues_-_rescue_plan_-_october_2015.pdf#page=38	HTTP Error 403: Forbidden
+https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A317DC7FBD645FB34FF8A1D2E2762A5F/S0007125017000095a.pdf/accuracy_of_the_whooley_questions_and_the_edinburgh_postnatal_depression_scale_in_identifying_depression_and_other_mental_disorders_in_early_pregnancy.pdf	HTTP Error 403: Forbidden
+https://inews.co.uk/essentials/news/health/uk-abortion-law-ending-pregnancy-result-life-imprisonment/	HTTP Error 403: Forbidden
+http://www.labour.org.uk/page/-/Images/manifesto-2017/labour-manifesto-2017.pdf#page=43	HTTP Error 403: Forbidden
+http://www.local.gov.uk/documents/10180/7991192/LGA+submission+to+the+Autumn+Statement+2016.pdf/ae76f5e3-7a8a-49a1-aeb0-67c4fcf61fef#page=21	HTTP Error 404: Not Found
+https://whatukthinks.org/eu/questions/should-there-be-a-second-referendum-on-britains-membership-of-the-eu-once-we-know-the-terms-the-government-has-negotiated/	HTTP Error 403: Forbidden
+http://www.mirror.co.uk/news/ampp3d/tax-evasion-benefit-cheats-graphs-5179901	HTTP Error 403: Forbidden
+https://s3-eu-west-1.amazonaws.com/manifesto2015/ConservativeManifesto2015.pdf#=page75	HTTP Error 403: Forbidden
+https://beta.nhs.uk/conditions/type-1-diabetes/flash-monitoring-freestyle-libre/	HTTP Error 403: Forbidden
+http://migrationobservatory.ox.ac.uk/briefings/irregular-migration-uk-definitions-pathways-and-scale	HTTP Error 403: Forbidden
+http://www.bankofengland.co.uk/publications/Documents/inflationreport/2017/nov.pdf#page=9	HTTP Error 404: Not Found
+http://www.telegraph.co.uk/news/politics/11813022/Hundreds-of-care-homes-will-close-because-of-new-national-living-wage-George-Osborne-warned.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.The last 30x error message was: Moved Permanently
+https://openeurope.org.uk/intelligence/britain-and-the-eu/open-europe-poses-ten-questions-for-the-eu-referendum-remain-and-leave-campaigns/	HTTP Error 403: Forbidden
+http://press.labour.org.uk/post/130813407194/we-will-judge-the-tories-on-actions-not-words	HTTP Error 403: Forbidden
+http://unhcr.org/556725e69.pdf#page=47	HTTP Error 403: Forbidden
+https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A317DC7FBD645FB34FF8A1D2E2762A5F/S0007125017000095a.pdf/accuracy_of_the_whooley_questions_and_the_edinburgh_postnatal_depression_scale_in_identifying_depression_and_other_mental_disorders_in_early_pregnancy.pdf#page=1	HTTP Error 403: Forbidden
+https://inews.co.uk/essentials/news/jeremy-corbyn-labour-will-write-off-graduate-debt/	HTTP Error 403: Forbidden
+https://www.gov.uk/state-pension-age	HTTP Error 429: Too Many Requests
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/539447/crime-outcomes-hosb0616.pdf#page=16	HTTP Error 429: Too Many Requests
+http://www.pssru.ac.uk/project-pages/unit-costs/2015/corrections/Excel%20version%20of%20table%2014.xlsx	HTTP Error 404: Not Found
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/483811/LT_693.xlsx	HTTP Error 404: Not Found
+https://easo.europa.eu/wp-content/uploads/EASO-Annual-Report-2014.pdf#page=128	HTTP Error 404: Not Found
+https://hee.nhs.uk/sites/default/files/documents/HEE%20commissioning%20and%20investment%20plan.pdf#page=7	HTTP Error 404: Not Found
+http://www.unitetheunion.org/uploaded/documents/FleetSupportShips-2018-05-1411-34321.pdf#page=6	HTTP Error 404: Not Found
+https://whatukthinks.org/eu/questions/to-what-extent-do-you-support-or-oppose-the-public-having-a-vote-on-the-final-deal-that-the-government-agrees-with-the-eu/?groups[0][0]=Strongly%2Bsupport&groups[0][1]=Somewhat%2Bsupport&groups[1][2]=Somewhat%2Boppose&groups[1][3]=Strongly%2Boppose	HTTP Error 403: Forbidden
+http://www.huffingtonpost.ca/2018/01/05/pregnant-mental-health_a_23324954/	HTTP Error 403: Forbidden
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/430534/cwtc_Finalised_annual_awards_2013-14.pdf#page=16	HTTP Error 404: Not Found
+https://s3-eu-west-1.amazonaws.com/manifesto2015/ConservativeManifesto2015.pdf#page=11	HTTP Error 403: Forbidden
+http://www.labour.org.uk/page/-/Images/manifesto-2017/labour-manifesto-2017.pdf#page=68	HTTP Error 403: Forbidden
+http://www.gov.scot/Resource/0052/00521199.xlsx	HTTP Error 404: Not Found
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4487251/	HTTP Error 403: Forbidden
+http://www.mirror.co.uk/news/politics/jeremy-corbyn-says-schoolchildren-packed-10267669	HTTP Error 403: Forbidden
+http://www.huffingtonpost.co.uk/2015/08/27/benefits-death-claimants-welfare-ids_n_8047424.html	HTTP Error 403: Forbidden
+https://s3-eu-west-1.amazonaws.com/manifesto2015/ConservativeManifesto2015.pdf#page=27	HTTP Error 403: Forbidden
+https://twitter.com/Danny_Harvey179/status/772057426858242049	HTTP Error 404: Not Found
+http://www.bankofengland.co.uk/publications/Documents/other/markets/apf/boeapfannualreport1606.pdf#page=2	HTTP Error 404: Not Found
+http://unhcr.org/556725e69.pdf#page=48	HTTP Error 403: Forbidden
+http://press.labour.org.uk/post/137874075649/one-in-three-families-promised-free-childcare	HTTP Error 403: Forbidden
+http://www.huffingtonpost.co.uk/diane-abbott/international-students_b_13577836.html	HTTP Error 403: Forbidden
+https://s3-eu-west-1.amazonaws.com/manifesto2015/ConservativeManifesto2015.pdf#page=29	HTTP Error 403: Forbidden
+http://www.england.nhs.uk/ourwork/qual-clin-lead/calltoaction/pm-ext-access/	HTTP Error 404: Not Found
+http://www.wzo.org.il/Mission-Statement	HTTP Error 410: Gone
+http://www.huffingtonpost.co.uk/entry/almost-a-third-of-meals-are-now-vegetarian-as-brits-cut-down-on-meat_uk_5a7ada7de4b06505b4e9bf92	HTTP Error 403: Forbidden
+http://www.mirror.co.uk/news/uk-news/conservatives-accused-of-fiddling-the-figures-on-child-1438837	HTTP Error 403: Forbidden
+https://www.teachers.org.uk/node/24849	HTTP Error 404: Not Found
+http://resources.fifa.com/mm/document/tournament/competition/51/54/30/equipmentregulations-inhalt-e_neutral.pdf#page=24	HTTP Error 403: Forbidden
+https://s3-eu-west-1.amazonaws.com/manifesto2015/ConservativeManifesto2015.pdf#page=36	HTTP Error 403: Forbidden
+http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/2014/qb14q201.pdf#page=2	HTTP Error 404: Not Found
+http://www.telegraph.co.uk/education/educationnews/11509305/British-pupils-suffer-under-influx-of-foreign-students-teachers-warn.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.The last 30x error message was: Moved Permanently
+http://ons.gov.uk/ons/publications/re-reference-tables.html?edition=tcm%3A77-376543	HTTP Error 403: Forbidden
+http://press.labour.org.uk/post/138596368264/ifs-report-leaves-iain-duncan-smiths-claims-for	HTTP Error 403: Forbidden
+http://www.huffingtonpost.co.uk/entry/great-wall-of-calais_uk_57cfb5d4e4b0ac5a02dc7eeb	HTTP Error 403: Forbidden
+http://www.disabilitynewsservice.com/information-watchdog-to-probe-dwps-secret-reviews-on-benefit-deaths/	HTTP Error 403: Forbidden
+http://www.unitetheunion.org/uploaded/documents/MagnaCartatoday11-22136.pdf#page=13	HTTP Error 404: Not Found
+http://visual.ons.gov.uk/the-challenges-of-measuring-gdp-in-the-digital-borderless-world/	HTTP Error 403: Forbidden
+http://resources.fifa.com/mm/document/tournament/competition/51/54/30/equipmentregulations-inhalt-e_neutral.pdf#page=28	HTTP Error 403: Forbidden
+http://www.mann4bassetlaw.com/john_mann_mp_reveals_massive_european_health_bill_for_uk	HTTP Error 404: Not Found
+http://www.cgapeach.co.uk/outlet-index/	HTTP Error 404: Not Found
+http://www.huffingtonpost.co.uk/entry/university-applications-fall-25000-brexit-funding-changes-ucas_uk_59672866e4b0d51cda601c56	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/economy/economicoutputandproductivity/productivitymeasures/bulletins/internationalcomparisonsofproductivityfirstestimates/2015#current-price-productivity	HTTP Error 403: Forbidden
+http://www.england.nhs.uk/ourwork/qual-clin-lead/calltoaction/pm-ext-access/about-wave-two-pilots/	HTTP Error 404: Not Found
+https://www.nice.org.uk/guidance/cg192/evidence/full-guideline-pdf-193396861#page=24	HTTP Error 404: Not Found
+http://www.mirror.co.uk/news/uk-news/experts-say-scale-george-osbornes-6880341	HTTP Error 403: Forbidden
+http://resources.fifa.com/mm/document/tournament/competition/51/54/30/equipmentregulations-inhalt-e_neutral.pdf#page=31	HTTP Error 403: Forbidden
+http://www.matribunal.com/procedure_rules.html	HTTP Error 404: Not Found
+http://www.cityam.com/217117/cameron-s-eu-renegotiation-must-free-britain-ever-closer-union	HTTP Error 403: Forbidden
+http://ons.gov.uk/ons/rel/cpi/consumer-price-indices/november-2015/index.html	HTTP Error 403: Forbidden
+http://www.huffingtonpost.co.uk/luke-springthorpe/buckingham-palace-cost_b_13119164.html	HTTP Error 403: Forbidden
+http://resources.fifa.com/mm/document/tournament/competition/51/54/30/equipmentregulations-inhalt-e_neutral.pdf#page=87	HTTP Error 403: Forbidden
+http://press.labour.org.uk/post/151053788194/jeremy-corbyn-leader-of-the-labour-party-speech	HTTP Error 403: Forbidden
+http://www.matribunal.com/values.html	HTTP Error 404: Not Found
+http://www.barristermagazine.com/archive-articles/issue-49/where-now-for-testamentary-freedom.html	HTTP Error 404: Not Found
+http://openeurope.org.uk/today/blog/how-might-the-impact-of-brexit-on-ireland-and-northern-ireland-be-managed/	HTTP Error 403: Forbidden
+http://www.huffingtonpost.com/john-bruton/united-kingdom-european-union_b_2323058.html	HTTP Error 403: Forbidden
+http://www.bankofengland.co.uk/publications/Pages/speeches/2016/916.aspx	HTTP Error 404: Not Found
+http://www.mirror.co.uk/news/uk-news/more-2500-benefit-claimants-die-6328956	HTTP Error 403: Forbidden
+https://www.politicshome.com/uk/story/46466/terms.html	HTTP Error 404: Not Found
+http://parliamentlive.tv/event/index/353f9224-e34b-4f1b-ab00-5d4c09c7a28d?in=12:11:00	timed out
+http://parliamentlive.tv/Event/Index/5a6fba45-5a5d-46d7-a1e1-3cb1ba2c3ad8?in=12:06:43	timed out
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/419595/Working_Together_to_Safeguard_Children.pdf	HTTP Error 404: Not Found
+https://www.carillionplc.com/news-and-media/update-on-discussions-with-stakeholders-trading-and-financial-covenants-deferral/	<urlopen error timed out>
+http://www.lbc.co.uk/watch-sir-michael-wilshaw-live-on-lbc-102825	HTTP Error 410: GONE
+http://wol.iza.org/commentary/opinions/we-cant-blame-the-loss-of-midlevel-jobs-purely-on-robots	HTTP Error 404: Not Found
+http://press.labour.org.uk/post/158315410419/the-tories-70bn-tax-giveaways-to-the-super-rich	HTTP Error 403: Forbidden
+http://www.lag.org.uk/media/47814/london_advice_watch_report.pdf#page=9	HTTP Error 404: Not Found
+http://www.hansardsociety.org.uk/wp-content/uploads/2014/12/The-Devil-is-in-the-Detail-exec.-summary.pdf#page=2	HTTP Error 404: Not Found
+http://www.mentalhealth.org.uk/content/assets/PDF/campaigns/MHF-Business-case-for-MH-research-Nov2010.pdf#page=3	HTTP Error 404: Not Found
+http://www.bankofengland.co.uk/publications/minutes/Documents/mpc/pdf/2016/may.pdf#page=3	HTTP Error 404: Not Found
+http://www.civitas.org.uk/pdf/ShariaLawOrOneLawForAll.pdf#page=85	HTTP Error 403: Forbidden
+http://www.bailii.org/eu/cases/ECHR/2005/681.html	HTTP Error 403: Forbidden
+https://consult.education.gov.uk/school-frameworks/schools-that-work-for-everyone/supporting_documents/SCHOOLS%20THAT%20WORK%20FOR%20EVERYONE%20%20FINAL.pdf#page=23	HTTP Error 404: Not Found
+http://news.google.com/news/url?sr=1&sa=t&ct2=uk%2F0_0_s_7_0_t&usg=AFQjCNGSAi2jSSG6dPdW4lFl1JjDppbkZQ&did=a05d1fb8f5fbf050&cid=52779044569201&ei=-du5VsjDNcWJyQPr87HgAg&rt=STORY&vm=STANDARD&url=http%3A%2F%2Fwww.independent.co.uk%2Fnews%2Fuk%2Fpolitics%2Fnhs-dissatisfaction-record-rise-satisfaction-fall-british-social-attitudes-survey-tories-david-a6862736.html	HTTP Error 404: Not Found
+http://press.labour.org.uk/post/160008381504/jonathan-ashworth-shadow-health-secretary-speech	HTTP Error 403: Forbidden
+http://www.bailii.org/ew/cases/EWCA/Civ/2002/888.html	HTTP Error 403: Forbidden
+http://www.bailii.org/ew/cases/EWCA/Crim/2005/3115.html	HTTP Error 403: Forbidden
+http://www.bankofengland.co.uk/research/Documents/workingpapers/2015/swp574.pdf	HTTP Error 404: Not Found
+http://www.unitetheunion.org/uploaded/documents/MagnaCartatoday11-22136.pdf#page=5	HTTP Error 404: Not Found
+http://www.hansardsociety.org.uk/wp-content/uploads/2014/12/The-Devil-is-in-the-Detail-exec.-summary.pdf#page=5	HTTP Error 404: Not Found
+http://www.express.co.uk/news/uk/593400/languages-spoken-British-schools	HTTP Error 404: Not Found
+http://www.telegraph.co.uk/news/worldnews/europe/eu/10164783/Ministers-to-seize-back-100-powers-from-Brussels.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.The last 30x error message was: Moved Permanently
+http://www.bailii.org/ew/cases/EWHC/QB/1983/1.html	HTTP Error 403: Forbidden
+http://press.labour.org.uk/post/160203400599/labour-will-put-10000-more-police-on-the-streets	HTTP Error 403: Forbidden
+https://www.thecrownestate.co.uk/rural-and-coastal/	HTTP Error 404: Not Found
+https://www.centreformentalhealth.org.uk/Handlers/Download.ashx?IDMF=07afd94b-92cb-4e47-8439-94cbf43548d8	HTTP Error 404: Not Found
+http://www.bailii.org/uk/cases/UKEAT/2013/0097_12_0802.html	HTTP Error 403: Forbidden
+https://www.centreformentalhealth.org.uk/Handlers/Download.ashx?IDMF=07afd94b-92cb-4e47-8439-94cbf43548d8#page=11	HTTP Error 404: Not Found
+http://www.fig-gymnastics.com/publicdir/rules/files/olympic/GA_OG_Rio_2016_Qualification_System-e.pdf#page=2	HTTP Error 404: Not Found
+https://goo.gl/aNZoFN	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+https://www.centreformentalhealth.org.uk/Handlers/Download.ashx?IDMF=07afd94b-92cb-4e47-8439-94cbf43548d8#page=13	HTTP Error 404: Not Found
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/641263/port0499.xlsx	HTTP Error 429: Too Many Requests
+http://www.fig-gymnastics.com/publicdir/rules/files/olympic/GR_OG_Rio_2016_Qualification_System-e.pdf#page=2	HTTP Error 404: Not Found
+http://www.fig-gymnastics.com/publicdir/rules/files/olympic/GT_OG_Rio_2016_Qualification_System-e.pdf#page=1	HTTP Error 404: Not Found
+http://www.duchyoflancaster.co.uk/financial/	HTTP Error 403: Forbidden
+http://labourlist.org/2016/11/the-eu-referendum-was-purely-advisory-labour-must-be-brave-and-be-prepared-to-vote-against-article-50/	HTTP Error 403: Forbidden
+http://ted.europa.eu/udl?uri=TED:NOTICE:241269-2016:TEXT:EN:HTML&tabId=1	HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.The last 30x error message was: 307
+https://www.thecrownestate.co.uk/who-we-are/our-history/history/	HTTP Error 404: Not Found
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/382787/cwtcchb-take-up2012-13_final.pdf#page=14	HTTP Error 404: Not Found
+http://www.britishchambers.org.uk/J9259%20-%20Brexit%20Principles%20Doc_V6_WEB.pdf#page=3	HTTP Error 403: Forbidden
+http://www.britishchambers.org.uk/press-office/press-releases/bcc-comments-on-theresa-may-brexit-speech-positive-ambition-%E2%80%93-now-for-the-detail.html	HTTP Error 403: Forbidden
+http://www.telegraph.co.uk/women/womens-politics/10778554/The-feisty-baroness-defending-voiceless-Muslim-women.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.The last 30x error message was: Moved Permanently
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/382787/cwtcchb-take-up2012-13_final.pdf#page=4	HTTP Error 404: Not Found
+http://leave.eu/en/the-facts/on-democracy-law	HTTP Error 404: Not Found
+http://ted.europa.eu/udl?uri=TED:NOTICE:241269-2016:TEXT:EN:HTML&tabId=1#id7190667-II.	HTTP Error 307: The HTTP server returned a redirect error that would lead to an infinite loop.The last 30x error message was: 307
+http://www.bbc.co.uk/monitoring/about-us	HTTP Error 404: Not Found
+http://www.getwestlondon.co.uk/news/west-london-news/delay-over-heathrow-third-runway-11657278	HTTP Error 403: Forbidden
+http://parliamentlive.tv/event/index/ad9e3901-a717-4026-8237-53e57ae51a05?in=12:43:00	The read operation timed out
+http://www.telegraph.co.uk/news/earth/agriculture/farming/11562234/EU-orders-Britains-organic-farmers-to-treat-sick-animals-with-homeopathy.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.The last 30x error message was: Moved Permanently
+http://www.telegraph.co.uk/news/earth/agriculture/farming/11562234/EU-orders-Britains-organic-farmers-to-treat-sick-animals-with-homeopathy.html#disqus_thread	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.The last 30x error message was: Moved Permanently
+http://www.telegraph.co.uk/news/health/news/10003680/Homeopathy-is-nonsense-says-new-chief-scientist.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.The last 30x error message was: Moved Permanently
+http://www.revenue.ie/en/tax/ct/	HTTP Error 403: ModSecurity Action
+http://europa.eu/eu-law/decision-making/legal-acts/index_en.htm	HTTP Error 404: Not Found
+http://parliamentlive.tv/Event/Index/6920028c-3dc9-46ec-9025-6b3c0aa7a027?in=12:13:40	The read operation timed out
+http://parliamentlive.tv/event/index/5113fea8-3d4b-4caa-a948-3ad60d093d35?in=12:18:08	The read operation timed out
+http://www.parliamentlive.tv/Event/Index/28c51cde-1c05-4397-bced-f0e06b95974d?in=12:11:05	The read operation timed out
+http://cdn.budgetresponsibility.org.uk/37839-OBR-Cm-8820-accessible-web-v2.pdf#page=188	HTTP Error 400: Bad Request
+http://cdn.budgetresponsibility.org.uk/ExecSummNov2016EFO.pdf	HTTP Error 400: Bad Request
+http://parliamentlive.tv/event/index/ad9e3901-a717-4026-8237-53e57ae51a05?in=12:43:00http://parliamentlive.tv/event/index/ad9e3901-a717-4026-8237-53e57ae51a05?in=12:44:21	The read operation timed out
+http://www.uksport.gov.uk/our-work/investing-in-sport/current-funding-figures	timed out
+http://parliamentlive.tv/Event/Index/6920028c-3dc9-46ec-9025-6b3c0aa7a027?in=12:14:47	The read operation timed out
+http://parliamentlive.tv/event/index/5a6fba45-5a5d-46d7-a1e1-3cb1ba2c3ad8?in=12:04:12	The read operation timed out
+http://www.parliamentlive.tv/Event/Index/ac8bdf6a-d0a5-4b63-b481-1acaa9427f7d?in=12:11:05	The read operation timed out
+http://parliamentlive.tv/event/index/afc8f66c-ce05-40a5-a3ab-b9665bc636b4?in=12:33:02	The read operation timed out
+http://www.uksport.gov.uk/our-work/investing-in-sport/historical-funding-figures	timed out
+http://parliamentlive.tv/Event/Index/9add7e38-9110-4dda-ad5e-d0824c381f3f?in=12:14:08	timed out
+http://parliamentlive.tv/event/index/5a6fba45-5a5d-46d7-a1e1-3cb1ba2c3ad8?in=12:05:59	The read operation timed out
+http://parliamentlive.tv/event/index/c30d92b2-2fdd-4726-b3bd-c20f032ac8d0?in=15:56:55	The read operation timed out
+http://parliamentlive.tv/Event/Index/afc8f66c-ce05-40a5-a3ab-b9665bc636b4?in=12:17:55	The read operation timed out
+http://parliamentlive.tv/event/index/5a6fba45-5a5d-46d7-a1e1-3cb1ba2c3ad8?in=12:08:26	The read operation timed out
+http://parliamentlive.tv/event/index/06c2eb86-a44b-4a23-8660-85e3e62ffa59?in=12:06:35	The read operation timed out
+http://parliamentlive.tv/event/index/6c20216a-6561-414d-8ad9-2d3a0036cab1?in=12:08:05	The read operation timed out
+http://parliamentlive.tv/event/index/d44a0cb8-da81-426f-ad42-6ccadbbfa814?in=12:08:20	timed out
+http://parliamentlive.tv/event/index/09118eb8-a027-4e6a-a6ae-7de9252e137b?in=12:04:50	The read operation timed out
+http://parliamentlive.tv/event/index/ea02bdf2-6876-4fd1-bf87-4368aaf21d85?in=12:08:27	timed out
+http://parliamentlive.tv/event/index/6c20216a-6561-414d-8ad9-2d3a0036cab1?in=12:08:38	The read operation timed out
+http://parliamentlive.tv/event/index/09118eb8-a027-4e6a-a6ae-7de9252e137b?in=12:05:32	timed out
+http://parliamentlive.tv/event/index/ea02bdf2-6876-4fd1-bf87-4368aaf21d85?in=12:11:31	timed out
+http://parliamentlive.tv/event/index/6c20216a-6561-414d-8ad9-2d3a0036cab1?in=12:20:08	timed out
+http://parliamentlive.tv/event/index/0b03ff8e-20ad-475d-9926-ccfbac659eef?in=12:03:03	timed out
+http://parliamentlive.tv/event/index/ea02bdf2-6876-4fd1-bf87-4368aaf21d85?in=12:12:15	timed out
+http://parliamentlive.tv/event/index/6c20216a-6561-414d-8ad9-2d3a0036cab1?in=12:20:41	timed out
+http://parliamentlive.tv/event/index/0b03ff8e-20ad-475d-9926-ccfbac659eef?in=12:03:37	The read operation timed out
+http://parliamentlive.tv/event/index/ea02bdf2-6876-4fd1-bf87-4368aaf21d85?in=12:12:53	The read operation timed out
+http://parliamentlive.tv/event/index/8864be1b-659d-4aaa-b5d9-c5d8b6d6c1f4?in=12:06:11	The read operation timed out
+http://parliamentlive.tv/event/index/13964bc9-a921-48db-85d7-3e6aef4f3b82?in=12:04:04	The read operation timed out
+http://parliamentlive.tv/event/index/ea02bdf2-6876-4fd1-bf87-4368aaf21d85?in=12:28:08	The read operation timed out
+http://parliamentlive.tv/event/index/968c0454-8a67-451e-8303-3715de963555?in=12:19:20	The read operation timed out
+http://parliamentlive.tv/event/index/13964bc9-a921-48db-85d7-3e6aef4f3b82?in=12:04:49	The read operation timed out
+http://parliamentlive.tv/event/index/9bbf17eb-702e-4495-8bd7-cf038238d8ac?in=12:08:45	The read operation timed out
+http://parliamentlive.tv/event/index/13964bc9-a921-48db-85d7-3e6aef4f3b82?in=12:05:29	timed out

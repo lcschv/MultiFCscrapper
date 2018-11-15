@@ -1,16 +1,9 @@
 import urllib.request
 import threading
-from selenium import webdriver
 import urllib.request
 import urllib.error
 from scrappers.Commons import *
-import socket
-import httplib2
-import requests
-from selenium import webdriver
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.common.exceptions import TimeoutException
+
 import urllib.request
 #Overriding class urlopener to fake user agent.
 import time
@@ -64,26 +57,18 @@ class Scrapper(object):
         # print (urls_list)
         count=0
         for  url, _ in urls_list:
-            # doc_id = document[0]
-            # url = document[1]
 
             try:
                 url = url.rstrip()
-                # url = 'https://www.google.com/search?q=python'
-                if url.endswith('.pdf') or "twitter.com" in url:
-                    if self.seed not in dict_exeptions:
-                        dict_exeptions[self.seed] = {}
-                    if url not in dict_exeptions[self.seed]:
-                        dict_exeptions[self.seed][url] = "This is a .pdf document, not HTML."
-                    continue
-                fp = urllib.request.urlopen(url, timeout=5)
+                # print(url)
+                # fp = urllib.request.urlopen(url)
+                fp = urllib.request.urlopen(url, timeout=15)
                 content_type = fp.headers.get('content-type')
                 if 'application/pdf' in content_type:
-                    if self.seed not in dict_exeptions:
-                        dict_exeptions[self.seed] = {}
-                    if url not in dict_exeptions[self.seed]:
-                        dict_exeptions[self.seed][url] = "This is a .pdf document, not HTML."
+                    content = fp.read()
+                    self.write_pdf_to_file(url, content)
                     continue
+
                 mybytes = fp.read()
 
                 mystr = mybytes
@@ -91,14 +76,22 @@ class Scrapper(object):
                 content = mystr
 
                 self.write_rawdata_tofile(url, content)
-                # print (response.read())
+            # print (response.read())
             except Exception as e:
                 if self.seed not in dict_exeptions:
                     dict_exeptions[self.seed] = {}
                 if url not in dict_exeptions[self.seed]:
-                    dict_exeptions[self.seed][url] = str(e)
+                    dict_exeptions[self.seed][url] = str(e).rstrip()
                 # self.reopen_driver()
                 continue
+
+    def write_pdf_to_file(self,url, content):
+        for claim_id in dict_url[url]:
+            check_dir_exists_and_create(self.destiny_rawdata_folder+"\\"+self.seed+"\\"+str(claim_id))
+            file_id = dict_claim[claim_id][url]
+            file_out = open(self.destiny_rawdata_folder+"\\"+self.seed+"\\"+str(claim_id)+"\\"+str(file_id)+".pdf","wb")
+            file_out.write(content)
+            file_out.close()
 
     def write_rawdata_tofile(self, url, content):
         for claim_id in dict_url[url]:
@@ -126,19 +119,22 @@ def get_dict_url(file):
     content = [x.rstrip() for x in content]
     for line in content:
         claim_id = line.split("\t")[0]
+        # print(line)
         url = line.split("\t")[1]
         if claim_id not in dict_claim:
             i=1
             dict_claim[claim_id] = {}
         if url not in dict_claim[claim_id]:
-            i+=1
             dict_claim[claim_id][url] = i
+            i+=1
 
         if url not in dict_url:
             dict_url[url] = {}
             dict_just_url[url] = 1
         if claim_id not in dict_url[url]:
             dict_url[url][claim_id] = 0
+
+
     return dict_claim, dict_url, dict_just_url
 
 
@@ -147,16 +143,15 @@ def check_dir_exists_and_create(path):
         os.mkdir(path)
 
 
-
-
 if __name__ == '__main__':
-    outlinks_files_schema = get_outlinks_files_schema("seeds\outlinks")
+    # outlinks_files_schema = get_outlinks_files_schema("seeds\outlinks")
+    outlinks_files_schema = get_outlinks_files_schema("seeds\\temp")
     for file in outlinks_files_schema:
         start_time = time.time()
         seed = file.rsplit("\\")[-1].replace(".txt","")
         dict_claim, dict_url, dict_just_url = get_dict_url(file)
         check_dir_exists_and_create("seeds\\raw_content_outlinks\\"+str(seed))
-        n_threads = 70
+        n_threads = 250
         if len(dict_claim) < n_threads:
             n_threads = round(len(dict_claim)/2)
         print ("Seed:",seed)
@@ -172,7 +167,6 @@ if __name__ == '__main__':
             i = t*batch_size
             j = (t+1)*batch_size
             dict_chunk  = (sorted(dict_just_url.items())[int(i):int(j)])
-            # print (file, len(dict_chunk))
 
             thread_vec += [myThread(t, "Thread-"+str(t), t, dict_chunk, seed)]
 

@@ -1,0 +1,5 @@
+https://www.parlament.ch/de/ratsbetrieb/suche-curia-vista/geschaeft?AffairId=20093256	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+https://www.svp.ch/kampagnen/uebersicht/selbstbestimmungsinitiative/	HTTP Error 403: Forbidden
+https://www.humanrights.ch/upload/pdf/140311_Press_release_ECHR_judgment_Howald_Moor_and_others__v_Switzerland.pdf	HTTP Error 404: Not Found
+https://www.humanrights.ch/upload/pdf/170309_Volksinitiativen_Bausatz_fuer_eine_Reform.pdf	HTTP Error 404: Not Found
+https://spillemyndigheden.dk/sites/default/files/filer-til-download/guidelines_for_operators_of_betting_and_online_casino_-_may_2018_0.pdf	HTTP Error 404: Not Found

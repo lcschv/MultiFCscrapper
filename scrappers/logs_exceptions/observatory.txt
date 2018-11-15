@@ -1,0 +1,150 @@
+http://4abpn833c0nr1zvwp7447f2b.wpengine.netdna-cdn.com/wp-content/uploads/2014/12/2011-Murder-Report.pdf	HTTP Error 403: Forbidden
+http://www.politifact.com/florida/statements/2014/oct/10/rick-scott/would-raising-minimum-wage-cost-500000-jobs/	HTTP Error 403: Forbidden
+http://www.thedailybeast.com/articles/2016/03/01/trump-used-anti-obama-riffs-against-reagan-first.html	HTTP Error 403: Forbidden
+https://www.congress.gov/bill/113th-congress/senate-bill/744	HTTP Error 403: Forbidden
+https://www.insidehighered.com/news/2016/01/25/state-support-higher-education-rises-41-percent-2016	HTTP Error 403: Forbidden
+http://www.politifact.com/ohio/statements/2012/oct/25/ted-strickland/ted-strickland-claims-john-kasich-undersold-condit/	HTTP Error 403: Forbidden
+https://www.congress.gov/bill/114th-congress/senate-bill/1383	HTTP Error 403: Forbidden
+http://ethics.wi.gov/content/standards-conduct	HTTP Error 404: NOT FOUND
+http://host.madison.com/ct/news/local/govt-and-politics/republican-wisconsin-senator-disputes-pay-to-play-allegation-regarding-lead/article_3fe9eedc-9d66-5719-b047-3d4a7bd46dbb.html	HTTP Error 451: Unavailable For Legal Reasons
+http://www.wpr.org/transportation-nonprofit-disrepair-wisconsin-roads-bridges-costs-drivers-billions	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+http://www.gabrielenvironmental.com/wisconsin-abruptly-ends-cleanup-funding-via-pecfa/	HTTP Error 403: Forbidden
+https://www.facebook.com/FriendsForVanStippen/posts/594081637431201	HTTP Error 404: Not Found
+https://www.wisconsin.edu/budget-planning/download/budget_documents/annual_budget_documents/2011-12%20Annual%20Budget.pdf	HTTP Error 404: Not Found
+https://dpi.wi.gov/sites/default/files/imce/eis/pdf/dpinr2012_58%20Annual%20Staff%20Report%20release.pdf	HTTP Error 404: Not Found
+https://law.marquette.edu/poll/2018/03/05/new-marquette-law-school-poll-finds-wisconsin-voters-divided-on-benefits-of-foxconn-deal-but-together-in-support-of-background-checks-for-gun-sales/	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+http://www.politifact.com/punditfact/statements/2018/jan/26/ronald-brownstein/did-senators-pass-immigration-reform-bills-2006-20/	HTTP Error 403: Forbidden
+http://www.chicagotribune.com/news/ct-chicago-crime-year-end-met-20150101-story.html	HTTP Error 403: Forbidden
+https://www.congress.gov/member/ted-strickland/S001004	HTTP Error 403: Forbidden
+http://www.politifact.com/truth-o-meter/article/2016/may/09/fact-checking-minimum-wage-debate/	HTTP Error 403: Forbidden
+http://www.politifact.com/truth-o-meter/statements/2014/oct/14/alison-lundergan-grimes/alison-lundergan-grimes-says-raising-minimum-wage-/	HTTP Error 403: Forbidden
+https://law.stanford.edu/directory/john-j-donohue-iii/	HTTP Error 403: Forbidden
+http://www.politifact.com/truth-o-meter/statements/2014/oct/14/mitch-mcconnell/mitch-mcconnell-says-minimum-wage-hike-would-destr/	HTTP Error 403: Forbidden
+https://www.usnews.com/info/blogs/press-room/articles/2018-02-27/iowa-is-the-best-state-in-the-us-says-2018-best-states-report	HTTP Error 403: Forbidden
+http://www.politifact.com/truth-o-meter/statements/2017/apr/25/donald-trump/illegal-immigration-lowest-17-years-trump-said/	HTTP Error 403: Forbidden
+https://www.usnews.com/news/best-states/wisconsin	HTTP Error 403: Forbidden
+http://www.politifact.com/wisconsin/statements/2011/jul/25/jennifer-shilling/wisconsin-jennifer-shilling-state-budget-cut-publi/	HTTP Error 403: Forbidden
+https://leahvukmir.com/	HTTP Error 403: Forbidden
+http://www.politifact.com/wisconsin/statements/2013/aug/11/ron-johnson/average-college-degree-takes-six-years-us-sen-ron-/	HTTP Error 403: Forbidden
+https://www.usnews.com/news/best-states/wisconsin/articles/2018-01-17/democratic-candidates-support-criminal-justice-overhaul	HTTP Error 403: Forbidden
+http://files.arnoldporter.com/advisory--the_dodd-frank_act_establishes_the_consumer_financial_protection_bureau_071510.pdf	HTTP Error 404: Not Found
+http://host.madison.com/ct/news/local/writers/jessica_vanegeren/mining-bill-author-admits-it-will-cause-environmental-harm/article_c9679d4a-8299-11e2-b886-0019bb2963f4.html	HTTP Error 451: Unavailable For Legal Reasons
+http://www.gazettextra.com/archives/retirements-in-elkhorn-schools-reflect-statewide-loss-of-educators/article_9612e184-711b-5476-9801-da9ac14d4b24.html	HTTP Error 451: Unavailable For Legal Reasons
+http://www.politifact.com/wisconsin/statements/2015/aug/27/russ-feingold/us-sen-ron-johnson-wants-no-general-federal-minimu/	HTTP Error 403: Forbidden
+http://www.politifact.com/wisconsin/statements/2017/aug/15/one-wisconsin-now/wisconsins-3-billion-offer-foxconn-gift-and-it-lar/	HTTP Error 403: Forbidden
+http://www.politifact.com/wisconsin/statements/2017/aug/25/scott-walker/scott-walker-says-pennsylvania-lost-foxconn-plant-/	HTTP Error 403: Forbidden
+http://www.politifact.com/wisconsin/statements/2017/jul/12/scott-walker/walker-tax-cuts-will-exceed-8-billion-if-budget-pr/	HTTP Error 403: Forbidden
+http://www.politifact.com/wisconsin/statements/2017/may/17/scott-walker/testing-scott-walker-claim-record-education-findin/	HTTP Error 403: Forbidden
+https://dpi.wi.gov/sites/default/files/imce/sfs/ppt/2016-WASB-PrivSchoolVouchPub.pptx	HTTP Error 404: Not Found
+http://opendatahandbook.org/guide/en/what-is-open-data/	HTTP Error 403: Forbidden
+http://docs.legis.wisconsin.gov/misc/lfb/budget/2015_17_biennial_budget/100_act_55/100_comparative_summary_of_provisions_act_55_by_agency/130_figure_11_transportation_fund_appropriations_by_category.pdf	HTTP Error 404: Not Found
+http://host.madison.com/ct/opinion/column/sen-jennifer-shilling-wisconsin-s-most-vulnerable-need-our-help/article_761f616a-4d66-598a-9fab-2767c0095b17.html	HTTP Error 451: Unavailable For Legal Reasons
+http://docs.legis.wisconsin.gov/misc/lfb/budget/2015_17_biennial_budget/100_act_55/600_2015_17_and_2017_19_general_fund_budget_7_24_15.pdf	HTTP Error 404: Not Found
+https://projects.511wi.gov/zoo-interchange-project/wp-content/uploads/sites/71/Core.pdf	HTTP Error 403: Forbidden
+http://projects.511wi.gov/	HTTP Error 403: Forbidden
+http://projects.511wi.gov/zoo-interchange-project/	HTTP Error 403: Forbidden
+http://projects.511wi.gov/zoo-interchange-project/153-2/	HTTP Error 403: Forbidden
+http://www.newsweek.com/rise-trump-357533	HTTP Error 403: Forbidden
+http://host.madison.com/wsj/news/local/education/local_schools/dpi-percent-of-statewide-voucher-students-already-enrolled-in-private/article_fc6e1559-46c7-5875-8ba6-280d58f10b49.html	HTTP Error 451: Unavailable For Legal Reasons
+https://dpi.wi.gov/sites/default/files/imce/sms/Choice/Data_and_Reports/2017-18/2017-18_MPCP_Facts_and_Figures.pdf	HTTP Error 404: Not Found
+https://www.americashealthrankings.org/learn/reports/2017-annual-report	argument of type 'NoneType' is not iterable
+http://host.madison.com/wsj/news/local/education/university/experts-disagree-on-value-of-performance-based-funding-scott-walker/article_f08d38e1-42c2-5d7e-aafe-096339a5760f.htm	HTTP Error 451: Unavailable For Legal Reasons
+https://dpi.wi.gov/sites/default/files/imce/sms/Choice/Data_and_Reports/2017-18/2017-18_MPCP_HC_FTE_by_School_and_grade_with_all_Pupils.pdf	HTTP Error 404: Not Found
+https://dpi.wi.gov/sites/default/files/imce/sms/Choice/Data_and_Reports/2017-18/2017-18_RPCP_Facts_and_Figures.pdf	HTTP Error 404: Not Found
+https://www.wisconsin.edu/reports-statistics/download/educational_statistics/informational_memoranda/rg13-14.pdf	HTTP Error 404: Not Found
+http://russfeingold.com/issue/economic-opportunity-wisconsin-families/	HTTP Error 404: Not Found
+http://host.madison.com/wsj/news/local/education/university/future-of-uw-tuition-freeze-unclear-as-scott-walker-won/article_c55ad13a-1a3a-57d5-abf8-ccfb9ba5e162.html	HTTP Error 451: Unavailable For Legal Reasons
+https://dpi.wi.gov/sites/default/files/imce/sms/Choice/Data_and_Reports/2017-18/2017-18_RPCP_HC_FTE_by_School_and_grade_with_all_Pupils.pdf	HTTP Error 404: Not Found
+http://www.tdawisconsin.org/1549/scott-walker-wants-green-light-east-west-94-project/	HTTP Error 403: Forbidden
+https://walker.wi.gov/sites/default/files/Foxconn%20MOU.pdfhttps://walker.wi.gov/sites/default/files/Foxconn%20MOU.pdf	HTTP Error 404: Not Found
+http://static.maciverinstitute.com/Tues%20K12%20Edu%20Omnibus%2051915.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.harsdorf.com	HTTP Error 404: Not Found
+https://www.wisconsingazette.com/news/politifact-walker-claims-about-wisconsin-s-infrastructure-mostly-false/article_dd184e58-0b73-11e8-a1f8-3bf0b3128113.html	HTTP Error 451: Unavailable For Legal Reasons
+http://www.tdawisconsin.org/1777/us-news-best-state-ranking-wi-roads-49/	HTTP Error 403: Forbidden
+https://dpi.wi.gov/sites/default/files/imce/sms/Choice/Data_and_Reports/2017-18/2017-18_WPCP_Facts_and_Figures.pdf	HTTP Error 404: Not Found
+https://education.illinoisstate.edu/grapevine/Grapevine_FY16_Press_Release.pdf	HTTP Error 404: Not Found
+http://host.madison.com/wsj/news/local/education/university/scott-walker-calls-for-extending-uw-tuition-freeze-in-next/article_5e4392c8-1155-56db-be4f-d92557960095.html	HTTP Error 451: Unavailable For Legal Reasons
+https://statisticalatlas.com/state-upper-legislative-district/Wisconsin/District-25/Population	HTTP Error 404: Not Found
+http://statisticalatlas.com/state-lower-legislative-district/Wisconsin/District-72/Overview	HTTP Error 404: Not Found
+http://www.wdtimes.com/news/local/article_2f0e2d2c-1b19-11e8-bd9d-3fbc666cd88d.html	HTTP Error 451: Unavailable For Legal Reasons
+https://dpi.wi.gov/sites/default/files/imce/sms/Choice/Data_and_Reports/2017-18/2017-18_WPCP_HC_FTE_by_School_and_grade_with_all_Pupils.pdf	HTTP Error 404: Not Found
+https://storify.com/LASklba/fundthefreeze	HTTP Error 403: Forbidden
+https://www.cbp.gov/sites/default/files/assets/documents/2017-Dec/BP%20Southwest%20Border%20Sector%20Apps%20FY1960%20-%20FY2017.pdf	HTTP Error 403: Forbidden
+https://everytownresearch.org/infographic-background-checks-save-lives/	HTTP Error 403: Forbidden
+http://host.madison.com/wsj/news/local/govt-and-politics/foxconn-billion-subsidy-bill-heads-to-scott-walker-s-desk/article_e2657b99-6e9b-5b6f-96fc-ac8d9c4dfa28.html	HTTP Error 451: Unavailable For Legal Reasons
+https://mahlonmitchell.com/	HTTP Error 403: Forbidden
+https://www.cbp.gov/sites/default/files/assets/documents/2017-Dec/USBP%20Stats%20FY2017%20sector%20profile.pdf	HTTP Error 403: Forbidden
+https://www.cbp.gov/sites/default/files/assets/documents/2018-Mar/cbp-snapshot-20180320.pdf	HTTP Error 403: Forbidden
+https://www.wola.org/analysis/fact-sheet-united-states-immigration-central-american-asylum-seekers/	HTTP Error 403: Forbidden
+https://dpi.wi.gov/sites/default/files/news-release/dpinr2015_103.pdf	HTTP Error 404: Not Found
+http://host.madison.com/wsj/news/local/govt-and-politics/republicans-eye-funding-for-schools-tax-cuts-minimum-wage-changes/article_9ae10f63-ea0f-5009-bb52-b0363f06b56c.html	HTTP Error 451: Unavailable For Legal Reasons
+http://host.madison.com/ct/news/local/education/university/leaving-uw-reduced-funding-politics-force-fond-faculty-to-say/article_2110b510-c271-570d-9f23-0ffbcba2c469.html	HTTP Error 451: Unavailable For Legal Reasons
+https://docs.legis.wisconsin.gov/misc/lfb/budget/2015_17_biennial_budget/100_act_55/200_comparative_summary_of_provisions_act_55.pdf	HTTP Error 404: Not Found
+http://host.madison.com/wsj/news/local/govt-and-politics/wedc-board-approves-foxconn-contract-which-includes-ceo-s-personal/article_0f45ad70-6e3b-5fc8-b65f-1fa9adcab11b.html	HTTP Error 451: Unavailable For Legal Reasons
+http://host.madison.com/ct/news/local/education/university/wisconsin-democrats-uw-tuition-freeze-great-if-scott-walker-will/article_cda09f95-898a-5826-b6f4-b49dd4d87dc5.html	HTTP Error 451: Unavailable For Legal Reasons
+https://docs.legis.wisconsin.gov/misc/lfb/budget/2015_17_biennial_budget/300_budget_papers/676_university_of_wisconsin_system_gpr_base_budget_reduction.pdf	HTTP Error 404: Not Found
+https://www.politifact.com/wisconsin/statements/2018/feb/06/scott-walker/why-scott-walker-real-terms-has-spent-less-transpo/	HTTP Error 403: Forbidden
+https://docs.legis.wisconsin.gov/misc/lfb/budget/2015_17_biennial_budget/300_budget_papers/701_veterans_affairs_veterans_trust_fund_condition_statement_and_other_related_items.pdf	HTTP Error 404: Not Found
+https://www.ronjohnson.senate.gov/public/index.cfm/search?p=search&filter=0&q=minimum%2Bwage	HTTP Error 503: Service Unavailable
+http://host.madison.com/ct/news/local/govt-and-politics/as-king-veterans-home-brings-in-money-both-parties-reallocate/article_a648dccb-be55-5446-b7cb-e076204e64d7.html	HTTP Error 451: Unavailable For Legal Reasons
+http://www.census.gov/quickfacts/table/PST045215/5526275,5560500	HTTP Error 404: Not Found
+http://dpi.wi.gov/sites/default/files/news-release/dpinr2015_103.pdf	HTTP Error 404: Not Found
+https://ucr.fbi.gov/crime-in-the-u.s/2015/crime-in-the-u.s.-2015/offenses-known-to-law-enforcement/expanded-homicide	HTTP Error 403: Forbidden
+http://host.madison.com/ct/news/local/govt-and-politics/democratic-candidates-for-wisconsin-governor-advocate-for-sweeping-criminal-justice/article_523750af-b63f-5f4c-9a18-c5eb11bb450d.html	HTTP Error 451: Unavailable For Legal Reasons
+http://www.census.gov/quickfacts/table/PST045215/5560500	HTTP Error 404: Not Found
+http://crime.chicagotribune.com/chicago/homicides	HTTP Error 403: Forbidden
+http://www.infrastructurereportcard.org/wisconsin/wisconsin-overview/	HTTP Error 404: Not Found
+https://www.biztimes.com/2017/magazines/biztimes-milwaukee/current-issue/special-reports-current-issue/piecing-together-the-foxconn-supply-chain/	HTTP Error 403: Forbidden
+http://theracquet.org/2391/news/state-senator-jennifer-shilling-visits-uwl-student-association/	HTTP Error 403: Forbidden
+http://dpi.wi.gov/sites/default/files/news-release/dpinr2015_53.pdf	HTTP Error 404: Not Found
+http://host.madison.com/ct/news/local/govt-and-politics/election-matters/meet-the-expert-witnesses-testifying-in-wisconsin-s-federal-voter/article_54acd20d-e497-59c1-94b6-ea9c84206f4c.html	HTTP Error 451: Unavailable For Legal Reasons
+https://forwardwithflynn.com/matt-flynn-statement-responding-scott-walkers-state-state-address/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.chicagotribune.com/chi-jeremy-gorner-staff.html#nt=byline	HTTP Error 403: Forbidden
+https://www.thetrace.org/2016/01/a-gun-as-a-defense-against-terrorists-the-stats-say-its-more-likely-to-harm-your-family/	HTTP Error 403: Forbidden
+https://www.biztimes.com/2018/ideas/educationworkforce-development/wage-growth-in-wisconsin-outpacing-u-s/	HTTP Error 403: Forbidden
+https://forwardwithflynn.com/meet-matt-matt-flynn-governor-wisconsin/	<urlopen error [Errno 11001] getaddrinfo failed>
+https://www.fbi.gov/services/cjis/nics	HTTP Error 403: Forbidden
+http://lacrossetribune.com/news/local/la-crosse-to-see-in-restored-state-funding-least-in/article_2db761de-1c76-546e-aaa5-3a2b1eb97d31.html	HTTP Error 451: Unavailable For Legal Reasons
+https://www.biztimes.com/2018/industries/construction/foxconn-selects-gilbane-mw-group-as-general-contractors/	HTTP Error 403: Forbidden
+http://host.madison.com/ct/news/local/govt-and-politics/election-matters/scott-walker-asks-assembly-republicans-for-specific-alternatives-to-transportation/article_94c298b5-40f0-57e6-89a0-18ff50daaf01.html	HTTP Error 451: Unavailable For Legal Reasons
+https://forwardwithflynn.com/scott-walker-misled-the-public-about-the-benefits-of-the-foxconn-deal/	<urlopen error [Errno 11002] getaddrinfo failed>
+http://lawcenter.giffords.org/gun-laws/policy-areas/background-checks/universal-background-checks/	HTTP Error 403: Forbidden
+http://www.itep.org/pdf/pb49salesex.pdf	HTTP Error 403: Forbidden
+https://www.biztimes.com/2018/industries/construction/mw%C7%80gilbane-sets-targets-for-wisconsin-hiring-on-foxconn/	HTTP Error 403: Forbidden
+http://www.chronicle.com/article/Louisianas-Governor-Seeks/190077	HTTP Error 416: Requested Range Not Satisfiable
+http://lawcenter.giffords.org/gun-laws/policy-areas/guns-in-public/guns-in-schools/	HTTP Error 403: Forbidden
+http://tomtiffany.org/economy-and-jobs/	HTTP Error 403: Forbidden
+https://www.transportation.gov/policy-initiatives/grow-america/road-and-bridge-data-state	HTTP Error 403: Forbidden
+http://host.madison.com/ct/news/local/govt-and-politics/election-matters/vos-disingenuous-for-walker-to-request-alternative-transportation-plan-from/article_d3e9f384-13fe-5c99-9376-023fe878322d.html	HTTP Error 451: Unavailable For Legal Reasons
+http://www.latimes.com/nation/la-na-border-patrol-agents-20171111-story.html	HTTP Error 403: Forbidden
+http://host.madison.com/ct/news/local/govt-and-politics/election-matters/wisconsin-assembly-rejects-background-check-bill-offers-funds-for-armed/article_db821adf-3f40-5570-8be4-bcd8e36aec68.html	HTTP Error 451: Unavailable For Legal Reasons
+https://docs.legis.wisconsin.gov/misc/lfb/misc/165_2015_16_estimated_state_support_for_school_districts_10_4_16	HTTP Error 404: Not Found
+https://www.congress.gov/bill/101st-congress/senate-bill/2070	HTTP Error 403: Forbidden
+https://www.congress.gov/bill/109th-congress/senate-bill/1033	HTTP Error 403: Forbidden
+http://www.latimes.com/nation/la-na-border-patrol-hiring-20171217-story.htmlhttp://www.latimes.com/nation/la-na-border-patrol-hiring-20171217-story.html	HTTP Error 403: Forbidden
+https://uwphi.pophealth.wisc.edu/about/staff/friedsam-donna.htm	HTTP Error 404: Not Found
+http://host.madison.com/ct/news/local/govt-and-politics/election-matters/wisconsin-budget-committee-approves-million-boost-for-k--schools/article_e80cab6a-aa78-551b-ac52-ecfe188d1061.html	HTTP Error 451: Unavailable For Legal Reasons
+http://wisconsindot.gov/Documents/about-wisdot/performance/budget/2015-17budget-final.pdf	HTTP Error 404: NOT FOUND
+http://www.wispolitics.com/index.iml?Article=326792	HTTP Error 403: Forbidden
+http://host.madison.com/ct/news/local/govt-and-politics/mayor-paul-soglin-proposes-moratorium-on-new-downtown-madison-alcohol/article_0444ada3-3f76-5e58-9440-cd6eb6fde0af.html	HTTP Error 451: Unavailable For Legal Reasons
+http://www.tripnet.org/docs/WI_Transportation_by_the_Numbers_TRIP_Report_May_2016.pdf	HTTP Error 404: Not Found
+http://wisconsindot.gov/Documents/about-wisdot/performance/budget/2017-19-biennialbudget-dept-request.pdf	HTTP Error 404: NOT FOUND
+https://wedc.org/newsroom/talent-attraction-media-kit/	HTTP Error 404: Not Found
+http://host.madison.com/ct/news/local/govt-and-politics/republican-transportation-funding-package-passed-by-joint-finance-committee/article_1655c902-20e9-11e5-961e-77384e87b118.html	HTTP Error 451: Unavailable For Legal Reasons
+http://www.wkow.com/story/33339175/2016/10/07/update-uw-regents-pass-plan-to-raise-in-state-tuition-if-freeze-is-lifted	HTTP Error 404: Not Found
+https://www.hillaryclinton.com/briefing/statements/2016/02/23/plan-to-close-guantanamo-bay/	HTTP Error 403: Forbidden
+http://www.unionleader.com/apps/pbcs.dll/article?AID=/20161015/NEWS0605/161019578&source=RSS&template=printart	HTTP Error 451: Unavailable For Legal Reasons
+https://www.ice.gov/sites/default/files/documents/Report/2017/iceEndOfYearFY2017.pdf	HTTP Error 403: Forbidden
+http://wisconsindot.gov/Documents/about-wisdot/performance/budget/trends2014-15final.pdf	HTTP Error 404: NOT FOUND
+http://www.votetoddnovak.com/biography/#1464885411972-24f24466-cc0d	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.wpr.org/budget-committee-passes-250m-cut-uw-system	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+http://www.wpr.org/listen/1005486	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+http://wisconsindot.gov/Pages/about-wisdot/newsroom/news-rel/043a-co-dtim.aspx	HTTP Error 404: Not Found
+http://www.doa.state.wi.us/Documents/DEBF/Budget/Biennial%20Budget/2015-17%20Executive%20Budget/2015-17_Executive_Budget.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.feyenforsenate.com/	HTTP Error 500: Internal Server Error
+https://www.whitehouse.gov/economy/middle-class/dodd-frank-wall-street-reform	HTTP Error 404: Not Found
+https://www.whitehouse.gov/raise-the-wage	HTTP Error 404: Not Found
+https://www.whitehouse.gov/sites/default/files/page/files/20160718_cea_student_debt.pdf	HTTP Error 404: Not Found
+http://www.asce.org/our_initiatives/	HTTP Error 404: Not Found
+https://www.doj.state.wi.us/dles/cib/firearms-unit	<urlopen error [Errno 11001] getaddrinfo failed>
+https://www.edchoice.org/school-choice/state/wisconsin/	HTTP Error 403: Forbidden

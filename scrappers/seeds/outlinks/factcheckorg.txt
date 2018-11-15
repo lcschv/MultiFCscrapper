@@ -3133,8 +3133,14 @@
 226	https://www.cnbc.com/id/18274839
 226	https://www.reuters.com/article/us-usa-stocks/dow-ends-above-23000-for-first-time-ibm-jumps-idUSKBN1CN1L4
 226	http://www.aei.org/publication/manchurian-candidate-starts-war-on-business/
+226	https://www.factcheck.org//www.nber.org/cycles/cyclesmain.html
+226	https://www.factcheck.org//news.bbc.co.uk/2/hi/business/7626624.stm
+226	https://www.factcheck.org//finance.google.com/finance/historical?cid=983582&num=30&ei=buyvVIn8N8L7rAGT4IAw
 226	http://money.cnn.com/2007/10/09/markets/markets_0500/index.htm
 226	http://www.reuters.com/article/obama-100days-numbers/factbox-obamas-first-100-days-by-the-numbers-idUSN2445471120090426
+226	https://www.factcheck.org//abcnews.go.com/Business/year-ago-today-dow-hit-bottom-recession/story?id=10046578
+226	https://www.factcheck.org//finance.google.com/finance/historical?cid=983582&num=30&ei=buyvVIn8N8L7rAGT4IAw
+226	https://www.factcheck.org//finance.google.com/finance/historical?cid=983582&startdate=Jan%2020%2C%202001&enddate=Jan%2019%2C%202009&num=30&ei=1SfuWZizFoTlmAH3wKzACw&start=1980
 226	http://www.factcheck.org/2017/10/trumps-dubious-4000-claim/
 226	http://www.sharethefacts.org/embed
 226	http://www.sharethefacts.org/
@@ -4887,6 +4893,7 @@
 386	https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/budget/fy2018/2018_blueprint.pdf
 386	https://www.factcheck.org/2017/03/refugees-and-terrorism-investigations/
 386	https://oig.justice.gov/reports/2014/s1404.pdf
+386	https://www.factcheck.org//www.washingtonpost.com/world/national-security/federal-appeals-court-maintains-suspension-of-trumps-immigration-order/2017/02/09/e8526e70-ed47-11e6-9662-6eedf1627882_story.html?utm_term=.2ffa91e0a185
 386	https://www.nytimes.com/2017/03/15/us/politics/trump-travel-ban.html?mtrref=www.google.com
 386	http://www.americanbar.org/content/dam/aba/migrated/intelprop/magazine/LandslideJan2010_Hofer.authcheckdam.pdf
 386	http://www.factcheck.org/2017/03/trump-twists-jobs-numbers/
@@ -5551,6 +5558,7 @@
 498	http://www.sharethefacts.org/
 498	http://globalnews.ca/news/1786664/hillary-clintons-saskatoon-speech-touches-on-terrorism-healthcare/
 498	http://www.mlive.com/news/grand-rapids/index.ssf/2013/03/hillary_clinton_coming_to_gran.html
+498	https://www.factcheck.org//books.google.com/books?id=PV6qZU_xev8C&q=Canada#v=snippet&q=Canada&f=false
 498	https://assets.donaldjtrump.com/Healthcare_Reform.pdf
 498	http://www.cbc.ca/news/health/surgery-wait-times-longest-in-18-years-1.1104913
 498	http://www.calgaryherald.com/news/calgary/Long+Canadian+wait+times+send+patients+south+surgery+Video/9702357/story.html

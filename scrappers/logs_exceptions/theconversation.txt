@@ -1,0 +1,127 @@
+http://conservativesforbritain.org/2016/01/12/lord-lawson-outlines-the-case-for-leaving-the-eu/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.labour.org.uk/page/-/Images/manifesto-2017/Funding%20Britain%27s%20Future.PDF	HTTP Error 403: Forbidden
+http://www.unhcr.org/54db82536.html	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/illegalimmigrantsintheuk	HTTP Error 403: Forbidden
+http://www.voteleavetakecontrol.org/rt_hon_liam_fox_mp_memories_of_green_the_cost_of_uncontrolled_migration	HTTP Error 404: Not Found
+https://www.ons.gov.uk/chartimage?uri=/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/contractsthatdonotguaranteeaminimumnumberofhours/may2017/686d148d	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/contractsthatdonotguaranteeaminimumnumberofhours/mar2017	HTTP Error 403: Forbidden
+http://www.voteleavetakecontrol.org/the_renegotiation_has_failed_to_return_powers_to_parliament	HTTP Error 404: Not Found
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/articles/contractsthatdonotguaranteeaminimumnumberofhours/may2017#what-are-the-characteristics-of-people-employed-on-zero-hours-contracts	HTTP Error 403: Forbidden
+http://www.votewatch.eu/blog/special-report-would-brexit-matter-the-uks-voting-record-in-the-council-and-the-european-parliament/	HTTP Error 403: Forbidden
+http://www.voxeu.org/article/fiscal-effects-immigration-uk	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/lowpay/apr2016	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/file?uri=/aboutus/transparencyandgovernance/freedomofinformationfoi/illegalimmigrantsintheuk/irregularmigrantsfullreport.pdf	HTTP Error 403: Forbidden
+http://www.voxeu.org/article/immigration-and-public-finances	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/file?uri=/aboutus/transparencyandgovernance/freedomofinformationfoi/illegalimmigrantsintheuk/migrantpop_in_uk.pdf	HTTP Error 403: Forbidden
+http://www.voxeu.org/article/immigration-trade-and-productivity-services	HTTP Error 403: Forbidden
+http://www.voxeu.org/article/language-barriers-impact-non-native-english-speakers-classroom	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/culturalidentity/religion/articles/religioninenglandandwales2011/2012-12-11	HTTP Error 403: Forbidden
+http://www.globalpropertyguide.com/	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/methodologies/differencesbetweeninternationalpassengersurveyandnationalinsurancenumberstatisticsasshowninthemigrationstatisticsquarterlyreport	HTTP Error 403: Forbidden
+http://www.iiea.com/ftp/Publications/IIEA%20Economic%20Governance%20Paper%204%20v2%20%281%29.pdf	HTTP Error 403: Forbidden
+http://www.cream-migration.org/files/Migration-FactSheet.pdf#page=19	[WinError 10054] An existing connection was forcibly closed by the remote host
+https://www.jcwi.org.uk/sites/jcwi/files/2017-02/2017_02_13_JCWI%20Report_Passport%20Please.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+https://www.paimages.co.uk/image-details/2.18396170	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+http://www.independent.co.uk/news/business/news/impact-of-immigration-on-native-wages-infinitesimally-small-a7545196.html	HTTP Error 404: Not Found
+http://www.independent.co.uk/news/uk/politics/chorus-of-disapprovalartists-attack-labour-over-funding-cuts-9961402.html	HTTP Error 404: Not Found
+https://www.paimages.co.uk/image-details/2.20066035	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+http://www.independent.co.uk/news/uk/politics/eu-referendum-david-cameron-isis-putin-brexit-a7033741.html	HTTP Error 404: Not Found
+http://www.independent.co.uk/news/uk/politics/nigel-farage-vladimir-putin-is-the-world-leader-i-most-admire-9224781.html	HTTP Error 404: Not Found
+http://m.hsj.co.uk/5083805.article	HTTP Error 404: Not Found
+http://www.independent.co.uk/news/uk/politics/theresa-may-s-speech-to-the-conservative-party-conference-in-full-a6681901.html	HTTP Error 404: Not Found
+http://www.russia-direct.org/qa/russia-eu-relations-still-waiting-new-shift-momentum	hostname 'www.russia-direct.org' doesn't match 'russia-direct.org'
+https://www.google.co.uk/search?q=trooping+the+colour&ie=utf-8&oe=utf-8&client=firefox-b&gfe_rd=cr&dcr=0&ei=hyUgWpPZOKmV8QeIwLqoAQ	HTTP Error 403: Forbidden
+http://www.britishchambers.org.uk/policy-maker/policy-reports-and-publications/bcc-eu-survey-business-vote-tightens-as-referendum-campaign-heads-to-the-finish-line.html	HTTP Error 403: Forbidden
+http://www.bsg.ox.ac.uk/research/working-paper-series/working-paper-005	HTTP Error 403: Forbidden
+http://ecre.org/component/content/article/70-weekly-bulletin-articles/855-operation-mare-nostrum-to-end-frontex-triton-operation-will-not-ensure-rescue-at-sea-of-migrants-in-international-waters.html	HTTP Error 403: Forbidden
+http://whatukthinks.org/eu/opinion-polls/poll-of-polls/	HTTP Error 403: Forbidden
+http://www.business-school.ed.ac.uk/blogs/news/wp-content/uploads/sites/25/2016/01/Working-Paper-Referendum-CEO-Guide-Kelly-and-MacKay-08-January-2015.pdf	HTTP Error 404: Not Found
+http://www.cambrian-news.co.uk/article.cfm?id=117494&headline=Killing%20of%20escaped%20lynx%20has%20sparked%20outrage&sectionIs=news&searchyear=2017	HTTP Error 403: Forbidden
+http://whqlibdoc.who.int/euro/pre-wholis/ICP_BSM_002%283%29.pdf	HTTP Error 302: Found
+http://www.police-foundation.org.uk/uploads/catalogerfiles/neighbourhood-policing-past-present-and-future---a-review-of-the-literature/neighbourhood_policing_past_present_future.pdf	HTTP Error 404: Not Found
+https://www.migrantsrights.org.uk/downloads/policy_reports/irregularmigrants_fullbooklet.pdf	HTTP Error 403: Forbidden
+http://www.greenpeace.org.uk/blog/peace/trident-costs-are-running-out-control-20090917	HTTP Error 404: Not Found
+http://www.libdemvoice.org/what-our-liberal-democrat-leaders-are-saying-about-the-eu-referendum-50868.html	HTTP Error 403: Forbidden
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1240569/	HTTP Error 403: Forbidden
+https://www.amnesty.org/en/articles/news/2014/10/italy-ending-mare-nostrum-search-and-rescue-operation-would-put-lives-risk/	HTTP Error 404: Not Found
+http://www.aedh.eu/The-new-European-operation-Frontex.html	HTTP Error 404: Not Found
+http://www.ons.gov.uk/economy/grossdomesticproductgdp/bulletins/quarterlynationalaccounts/latest	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/adhocs/006335annualsurveyofhoursandearningsashenumberandpercentageofemployeejobswithhourlypaybelowthelivingwagebyparliamentaryconstituencyandlocalauthorityukapril2015and2016	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/dcp171778_401896.pdf	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/dcp171778_401896.pdf%20	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/guide-method/compendiums/compendium-of-uk-statistics/population-and-migration/index.html	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/guide-method/method-quality/specific/crime-statistics-methodology/guide-to-finding-crime-statistics/police-recorded-crime/index.html	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/index.html	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/publications/re-reference-tables.html?edition=tcm%3A77-331788	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/rel/crime-stats/crime-statistics/focus-on-violent-crime-and-sexual-offences--2013-14/rpt-chapter-1.html?format=print	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/rel/itis/international-trade-in-services/2011/sty-international-trade-in-services.html	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/rel/lms/labour-market-statistics/march-2015/statistical-bulletin.html	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/rel/lms/labour-market-statistics/october-2014/sty-labour-market-statistics.html	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/rel/migration1/migration-statistics-quarterly-report/february-2015/sty-net-migration.html	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/rel/psa/maast-supplementary-data-tables/q4-2014/rft---m1-9-tables.xls	HTTP Error 403: Forbidden
+http://www.demos.co.uk/press_releases/ataleoftwoclassroomslondonresultsskewnationalpictureaseducationalinequalityontherise	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/rel/psa/public-sector-productivity-estimates--healthcare/2012/art-healthcare.html	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/ons/rel/regional-accounts/regional-gross-value-added--income-approach-/december-2014/stb-regional-gva-dec-2014.html	HTTP Error 403: Forbidden
+http://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/migrationstatisticsquarterlyreport/february2016	HTTP Error 403: Forbidden
+http://zerocarbonbritain.com/zcb-latest-report	HTTP Error 404: Category not found
+http://www.nhs.uk/Livewell/over60s/Pages/The-top-five-causes-of-premature-death.aspx	HTTP Error 403: Forbidden
+http://creativecommons.org/licenses/by-nc-nd/4.0/	HTTP Error 403: Forbidden
+http://creativecommons.org/licenses/by/4.0/	HTTP Error 403: Forbidden
+http://oxrep.oxfordjournals.org/content/29/1/25.full.pdf+html	The read operation timed out
+http://www.nhsemployers.org/your-workforce/primary-care-contacts/general-medical-services/enhanced-services/enhanced-services-201112	HTTP Error 404: Not Found
+http://press.labour.org.uk/post/114566811004/labour-announces-new-plan-to-cut-food-bank-use	HTTP Error 403: Forbidden
+http://frontex.europa.eu/news/frontex-launches-joint-operation-triton-JSYpL7	HTTP Error 404: NOT FOUND
+http://www.dmo.gov.uk/index.aspx?page=gilts/about_gilts	HTTP Error 400: Bad Request
+http://press.labour.org.uk/post/115742953344/new-figures-show-600-fewer-gp-surgeries-are-open	HTTP Error 403: Forbidden
+http://press.labour.org.uk/post/115841294434/the-fabric-of-our-country-speech-by-ed-miliband	HTTP Error 403: Forbidden
+http://www.annualreviews.org/doi/10.1146/annurev.pu.15.050194.000543	HTTP Error 403: Forbidden
+http://www.internationaljournalofcardiology.com/article/S0167-5273%2813%2902058-5/abstract	HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.The last 30x error message was: Found
+http://press.labour.org.uk/post/143435466264/alan-johnson-speech-to-the-usdaw-annual-delegate	HTTP Error 403: Forbidden
+https://www.rusi.org/downloads/assets/RUSI_Jnl_158_6_Chalmers_low_res.pdf	HTTP Error 403: Forbidden
+http://press.labour.org.uk/post/160492246769/labour-will-transform-education-for-the-many-not	HTTP Error 403: Forbidden
+http://data.london.gov.uk/dataset/chain-quarterly-reports/resource/1303b754-21fb-481f-9173-81b9fbbb9bfb	HTTP Error 502: Bad Gateway
+http://monographs.iarc.fr/ENG/Monographs/vol51/	HTTP Error 404: Not Found
+https://doi.org/10.1093/humrep/14.9.2338	The read operation timed out
+http://www.artscouncil.org.uk/media/uploads/portfolio_summaries/local_government.pdf	HTTP Error 404: Not Found
+http://blogs.channel4.com/factcheck/factcheck-farage-confused-immigration/21441	HTTP Error 404: Not Found
+http://www.northstaffslmc.co.uk/archive/News%20September%202008/Final%20Guidance%20%20Extended%20Hours%20DES%203%209%2008.pdf	HTTP Error 404: Not Found
+http://www.hscic.gov.uk/catalogue/PUB13724/nhs-staf-2003-2013-over-rep.pdf	HTTP Error 404: Not Found
+http://www.jrf.org.uk/sites/files/jrf/Welfare-conditionality-UK-Summary.pdf	HTTP Error 403: Forbidden
+http://www.hscic.gov.uk/catalogue/PUB13849/nhs-staf-2003-2013-gene-prac-rep.pdf	HTTP Error 404: Not Found
+http://www.england.nhs.uk/ourwork/qual-clin-lead/calltoaction/pm-ext-access/	HTTP Error 404: Not Found
+http://www.jstor.org/stable/2296498?&seq=1#page_scan_tab_contents	HTTP Error 403: Unauthorized
+http://hee.nhs.uk/wp-content/blogs.dir/321/files/2012/08/HEE-investing-in-people-2015.pdf	HTTP Error 404: Not Found
+http://blogs.scotland.gov.uk/coastal-monitoring/files/2014/06/Scotia-survey-pic.png	HTTP Error 404: Not Found
+http://www.migrationobservatory.ox.ac.uk/briefings/fiscal-impact-immigration-uk	HTTP Error 403: Forbidden
+http://www.migrationobservatory.ox.ac.uk/briefings/labour-market-effects-immigration	HTTP Error 403: Forbidden
+http://www.migrationobservatory.ox.ac.uk/briefings/migrants-and-housing-uk-experiences-and-impacts	HTTP Error 403: Forbidden
+http://www.hscic.gov.uk/catalogue/PUB16870/nhs-work-stat-nov-2014-pdf.pdf	HTTP Error 404: Not Found
+http://www.migrationobservatory.ox.ac.uk/resources/briefings/deportations-removals-and-voluntary-departures-from-the-uk/	HTTP Error 403: Forbidden
+http://www.migrationobservatory.ox.ac.uk/resources/briefings/irregular-migration-in-the-uk-definitions-pathways-and-scale/	HTTP Error 403: Forbidden
+http://www.hscic.gov.uk/searchcatalogue?productid=17373&returnid=1907	HTTP Error 404: Not Found
+http://www.migrationobservatory.ox.ac.uk/resources/briefings/the-labour-market-effects-of-immigration/	HTTP Error 403: Forbidden
+http://www.hscic.gov.uk/searchcatalogue?productid=17382&returnid=1907	HTTP Error 404: Not Found
+http://www.cell.com/current-biology/abstract/S0960-9822%2813%2900707-0	HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.The last 30x error message was:Found
+http://www.keepeek.com/Digital-Asset-Management/oecd/social-issues-migration-health/international-migration-outlook-2013/the-fiscal-impact-of-immigration-in-oecd-countries_migr_outlook-2013-6-en#page36	HTTP Error 403: Forbidden
+http://www.labour.org.uk/index.php/manifesto2017	HTTP Error 403: Forbidden
+http://www.chroniclelive.co.uk/news/north-east-news/337m-grant-new-metro-trains-13940460	HTTP Error 403: Forbidden
+https://theconversation.com/uk-factcheck@theconversation.com	HTTP Error 404: Not Found
+http://www.financialexpress.com/industry/eu-slaps-china-with-new-steel-anti-dumping-duties/710666/	HTTP Error 403: Forbidden
+http://www.bankofengland.co.uk/research/Documents/workingpapers/2015/swp574.pdf	HTTP Error 404: Not Found
+https://www.greentechmedia.com/articles/read/what-country-will-become-the-first-to-ban-internal-combustion-cars	HTTP Error 403: Forbidden
+https://www.hesa.ac.uk/hesa-latest-news/313-statistics/statistics-content/2832-npd-ilr-hesa	HTTP Error 403: Forbidden
+https://www.compas.ox.ac.uk/project/undocumented-migrant-children-in-the-uk/	HTTP Error 403: Forbidden
+http://budgetresponsibility.org.uk/forecast-evaluation-report-october-2014/	[WinError 10054] An existing connection was forcibly closed by the remote host
+http://www.consilium.europa.eu/register/en/content/out/?RESULTSET=1&DOC_SUBJECT=PV%20CONS&i=MING&ROWSPP=25&DOC_LANCD=EN&ORDERBY=ARCHIVEDATE%20DESC&typ=SET&NRROWS=500&DOC_YEAR=2016	HTTP Error 403: Forbidden
+http://news.scotland.gov.uk/Speeches-Briefings/First-Minister-Beyond-the-Budget-174c.aspx	HTTP Error 404: Not Found
+https://www.yorkshirepost.co.uk/news/national/1-7bn-to-boost-transport-links-between-city-centres-and-struggling-suburbs-1-8866458	HTTP Error 404: Not Found
+https://people.exeter.ac.uk/TWDavies/energy_conversion/Calculation%20of%20CO2%20emissions%20from%20fuels.htm	<urlopen error EOF occurred in violation of protocol (_ssl.c:833)>
+http://www.transatlanticacademy.org/sites/default/files/publications/Speck_WestResponseUkraine_Apr16_web.pdf	<urlopen error timed out>
+http://shop.bsigroup.com/ProductDetail/?pid=000000000030268793	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+https://cot.food.gov.uk/sites/default/files/finalacrylamidestatement.pdf	HTTP Error 403: Forbidden
+https://d9y2r2msyxru0.cloudfront.net/sites/default/files/resources/RoyalColl_textwithcover_lr_dps.pdf	HTTP Error 403: Forbidden
+http://www.bbc.co.uk/programmes/b05p	HTTP Error 404: Not Found
+http://cep.lse.ac.uk/conference_papers/15b_11_2011/CEP_Report_UK_Business_15112011.pdf%20for%20some%20reasons	HTTP Error 404: Not Found
+http://www.unhcr.org/5440ffa16.html	HTTP Error 403: Forbidden
+http://www.unhcr.org/54da0a976.html	HTTP Error 403: Forbidden
+http://visual.ons.gov.uk/how-many-jobs-are-paid-less-than-the-living-wage-in-your-area/	HTTP Error 403: Forbidden

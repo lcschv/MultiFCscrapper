@@ -1,0 +1,6 @@
+https://www.hrc.co.nz/your-rights/indigenous-rights/your-rights/maori-language-history/	HTTP Error 403: Forbidden
+https://www.budget.govt.nz/budget/2017/family-incomes-calculator/index.htm	HTTP Error 404: Not Found
+https://www.parliament.nz/en/pb/hansard-debates/rhr/combined/HansDeb_20170726_20170726_08	HTTP Error 403: ModSecurity Action
+http://www.stats.govt.nz/~/media/Statistics/browse-categories/people-and-communities/crime-justice/crime-in-nz-96-05/crime-in-nz-96-05.pdf.	HTTP Error 404: Not Found
+https://www.msd.govt.nz/about-msd-and-our-work/publications-resources/monitoring/household-incomes/	HTTP Error 400: Bad Request
+http://www.treasury.govt.nz/government/longterm/fiscalposition/2013/affordingourfuture/25.htm/#ref93	HTTP Error 404: Not Found

@@ -1,0 +1,48 @@
+http://adl.brs.gov.au/data/warehouse/pe_abares99001762/ACS_2010.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.acoss.org.au/media/release/onshore_processing_affordable_and_effective_solution_for_asylum_seekers	HTTP Error 403: Forbidden
+http://www.change.org/en-AU/petitions/the-liberal-party-of-australia-reconsider-your-plan-for-a-fttn-nbn-in-favour-of-a-superior-ftth-nbn	HTTP Error 403: Forbidden
+http://expertpanelonasylumseekers.dpmc.gov.au/sites/default/files/report/expert_panel_on_asylum_seekers_full_report.pdf	<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+http://www.heraldsun.com.au/news/victoria/hipsters-help-cathy-mcgowan-beat-sophie-mirabella-in-rural-seat-of-indi/story-fni0fit3-1226724477760	HTTP Error 403: Forbidden
+http://www.scholarsstrategynetwork.org/sites/default/files/skocpol_captrade_report_january_2013y.pdf	HTTP Error 403: Forbidden
+http://www.news.com.au/news/per-cent-of-queensland-covered-by-mining-licenses/story-fna7dq6e-1225753812137#ixzz2SZrTdMcN	HTTP Error 403: Forbidden
+http://www.theaustralian.com.au/opinion/columnists/the-real-story-behind-the-gonski-train-wreck/story-e6frg74x-1226774531284#	HTTP Error 403: Forbidden
+http://www.kevinrudd.org.au/latest2_060813	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.theaustralian.com.au/opinion/cut-paste/well-spare-you-the-latin-but-who-fact-checks-the-fact-checkers-cut-and-paste-thats-who/story-fn72xczz-1226647212225	HTTP Error 403: Forbidden
+http://www.guttmacher.org/pubs/journals/25s3099.html	HTTP Error 403: Forbidden
+https://twitter.com/corybernardi/statuses/366756169705988098	HTTP Error 404: Not Found
+http://sussanley.com/top-5-things-you-need-to-know-about-childcare-ratings/	HTTP Error 404: Not Found
+http://www.deloitteaccesseconomics.com.au/	HTTP Error 403: Forbidden
+http://www.ausaid.gov.au/countries/eastasia/indonesia/Pages/economic-growth.aspx	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.liberal.org.au/latest-news/2013/08/30/coalitions-policy-new-colombo-plan	HTTP Error 403: Forbidden
+http://www.kevinrudd.org.au/latest2_120813	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.guttmacher.org/pubs/journals/3708411.pdf	HTTP Error 403: Forbidden
+http://www.malcolmturnbull.com.au/media/our-nbn-policy#.UoWs5pGe4kk	HTTP Error 403: Forbidden
+https://www.corybernardi.com/2013/10/02/ticking-wrong-boxes/	HTTP Error 404: Not Found
+http://www.heraldsun.com.au/news/victoria/childcare-fees-rising-seven-times-faster-than-inflation/story-e6frf7kx-1226504264183	HTTP Error 403: Forbidden
+http://www.politifact.com/truth-o-meter/article/2009/dec/18/politifact-lie-year-death-panels/	HTTP Error 403: Forbidden
+http://www.couriermail.com.au/news/national/row-brews-over-15000-coffee-perk/story-fndo1uez-1226449610775	HTTP Error 403: Forbidden
+http://mattcowgill.wordpress.com/2013/05/13/what-is-the-typical-australians-income-in-2013/	HTTP Error 404: Not Found
+http://www.la.org.au/opinion/160813/indi-beware-cathy-mcgowan-deceiver	HTTP Error 404: Not Found
+http://www.boardofstudies.nsw.edu.au/syllabus_hsc/pdf_doc/journey_stimulus_06_07.pdf	HTTP Error 403: Forbidden
+http://www.politifact.com/truth-o-meter/statements/2012/jan/08/rick-perry/rick-perry-says-barack-obama-socialist/	HTTP Error 403: Forbidden
+http://www.crikey.com.au/2013/10/16/carbon-price-repeal-coalition-sends-out-the-accc-cops/	HTTP Error 403: Forbidden
+http://mines.industry.qld.gov.au/assets/land-tenure-pdf/factsheet-mineral-exploration-laws-explained.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.bobkatterbook.com.au/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.politifact.com/truth-o-meter/statements/2013/jan/31/stephen-king/stephen-king-says-australia-cracked-down-guns-homi/	HTTP Error 403: Forbidden
+http://www.daff.gov.au/__data/assets/pdf_file/0007/2269762/daff-foodstats-2011-12.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+http://mines.industry.qld.gov.au/geoscience/interactive-resource-tenure-maps.htm	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.theaustralian.com.au/business/retail-giants-agree-to-play-fair-on-food/story-e6frg8zx-1226762146296	HTTP Error 403: Forbidden
+http://www.epa.gov/captrade/faqs.html	HTTP Error 404: Not Found
+http://www.theaustralian.com.au/national-affairs/darling-downs-farmers-get-dirty-over-invasion/story-fn59niix-1226127861817	HTTP Error 403: Forbidden
+http://www.theaustralian.com.au/national-affairs/immigration/lost-at-sea-37-of-3237-boatpeople-had-passports/story-fn9hm1gu-1226256747251	HTTP Error 403: Forbidden
+http://www.openreach.co.uk/orpg/home/updates/briefings/super-fastfibreaccessbriefings/super-fastfibreaccessbriefingsarticles/nga00713.do	HTTP Error 404: Not Found
+http://www.epa.gov/captrade/programs.html	HTTP Error 404: Not Found
+https://docs.google.com/file/d/0B-evCPOh6jvFaXV0N1dDWEktNWc/edit?usp=sharing	HTTP Error 404: Not Found
+http://grattan.edu.au/static/files/assets/abf7f66f/521_public_seminar_hunt_speech_outline_130716.pdf	HTTP Error 404: Not Found
+http://www.minister.immi.gov.au/media/media-releases/2008/ce08014.htm	HTTP Error 404: NOT FOUND
+https://docs.google.com/file/d/0B2lUnO5vnwO3a19TdGhHWFNiQlE/edit?usp=sharing	HTTP Error 404: Not Found
+http://www.liberal.org.au/latest-news/2013/05/13/tony-abbott-transcript-joint-press-conference-parliament-house-canberra	HTTP Error 403: Forbidden
+https://www.qrc.org.au/_dbase_upl/PolicySeries_April_final_web.pdf	HTTP Error 404: Not Found
+http://www.dfat.gov.au/geo/fs/chin.pdf	HTTP Error 404: Not Found
+http://www.news.com.au/national-news/sophie-mirabella-concedes-defeat-independent-cathy-mcgowan-new-member-for-indi/story-fncynjr2-1226721815551	HTTP Error 403: Forbidden
+http://www.dfat.gov.au/issues/rra-png.pdf	HTTP Error 404: Not Found

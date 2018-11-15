@@ -55,6 +55,7 @@
 88	http://www.acecqa.gov.au/
 92	http://www.boardofstudies.nsw.edu.au/syllabus_hsc/pdf_doc/journey_stimulus_06_07.pdf
 96	http://www.oecd.org/regreform/policyconference/46312788.pdf
+97	https://pandora.nla.gov.au/external.html?link=mailto:mkoziol@politifact.com.au
 98	http://grattan.edu.au/static/files/assets/abf7f66f/521_public_seminar_hunt_speech_outline_130716.pdf
 98	http://www.epa.gov/captrade/faqs.html
 98	http://www.scholarsstrategynetwork.org/sites/default/files/skocpol_captrade_report_january_2013y.pdf
@@ -76,6 +77,7 @@
 153	http://www.abc.net.au/news/2013-06-05/government-faces-election-angst-and-security-issues/4736022?section=act
 153	http://www.theaustralian.com.au/national-affairs/immigration/lost-at-sea-37-of-3237-boatpeople-had-passports/story-fn9hm1gu-1226256747251
 153	http://www.aph.gov.au/Parliamentary_Business/Committees/Senate_Committees?url=legcon_ctte/estimates/sup_1112/diac/SE11-0234.pdf
+165	https://pandora.nla.gov.au/external.html?link=mailto:pleasecheck@politifact.com.au?subject=Please%20Check%3A
 165	http://www.aph.gov.au/Parliamentary_Business/Committees/Senate_Committees?url=electricityprices_ctte/electricityprices/report/index.htm
 169	http://www.budget.gov.au/2013-14/content/bp1/download/bp1_bs9.pdf
 174	http://www.agforceqld.org.au/file.php?id=1285&open=yes

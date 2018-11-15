@@ -1,0 +1,36 @@
+http://bigstory.ap.org/article/nc-house-speaker-tested-first-senate-debate	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.texaspolicy.com/sites/default/files/documents/2014-01-PP06-OverviewLocalEconomicDevelopmentPoliciesinTexas-CLG-JessFields.pdf	HTTP Error 404: Not Found
+http://www.acaa-usa.org/About-ACAA	[WinError 10054] An existing connection was forcibly closed by the remote host
+http://www.usnews.com/news/blogs/data-mine/2014/08/26/how-far-could-elizabeth-warrens-student-loan-refinance-bill-go	HTTP Error 403: Forbidden
+http://www.aecom.com/News/Sustainability/_featuredStories/Dr.+Lisa+Bradley+Elected+to+ACAA+Executive+Committee	HTTP Error 404: Not Found
+http://www.bls.gov/lau/ststdsadata.txt	HTTP Error 404: Not Found
+http://economics.columbian.gwu.edu/tara-m-sinclair	HTTP Error 403: Forbidden
+http://www.cbpp.org/cms/?fa=view&id=3164	HTTP Error 403: Forbidden
+http://www.charlotteobserver.com/2013/09/23/4337825/gop-senate-candidates-push-defunding.html#.U-zYnPldXff	HTTP Error 404: Not Found
+http://www.charlotteobserver.com/2013/11/12/4460367/nc-commerce-chief-jobless-people.html#.UtRac_RDvfc	HTTP Error 404: Not Found
+http://www.charlotteobserver.com/2014/02/01/4656685/tillis-senate-bid-walks-tightrope.html#.U-zY2vldXff	HTTP Error 404: Not Found
+http://nicholas.duke.edu/news/new-tracers-can-identify-coal-ash-contamination-water	HTTP Error 404: Not Found
+http://online.wsj.com/news/articles/SB10001424052702304704504579432961053293826	HTTP Error 404: Not Found
+http://slaviceurasian.duke.edu/people?subpage=profile&Gurl=/aas/Slavics&Uil=mnewcity	HTTP Error 404: Not Found
+http://www.epri.com/About-Us/Pages/Our-Business.aspx	HTTP Error 404: Not Found
+http://thomtillis.com/harry-reid-spends-736882-in-nc-to-attack-thom-tillis-double-down-on-obamacare/	HTTP Error 404: Not Found
+http://thomtillis.com/meet-thom/	HTTP Error 404: Not Found
+http://thomtillis.com/tag/medicare/	HTTP Error 404: Not Found
+http://thomtillis.com/tillis-we-must-defund-obamacare-now/	HTTP Error 404: Not Found
+http://www.nea.org/assets/docs/2016_NEA_Rankings_And_Estimates.pdf	<urlopen error timed out>
+http://www.greensboro.com/lab-starts-work-on-rape-kit-backlog-the-growing-state/article_394067fa-571a-5ad6-a15b-dd4c9b250906.html	HTTP Error 451: Unavailable For Legal Reasons
+http://www.huffingtonpost.com/2014/05/19/trade-fracking_n_5340420.html	HTTP Error 403: Forbidden
+http://www.newsobserver.com/2014/06/11/3927809_republican-senators-block-studen.html?rh=1	HTTP Error 404: Not Found
+http://wncn.com/2014/03/25/mccrory-counsel-cooper-has-politicized-coal-ash/	HTTP Error 404: Not Found
+http://www.nato.int/cps/en/natolive/opinions_111132.htm	HTTP Error 403: Forbidden
+http://www.opensecrets.org/news/2013/09/a-story-on-politicos-website.html	HTTP Error 403: Forbidden
+http://www.pendletonfinancial.com/	HTTP Error 403: Forbidden
+http://www.politifact.com/florida/statements/2013/jul/16/kathleen-ford/kathleen-ford-says-private-prisons-use-third-grade/	HTTP Error 403: Forbidden
+http://www.politifact.com/north-carolina/statements/2016/mar/28/pat-mccrory/gov-pat-mccrory-no-title-ix-threat-billions-federa/	HTTP Error 403: Forbidden
+http://www.politifact.com/truth-o-meter/statements/2014/feb/14/patriot-majority-usa/demcratic-group-says-nc-republican-senate-hopeful-/	HTTP Error 403: Forbidden
+http://www.richmond.com/news/virginia/article_b45017ab-267a-5234-9e91-5c8b8088d6bf.html	HTTP Error 451: Unavailable For Legal Reasons
+http://www.ncesc1.com/main/faqmain.asp#UIBenefits	<urlopen error timed out>
+https://web.uncg.edu/bae/documents/cber/article0V67wIvI7f.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+https://www.facebook.com/ThomTillisNC/posts/432155446894336	HTTP Error 404: Not Found
+https://www.ncsbe.gov/Voter-Information/VR-FAQ	HTTP Error 403: Forbidden
+https://www.texasattorneygeneral.gov/AG_Publications/pdfs/pia_easy.pdf	HTTP Error 404: Not Found

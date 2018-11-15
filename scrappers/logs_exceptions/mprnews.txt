@@ -1,0 +1,109 @@
+http://blogs.mprnews.org/capitol-view/2014/09/poligraph-petersons-planes-trains-and-automobiles/	HTTP Error 403: Forbidden
+http://publicradio1-wpengine.netdna-ssl.com/capitol-view/files/2013/08/poligraph-misleading.gif	HTTP Error 403: Forbidden
+http://www.startribune.com/politics/national/207813661.html	HTTP Error 403: Forbidden
+http://competemn.com/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://blogs.mprnews.org/capitol-view/2015/01/poligraph-is-education-spending-going-up-or-down/	HTTP Error 403: Forbidden
+http://www.startribune.com/politics/national/207889821.html	HTTP Error 403: Forbidden
+http://www.startribune.com/politics/national/238733121.html	HTTP Error 403: Forbidden
+http://publicradio1-wpengine.netdna-ssl.com/capitol-view/files/2013/11/poligraph-misleading.gif	HTTP Error 403: Forbidden
+http://www.startribune.com/politics/national/250840121.html	HTTP Error 403: Forbidden
+http://blogs.mprnews.org/capitol-view/2015/01/poligraph-minnesotas-child-care-costs/	HTTP Error 403: Forbidden
+http://www.startribune.com/politics/statelocal/215116641.html	HTTP Error 403: Forbidden
+http://blogs.mprnews.org/capitol-view/2015/02/cigarette-tax-back-in-the-spotlight/	HTTP Error 403: Forbidden
+http://m.startribune.com/politics/statelocal/208250991.html	HTTP Error 403: Forbidden
+http://blogs.mprnews.org/capitol-view/2015/02/dayton-defends-pay-hikes-for-his-cabinet/	HTTP Error 403: Forbidden
+http://blogs.mprnews.org/capitol-view/2015/02/dayton-salary-hikes-for-cabinet-are-important/	HTTP Error 403: Forbidden
+http://mycmag.kantarmediana.com/KMIcmagvidbin2/HOUSE_MN07_DCCC_SOME_POLITICIANS.mov	HTTP Error 404: Not Found
+http://www.opensecrets.org/news/2010/08/congress-vehicles/	HTTP Error 403: Forbidden
+http://blogs.mprnews.org/capitol-view/2015/02/dflers-pitch-plan-to-boost-rural-economy/	HTTP Error 403: Forbidden
+http://www.nationaljournal.com/reporters/bio/121	HTTP Error 404: Not Found
+http://m.whitehouse.gov/sites/default/files/docs/uireport-2013-12-4.pdf	HTTP Error 404: Not Found
+http://blogs.mprnews.org/capitol-view/2015/02/poligraph-commissioner-pay-explained/	HTTP Error 403: Forbidden
+https://www.census.gov/govs/local/	HTTP Error 404: Not Found
+http://blogs.mprnews.org/capitol-view/2015/03/house-gop-budget-plan-cuts-taxes-spending/	HTTP Error 403: Forbidden
+http://sunthisweek.com/2014/04/10/lakeville-area-school-district-superintendent-snyders-contract-renewed/	HTTP Error 451: Unavailable For Legal Reasons
+http://mn.gov/admin/images/LOB_Legislative_Office_Building_Statement_of_Project_Concept.pdf	HTTP Error 404: Not Found
+http://blogs.mprnews.org/capitol-view/2015/03/poligraph-claims-about-the-budget-surplus/	HTTP Error 403: Forbidden
+https://www.dli.mn.gov/LS/Pdf/minwage.pdf	HTTP Error 404: Not Found
+http://blogs.mprnews.org/capitol-view/2015/04/revised-hhs-budget-banks-bigger-cuts/	HTTP Error 403: Forbidden
+http://www.census.gov/population/cencounts/mn190090.txt	HTTP Error 404: Not Found
+http://www.house.leg.state.mn.us/members/pressrelease.asp?party=2&pressid=7422&memid=15363	HTTP Error 500: Internal Server Error
+http://blogs.mprnews.org/capitol-view/2015/05/lawmakers-support-turkey-industry-with-cookout/	HTTP Error 403: Forbidden
+http://democrats.waysandmeans.house.gov/ecall-extend-unemployment-insurance	HTTP Error 404: Not Found
+http://blogs.mprnews.org/capitol-view/2015/06/otto-likely-to-take-auditor-change-to-court/	HTTP Error 403: Forbidden
+http://www.schumer.senate.gov/Newsroom/record.cfm?id=336270	HTTP Error 503: Service Unavailable
+http://www.house.leg.state.mn.us/members/pressrelease.asp?pressid=7564&party=2&memid=15371	HTTP Error 500: Internal Server Error
+http://www.foxbusiness.com/government/2013/05/23/how-political-pressure-on-irs-began/	HTTP Error 404: Not Found
+https://www.facebook.com/jeff4gov	HTTP Error 404: Not Found
+http://www.mn.gov/mmb/images/2011-shutdown-report%2520October%25202011.pdf	HTTP Error 404: Not Found
+http://www.franken.senate.gov/?p=press_release&id=2526	<urlopen error [Errno 11001] getaddrinfo failed>
+https://www.franken.senate.gov/?p=press_release&id=2680	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.ustermlimitsamendment.org/2010/10/minnesota/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.franken.senate.gov/files/documents/130627CommunityCollegeToCareer.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.ustermlimitsamendment.org/wp-content/uploads/2014/03/House-Pledge.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.medicaid.gov/Medicaid-CHIP-Program-Information/By-State/illinois.html	HTTP Error 404: Not Found
+http://www.huffingtonpost.com/2013/05/16/irs-scandal_n_3285896.html	HTTP Error 403: Forbidden
+http://www.senate.mn/members/newsletter/1044_Ortman_Julianne/04.18.13%20-%20Star%20Tribune%20commentary%20-%20Senator%20Ortman.pdf	HTTP Error 404: Not Found
+http://www.dli.mn.gov/RS/PDF/13minwage.pdf	HTTP Error 404: Not Found
+http://www.ft.com/intl/cms/s/0/2adcc78c-522c-11d9-961a-00000e2511c8.html#axzz3Ck48PKfs	HTTP Error 404: Not Found
+http://207.153.189.83/EINS/363309812/363309812_2007_044DB1FF.PDF	<urlopen error timed out>
+http://www.huffingtonpost.com/2014/04/11/al-franken-mike-mcfadden-lazard_n_5135119.html	HTTP Error 403: Forbidden
+http://www.doli.state.mn.us/LS/MinWage.asp	HTTP Error 404: Not Found
+https://www.heartland.org/steve-goreham	HTTP Error 404: Not Found
+http://www.medicaid.gov/Medicaid-CHIP-Program-Information/By-State/minnesota.html	HTTP Error 404: Not Found
+http://thomas.loc.gov/cgi-bin/bdquery/z?d113:SN01356:@@@X	HTTP Error 403: Forbidden
+http://mn.gov/deed/images/2014_TaskForce_Report.pdf	HTTP Error 404: Not Found
+http://thomas.loc.gov/cgi-bin/query/F?r113:1:./temp/~r113MEx7Gw:e54143:	HTTP Error 403: Forbidden
+http://www.startribune.com/business/289512831.html	HTTP Error 403: Forbidden
+http://www.startribune.com/opinion/commentaries/142144723.html	HTTP Error 403: Forbidden
+http://www.startribune.com/politics/259138081.html	HTTP Error 403: Forbidden
+http://abcnews.go.com/blogs/politics/2011/09/new-study-underlines-unfulfilled-promises-of-health-care-bill/	HTTP Error 404: Not Found
+http://www.startribune.com/politics/blogs/208719811.html	HTTP Error 403: Forbidden
+http://dyn.politico.com/printstory.cfm?uuid=5E41CEE1-9785-0887-0CE04321BF37A8DF	HTTP Error 404: Not Found
+http://www.startribune.com/politics/blogs/224486021.html	HTTP Error 403: Forbidden
+http://thomas.loc.gov/cgi-bin/query/z?c104:H.J.RES.73:	HTTP Error 403: Forbidden
+http://archives.peterson.house.gov/press/104th/TERM.HTM#top	HTTP Error 404: Not Found
+http://www.medicaid.gov/Medicaid-CHIP-Program-Information/By-State/pennsylvania.html	HTTP Error 404: Not Found
+http://tigger.uic.edu/~pdoran/012009_Doran_final.pdf	HTTP Error 404: Not Found
+http://www.medicare.gov/sign-up-change-plans/medicare-health-plans/medicare-advantage-plans/how-medicare-advantage-plans-work.html	HTTP Error 404: Not Found
+http://nieer.org/publications/long-term-studies-show-lasting-gains-pre-k	HTTP Error 404: Not Found
+http://mn.gov/governor/blog/the-office-of-the-governor-blog-entry-detail.jsp?id=102-121244	HTTP Error 404: Not Found
+http://www.politifact.com/truth-o-meter/promises/obameter/promise/521/cut-cost-typical-familys-health-insurance-premium-/	HTTP Error 403: Forbidden
+http://blogs.edweek.org/edweek/early_years/2012/12/head_start_advantages_mostly_gone_by_third_grade_study_finds.html	HTTP Error 403: Forbidden
+http://usa.childcareaware.org/sites/default/files/19000000_state_fact_sheets_2014_v04.pdf	HTTP Error 404: Not Found
+http://www.politifact.com/truth-o-meter/statements/2014/feb/05/john-boehner/john-boehner-says-obamacare-expected-destroy-23-mi/	HTTP Error 403: Forbidden
+http://www.messagemedia.co/aitkin/article_80073f78-e5af-11e3-8a00-0017a43b2370.html	HTTP Error 451: Unavailable For Legal Reasons
+http://www.politifact.com/truth-o-meter/statements/2015/jan/21/barack-obama/barack-obama-says-unemployment-rate-now-lower-fina/	HTTP Error 403: Forbidden
+http://blogs.mprnews.org/capitol-view/2013/10/franken-says-push-to-repeal-device-tax-will-continue/	HTTP Error 403: Forbidden
+http://blogs.mprnews.org/capitol-view/2014/02/state-budget-surplus-now-1-23-billion/	HTTP Error 403: Forbidden
+http://blogs.mprnews.org/capitol-view/2014/03/gop-gov-candidates-bash-building/	HTTP Error 403: Forbidden
+http://nieer.org/resources/research/Gormley062708.pdf	HTTP Error 404: Not Found
+http://blogs.mprnews.org/capitol-view/2014/03/house-democrats-want-more-answers-on-senate-office-building/	HTTP Error 403: Forbidden
+http://blogs.mprnews.org/capitol-view/2014/03/poligraph-nrcc-misinterprets-petersons-term-limit-record/	HTTP Error 403: Forbidden
+http://blogs.mprnews.org/capitol-view/2014/04/state-senate-passes-employment-protection-measure-for-women/	HTTP Error 403: Forbidden
+http://blogs.mprnews.org/capitol-view/2014/05/franken-releases-first-ad-of-his-campaign/	HTTP Error 403: Forbidden
+http://blogs.mprnews.org/capitol-view/2014/05/poligraph-the-story-behind-the-legislator-pay-commission/	HTTP Error 403: Forbidden
+http://www.ncsl.org/research/labor-and-employment/state-minimum-wage-chart.aspx	HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop. The last 30x error message was: Found
+http://www.hhh.umn.edu/centers/wpp/status_of_women_and_girls/pdf/Economic-Report-Email-1.pdf	HTTP Error 404: Not Found
+http://www.senate.gov/legislative/LIS/roll_call_lists/roll_call_vote_cfm.cfm?congress=111&session=2&vote=00092	HTTP Error 503: Service Unavailable
+http://www.nrcc.org/2014/03/18/collin-peterson-violates-term-limit-pledge/	HTTP Error 403: Forbidden
+http://www.nrcc.org/2014/09/09/new-nrcc-tv-ad-hits-rick-nolan-terrorism/	HTTP Error 403: Forbidden
+http://mn.gov/mmb/images/16-17-ppt.pdf	HTTP Error 404: Not Found
+http://www.hhh.umn.edu/centers/wpp/status_of_women_and_girls/pdf/StatusofGirlsFebruary2012x.pdf	HTTP Error 404: Not Found
+http://publicradio1-wpengine.netdna-ssl.com/capitol-view/files/2013/08/poligraph-accurate.gif	HTTP Error 403: Forbidden
+http://publicradio1-wpengine.netdna-ssl.com/capitol-view/files/2013/08/poligraph-false.gif	HTTP Error 403: Forbidden
+http://publicradio1-wpengine.netdna-ssl.com/capitol-view/files/2013/08/poligraph-inconclusive.gif	HTTP Error 403: Forbidden
+http://mn.gov/mmb/images/Budget%2526Economic_Forecast_Feb2015.pdf	HTTP Error 404: Not Found
+https://www.scribd.com/doc/257160626/MNAN-Pay-Raises-Piece	HTTP Error 410: Gone
+http://minnesota.publicradio.org/radio/services/nis/listen?name=/minnesota/podcasts/policast/2014/08/08222014_poligraph_richert_20140822	HTTP Error 500: Internal Server Error
+http://mn.gov/mmb/images/Spending_history_May2014.pdf	HTTP Error 404: Not Found
+http://minnesota.publicradio.org/radio/services/nis/listen?name=/minnesota/podcasts/policast/2014/09/poligraph_09262014_20140926	HTTP Error 500: Internal Server Error
+http://mnrea.org/funding-where-weve-where-we-are-and-whats-needed/	HTTP Error 404: Not Found
+http://www.mmb.state.mn.us/bis/bbs/bis_reports/bisfnts/H1934_0.pdf	HTTP Error 502: Proxy Error
+http://www.wrongforus.com/petersonrecord/?utm_source=broadcast&utm_medium=tv&utm_campaign=mn07_1_20140909	HTTP Error 404: Not Found
+https://apps.deed.state.mn.us/lmi/ces/default.aspx	HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop. The last 30x error message was: Found
+http://www.aauw.org/files/2013/03/The-Simple-Truth-Fall-2013.pdf	HTTP Error 404: Not Found
+http://www.alfranken.com/2014/09/05/release-new-ad-mcfaddens-business-exploits-offshore-tax-havens/	HTTP Error 404: Not Found
+http://www.americashealthrankings.org/all/healthinsurance	argument of type 'NoneType' is not iterable
+http://www.bennet.senate.gov/newsroom/press/release/?id=e7370d0a-a580-4571-97d6-8d12171670f9	HTTP Error 503: Service Unavailable
+http://www.beta.mmb.state.mn.us/doc/budget/report-hca/nov11.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
