@@ -81,7 +81,7 @@ class Scrapper(object):
                 if self.seed not in dict_exeptions:
                     dict_exeptions[self.seed] = {}
                 if url not in dict_exeptions[self.seed]:
-                    dict_exeptions[self.seed][url] = str(e).rstrip()
+                    dict_exeptions[self.seed][url] = str(e).rstrip().replace("\n"," ")
                 # self.reopen_driver()
                 continue
 
@@ -144,12 +144,13 @@ def check_dir_exists_and_create(path):
 
 
 if __name__ == '__main__':
-    # outlinks_files_schema = get_outlinks_files_schema("seeds\outlinks")
-    outlinks_files_schema = get_outlinks_files_schema("seeds\\temp")
+    outlinks_files_schema = get_outlinks_files_schema("seeds\outlinks")
+    # outlinks_files_schema = get_outlinks_files_schema("seeds\\temp")
     for file in outlinks_files_schema:
         start_time = time.time()
         seed = file.rsplit("\\")[-1].replace(".txt","")
         dict_claim, dict_url, dict_just_url = get_dict_url(file)
+
         check_dir_exists_and_create("seeds\\raw_content_outlinks\\"+str(seed))
         n_threads = 250
         if len(dict_claim) < n_threads:

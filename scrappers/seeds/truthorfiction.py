@@ -15,7 +15,7 @@ class TruthOrFiction(Commons):
         self.claim_num = 1
         self.dict_objects = {}
     def get_claim(self, soup, url, title):
-        claim = ""
+        claim = None
         div_tag = soup.find_all("div",{"class": "inner-post-entry"})
         for tag in div_tag:
             try:
@@ -28,7 +28,7 @@ class TruthOrFiction(Commons):
         return claim
 
     def get_claim_label(self, soup, url):
-        label = ""
+        label = None
         div_tag = soup.find_all("div",{"class":"rating-wrapper"})
         try:
             for tag in div_tag:
@@ -38,11 +38,11 @@ class TruthOrFiction(Commons):
         except Exception as e:
             # self.cont_errors += 1
             print(str(e), "wrong label at url: ", url)
-            label = ""
+            label = None
         return label
 
     def get_publish_date(self, soup, url):
-        publish_date = ""
+        publish_date = None
         try:
             publish_date = soup.find("div",{"class":"post-box-meta-single"}).find("span").text.strip()
         except:
@@ -69,7 +69,7 @@ class TruthOrFiction(Commons):
 
 
     def get_claim_category(self, soup, url):
-        category = ""
+        category = None
         div_tag = soup.find_all("div",{"class":"breadcrumb-nav"})
         for tag in div_tag:
             aTags = tag.find_all("a")
@@ -79,8 +79,8 @@ class TruthOrFiction(Commons):
         return category
 
     def get_article_title_and_label(self, soup, url):
-        title=""
-        label = ""
+        title=None
+        label = None
         try:
             entire_title = soup.find("h1",{"class":"post-title single-post-title"}).text.strip()
             title = entire_title.rsplit('-', 1)[0]
@@ -114,14 +114,13 @@ class TruthOrFiction(Commons):
                 category = self.dict_claims_category[claim_url]
                 claim_object.set_categories(category)
             except:
-                category =""
+                category = None
 
-            if article_title != "":
-                claim_object.set_article_title(article_title)
-                claim_object.set_label(label)
+            claim_object.set_article_title(article_title)
+            claim_object.set_label(label)
             publish_date = self.get_publish_date(soup, claim_url)
-            if publish_date != "":
-                claim_object.set_publish_date(publish_date)
+            # if publish_date != "":
+            claim_object.set_publish_date(publish_date)
 
 
             # author, publish_date =self.article_info(soup, claim_url)

@@ -56,7 +56,7 @@ class Snopes(Commons):
         pass
 
     def get_claim_category(self, soup, url):
-        category = ""
+        category = None
         div_tag = soup.find_all("div",{"class":"breadcrumb-nav"})
         for tag in div_tag:
             aTags = tag.find_all("a")
@@ -66,7 +66,7 @@ class Snopes(Commons):
         return category
 
     def get_article_title(self, soup, url):
-        title=""
+        title=None
         try:
             title = soup.find("h1",{"class":"article-title"}).text.strip()
         except Exception as e:
