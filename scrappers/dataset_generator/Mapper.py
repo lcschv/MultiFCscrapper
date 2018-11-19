@@ -14,6 +14,7 @@ class Mapper(object):
         self.dict_outlink_source = {}
         self.dict_exceptions_urls = {}
         self.dict_url_rawpath = {}
+        self.total = 0
 
         self.get_unique_urls()
 
@@ -103,8 +104,11 @@ class Mapper(object):
                 with open(file, encoding="utf8") as f:
                     content = f.readlines()
                 i = 1
+
                 content = [x.rstrip() for x in content]
                 seed = file.split("/")[-1].replace('.txt', '').rstrip()
+                print(seed, "--- size:",len(content[1:]))
+                self.total+=len(content[1:])
                 abbreviation = (seed[:2]+seed[-1])
                 for line in content[1:]:
                     parts = line.split("\t")
@@ -125,7 +129,7 @@ class Mapper(object):
                     f2.write(abbreviation+"-"+str(i).zfill(5)+"\t"+re.sub(' +',' ',"\t".join(parts[1:]))+"\n")
 
                     i+=1
-
+        print("Total number of claims:" ,self.total)
     def get_dict_sources(self):
         no_duplicates_urls = {}
         for url, values in self.dict_outlink_source.items():
@@ -173,6 +177,7 @@ class Mapper(object):
 
     def get_original_path_raw_document(self):
         schemas_files ,outlink_files = self.get_all_schema_and_outlinks_files()
+        print(schemas_files)
         for file in schemas_files:
             seed = file.split('/')[-1].replace('.txt','')
             with open(file, encoding="utf8") as f:
@@ -292,10 +297,10 @@ class Mapper(object):
                 content_type = "application/pdf"
             else:
                 content_type = "text/html"
-                temp_file = open(path,"rb")
-                document_length = len(temp_file.read())
-                temp_file.close()
-                document_record.set_document_length(document_length)
+                # temp_file = open(path,"rb")
+                # document_length = len(temp_file.read())
+                # temp_file.close()
+                # document_record.set_document_length(document_length)
             document_record.set_content_type(content_type)
             document_record.set_content(path)
             document_record.set_url(url)
@@ -311,5 +316,5 @@ if __name__ == '__main__':
     mapper = Mapper()
     # mapper.create_unique_urls_file()
     mapper.merge_claim_schemas()
-    mapper.generate_doc_id_url_file()
-    mapper.generate_docid_url_sources_file()
+    # mapper.generate_doc_id_url_file()
+    # mapper.generate_docid_url_sources_file()
