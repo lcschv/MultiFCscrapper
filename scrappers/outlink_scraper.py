@@ -114,7 +114,7 @@ def get_dict_url(file):
     dict_just_url = {}
     dict_claim = {}
     dict_url = {}
-    with open(file, "r", encoding="utf8") as f:
+    with open(file, "r", encoding="utf8", errors="ignore") as f:
         content = f.readlines()
     content = [x.rstrip() for x in content]
     for line in content:
