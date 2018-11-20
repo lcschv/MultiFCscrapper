@@ -59,7 +59,7 @@ class Mapper(object):
 
     def get_url_from_outlinks(self, file):
         self.get_urls_from_log_exceptions()
-        with open(file) as f:
+        with open(file, errors="ignore") as f:
             content = f.readlines()
         content = [x.rstrip() for x in content]
         for line in content:
