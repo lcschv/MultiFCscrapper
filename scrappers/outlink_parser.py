@@ -10,10 +10,10 @@ class OutLinkScraper(object):
         #Please add the seed name, html tag name, and information about the tag.
         self.dict_article_content= {
                                     # "radionz":{"div":{"class":"article__body"}},
-                                    "climatefeedback":{"div":{"class":"entry-content"}},
-                                    "gossipcop":{"div":{"class":"blurb-text"}},
-                                    "pesacheck":{"div":{"class":"section-content"}}
-                                    # "nytimes":{"attrs":{"itemprop":"articleBody"}},
+                                    # "climatefeedback":{"div":{"class":"entry-content"}},
+                                    # "gossipcop":{"div":{"class":"blurb-text"}},
+                                    # "pesacheck":{"div":{"class":"section-content"}}
+                                    "nytimes":{"attrs":{"itemprop":"articleBody"}},
                                     # "huffingtonpostca":{"attrs":{"class":"post-contents"}},
                                     # "mprnews":{"attrs":{"class":"entry-content"}},
                                     # "pandora":{"div":{"class": "storyblock"}},
@@ -138,4 +138,4 @@ class OutLinkScraper(object):
 
 
 if __name__ == '__main__':
-    outlinkscraper = OutLinkScraper("seeds/schemas_christian/")
+    outlinkscraper = OutLinkScraper("seeds/temp/")

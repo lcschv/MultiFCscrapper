@@ -16,19 +16,26 @@ class DocumentSchema(object):
 
         self.content_type = None
         self.isClaim = None
-        self.origins = None
         self.doc_id = None
         self.full_article_text = None
         self.document_length = None
         self.content = None
+        self.list_inlinks = None
+        self.list_outlinks = None
+        self.label_scale = None
+        self.number_entities = None
+        self.list_entities = None
 
     """Getters"""
     def get_content_type(self):
         return self.content_type
     def get_isClaim(self):
         return self.isClaim
-    def get_origins(self):
-        return self.origins
+    def get_list_inlinks(self):
+        return self.list_inlinks
+    def get_list_outlinks(self):
+        return self.list_outlinks
+
     def get_doc_id(self):
         return self.doc_id
     def get_full_article_text(self):
@@ -37,6 +44,12 @@ class DocumentSchema(object):
         return self.document_length
     def get_content(self):
         return self.content
+    def get_label_scale(self):
+        return self.label_scale
+    def get_number_entities(self):
+        return self.number_entities
+    def get_list_entities(self):
+        return self.list_entities
 
 
     """"Getters claim"""
@@ -81,8 +94,10 @@ class DocumentSchema(object):
         self.content_type = content_type
     def set_isClaim(self, isClaim):
         self.isClaim = isClaim
-    def set_origins(self, origins):
-        self.origins = origins
+    def set_list_inlinks(self, list_inlinks):
+        self.list_inlinks = list_inlinks
+    def set_list_outlinks(self, list_outlinks):
+        self.list_outlinks = list_outlinks
     def set_doc_id(self, doc_id):
         self.doc_id = doc_id
     def set_full_article_text(self, full_article_text):
@@ -91,6 +106,15 @@ class DocumentSchema(object):
         self.document_length = document_length
     def set_content(self, content):
         self.content = content
+
+    def set_label_scale(self, label_scale):
+        self.label_scale = label_scale
+
+    def set_number_entities(self, number_entities):
+        self.number_entities = number_entities
+
+    def set_list_entities(self, list_entities):
+        self.list_entities = list_entities
 
     """Setters Claim"""
     def set_id(self, claim_id):

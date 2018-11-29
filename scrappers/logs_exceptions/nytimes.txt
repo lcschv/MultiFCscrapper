@@ -1,29 +1,45 @@
-https://www.kuna.net.kw/ArticleDetails.aspx?id=2725312&language=en	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
-https://www.usnews.com/news/world/articles/2018-05-08/syria-strongly-condemns-us-withdrawal-from-iran-nuclear-deal	HTTP Error 403: Forbidden
-https://www.cnn.com/election/2016/results/exit-polls	argument of type 'NoneType' is not iterable
-https://fas.org/sgp/crs/misc/R44975.pdf	HTTP Error 403: Forbidden
-https://fas.org/sgp/crs/misc/RL31171.pdf	HTTP Error 403: Forbidden
-https://fas.org/sgp/crs/row/RS21372.pdf	HTTP Error 403: Forbidden
-https://www.mcconnell.senate.gov/public/index.cfm?p=PressReleases&ContentRecord_id=8E6839F9-181B-42F5-B8F0-F4244B9D7927	HTTP Error 503: Service Unavailable
-https://gop.com/they-should-have-read-the-fine-print	HTTP Error 403: Forbidden
-https://www.washingtontimes.com/news/2018/jun/27/chuck-schumer-shoots-down-calls-abolish-ice/	HTTP Error 403: Forbidden
-https://timesmachine.nytimes.com/svc/tmach/v1/refer?pdf=true&res=9801E4D9143AE23BBC4152DFB0668389649EDE	HTTP Error 403: Forbidden
-https://timesmachine.nytimes.com/timesmachine/1950/05/31/94265340.pdf	HTTP Error 403: Forbidden
-https://timesmachine.nytimes.com/timesmachine/1961/02/08/97585370.pdf	HTTP Error 403: Forbidden
-https://timesmachine.nytimes.com/timesmachine/1961/04/12/101455559.pdf	HTTP Error 403: Forbidden
-https://timesofoman.com/article/133772	HTTP Error 403: Forbidden
-https://www.armscontrol.org/blog/2018-05-09/international-support-iran-nuclear-deal	HTTP Error 403: Forbidden
-http://thefederalist.com/2018/06/19/democrats-border-separation-bill-let-nearly-parents-commit-federal-crimes-get-off-scot-free/	HTTP Error 403: Forbidden
-https://www.justsecurity.org/wp-content/uploads/2018/06/ACA.Azar_.filing.pdf	HTTP Error 403: Forbidden
-http://www.aei.org/publication/the-democrats-social-security-plan-means-much-higher-taxes/	HTTP Error 403: Forbidden
-https://aflcio.org/about/advocacy/legislative-alerts/letter-congress-opposing-attacks-union-rights-working-people	HTTP Error 403: Forbidden
-https://www.tillis.senate.gov/public/index.cfm/2018/8/senators-introduce-legislation-to-protect-americans-with-pre-existing-conditions	HTTP Error 503: Service Unavailable
-http://www.courant.com/news/connecticut/hc-xpm-2010-10-18-hc-michelle-obama-visit-1019-20101015-story.html	HTTP Error 403: Forbidden
-https://www.congress.gov/advanced-search/legislation?congresses%5B%5D=115&congresses%5B%5D=114&congresses%5B%5D=113&congresses%5B%5D=112&congresses%5B%5D=111&congresses%5B%5D=110&congresses%5B%5D=109&congresses%5B%5D=108&congresses%5B%5D=107&congresses%5B%5D=106&congresses%5B%5D=105&congresses%5B%5D=104&congresses%5B%5D=103&congresses%5B%5D=102&congresses%5B%5D=101&congresses%5B%5D=100&congresses%5B%5D=99&congresses%5B%5D=98&congresses%5B%5D=97&congresses%5B%5D=96&congresses%5B%5D=95&congresses%5B%5D=94&congresses%5B%5D=93&legislationNumbers=&restrictionType=field&restrictionFields%5B%5D=allBillTitles&restrictionFields%5B%5D=summary&summaryField=billSummary&enterTerms=%22Right+to+Try%22&wordVariants=true&legislationTypes%5B%5D=hr&legislationTypes%5B%5D=hres&legislationTypes%5B%5D=hjres&legislationTypes%5B%5D=hconres&legislationTypes%5B%5D=hamdt&legislationTypes%5B%5D=s&legislationTypes%5B%5D=sres&legislationTypes%5B%5D=sjres&legislationTypes%5B%5D=sconres&legislationTypes%5B%5D=samdt&legislationTypes%5B%5D=suamdt&public=true&private=true&chamber=all&actionTerms=&legislativeActionWordVariants=true&dateOfActionOperator=equal&dateOfActionStartDate=&dateOfActionEndDate=&dateOfActionIsOptions=yesterday&legislativeAction=Any&sponsorState=One&member=&sponsorTypes%5B%5D=sponsor&sponsorTypes%5B%5D=sponsor&sponsorTypeBool=OR&committeeActivity%5B%5D=any&committeeActivity%5B%5D=referred+to&committeeActivity%5B%5D=hearings+by&committeeActivity%5B%5D=markup+by&committeeActivity%5B%5D=reported+by&committeeActivity%5B%5D=reported+original+measure&committeeActivity%5B%5D=discharged+from&committeeActivity%5B%5D=legislative+interest&satellite=%5B%5D&search=search&searchResultViewType=expanded	HTTP Error 403: Forbidden
-https://www.congress.gov/bill/115th-congress/house-bill/676	HTTP Error 403: Forbidden
 https://www.congress.gov/bill/115th-congress/senate-bill/1094	HTTP Error 403: Forbidden
 https://www.congress.gov/bill/115th-congress/senate-bill/1804	HTTP Error 403: Forbidden
 https://www.congress.gov/bill/115th-congress/senate-bill/1804/text	HTTP Error 403: Forbidden
 https://www.congress.gov/bill/115th-congress/senate-bill/3036	HTTP Error 403: Forbidden
 https://www.congress.gov/member/dianne-feinstein/F000062	HTTP Error 403: Forbidden
-https://www.democrats.senate.gov/newsroom/press-releases/ahead-of-vp-pences-central-america-visit-senate-democrats-unveil-the-central-american-reform-and-enforcement-act_a-major-legislative-proposal-to-address-root-causes-of-central-american-migrant-crisis	HTTP Error 503: Service Unavailable
+https://www.nytimes.com/newsletters/climate-change	HTTP Error 404: Not Found
+https://www.democrats.senate.gov/newsroom/press-releases/ahead-of-vp-pences-central-america-visit-senate-democrats-unveil-the-central-american-reform-and-enforcement-act_a-major-legislative-proposal-to-address-root-causes-of-central-american-migrant-crisis	HTTP Error 403: Forbidden
+https://www.republicanleader.senate.gov/newsroom/remarks/mcconnell-on-supreme-court-nomination	HTTP Error 403: Forbidden
+https://www.republicanleader.senate.gov/newsroom/remarks/the-american-people-should-have-a-voice-in-the-selection-of-the-next-supreme-court-justice	HTTP Error 403: Forbidden
+https://www.republicanleader.senate.gov/newsroom/remarks/the-schumer-standard-biden-rule-mikva-mandate	HTTP Error 403: Forbidden
+https://www.senate.gov/history/partydiv.htm	HTTP Error 403: Forbidden
+https://www.senate.gov/pagelayout/reference/nominations/Nominations.htm#result	HTTP Error 403: Forbidden
+https://fas.org/sgp/crs/misc/R44975.pdf	HTTP Error 403: Forbidden
+https://fas.org/sgp/crs/misc/RL31171.pdf	HTTP Error 403: Forbidden
+https://fas.org/sgp/crs/row/RS21372.pdf	HTTP Error 403: Forbidden
+https://www.armscontrol.org/blog/2018-05-09/international-support-iran-nuclear-deal	HTTP Error 403: Forbidden
+http://thefederalist.com/2018/06/19/democrats-border-separation-bill-let-nearly-parents-commit-federal-crimes-get-off-scot-free/	HTTP Error 403: Forbidden
+https://www.state.gov/r/pa/ei/bgn/2792.htm	HTTP Error 403: Forbidden
+http://www.aei.org/publication/the-democrats-social-security-plan-means-much-higher-taxes/	HTTP Error 403: Forbidden
+https://www.blumenthal.senate.gov/newsroom/press/release/blumenthal-and-van-hollen-introduce-legislation-to-strengthen-social-security	HTTP Error 403: Forbidden
+http://www.courant.com/news/connecticut/hc-xpm-2010-10-18-hc-michelle-obama-visit-1019-20101015-story.html	HTTP Error 403: Forbidden
+https://www.tillis.senate.gov/public/index.cfm/2018/8/senators-introduce-legislation-to-protect-americans-with-pre-existing-conditions	HTTP Error 403: Forbidden
+https://gop.com/they-should-have-read-the-fine-print	HTTP Error 403: Forbidden
+https://www.usnews.com/news/world/articles/2018-05-08/syria-strongly-condemns-us-withdrawal-from-iran-nuclear-deal	HTTP Error 403: Forbidden
+https://aflcio.org/about/advocacy/legislative-alerts/letter-congress-opposing-attacks-union-rights-working-people	HTTP Error 403: Forbidden
+https://www.justsecurity.org/wp-content/uploads/2018/06/ACA.Azar_.filing.pdf	HTTP Error 403: Forbidden
+https://www.census.gov/foreign-trade/Press-Release/current_press_release/exh20.pdf	HTTP Error 403: Forbidden
+https://www.census.gov/foreign-trade/Press-Release/current_press_release/exh4s.pdf	HTTP Error 403: Forbidden
+https://www.census.gov/foreign-trade/statistics/historical/gands.pdf	HTTP Error 403: Forbidden
+https://www.kuna.net.kw/ArticleDetails.aspx?id=2725312&language=en	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+https://www.census.gov/library/publications/2018/demo/p60-263.html	HTTP Error 403: Forbidden
+https://www.washingtontimes.com/news/2018/jun/27/chuck-schumer-shoots-down-calls-abolish-ice/	HTTP Error 403: Forbidden
+https://www.census.gov/library/publications/2018/demo/p60-265.html	HTTP Error 403: Forbidden
+https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/ReportsTrustFunds/Downloads/TR2018.pdf#page=11	HTTP Error 403: Forbidden
+https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/ReportsTrustFunds/Downloads/TR2018.pdf#page=13	HTTP Error 403: Forbidden
+https://timesmachine.nytimes.com/svc/tmach/v1/refer?pdf=true&res=9801E4D9143AE23BBC4152DFB0668389649EDE	HTTP Error 403: Forbidden
+https://www.mcconnell.senate.gov/public/index.cfm/pressreleases?ID=A3B740CE-F80C-4842-B656-11A1154B55D0	HTTP Error 403: Forbidden
+https://www.mcconnell.senate.gov/public/index.cfm?p=PressReleases&ContentRecord_id=8E6839F9-181B-42F5-B8F0-F4244B9D7927	HTTP Error 403: Forbidden
+https://timesmachine.nytimes.com/timesmachine/1950/05/31/94265340.pdf	HTTP Error 403: Forbidden
+https://www.cnn.com/election/2016/results/exit-polls	argument of type 'NoneType' is not iterable
+https://timesmachine.nytimes.com/timesmachine/1961/02/08/97585370.pdf	HTTP Error 403: Forbidden
+https://timesmachine.nytimes.com/timesmachine/1961/04/12/101455559.pdf	HTTP Error 403: Forbidden
+https://timesofoman.com/article/133772	HTTP Error 403: Forbidden
+https://www.congress.gov/advanced-search/legislation?congresses%5B%5D=115&congresses%5B%5D=114&congresses%5B%5D=113&congresses%5B%5D=112&congresses%5B%5D=111&congresses%5B%5D=110&congresses%5B%5D=109&congresses%5B%5D=108&congresses%5B%5D=107&congresses%5B%5D=106&congresses%5B%5D=105&congresses%5B%5D=104&congresses%5B%5D=103&congresses%5B%5D=102&congresses%5B%5D=101&congresses%5B%5D=100&congresses%5B%5D=99&congresses%5B%5D=98&congresses%5B%5D=97&congresses%5B%5D=96&congresses%5B%5D=95&congresses%5B%5D=94&congresses%5B%5D=93&legislationNumbers=&restrictionType=field&restrictionFields%5B%5D=allBillTitles&restrictionFields%5B%5D=summary&summaryField=billSummary&enterTerms=%22Right+to+Try%22&wordVariants=true&legislationTypes%5B%5D=hr&legislationTypes%5B%5D=hres&legislationTypes%5B%5D=hjres&legislationTypes%5B%5D=hconres&legislationTypes%5B%5D=hamdt&legislationTypes%5B%5D=s&legislationTypes%5B%5D=sres&legislationTypes%5B%5D=sjres&legislationTypes%5B%5D=sconres&legislationTypes%5B%5D=samdt&legislationTypes%5B%5D=suamdt&public=true&private=true&chamber=all&actionTerms=&legislativeActionWordVariants=true&dateOfActionOperator=equal&dateOfActionStartDate=&dateOfActionEndDate=&dateOfActionIsOptions=yesterday&legislativeAction=Any&sponsorState=One&member=&sponsorTypes%5B%5D=sponsor&sponsorTypes%5B%5D=sponsor&sponsorTypeBool=OR&committeeActivity%5B%5D=any&committeeActivity%5B%5D=referred+to&committeeActivity%5B%5D=hearings+by&committeeActivity%5B%5D=markup+by&committeeActivity%5B%5D=reported+by&committeeActivity%5B%5D=reported+original+measure&committeeActivity%5B%5D=discharged+from&committeeActivity%5B%5D=legislative+interest&satellite=%5B%5D&search=search&searchResultViewType=expanded	HTTP Error 403: Forbidden
+https://www.congress.gov/bill/115th-congress/house-bill/676	HTTP Error 403: Forbidden

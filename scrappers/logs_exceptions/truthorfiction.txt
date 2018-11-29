@@ -2299,7 +2299,6 @@ http://www.reagan.com/column.cfm?id=84	HTTP Error 403: Forbidden
 http://www.tigerdirect.com/bitcoin/?srkey=bitcoin	HTTP Error 403: Forbidden
 http://www.fiscalcommission.gov/sites/fiscalcommission.gov/files/documents/CoChair_Draft.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
 http://news.nationalgeographic.com/news/2007/12/photogalleries/giantskeleton-pictures/index.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
-
 https://www.truthorfiction.com/pope-francis-god-has-instructed-me-to-revise-the-10-commandments/	HTTP Error 403: Forbidden
 https://www.congress.gov/bill/113th-congress/house-bill/40	HTTP Error 403: Forbidden
 http://www.davidicke.com/headlines/mystery-sandy-hook-victim-dies-again-in-pakistan/	HTTP Error 403: Forbidden
@@ -2348,7 +2347,6 @@ https://www.congress.gov/bill/113th-congress/house-bill/40/actions	HTTP Error 40
 https://www.barackobama.com/about-ofa/	HTTP Error 403: Forbidden
 http://www.barackobama.com/factcheck/2007/11/12/obama_has_never_been_a_muslim_1.php	HTTP Error 403: Forbidden
 http://uspsstamps.com/stamps/archive/2000	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
-
 http://www.independent.co.uk/news/world/europe/angela-merkel-headscarf-saudi-arabia-king-salman-refugees-a7710476.html	HTTP Error 404: Not Found
 https://www.insidehighered.com/views/2016/03/28/context-controversy-over-trump-chalkings-emory-university-essay	HTTP Error 403: Forbidden
 http://michaelconnelly.viviti.com/entries/general/the-truth-about-the-health-care-bills	<urlopen error [Errno 11001] getaddrinfo failed>
@@ -2385,7 +2383,6 @@ http://news-hound.org/google-earth-finds-woman-trapped-on-deserted-island-for-7-
 http://www.islamist-watch.org/money-politics/recipient/140/	HTTP Error 403: Forbidden
 https://www.congress.gov/bill/114th-congress/house-bill/622	HTTP Error 403: Forbidden
 http://www.telegraph.co.uk/news/worldnews/asia/malaysia/10686999/Malaysia-Airlines-plane-crash-timeline.html	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
-
 http://olivecenter.ucdavis.edu/research/files/report041211finalreduced.pdf	HTTP Error 404: Not Found
 http://www.asparagus.org/maab/facts.html	HTTP Error 404: Not Found
 https://www.benefits.gov/benefits/benefit-details/1229	HTTP Error 403: ModSecurity Action
@@ -2428,7 +2425,6 @@ http://www.nydailynews.com/news/national/rob-o-neill-inspired-9-11-families-spea
 https://www.gpo.gov/fdsys/pkg/CRPT-104srpt280/html/CRPT-104srpt280.htm	HTTP Error 403: Forbidden
 https://www.facebook.com/search/top/?q=preacher%20Michael%20Chitwood	HTTP Error 404: Not Found
 http://USPS.COM	HTTP Error 301: The HTTP server returned a redirect error that would lead to an infinite loop.
-
 http://www.prnewswire.com/news-releases/marsha-j-evans-steps-down-as-american-red-cross-president-and-ceo-55514492.html	HTTP Error 404: Not Found
 http://www.huffingtonpost.com/2014/01/05/buy-facebook-likes_n_4544800.html	HTTP Error 403: Forbidden
 https://s8295.pcdn.co/wp-content/uploads/2015/04/baby_heart_born_outside_body.jpg	HTTP Error 502: Bad Gateway
@@ -2439,7 +2435,6 @@ http://www.solarreserve.com/what-we-do/csp-projects/crescent-dunes/	HTTP Error 4
 http://www.startribune.com/business/248301511.html	HTTP Error 403: Forbidden
 http://thebull.cbslocal.com/2014/08/07/facebook-crosses-the-line-with-new-facebook-messenger-app/	HTTP Error 410: Gone
 http://www.cornfieldmaze.com	HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
-
 http://query.nytimes.com/gst/fullpage.html?res=9E06E3D6123BF932A2575AC0A9659C8B63&sec=&spon=&pagewanted=print	HTTP Error 404: Not Found
 http://www.seafoodwatch.org/cr/seafoodwatch/web/sfw_factsheet.aspx?fid=195	HTTP Error 404: Not Found
 https://ucr.fbi.gov/crime-in-the-u.s/2014/crime-in-the-u.s.-2014/additional-reports/human-trafficking-report/human-trafficking.pdf	HTTP Error 403: Forbidden
@@ -2458,7 +2453,6 @@ http://www.independent.co.uk/news/world/europe/rarest-beanie-baby-of-them-all-co
 https://www.google.com/search?q=kapernick+converted+to+islam&oq=kapernick+converted+to+islam&aqs=chrome..69i57.3059j0j7&sourceid=chrome&ie=UTF-8	HTTP Error 403: Forbidden
 https://www.gpo.gov/fdsys/pkg/FR-2015-02-20/pdf/2015-03714.pdf	HTTP Error 403: Forbidden
 http://azbaseball.org/tournaments.html	HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
-
 http://WWW.fas.org/sgp/crs/natsec/RL32492.pdf	HTTP Error 403: Forbidden
 http://farmersalmanac.com/full-moon-names/	HTTP Error 403: Forbidden
 http://www.latimes.com/politics/essential/la-pol-ca-essential-politics-updates-lawmakers-support-reducing-penalty-for-1505179836-htmlstory.html	HTTP Error 403: Forbidden
@@ -2484,7 +2478,6 @@ http://www.foxnews.com/on-air/oreilly/index.html	HTTP Error 404: Not Found
 http://www.allenbwest.com/allen/marine-owns-nfl-brutal-letter-commissioner	HTTP Error 404: Not Found
 http://www.whatiam.net/	HTTP Error 403: Forbidden
 http://www.w100k.com/	HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
-
 http://www.orlandosentinel.com/business/tourism/os-emirates-arrives-orlando-airport-20150901-story.html	HTTP Error 403: Forbidden
 http://www.agreeinprayer.com	HTTP Error 403: Forbidden
 http://www.ncbi.nlm.nih.gov/pmc/articles/PMC175599/	HTTP Error 403: Forbidden
@@ -2518,7 +2511,6 @@ https://news.personalliberty.com/pub/cc?_ri_=X0Gzc2X=UQpglLjHJlTQueQcjP4QipRNQtm
 http://www..supremecourt.gov/Search.aspx?FileName=/docketfiles/09-724.htm	encoding with 'idna' codec failed (UnicodeError: label empty or too long)
 https://s8295.pcdn.co/wp-content/uploads/2015/04/unnamed1.jpg	HTTP Error 502: Bad Gateway
 http://tmzhiphop.com/donald-trump-says-harriet-tubman-face-belongs-on-foodstamps/	HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
-
 http://www.grassfire.net/r.asp?u=35852&RID=21772675	HTTP Error 406: Not Acceptable
 http://www.boston.com/news/local/politics/primarysource/2007/05/in_nh_clinton_c.html	[WinError 10054] An existing connection was forcibly closed by the remote host
 http://christianforums.com/	HTTP Error 403: Forbidden
@@ -2553,7 +2545,6 @@ http://worldnewsdailyreport.com/ghost-ship-filled-with-ebola-ridden-rats-heading
 http://www.aans.org/pdf/AANS_News/Mark_Levin_Statement_UPDATED.pdf	HTTP Error 404: Not Found
 http://www.ftc.gov/bcp/edu/microsites/spam/zombie/index.htm	HTTP Error 404: Not Found
 http://therightists.com/tim-kaine-the-catholic-church-will-change-its-same-sex-marriage-stance-or-it-will-be-banned-from-the-u-s/	HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.
-
 http://theduran.com/julian-assange-says-1700-emails-hillary-clintons-collection-proves-sold-weapons-isis-syria/	HTTP Error 403: Forbidden
 http://www.foxnews.com/on-air/personalities/neil-cavuto/bio/#s=a-d	HTTP Error 404: Not Found
 http://www.allenbwest.com/matt-palumbo/first-woman-medal-six-olympics-completely-ignored-media	HTTP Error 404: Not Found

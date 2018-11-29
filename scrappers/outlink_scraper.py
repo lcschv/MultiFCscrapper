@@ -144,8 +144,8 @@ def check_dir_exists_and_create(path):
 
 
 if __name__ == '__main__':
-    outlinks_files_schema = get_outlinks_files_schema("seeds\outlinks")
-    # outlinks_files_schema = get_outlinks_files_schema("seeds\\temp")
+    # outlinks_files_schema = get_outlinks_files_schema("seeds\outlinks")
+    outlinks_files_schema = get_outlinks_files_schema("seeds\\temp")
     for file in outlinks_files_schema:
         start_time = time.time()
         seed = file.rsplit("\\")[-1].replace(".txt","")
@@ -176,12 +176,12 @@ if __name__ == '__main__':
             # print ("Threads started..")
         for thread in thread_vec:
             thread.join()
-        print("Unique url:",len(dict_just_url))
+
         print("--- Avg: %.2f doc/sec ---" % (len(dict_just_url)/(time.time() - start_time)))
         print("--- Total %.2f sec ---" % ((time.time() - start_time)))
 
     for seed, exceptions in dict_exeptions.items():
-        with open("logs_exceptions\\"+str(seed)+".txt", "w") as log_file:
+        with open("logs_exceptions\\"+str(seed)+".txt", "w", encoding="utf8", errors='ignore') as log_file:
             for url, expt in exceptions.items():
                 log_file.write(url+"\t"+expt+"\n")
 
