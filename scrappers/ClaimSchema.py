@@ -2,19 +2,35 @@ from pprint import pprint
 
 
 class ClaimSchema(object):
-    def __init__(self):
-        self.claim_id = None
-        self.claim = None
-        self.label = None
-        self.claim_url = None
-        self.reason = None
-        self.categories = None
-        self.speaker = None
-        self.checker = None
-        self.tags = None
-        self.article_title = None
-        self.publish_date = None
-        self.claim_date = None
+    def __init__(self, string=None):
+        if string is None:
+            self.claim_id = None
+            self.claim = None
+            self.label = None
+            self.claim_url = None
+            self.reason = None
+            self.categories = None
+            self.speaker = None
+            self.checker = None
+            self.tags = None
+            self.article_title = None
+            self.publish_date = None
+            self.claim_date = None
+        else:
+            parts = string.split("\t")
+            assert (len(parts) == 12)
+            self.claim_id = parts[0]
+            self.claim = parts[1]
+            self.label = parts[2]
+            self.claim_url = parts[3]
+            self.reason = parts[4]
+            self.categories = parts[5]
+            self.speaker = parts[6]
+            self.checker = parts[7]
+            self.tags = parts[8]
+            self.article_title = parts[9]
+            self.publish_date = parts[10]
+            self.claim_date = parts[11]
 
     """Getters"""
     def get_claim_id(self):

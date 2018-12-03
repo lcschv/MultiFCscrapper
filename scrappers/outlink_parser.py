@@ -9,27 +9,27 @@ class OutLinkScraper(object):
 
         #Please add the seed name, html tag name, and information about the tag.
         self.dict_article_content= {
-                                    # "radionz":{"div":{"class":"article__body"}},
-                                    # "climatefeedback":{"div":{"class":"entry-content"}},
-                                    # "gossipcop":{"div":{"class":"blurb-text"}},
-                                    # "pesacheck":{"div":{"class":"section-content"}}
+                                    "radionz":{"div":{"class":"article__body"}},
+                                    "climatefeedback":{"div":{"class":"entry-content"}},
+                                    "gossipcop":{"div":{"class":"blurb-text"}},
+                                    "pesacheck":{"div":{"class":"section-content"}},
                                     "nytimes":{"attrs":{"itemprop":"articleBody"}},
-                                    # "huffingtonpostca":{"attrs":{"class":"post-contents"}},
-                                    # "mprnews":{"attrs":{"class":"entry-content"}},
-                                    # "pandora":{"div":{"class": "storyblock"}},
-                                    # "washingtonpost":{"div":{"class": "article-body"}},
-                                    # "truthorfiction":{"div":{"class": "inner-post-entry"}},
-                                    # "factcheckorg":{"div":{"class": "entry-content"}},
-                                    # "fullfact":{"div":{"class": "col-xs-12 no-padding"}},
-                                    # "hoaxslayer":{"div":{"class": "penci-main-sticky-sidebar"}},
-                                    # "theconversation":{"div":{"class": "grid-ten large-grid-nine grid-last content-body content entry-content instapaper_body"}},
-                                    # "leadstories":{"div":{"class": "l_col_s_12 l_col_m_12 l_col_l_8 l_col_xl_8"}},
-                                    # "theguardian":{"div":{"itemprop": "articleBody"}},
-                                    # "wral":{"attrs":{"class":"p402_premium"}},
-                                    # "observatory":{"section":{"class":"entry-content clearfix"}},
-                                    # "swissinfo":{"div":{"itemprop": "articleBody"}},
-                                    # "snopes":{"div":{"class":"post-body-card post-card card"}},
-                                    # "abc":{"div":{"class":"article section"}}
+                                    "huffingtonpostca":{"attrs":{"class":"post-contents"}},
+                                    "mprnews":{"attrs":{"class":"entry-content"}},
+                                    "pandora":{"div":{"class": "storyblock"}},
+                                    "washingtonpost":{"div":{"class": "article-body"}},
+                                    "truthorfiction":{"div":{"class": "inner-post-entry"}},
+                                    "factcheckorg":{"div":{"class": "entry-content"}},
+                                    "fullfact":{"div":{"class": "col-xs-12 no-padding"}},
+                                    "hoaxslayer":{"div":{"class": "penci-main-sticky-sidebar"}},
+                                    "theconversation":{"div":{"class": "grid-ten large-grid-nine grid-last content-body content entry-content instapaper_body"}},
+                                    "leadstories":{"div":{"class": "l_col_s_12 l_col_m_12 l_col_l_8 l_col_xl_8"}},
+                                    "theguardian":{"div":{"itemprop": "articleBody"}},
+                                    "wral":{"attrs":{"class":"p402_premium"}},
+                                    "observatory":{"section":{"class":"entry-content clearfix"}},
+                                    "swissinfo":{"div":{"itemprop": "articleBody"}},
+                                    "snopes":{"div":{"class":"post-body-card post-card card"}},
+                                    "abc":{"div":{"class":"article section"}}
 
         }
 
