@@ -1,3 +1,4 @@
+import json
 import os
 from bs4 import BeautifulSoup
 import re
@@ -89,62 +90,20 @@ class Tokenizer(object):
         return result
 
 class Parser(object):
-    def __init__(self, schemas_path="seeds/schemas/"):
+    def __init__(self, schemas_path="seeds/schemastestCopyFinal/"):
         self.self = self
         self.schemas_path = schemas_path
         self.dict_info = {}
         self.tokenizer = Tokenizer()
 
-        #Please add the seed name, html tag name, and information about the tag.
-        # self.dict_article_content= {
-        #                             "radionz":{"div":{"class":"article__body"}},
-        #                             "climatefeedback":{"div":{"class":"entry-content"}},
-        #                             "gossipcop":{"div":{"class":"blurb-text"}},
-        #                             "pesacheck":{"div":{"class":"section-content"}},
-        #                             "nytimes":{"attrs":{"itemprop":"articleBody"}},
-        #                             "huffingtonpostca":{"attrs":{"class":"post-contents"}},
-        #                             "mprnews":{"attrs":{"class":"entry-content"}},
-        #                             "pandora":{"div":{"class": "storyblock"}},
-        #                             "washingtonpost":{"div":{"class": "article-body"}},
-        #                             "truthorfiction":{"div":{"class": "inner-post-entry"}},
-        #                             "factcheckorg":{"div":{"class": "entry-content"}},
-        #                             "fullfact":{"div":{"class": "col-xs-12 no-padding"}},
-        #                             "hoaxslayer":{"div":{"class": "penci-main-sticky-sidebar"}},
-        #                             "theconversation":{"div":{"class": "grid-ten large-grid-nine grid-last content-body content entry-content instapaper_body"}},
-        #                             "leadstories":{"div":{"class": "l_col_s_12 l_col_m_12 l_col_l_8 l_col_xl_8"}},
-        #                             "theguardian":{"div":{"itemprop": "articleBody"}},
-        #                             "wral":{"attrs":{"class":"p402_premium"}},
-        #                             "observatory":{"section":{"class":"entry-content clearfix"}},
-        #                             "swissinfo":{"div":{"itemprop": "articleBody"}},
-        #                             "snopes":{"div":{"class":"post-body-card post-card card"}},
-        #                             "abc":{"div":{"class":"article section"}},
-        #                              'africacheck':{"div":{"id":"main"}},
-        #                             "politico":{"div":{"class":"story-text"}},
-        #                             "factly":{"div":{"class":"col-8 main-content"}},
-        #                             "altnews":{"div":{"class":"td-ss-main-content"}},
-        #                             "boomlive":{"div":{"id":"mvp-post-content"}},
-        #                             "verafiles":{"div":{"class":"row"}},
-        #                             'thejournal': {"div": {"class": "post"}},
-        #                             'crikey':{"div":{"class":"grid_9 prefix_2"}},
-        #                             'factscan':{"div":{"class":"list-post"}},
-        #                             'factcheckni': {"div": {"id": "primary"}},
-        #                             # 'voiceofsandiego':{"div":{"class":"vo-page"}},# need to change the code a bit
-        #                             'africacheck':{"div":{"id":"main"}},
-        #                             'checkyourfact':{"div":{"id":"ob-read-more-selector"}},
-        #                             'zimfact':{"div":{"class":"entry-content"}},
-        #                             'theferret':{"div":{"class":"entry-content"}},
-        #                             "politifact_stmt":{"div":{"class":"article__text"}},
-        #                             "politifact_story":{"entry"},
-        #                             "politifact_promise":{"div":{"class":"article__text"}}
-        # }
         self.dict_article_content = {
             "ranz": {"div": {"class": "article__body"}},
             "clck": {"div": {"class": "entry-content"}},
             "goop": {"div": {"class": "blurb-text"}},
             "peck": {"div": {"class": "section-inner sectionLayout--insetColumn"}},
-            "nyes": {"attrs": {"itemprop": "articleBody"}},
-            "huca": {"attrs": {"class": "post-contents"}},
-            "mpws": {"attrs": {"class": "entry-content"}},
+            "nyes": {"section": {"itemprop": "articleBody"}},
+            "huca": {"div": {"class": "post-contents"}},
+            "mpws": {"div": {"class": "entry-content"}},
             "para": {"div": {"class": "storyblock"}},
             "wast": {"div": {"class": "article-body"}},
             "tron": {"div": {"class": "inner-post-entry"}},
@@ -155,28 +114,28 @@ class Parser(object):
                 "class": "grid-ten large-grid-nine grid-last content-body content entry-content instapaper_body"}},
             "lees": {"div": {"class": "l_col_s_12 l_col_m_12 l_col_l_8 l_col_xl_8"}},
             "than": {"div": {"itemprop": "articleBody"}},
-            "wral": {"attrs": {"class": "p402_premium"}},
+            "wral": {"div": {"class": "p402_premium"}},
             "obry": {"section": {"class": "entry-content clearfix"}},
             "swfo": {"div": {"itemprop": "articleBody"}},
             "snes": {"div": {"class": "post-body-card post-card card"}},
             "abbc": {"div": {"class": "article section"}},
             'afck': {"div": {"id": "main"}},
-            # "poco": {"div": {"class": "story-text"}},
-            # "faly": {"div": {"class": "col-8 main-content"}},
-            # "alws": {"div": {"class": "td-ss-main-content"}},
-            # "bove": {"div": {"id": "mvp-post-content"}},
-            # "vees": {"div": {"class": "row"}},
-            # 'thal': {"div": {"class": "post"}},
-            # 'cry': {"div": {"class": "grid_9 prefix_2"}},
-            # 'faan': {"div": {"class": "list-post"}},
-            # 'fani': {"div": {"id": "primary"}},
-            # 'vogo': {"div": {"class": "vo-page"}},  # need to change the code a bit
-            # 'chct': {"div": {"id": "ob-read-more-selector"}},
-            # 'zict': {"div": {"class": "entry-content"}},
-            # 'thet': {"div": {"class": "entry-content"}},
-            # "pomt": {"div": {"class": "article__text"}},
-            # "pory": {"div":{"entry"}},
-            # "pose": {"div": {"class": "article__text"}}
+            "poco": {"div": {"class": "story-text"}},
+            "faly": {"div": {"class": "col-8 main-content"}},
+            "alws": {"div": {"class": "td-ss-main-content"}},
+            "bove": {"div": {"id": "mvp-post-content"}},
+            "vees": {"div": {"class": "row"}},
+            'thal': {"div": {"class": "post"}},
+            'crey': {"div": {"class": "grid_9 prefix_2"}},
+            'faan': {"div": {"class": "list-post"}},
+            'fani': {"div": {"id": "primary"}},
+            'vogo': {"div": {"data-module":"rich-text"}},  # need to change the code a bit
+            'chct': {"div": {"id": "ob-read-more-selector"}},
+            'zict': {"div": {"class": "entry-content"}},
+            'thet': {"div": {"class": "entry-content"}},
+            "pomt": {"div": {"class": "article__text"}},
+            "pory": {"div":"entry"},
+            "pose": {"div": {"class": "article__text"}}
         }
 
     def get_claims_doc_path(self):
@@ -186,6 +145,8 @@ class Parser(object):
         for line in content:
             parts = line.split(" ",4)
             claim_id = parts[0]
+            if claim_id == "XXX-00000":
+                continue
             docid = parts[1]
             path = parts[2]
             content_type = parts[3]
@@ -193,32 +154,46 @@ class Parser(object):
             self.dict_info[claim_id] = {"doc":docid, "path":path,"content_type":content_type,"url":url, "full_text":""}
 
     def read_files(self):
+
         with open("full_text.txt", "w", encoding="utf8", errors="ignore") as file_out:
             for claim_id, info in self.dict_info.items():
                 seed = claim_id.split("-")[0]
                 if not os.path.isfile(info["path"]):
+                    file_out.write(str(info["doc"]) + "::" + "\n")
                     continue
-                with open(info["path"], encoding="utf8", errors="ignore") as f:
-                    content = f.read()
                 if info["path"].endswith(".html"):
+                    f = open(info["path"], encoding="utf8", errors="ignore")
+                    content = f.read()
                     soup = BeautifulSoup(content, 'html.parser')
-                # else:
-                #     soup = BeautifulSoup(content, 'xml.parser')
-                for key, value in self.dict_article_content[seed].items():
-                    if key =="entry":
-                        test = soup.find(value)
-                        continue
-                    elif key == "attrs":
-                        # test = soup.find(attrs={"itemprop":"articleBody"})
-                        test = soup.find(attrs=value)
-                    elif key == "id":
-                        test = soup.find(id=value)
-                    else:
-                        test = soup.find(key,value)
-                    tokens = []
-                    if test is not None:
-                        tokens = self.tokenizer.tokenize(str(test).rstrip())
+                    # print(content, soup)
+                    for key, value in self.dict_article_content[seed].items():
+                        if key == "div" and value == "entry":
+                            test = soup.find('entry').get_text()
+                            # print("test",test)
+                        elif key == "attrs":
+                            # test = soup.find(attrs={"itemprop":"articleBody"})
+                            test = soup.find(key, attrs=value)
+                        elif key == "id":
+                            test = soup.find(key, id=value)
+                        else:
+                            test = soup.find(key, value)
+
+                elif info["path"].endswith(".json"):
+                    with open(info["path"], encoding="utf8", errors="ignore") as f:
+                        file = json.load(f)
+                        test = BeautifulSoup(file["entry"], 'html.parser')
+                tokens = []
+                if test is None and seed == "hoer":
+                    test = soup.find("div", {"class":"rightcol"})
+                    if test is None:
+                        test = soup.find("article", id="content")
+                if test is not None:
+                    tokens = self.tokenizer.tokenize(str(test).rstrip())
+                    print(info["doc"])
                     file_out.write(str(info["doc"]) + "::" + ' '.join(tokens) + "\n")
+                else:
+                    file_out.write(str(info["doc"]) + "::"+"\n")
+                f.close()
 
     # def write_outlinks_to_file(self):
     #     for seed, claims in self.dict_claim_outlinks.items():
@@ -229,7 +204,7 @@ class Parser(object):
 
 
 if __name__ == '__main__':
-    fulltext_parser = Parser("seeds/temp/")
+    fulltext_parser = Parser()
     fulltext_parser.get_claims_doc_path()
     fulltext_parser.read_files()
 

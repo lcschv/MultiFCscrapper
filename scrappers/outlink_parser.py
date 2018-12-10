@@ -9,27 +9,28 @@ class OutLinkScraper(object):
 
         #Please add the seed name, html tag name, and information about the tag.
         self.dict_article_content= {
-                                    "radionz":{"div":{"class":"article__body"}},
-                                    "climatefeedback":{"div":{"class":"entry-content"}},
-                                    "gossipcop":{"div":{"class":"blurb-text"}},
-                                    "pesacheck":{"div":{"class":"section-content"}},
-                                    "nytimes":{"attrs":{"itemprop":"articleBody"}},
-                                    "huffingtonpostca":{"attrs":{"class":"post-contents"}},
-                                    "mprnews":{"attrs":{"class":"entry-content"}},
-                                    "pandora":{"div":{"class": "storyblock"}},
-                                    "washingtonpost":{"div":{"class": "article-body"}},
-                                    "truthorfiction":{"div":{"class": "inner-post-entry"}},
-                                    "factcheckorg":{"div":{"class": "entry-content"}},
-                                    "fullfact":{"div":{"class": "col-xs-12 no-padding"}},
-                                    "hoaxslayer":{"div":{"class": "penci-main-sticky-sidebar"}},
-                                    "theconversation":{"div":{"class": "grid-ten large-grid-nine grid-last content-body content entry-content instapaper_body"}},
-                                    "leadstories":{"div":{"class": "l_col_s_12 l_col_m_12 l_col_l_8 l_col_xl_8"}},
-                                    "theguardian":{"div":{"itemprop": "articleBody"}},
-                                    "wral":{"attrs":{"class":"p402_premium"}},
-                                    "observatory":{"section":{"class":"entry-content clearfix"}},
-                                    "swissinfo":{"div":{"itemprop": "articleBody"}},
-                                    "snopes":{"div":{"class":"post-body-card post-card card"}},
-                                    "abc":{"div":{"class":"article section"}}
+                                    # "radionz":{"div":{"class":"article_body"}},
+                                    # "climatefeedback":{"div":{"class":"entry-content"}},
+                                    "voiceofsandiego":{"div":{"data-module":"rich-text"}},
+                                    # "gossipcop":{"div":{"class":"blurb-text"}},
+                                    # "pesacheck":{"div":{"class":"section-content"}},
+                                    # "nytimes":{"attrs":{"itemprop":"articleBody"}},
+                                    # "huffingtonpostca":{"attrs":{"class":"post-contents"}},
+                                    # "mprnews":{"attrs":{"class":"entry-content"}},
+                                    # "pandora":{"div":{"class": "storyblock"}},
+                                    # "washingtonpost":{"div":{"class": "article-body"}},
+                                    # "truthorfiction":{"div":{"class": "inner-post-entry"}},
+                                    # "factcheckorg":{"div":{"class": "entry-content"}},
+                                    # "fullfact":{"div":{"class": "col-xs-12 no-padding"}},
+                                    # "hoaxslayer":{"div":{"class": "penci-main-sticky-sidebar"}},
+                                    # "theconversation":{"div":{"class": "grid-ten large-grid-nine grid-last content-body content entry-content instapaper_body"}},
+                                    # "leadstories":{"div":{"class": "l_col_s_12 l_col_m_12 l_col_l_8 l_col_xl_8"}},
+                                    # "theguardian":{"div":{"itemprop": "articleBody"}},
+                                    # "wral":{"attrs":{"class":"p402_premium"}},
+                                    # "observatory":{"section":{"class":"entry-content clearfix"}},
+                                    # "swissinfo":{"div":{"itemprop": "articleBody"}},
+                                    # "snopes":{"div":{"class":"post-body-card post-card card"}},
+                                    # "abc":{"div":{"class":"article section"}}
 
         }
 
@@ -51,6 +52,7 @@ class OutLinkScraper(object):
                                     "wral":"https://www.wral.com",
                                     "observatory":"https://observatory.journalism.wisc.edu",
                                     "swissinfo":"https://www.swissinfo.ch",
+                                    "voiceofsandiego":"https://www.voiceofsandiego.org",
                                     "snopes":"https://www.snopes.com",
                                     "abc":"https://www.abc.net.au",
                                     "gossipcop":"https://www.gossipcop.com",
@@ -96,7 +98,7 @@ class OutLinkScraper(object):
                     full_path = "seeds/raw_content/"+str(seed_name)+"/"+path_id+".html"
 
                     self.dict_claim_outlinks[seed_name][claim_id] = self.parse_webdocument(seed_name,full_path)
-        self.write_outlinks_to_file()
+        # self.write_outlinks_to_file()
 
     def parse_webdocument(self, seed_name, file_path):
         outlinks = []
@@ -115,6 +117,7 @@ class OutLinkScraper(object):
                 test = soup.find(id=value)
             else:
                 test = soup.find(key,value)
+        print(test)
         if test is not None:
             for a in test.find_all("a"):
                 if a.get("href") is not None:

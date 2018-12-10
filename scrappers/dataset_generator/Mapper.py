@@ -19,13 +19,13 @@ class Mapper(object):
         self.total = 0
 
     @staticmethod
-    def get_all_schema_and_outlinks_files(schemas_path="../seeds/schemastestCopy/", outlinks_path="../seeds/outlinksCopy/"):
+    def get_all_schema_and_outlinks_files(schemas_path="../seeds/schemastestCopyFinal/", outlinks_path="../seeds/outlinksCopy/"):
         onlyfiles_schema = [os.path.join(schemas_path, f) for f in os.listdir(schemas_path)]
         onlyfiles_outlinks = [os.path.join(outlinks_path, f) for f in os.listdir(outlinks_path)]
         return onlyfiles_schema, onlyfiles_outlinks
 
     def get_url_from_schema(self, file):
-        with open(file, encoding="utf8") as f:
+        with open(file, encoding="utf8", errors="ignore") as f:
             content = f.readlines()
         content = [x.rstrip() for x in content]
         for line in content[1:]:
@@ -109,7 +109,7 @@ class Mapper(object):
 
     def merge_claim_schemas(self):
         i = 1
-        # dict_duplicates_claims = self.get_duplicate_claims()
+        dict_duplicates_claims = self.get_duplicate_claims()
         # print(dict_duplicates_claims)
         # exit()
         claims_schemas, _ = self.get_all_schema_and_outlinks_files()
@@ -118,7 +118,7 @@ class Mapper(object):
                 "1:ClaimID\t2:Claim\t3:Label\t4:ClaimURL\t5:Reason\t6:Categories\t7:Speaker\t8:Checker\t9:Tags\t10:ArticleTitle\t11:PublishDate\t12:ClaimDate\n")
             # f2.write("ClaimID<<::>>Claim<<::>>Label<<::>>ClaimURL<<::>>Reason<<::>>Categories<<::>>Speaker<<::>>Checker<<::>>Tags<<::>>ArticleTitle<<::>>PublishDate<<::>>ClaimDate\n")
             for file in claims_schemas:
-                with open(file, encoding="utf8") as f:
+                with open(file, encoding="utf8", errors="ignore") as f:
                     content = f.readlines()
                 i = 1
 
@@ -138,10 +138,12 @@ class Mapper(object):
                     if len(parts)!= 12:
                         print(line)
                     old_claim_id = parts[0]
+                    if parts[1] == "None":
+                        parts[1] = parts[9]
                     new_claim_id = abbreviation+"-"+str(i).zfill(5)
-                    # if new_claim_id in dict_duplicates_claims:
-                    #     i += 1
-                    #     continue
+                    if new_claim_id in dict_duplicates_claims:
+                        i += 1
+                        continue
                     if seed not in self.dict_old_to_new_claimID:
                         self.dict_old_to_new_claimID[seed] = {}
                     if old_claim_id not in self.dict_old_to_new_claimID[seed]:
@@ -164,22 +166,21 @@ class Mapper(object):
                     no_duplicates_urls[url][seed].add(value)
         return no_duplicates_urls
 
-
     def generate_doc_id_url_file(self,claim_filepath="data\claims_schema_separator_tab" ,docid_url_path = "data/docID_url.txt"):
         self.merge_claim_schemas()
         # dict_unique_urls = self.get_unique_urls()
-        # dict_duplicates_claims = self.get_duplicate_claims()
+        dict_duplicates_claims = self.get_duplicate_claims()
         # print(len(dict_duplicates_claims))
         dict_claim_urls = {}
-        with open(claim_filepath, encoding="utf8") as f:
+        with open(claim_filepath, encoding="utf8", errors="ignore") as f:
             content = f.readlines()
         content = [x.rstrip() for x in content]
         with open(docid_url_path, "w") as f:
             for line in content:
                 parts = line.split("\t")
                 claim_id = parts[0]
-                # if claim_id in dict_duplicates_claims:
-                #     continue
+                if claim_id in dict_duplicates_claims:
+                    continue
                 url = parts[3]
                 if url in self.check_occurance_letter:
                     docid = str(claim_id)+"-"+str(self.check_occurance_letter[url])+"-"+str(self.dict_unique_urls[url]).zfill(6)
@@ -205,7 +206,7 @@ class Mapper(object):
         schemas_files ,outlink_files = self.get_all_schema_and_outlinks_files()
         for file in schemas_files:
             seed = file.split('/')[-1].replace('.txt','')
-            with open(file, encoding="utf8") as f:
+            with open(file, encoding="utf8", errors="ignore") as f:
                 content = f.readlines()
             content = [x.rstrip() for x in content]
             for line in content[1:]:
@@ -222,11 +223,10 @@ class Mapper(object):
                     claim_id = claim_id.split('_')[0]
                 file_path = "../seeds/raw_content/"+seed+"/"+str(claim_id)+".html"
                 if not os.path.isfile(file_path):
-                    file_path = file_path.replace(".html", ".txt")
+                    file_path = file_path.replace(".html", ".json")
                     if not os.path.isfile(file_path):
-                        file_path = file_path.replace(".txt", ".xml")
-                        if not os.path.isfile(file_path):
-                            file_path = "None"
+                        # print("File not found....", seed, url)
+                        file_path = "None"
                 if url not in self.dict_url_rawpath:
                     self.dict_url_rawpath[url] = file_path
                     # print(url, file_path)
@@ -254,9 +254,8 @@ class Mapper(object):
                         if not os.path.isfile(file_path):
                             file_path = file_path.replace(".html", ".pdf")
                             if not os.path.isfile(file_path):
-                                file_path = file_path.replace(".pdf", ".xml")
-                                if not os.path.isfile(file_path):
-                                    file_path = "None"
+                                # print("File not found....", seed, url)
+                                file_path = "None"
                         self.dict_url_rawpath[url] = file_path
 
     def get_claim_object(self, schemas_filepath="data/claims_schema_separator_tab"):
@@ -321,7 +320,7 @@ class Mapper(object):
         for line in content:
             parts = line.split("\t",2)
             dict_url_docid[parts[1]] = parts[0]
-        print(dict_url_docid["https://africacheck.org/wp-content/uploads/2018/02/26431154608_45ce1d4ae4_k.jpg"])
+        # print(dict_url_docid["https://africacheck.org/wp-content/uploads/2018/02/26431154608_45ce1d4ae4_k.jpg"])
         return dict_url_docid
 
 
@@ -329,7 +328,7 @@ class Mapper(object):
         self.label_scales = {}
         claims_schemas, _ = self.get_all_schema_and_outlinks_files()
         for file in claims_schemas:
-            with open(file, encoding="utf8") as f:
+            with open(file, encoding="utf8", errors="ignore") as f:
                 content = f.readlines()
             content = [x.rstrip() for x in content]
             seed = file.split("/")[-1].replace('.txt', '').rstrip()
@@ -352,11 +351,11 @@ class Mapper(object):
         return self.label_scales
     def generate_docid_url_sources_file(self):
         self.get_unique_urls()
-        dict_plaintext_labels = {"fay":0,"fai":0,"fut":0,"thl":0}
+        dict_plaintext_labels = {"faly":0,"fani":0,"fuct":0,"thal":0}
         dict_labels_scales = self.get_label_scale()
-        # for seed,labels in dict_labels_scales.items():
-        #     if len(labels) > 16:
-        #         print(seed, len(labels), list(labels.keys()))
+        for seed,labels in dict_labels_scales.items():
+            if len(labels) > 16:
+                print(seed, len(labels), list(labels.keys()))
         # exit()
         dict_out_links_urls = self.get_list_outlinks_by_claim_doc()
         read_url_docid = self.read_url_docid()
@@ -376,80 +375,82 @@ class Mapper(object):
                 self.dict_doc_id_url[parts[0].split("-c-")[0]] = parts[0]
             elif "-b-" in parts[0]:
                 self.dict_doc_id_url[parts[0].split("-b-")[0]] = parts[0]
-        with open("data/claim_docid_path_url.txt","w",encoding="utf8", errors="ignore") as fout:
-            for line in content:
-                parts = line.split("\t")
-                url = parts[1]
-                docid = parts[0]
-                if url in dict_outlinks_sources:
-                    claims_sources = self.transform_old_id_to_new(dict_outlinks_sources[url])
-                    inlinks = [self.dict_doc_id_url[x] for x in claims_sources if self.dict_doc_id_url[x] != docid]
-                outlinks = []
-                document_record = DocumentSchema()
-                claim_info = None
-                if "-c-" in docid:
-                    document_record.set_isClaim("claim")
-                    claim_info = self.dict_claim_objects[docid.split("-c-")[0]]
-                    # document_record.set_list_entities(self.dict_entities[claim_info["1:ClaimID"]]["entities"])
-                    # document_record.set_number_entities(self.dict_entities[claim_info["1:ClaimID"]]["num"])
-                    if claim_info["1:ClaimID"] in dict_out_links_urls:
-                        outlinks = [read_url_docid[x] for x in list(dict_out_links_urls[claim_info["1:ClaimID"]].keys()) if x in read_url_docid]
-                    document_record.set_list_outlinks(outlinks)
-                elif "-b-" in docid:
-                    document_record.set_isClaim("claim and document")
-                    claim_info = self.dict_claim_objects[docid.split("-b-")[0]]
-                    # document_record.set_list_entities(self.dict_entities[claim_info["1:ClaimID"]]["entities"])
-                    # document_record.set_number_entities(self.dict_entities[claim_info["1:ClaimID"]]["num"])
-                    if claim_info["1:ClaimID"] in dict_out_links_urls:
-                        outlinks = [read_url_docid[x] for x in list(dict_out_links_urls[claim_info["1:ClaimID"]].keys()) if x in read_url_docid]
-                    document_record.set_list_outlinks(outlinks)
-                else:
-                    document_record.set_isClaim("document")
-                try:
-                    if claim_info is not None:
-                        seed_abbrv = claim_info["1:ClaimID"].split("-")[0]
-                        document_record.set_id(claim_info["1:ClaimID"])
-                        if claim_info["2:Claim"] is not None:
-                            document_record.set_claim(claim_info["2:Claim"])
-                        else:
-                            document_record.set_claim(claim_info["10:ArticleTitle"])
-                        document_record.set_label(claim_info["3:Label"])
-                        # document_record.set_clai(claim_info["4:ClaimURL"])
-                        document_record.set_reason(claim_info["5:Reason"])
-                        document_record.set_categories(claim_info["6:Categories"])
-                        document_record.set_speaker(claim_info["7:Speaker"])
-                        document_record.set_checker(claim_info["8:Checker"])
-                        document_record.set_tags(claim_info["9:Tags"])
-                        if seed_abbrv in dict_plaintext_labels and claim_info["3:Label"] is not None:
-                            document_record.set_label_scale(["Free Text"])
-                        else:
-                            document_record.set_label_scale(list(dict_labels_scales[docid.split("-")[0]].keys()))
-                        document_record.set_article_title(claim_info["10:ArticleTitle"])
-                        document_record.set_publish_date(claim_info["11:PublishDate"])
-                        document_record.set_claim_date(claim_info["12:ClaimDate"])
-                except:
-                    continue
-                document_record.set_doc_id(docid)
-                document_record.set_list_inlinks(inlinks)
-                path = self.dict_url_rawpath[url]
-
-
-                if path.endswith(".pdf"):
-                    content_type = "application/pdf"
-                elif path.endswith(".xml"):
-                    content_type = "text/xml"
-                else:
-                    content_type = "text/html"
-                    # temp_file = open(path,"rb")
+        # with open("data/claim_docid_path_url.txt","w",encoding="utf8", errors="ignore") as fout:
+        for line in content:
+            parts = line.split("\t")
+            url = parts[1]
+            docid = parts[0]
+            if url in dict_outlinks_sources:
+                claims_sources = self.transform_old_id_to_new(dict_outlinks_sources[url])
+                inlinks = [self.dict_doc_id_url[x] for x in claims_sources if self.dict_doc_id_url[x] != docid]
+            outlinks = []
+            document_record = DocumentSchema()
+            claim_info = None
+            if "-c-" in docid:
+                document_record.set_isClaim("claim")
+                claim_info = self.dict_claim_objects[docid.split("-c-")[0]]
+                # document_record.set_list_entities(self.dict_entities[claim_info["1:ClaimID"]]["entities"])
+                # document_record.set_number_entities(self.dict_entities[claim_info["1:ClaimID"]]["num"])
+                if claim_info["1:ClaimID"] in dict_out_links_urls:
+                    outlinks = [read_url_docid[x] for x in list(dict_out_links_urls[claim_info["1:ClaimID"]].keys()) if x in read_url_docid]
+                document_record.set_list_outlinks(outlinks)
+            elif "-b-" in docid:
+                document_record.set_isClaim("claim and document")
+                claim_info = self.dict_claim_objects[docid.split("-b-")[0]]
+                # document_record.set_list_entities(self.dict_entities[claim_info["1:ClaimID"]]["entities"])
+                # document_record.set_number_entities(self.dict_entities[claim_info["1:ClaimID"]]["num"])
+                if claim_info["1:ClaimID"] in dict_out_links_urls:
+                    outlinks = [read_url_docid[x] for x in list(dict_out_links_urls[claim_info["1:ClaimID"]].keys()) if x in read_url_docid]
+                document_record.set_list_outlinks(outlinks)
+            else:
+                document_record.set_isClaim("document")
+            try:
                 if claim_info is not None:
-                    print(claim_info["1:ClaimID"], docid, path, content_type, url, file=fout)
-                    # document_length = len(temp_file.read())
-                    # temp_file.close()
-                    # document_record.set_document_length(document_length)
-                document_record.set_content_type(content_type)
-                document_record.set_content(path)
-                document_record.set_url(url)
-                # document_record.pretty_print()
+                    seed_abbrv = claim_info["1:ClaimID"].split("-")[0]
+                    document_record.set_id(claim_info["1:ClaimID"])
+                    if claim_info["2:Claim"] is not None:
+                        document_record.set_claim(claim_info["2:Claim"])
+                    else:
+                        document_record.set_claim(claim_info["10:ArticleTitle"])
+                    document_record.set_label(claim_info["3:Label"])
+                    # document_record.set_clai(claim_info["4:ClaimURL"])
+                    document_record.set_reason(claim_info["5:Reason"])
+                    document_record.set_categories(claim_info["6:Categories"])
+                    document_record.set_speaker(claim_info["7:Speaker"])
+                    document_record.set_checker(claim_info["8:Checker"])
+                    document_record.set_tags(claim_info["9:Tags"])
+                    if seed_abbrv in dict_plaintext_labels and claim_info["3:Label"] is not None:
+                        document_record.set_label_scale(["Free Text"])
+                    else:
+                        document_record.set_label_scale(list(dict_labels_scales[docid.split("-")[0]].keys()))
+                    document_record.set_article_title(claim_info["10:ArticleTitle"])
+                    document_record.set_publish_date(claim_info["11:PublishDate"])
+                    document_record.set_claim_date(claim_info["12:ClaimDate"])
+            except:
+                continue
+            document_record.set_doc_id(docid)
+            document_record.set_list_inlinks(inlinks)
+            path = self.dict_url_rawpath[url]
+
+
+            if path.endswith(".pdf"):
+                content_type = "application/pdf"
+            elif path.endswith(".json"):
+                content_type = "json"
+            else:
+                content_type = "text/html"
+                temp_file = open(path,"rb")
+            # if claim_info is not None:
+            #     print(claim_info["1:ClaimID"], docid, path, content_type, url, file=fout)
+            # else:
+            #     print("XXX-00000", docid, path, content_type, url, file=fout)
+# document_length = len(temp_file.read())
+                # temp_file.close()
+                # document_record.set_document_length(document_length)
+            document_record.set_content_type(content_type)
+            document_record.set_content(path)
+            document_record.set_url(url)
+            document_record.pretty_print()
             # a = ("DocID:", docid, "\toriginalpath:",self.dict_url_rawpath[url], "\tDocumentInlinks:",inlinks,"\tUrl:",url)
             # except:
             #     print(line)

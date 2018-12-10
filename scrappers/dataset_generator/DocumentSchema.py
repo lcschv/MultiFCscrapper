@@ -19,12 +19,12 @@ class DocumentSchema(object):
         self.doc_id = None
         self.full_article_text = None
         self.document_length = None
-        self.content = None
         self.list_inlinks = None
         self.list_outlinks = None
         self.label_scale = None
         self.number_entities = None
         self.list_entities = None
+        self.content = None
 
     """Getters"""
     def get_content_type(self):
