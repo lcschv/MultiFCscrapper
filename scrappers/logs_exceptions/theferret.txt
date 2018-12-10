@@ -1,0 +1,97 @@
+http://www.sharethefacts.co/share/b90bce41-8f1a-4763-97df-bf269bd9d6c6	HTTP Error 403: Forbidden
+https://www.collinsdictionary.com/dictionary/english/in-the-bag	HTTP Error 403: Forbidden
+https://www.thinkbroadband.com/news/7942-february-update-on-state-of-broadband-coverage-across-the-uk-nations-and-regions	HTTP Error 403: Forbidden
+http://www.sharethefacts.co/share/cdfa8e59-89ed-4631-bcf5-bdf637060b6f	HTTP Error 403: Forbidden
+http://scottishlabour.org.uk/blog/entry/scottish-labour-our-post-brexit-action-plan	HTTP Error 403: Forbidden
+http://atwonline.com/blog/brexit-could-lead-doors-closing-open-skies	HTTP Error 403: Forbidden
+https://www.theccc.org.uk/wp-content/uploads/2013/03/LULUCF.pdf	HTTP Error 403: Forbidden
+http://learningforsustainabilityscotland.org/wp-content/uploads/2017/06/Scottish-Labour-Manifesto-2017.pdf#page=29	HTTP Error 404: Not Found
+https://community.theferret.scot/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://bit.ly/1Sa6udx	<urlopen error [Errno 11001] getaddrinfo failed>
+https://community.theferret.scot/t/claim-that-military-earning-over-just-24-000-will-pay-more-tax-in-scotland-is-false/1371/2?u=alastairbrian	<urlopen error [Errno 11001] getaddrinfo failed>
+https://community.theferret.scot/t/ferret-fact-service-endorsed-by-international-fact-checking-body/1153	<urlopen error [Errno 11001] getaddrinfo failed>
+https://creativecommons.org/licenses/by-sa/2.0/	HTTP Error 403: Forbidden
+https://creativecommons.org/licenses/by-sa/2.5/	HTTP Error 403: Forbidden
+http://www.gov.scot/Resource/0053/00531065.pdf	HTTP Error 404: Not Found
+https://creativecommons.org/licenses/by-sa/3.0/deed.en	HTTP Error 403: Forbidden
+https://creativecommons.org/licenses/by-sa/4.0/	HTTP Error 403: Forbidden
+https://www.scotrail.co.uk/performance-and-reliability	HTTP Error 403: Forbidden
+https://creativecommons.org/licenses/by-sa/4.0/deed.en	HTTP Error 403: Forbidden
+https://www.scotrail.co.uk/sites/default/files/assets/download_ct/schedule_7_web_upload_p1718_04.pdf	HTTP Error 403: Forbidden
+https://creativecommons.org/publicdomain/mark/1.0/	HTTP Error 403: Forbidden
+http://www.gov.scot/Resource/0053/00534354.pdf	HTTP Error 404: Not Found
+https://www.waterbriefing.org/home/contracts/item/10905-delay-in-award-of-scotland-public-water-sector-contract	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/economicoutputandproductivity/output/bulletins/indexofservices/apr2017	HTTP Error 403: Forbidden
+https://www.anglianwaterbusiness.co.uk/your-sector/public-sector/scottish-public-sector/	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/economy/nationalaccounts/balanceofpayments/methodologies/uktradeglossaryofterms2015	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/2017provisionaland2016revisedresults/relateddata?sortBy=title&query=&size=50	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/bulletins/annualsurveyofhoursandearnings/previousReleases	HTTP Error 403: Forbidden
+http://www.gov.scot/Resource/Doc/158704/0043067.pdf	HTTP Error 404: Not Found
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/methodologies/guidetointerpretingannualsurveyofhoursandearningsasheestimates#how-does-ashe-measure-the-gender-pay-gap	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/articles/labourmarketeconomiccommentary/june2017#total-real-wage-growth-turns-negative	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/april2018#young-people-in-the-labour-market	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/march2018	HTTP Error 403: Forbidden
+http://blogs.lse.ac.uk/brexit/2016/03/04/leaving-the-eu-would-mean-renegotiating-more-than-100-trade-agreements/	HTTP Error 403: Bad Behavior
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/bulletins/uklabourmarket/september2017#average-weekly-earnings	HTTP Error 403: Forbidden
+http://www.gov.scot/Resource/Doc/91982/0105432.pdf	HTTP Error 404: Not Found
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/employmentandemployeetypes/methodologies/labourforcesurveyperformanceandqualitymonitoringreports/labourforcesurveyperformanceandqualitymonitoringreportapriltojune2017	HTTP Error 403: Forbidden
+http://ferret.sharethefacts.co/share/11021076-da86-4fde-99be-30408e87d056	HTTP Error 403: Forbidden
+http://ferret.sharethefacts.co/share/1429d181-1487-4ae2-baeb-0a51a84a53ba	HTTP Error 403: Forbidden
+http://ferret.sharethefacts.co/share/3ee1d529-561e-4536-8f20-ebf432cc0c2a	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/methodology/methodologytopicsandstatisticalconcepts/seasonaladjustment	HTTP Error 403: Forbidden
+https://scotland.laboursites.org/conference-news/2018/03/10/richard/	HTTP Error 403: Forbidden
+http://ferret.sharethefacts.co/share/5db9c9da-d935-42c2-a18a-921aab7fdf19	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualmidyearpopulationestimates/mid2017#main-points	HTTP Error 403: Forbidden
+https://www.jstor.org/stable/1090066?seq=1#page_scan_tab_contents	HTTP Error 403: Unauthorized
+http://ferret.sharethefacts.co/share/764d43a4-1d62-4950-983d-80dbec478827	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/bulletins/annualmidyearpopulationestimates/previousReleases	HTTP Error 403: Forbidden
+http://ferret.sharethefacts.co/share/ad3f3848-8dff-4510-b94d-6d88fad1c1a2	HTTP Error 403: Forbidden
+http://ferret.sharethefacts.co/share/c3bd6b20-ccd4-497f-9f4b-ddf64fd1f2f6	HTTP Error 403: Forbidden
+http://ferret.sharethefacts.co/share/e4d9cbd1-4d10-4bb7-8c94-2c518bee4e43	HTTP Error 403: Forbidden
+https://www.whitecase.com/publications/alert/uk-and-world-trade-organization-wto-what-happens-after-brexit	HTTP Error 403: Forbidden
+https://www.sharethefacts.co/share/11021076-da86-4fde-99be-30408e87d056	HTTP Error 403: Forbidden
+https://www.sharethefacts.co/share/3ee1d529-561e-4536-8f20-ebf432cc0c2a	HTTP Error 403: Forbidden
+http://visual.ons.gov.uk/uk-trade-partners/	HTTP Error 403: Forbidden
+http://blogs.lse.ac.uk/brexit/2016/06/10/dont-blame-the-eu-for-the-decline-in-some-british-fishing-ports/	HTTP Error 403: Bad Behavior
+http://www.lse.ac.uk/GranthamInstitute/news/why-economic-models-tell-us-so-little-about-the-future-2/	HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop. The last 30x error message was: Found
+https://www.politico.eu/article/syria-to-scotlands-migrant-island-bute-refugees/	HTTP Error 403: Forbidden
+http://www.migrationobservatory.ox.ac.uk/resources/briefings/election-2015-briefing-fiscal-impacts-of-migration-to-the-uk/	HTTP Error 403: Forbidden
+http://webcache.googleusercontent.com/search?q=cache:b5UwtaDBuKsJ:www.eveningtimes.co.uk/news/15456773.ScotRail_misses_targets_as_trains_continue_to_run_late_at_Glasgow_stations/+&cd=1&hl=en&ct=clnk&gl=uk	HTTP Error 403: Forbidden
+http://www.migrationobservatory.ox.ac.uk/resources/briefings/the-labour-market-effects-of-immigration/	HTTP Error 403: Forbidden
+http://blogs.lse.ac.uk/brexit/2016/11/08/could-scotland-do-a-reverse-greenland-to-stay-in-the-eu-no/	HTTP Error 403: Bad Behavior
+https://www.nafc.uhi.ac.uk/research/statistics/eez-landings/uk_eez_2016-11-11_final.pdf	HTTP Error 404: Not Found
+http://webcache.googleusercontent.com/search?q=cache:ua4a7v1PlRIJ:www.heraldscotland.com/news/15457139.Half_of_ScotRail_trains_miss_punctuality_targets_at_Scotland_s_busiest_stations/+&cd=4&hl=en&ct=clnk&gl=uk	HTTP Error 403: Forbidden
+https://www.networkrail.co.uk/who-we-are/how-we-work/performance/public-performance-measure/	HTTP Error 403: Forbidden
+https://www.flickr.com/photos/davekellam/	HTTP Error 500: Internal Server Error
+http://blogs.lse.ac.uk/brexit/2017/06/08/unpicking-the-no-deal-is-better-than-a-bad-deal-mantra-what-would-a-bad-deal-look-like/	HTTP Error 403: Bad Behavior
+http://www.britishelectionstudy.com/bes-findings/what-mattered-most-to-you-when-deciding-how-to-vote-in-the-eu-referendum/#.WX2I-4jys2z	HTTP Error 403: Forbidden
+http://blogs.lse.ac.uk/brexit/2017/06/09/unpicking-the-no-deal-is-better-than-a-bad-deal-mantra-what-does-no-deal-look-like/	HTTP Error 403: Bad Behavior
+http://referendumanswers.com/	HTTP Error 503: Service Unavailable
+http://www.consilium.europa.eu/en/council-eu/configurations/agrifish/	HTTP Error 403: Forbidden
+http://blogs.lse.ac.uk/brexit/2017/07/17/legislation-that-is-and-is-not-the-deeply-problematic-repeal-bill/	HTTP Error 403: Bad Behavior
+http://brexitcentral.com/uk-trade-agreements-before-brexit/	HTTP Error 403: Forbidden
+https://www.nrscotland.gov.uk/files/statistics/high-level-summary/j11198/j1119806.htm	HTTP Error 404: Not Found
+https://www.nrscotland.gov.uk/statistics-and-data/statistics/statistics-by-theme/population/population-estimates/population-by-country-of-birth-and-nationality/june-2017	HTTP Error 404: Not Found
+https://theferret.scot/buckfast-link-scottish-crime/	HTTP Error 404: Not Found
+https://cebr.com/reports/typical-uk-household-will-be-500-worse-off-this-year-than-in-2016/	HTTP Error 503: Service Unavailable
+https://www.gouvernement.fr/en/climate-plan	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://budgetresponsibility.org.uk/efo/economic-fiscal-outlook-march-2017/	[WinError 10054] An existing connection was forcibly closed by the remote host
+https://www.thinkbroadband.com/news/7892-rural-and-urban-broadband-coverage-in-scotland	HTTP Error 403: Forbidden
+https://www.icas.com/technical-resources/scottish-budget-income-tax-changes-explained	HTTP Error 404: Not Found
+https://www.gov.scot/Resource/0039/00396978.pdf	HTTP Error 404: Not Found
+http://creativecommons.org/licenses/by-sa/3.0/	HTTP Error 403: Forbidden
+http://creativecommons.org/licenses/by/3.0	HTTP Error 403: Forbidden
+http://www.scottishhousingnews.com/19574/scotland-streets-ahead-england-affordable-housing-delivery/	HTTP Error 403: Forbidden
+http://www.army.mod.uk/documents/general/TA_REGS.pdf	The read operation timed out
+http://www.scottishlabour.org.uk/campaigns/entry/manifesto-2017	HTTP Error 403: Forbidden
+https://digit.fyi/scottish-internet-hampered/	The read operation timed out
+http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/qb100403.pdf	HTTP Error 404: Not Found
+http://www.huffingtonpost.co.uk/entry/jeremy-corbyn-student-debt-general-election_uk_5975a97de4b09e5f6cd0619c	HTTP Error 403: Forbidden
+http://www.huffingtonpost.co.uk/entry/snp-wales-dup-tory-deal_uk_5950ebe2e4b02734df2b982a	HTTP Error 403: Forbidden
+http://www.independent.co.uk/news/business/news/brexit-theresa-may-trade-deal-european-union-oecd-a7776961.html	HTTP Error 404: Not Found
+http://www.sharethefacts.co/share/3c349bcc-8ddb-4b88-9224-5726a50a49f9	HTTP Error 403: Forbidden
+http://www.sharethefacts.co/share/59b50035-d630-4e37-b857-16efa5cb8d9e	HTTP Error 403: Forbidden
+http://www.jstor.org/stable/1950045?seq=1#page_scan_tab_contents	HTTP Error 403: Unauthorized
+http://www.labour.org.uk/index.php/manifesto2017/brexit	HTTP Error 403: Forbidden
+http://www.labour.org.uk/page/-/Images/manifesto-2017/Labour%20Manifesto%202017.pdf	HTTP Error 403: Forbidden
+http://www.lawyersforbritain.org/eu-deal-eea-bad.shtml	HTTP Error 404: Not Found

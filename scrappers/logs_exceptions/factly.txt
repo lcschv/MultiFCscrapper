@@ -1,0 +1,310 @@
+https://creativecommons.org/licenses/by-sa/2.0	HTTP Error 403: Forbidden
+https://www.hindustantimes.com/india-news/over-63-cut-in-budget-2018-for-rti-cic/story-YVdwJzsglPRshgCo3GngQL_amp.html	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-check-government-reduced-60-budget-rti%2F	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-check-was-the-winter-session-of-parliament-postponed-during-upa-rule%2F	HTTP Error 403: Forbidden
+https://factly.in/fact-check-delhi-class-xii-results-manish-sisodia-got-wrong/#comment-5156	HTTP Error 403: Forbidden
+https://factly.in//fact-check-delhi-class-xii-results-manish-sisodia-got-wrong/#respond	HTTP Error 403: Forbidden
+https://factly.in/fact-check-has-the-allocation-for-scholarships-of-scs-obcs-increased/#respond	HTTP Error 403: Forbidden
+https://factly.in/fact-check-in-whose-tenure-did-exports-grow-faster/#comment-7893	HTTP Error 403: Forbidden
+https://factly.in//fact-check-manmohan-singh-undertake-foreign-visits-narendra-modi/#respond	HTTP Error 403: Forbidden
+https://factly.in/what-is-the-amount-of-fake-currency-detected-after-demonetization/	HTTP Error 403: Forbidden
+https://factly.in/fact-check-was-the-winter-session-of-parliament-postponed-during-upa-rule/#comment-6487	HTTP Error 403: Forbidden
+https://factly.in/disrespect-indian-national-flag-offence/	HTTP Error 403: Forbidden
+https://factly.in//rights-of-persons-with-disabilities-act/#respond	HTTP Error 403: Forbidden
+https://factly.in/nota-story-gujarat/	HTTP Error 403: Forbidden
+https://factly.in/indias-republic-day-chief-guests-since-1950/	HTTP Error 403: Forbidden
+https://factly.in/fact-checking-government-claims-on-scholarship-to-persons-with-disability/	HTTP Error 403: Forbidden
+http://www.it.telangana.gov.in/media/downloads/	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.it.telangana.gov.in'. (_ssl.c:1045)>
+http://164.100.158.235/question/annex/239/Au1651.docx	<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-check-what-did-the-government-do-for-the-development-of-persons-with-disabilities%2F	HTTP Error 403: Forbidden
+https://factly.in//fact-check-did-japan-usa-enforce-temperature-setting-of-air-conditioners/#respond	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-check-has-accessibility-for-pwds-improved-in-the-last-four-years%2F	HTTP Error 403: Forbidden
+https://factly.in/fact-check-delhi-class-xii-results-manish-sisodia-got-wrong/#comments	HTTP Error 403: Forbidden
+https://factly.in//fact-check-padma-awardees-accorded-state-funeral/#respond	HTTP Error 403: Forbidden
+https://factly.in/fact-check-has-the-up-government-slashed-funds-for-education/#respond	HTTP Error 403: Forbidden
+https://factly.in/fact-check-was-the-winter-session-of-parliament-postponed-during-upa-rule/#comments	HTTP Error 403: Forbidden
+https://factly.in/21-of-the-panchayats-in-the-country-do-not-have-a-building-of-their-own/	HTTP Error 403: Forbidden
+https://factly.in/is-there-a-process-or-policy-in-place-for-renaming-cities-or-places/	HTTP Error 403: Forbidden
+https://factly.in/fact-check-in-whose-tenure-did-exports-grow-faster/#comments	HTTP Error 403: Forbidden
+https://factly.in/now-playing-government-vs-election-commission-rti-online/	HTTP Error 403: Forbidden
+https://factly.in/fact-checking-government-claims-on-welfare-of-the-girl-child/	HTTP Error 403: Forbidden
+https://factly.in/where-does-the-vice-president-travel-in-india/	HTTP Error 403: Forbidden
+https://factly.in/does-india-receive-aid-from-foreign-countries/	HTTP Error 403: Forbidden
+http://eci.nic.in/eci_main1/current/PN_061003.pdf	HTTP Error 404: Not Found
+https://unctad.org/en/Pages/DIAE/World%20Investment%20Report/Annex-Tables.aspx	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://unctad.org/en/PublicationChapters/wir2018ch1_en.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://factly.in/fact-check-in-whose-tenure-did-msp-increase-by-a-greater-percentage/#respond	HTTP Error 403: Forbidden
+https://factly.in/number-atms-rural-areas-less-september-2016/	HTTP Error 403: Forbidden
+https://factly.in/where-in-india-are-the-tamil-kannada-malayalam-speakers/	HTTP Error 403: Forbidden
+https://factly.in/fact-check-did-japan-usa-enforce-temperature-setting-of-air-conditioners/#comment-8114	HTTP Error 403: Forbidden
+https://factly.in/election-contestants-will-now-disclose-sources-income-apart-assets-enough/	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-check-has-india-been-attracted-more-fdi-in-the-last-few-years%2F	HTTP Error 403: Forbidden
+https://factly.in/fact-check-has-there-been-a-exponential-increase-in-camps-for-divyangs/	HTTP Error 403: Forbidden
+https://factly.in//fact-check-pew-research-said-85-indians-trust-government/#respond	HTTP Error 403: Forbidden
+https://factly.in/is-there-a-process-or-policy-in-place-for-renaming-cities-or-places/#respond	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-check-will-you-be-penalised-for-giving-lift-to-unknown-persons%2F	HTTP Error 403: Forbidden
+https://factly.in/fact-checking-government-claims-over-use-of-technology/	HTTP Error 403: Forbidden
+https://factly.in/22-companies-account-for-50-of-the-csr-expenditure-in-2015-16/	HTTP Error 403: Forbidden
+https://factly.in/fact-check-what-did-the-government-do-for-the-development-of-persons-with-disabilities/	HTTP Error 403: Forbidden
+https://factly.in//fact-check-did-pm-modi-inaugurate-an-already-open-all-india-institute-of-ayurveda/#respond	HTTP Error 403: Forbidden
+https://unctad.org/en/PublicationsLibrary/wir2013_en.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://unctad.org/en/PublicationsLibrary/wir2014_en.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://unctad.org/en/PublicationsLibrary/wir2016_en.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://unctad.org/en/PublicationsLibrary/wir2017_en.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://delhicourts.nic.in/Accident_Claim_Petition.htm	HTTP Error 404: Not Found
+http://164.100.158.235/question/annex/244/Au222.docx	<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+https://factly.in/number-of-political-parties-increased-twofold-in-the-last-10-years-crosses-the-2000-mark/	HTTP Error 403: Forbidden
+https://factly.in/fact-check-did-japan-usa-enforce-temperature-setting-of-air-conditioners/#comments	HTTP Error 403: Forbidden
+https://factly.in/fact-check-indias-standing-global-indices/#comment-5683	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-checking-claims-on-indias-global-standing-in-fdi-inflows%2F	HTTP Error 403: Forbidden
+https://factly.in/40-percent-of-all-drug-abuse-suicides-in-maharashtra/	HTTP Error 403: Forbidden
+https://factly.in//fact-check-rahul-gandhis-claims-telangana-public-meeting/#respond	HTTP Error 403: Forbidden
+https://factly.in/who-benefitted-from-increase-in-taxes-on-petrol-diesel/	HTTP Error 403: Forbidden
+https://factly.in/elections-59-rajya-sabha-seats-due-march-will-many/	HTTP Error 403: Forbidden
+https://factly.in/fact-checking-government-claims-over-use-of-technology/#respond	HTTP Error 403: Forbidden
+https://factly.in/fact-check-what-did-the-government-do-for-the-development-of-persons-with-disabilities/#respond	HTTP Error 403: Forbidden
+https://factly.in//fact-check-government-reduced-60-budget-rti/#respond	HTTP Error 403: Forbidden
+https://factly.in/fact-check-has-there-been-a-exponential-increase-in-camps-for-divyangs/#respond	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-check-has-india-improved-in-global-eodb-competitiveness-index-rankings-in-the-last-4-years%2F	HTTP Error 403: Forbidden
+https://factly.in/law-cheque-bouncing/	HTTP Error 403: Forbidden
+http://eci.nic.in/eci_main1/current/pn141008.pdf	HTTP Error 404: Not Found
+https://factly.in/fact-check-indias-standing-global-indices/#comments	HTTP Error 403: Forbidden
+https://factly.in/fact-check-did-pm-modi-inaugurate-an-already-open-all-india-institute-of-ayurveda/	HTTP Error 403: Forbidden
+https://factly.in/number-of-state-bank-atms-in-telangana-down-by-more-than-40-between-march-june-2017/	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-checking-government-claims-on-accessibility-for-persons-with-disabilities-pwds%2F	HTTP Error 403: Forbidden
+https://factly.in/why-are-some-states-not-part-of-ayushman-bharat/	HTTP Error 403: Forbidden
+https://factly.in//fact-check-was-the-winter-session-of-parliament-postponed-during-upa-rule/#respond	HTTP Error 403: Forbidden
+https://factly.in/fact-checking-the-governments-claims-on-auctions-clearances/	HTTP Error 403: Forbidden
+https://factly.in/a-major-dravidian-language-is-now-the-mother-tongue-of-only-18-9-indians-down-from-23-in-1971/	HTTP Error 403: Forbidden
+https://factly.in/explainer-video-hindi-national-language/	HTTP Error 403: Forbidden
+https://factly.in//fact-check-has-accessibility-for-pwds-improved-in-the-last-four-years/#respond	HTTP Error 403: Forbidden
+https://factly.in/fact-check-will-you-be-penalised-for-giving-lift-to-unknown-persons/#comment-7694	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-check-has-the-allocation-for-scholarships-of-scs-obcs-increased%2F	HTTP Error 403: Forbidden
+https://factly.in/media-misinterpreted-misreported-pms-statements-passports/#comments	HTTP Error 403: Forbidden
+https://factly.in/fact-check-have-amendments-to-sc-st-poa-worked-on-ground/	HTTP Error 403: Forbidden
+https://filmoracrack.com/	HTTP Error 403: Forbidden
+http://164.100.158.235/question/annex/246/Au1489.docx	<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+https://factly.in/fact-check-is-indias-30-place-jump-in-2018-eodb-rankings-the-best-ever/	HTTP Error 403: Forbidden
+https://factly.in/people-whose-mother-tongue-is-telugu/	HTTP Error 403: Forbidden
+https://factly.in/fact-check-did-pm-modi-inaugurate-an-already-open-all-india-institute-of-ayurveda/#comment-7838	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-checking-government-claims-on-electrification-of-villages-homes%2F	HTTP Error 403: Forbidden
+https://factly.in/explainer-video-how-to-apply-for-a-pan-card-online/	HTTP Error 403: Forbidden
+https://factly.in//fact-check-what-did-the-government-do-for-the-development-of-persons-with-disabilities/#respond	HTTP Error 403: Forbidden
+https://factly.in/after-widespread-misuse-only-3-categories-of-vehicles-can-now-use-the-red-blue-or-white-beacon/	HTTP Error 403: Forbidden
+https://factly.in/fact-check-will-you-be-penalised-for-giving-lift-to-unknown-persons/#comment-7755	HTTP Error 403: Forbidden
+https://factly.in//fact-check-has-india-been-attracted-more-fdi-in-the-last-few-years/#respond	HTTP Error 403: Forbidden
+https://factly.in/news-government-compensation-case-accident-deaths-false/	HTTP Error 403: Forbidden
+https://factly.in/fact-check-have-amendments-to-sc-st-poa-worked-on-ground/#respond	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-check-has-the-up-government-slashed-funds-for-education%2F	HTTP Error 403: Forbidden
+https://factly.in/fact-checking-the-governments-claims-on-auctions-clearances/#respond	HTTP Error 403: Forbidden
+https://aktu.ac.in/pdf/about-us/B. Tech. Ordinance_2016-17.pdf	HTTP Error 400: Bad Request
+https://factly.in/fact-check-did-pm-modi-inaugurate-an-already-open-all-india-institute-of-ayurveda/#comments	HTTP Error 403: Forbidden
+https://factly.in/pm-talks-consumer-protection-past-record-not-inspire-confidence/	HTTP Error 403: Forbidden
+https://factly.in/fact-check-is-indias-30-place-jump-in-2018-eodb-rankings-the-best-ever/#respond	HTTP Error 403: Forbidden
+https://factly.in/fact-checking-the-governments-claims-over-formalization-of-economy/	HTTP Error 403: Forbidden
+https://factly.in/author/ailabandagi/	HTTP Error 403: Forbidden
+https://factly.in/fact-check-will-you-be-penalised-for-giving-lift-to-unknown-persons/#comment-7979	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-check-has-there-been-a-exponential-increase-in-camps-for-divyangs%2F	HTTP Error 403: Forbidden
+https://factly.in/fact-check-have-deposits-by-indians-in-swiss-banks-decreased/#comment-8043	HTTP Error 403: Forbidden
+https://factly.in//fact-check-has-india-improved-in-global-eodb-competitiveness-index-rankings-in-the-last-4-years/#respond	HTTP Error 403: Forbidden
+https://factly.in/news-government-compensation-case-accident-deaths-false/#comment-5841	HTTP Error 403: Forbidden
+https://factly.in//fact-check-will-you-be-penalised-for-giving-lift-to-unknown-persons/#respond	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-checking-government-claims-on-increase-in-scholarship-amount-to-scs-obcs%2F	HTTP Error 403: Forbidden
+https://factly.in/explainer-video-what-is-a-state-funeral/	HTTP Error 403: Forbidden
+http://www.prsindia.org/parliamenttrack/state-budgets/uttar-pradesh-budget-analysis-2017-18-4808/	HTTP Error 404: Not Found
+https://blog.ipleaders.in/wp-content/uploads/2016/12/How-And-When-To-File-Claims.jpg	HTTP Error 403: Forbidden
+https://cinewindows.com/list-of-hindi-dubbed-korean-movies/	HTTP Error 403: Forbidden
+https://commentwise.com/2017/11/27/bjps-repeated-attempts-to-bypass-legislature-are-threatening-parliaments-authority/	HTTP Error 403: Forbidden
+http://budget.up.nic.in/PDF16_17/Gr71.pdf	HTTP Error 404: Not Found
+https://factly.in/fact-check-manmohan-singh-undertake-foreign-visits-narendra-modi/#comment-5354	HTTP Error 403: Forbidden
+https://factly.in/fact-check-did-the-upa-construct-only-25-lakh-houses-in-their-last-4-years/	HTTP Error 403: Forbidden
+https://factly.in/ppac-confirms-that-the-modi-government-repaid-oil-bonds-worth-only-%E2%82%B9-3500-crore/	HTTP Error 403: Forbidden
+http://budget.up.nic.in/PDF16_17/Gr72.pdf	HTTP Error 404: Not Found
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-check-have-amendments-to-sc-st-poa-worked-on-ground%2F	HTTP Error 403: Forbidden
+https://factly.in/news-government-compensation-case-accident-deaths-false/#comment-6854	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-checking-government-claims-on-jan-suraksha%2F	HTTP Error 403: Forbidden
+https://factly.in//fact-check-has-the-allocation-for-scholarships-of-scs-obcs-increased/#respond	HTTP Error 403: Forbidden
+https://factly.in/author/bharath/	HTTP Error 403: Forbidden
+https://factly.in/fact-check-will-you-be-penalised-for-giving-lift-to-unknown-persons/#comments	HTTP Error 403: Forbidden
+https://factly.in/fact-check-have-deposits-by-indians-in-swiss-banks-decreased/#comment-8063	HTTP Error 403: Forbidden
+https://factly.in/fact-check-3-minute-waiting-rule-toll-plazas-national-highways/#comment-6304	HTTP Error 403: Forbidden
+https://factly.in//fact-checking-claims-on-indias-global-standing-in-fdi-inflows/#respond	HTTP Error 403: Forbidden
+https://factly.in/fact-checking-the-governments-claims-over-formalization-of-economy/#respond	HTTP Error 403: Forbidden
+http://budget.up.nic.in/PDF16_17/Gr73.pdf	HTTP Error 404: Not Found
+https://www.boomlive.in/have-upa-era-oil-bonds-prevented-modi-govt-from-reducing-oil-prices/	HTTP Error 403: Forbidden
+http://budget.up.nic.in/PDF17_18/Gr71.pdf	HTTP Error 404: Not Found
+https://factly.in/fact-check-manmohan-singh-undertake-foreign-visits-narendra-modi/#comments	HTTP Error 403: Forbidden
+https://factly.in/fact-check-government-reduced-60-budget-rti/#respond	HTTP Error 403: Forbidden
+https://factly.in/rights-of-persons-with-disabilities-act/#respond	HTTP Error 403: Forbidden
+http://budget.up.nic.in/PDF17_18/Gr72.pdf	HTTP Error 404: Not Found
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-check-have-deposits-by-indians-in-swiss-banks-decreased%2F	HTTP Error 403: Forbidden
+https://factly.in//fact-check-has-the-up-government-slashed-funds-for-education/#respond	HTTP Error 403: Forbidden
+https://factly.in/author/rakesh-2/	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-checking-government-claims-over-use-of-technology%2F	HTTP Error 403: Forbidden
+https://factly.in//fact-checking-government-claims-on-accessibility-for-persons-with-disabilities-pwds/#respond	HTTP Error 403: Forbidden
+https://factly.in/news-government-compensation-case-accident-deaths-false/#comment-7268	HTTP Error 403: Forbidden
+https://factly.in/fact-checking-claims-on-indias-global-standing-in-fdi-inflows/	HTTP Error 403: Forbidden
+https://factly.in/fact-check-have-deposits-by-indians-in-swiss-banks-decreased/#comment-8155	HTTP Error 403: Forbidden
+https://factly.in/fake-news-alert-aicte-not-issued-circular-scrapping-75-attendance-rule-engineering/#respond	HTTP Error 403: Forbidden
+https://factly.in/fact-check-3-minute-waiting-rule-toll-plazas-national-highways/#comment-6314	HTTP Error 403: Forbidden
+http://budget.up.nic.in/PDF17_18/Gr73.pdf	HTTP Error 404: Not Found
+https://factly.in/fact-check-padma-awardees-accorded-state-funeral/	HTTP Error 403: Forbidden
+https://factly.in/rules-restricting-use-loud-speakers-religious-places-rarely-followed/	HTTP Error 403: Forbidden
+http://budget.up.nic.in/budgetbhashan/budgetbhashan2016_2017.pdf	HTTP Error 404: Not Found
+https://factly.in/fact-check-has-accessibility-for-pwds-improved-in-the-last-four-years/	HTTP Error 403: Forbidden
+http://budget.up.nic.in/budgetsaar.aspx	HTTP Error 404: Not Found
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-check-how-much-did-the-modi-government-pay-for-the-upa-era-oil-bonds%2F	HTTP Error 403: Forbidden
+https://factly.in/author/vsneha/	HTTP Error 403: Forbidden
+https://factly.in//fact-check-has-there-been-a-exponential-increase-in-camps-for-divyangs/#respond	HTTP Error 403: Forbidden
+https://factly.in/news-government-compensation-case-accident-deaths-false/#comment-7605	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-checking-the-governments-claims-on-auctions-clearances%2F	HTTP Error 403: Forbidden
+https://factly.in/fact-check-3-minute-waiting-rule-toll-plazas-national-highways/#comment-6330	HTTP Error 403: Forbidden
+https://factly.in/fact-check-have-deposits-by-indians-in-swiss-banks-decreased/#comment-8156	HTTP Error 403: Forbidden
+https://factly.in/fact-checking-claims-on-indias-global-standing-in-fdi-inflows/#respond	HTTP Error 403: Forbidden
+https://factly.in/government-earns-190-crore-in-2-years-from-entrance-fee-at-monuments/	HTTP Error 403: Forbidden
+https://factly.in//fact-checking-government-claims-on-electrification-of-villages-homes/#respond	HTTP Error 403: Forbidden
+https://factly.in/fact-check-padma-awardees-accorded-state-funeral/#comment-7114	HTTP Error 403: Forbidden
+https://factly.in/state-governments-start-setting-up-special-courts-to-fast-track-pending-cases-against-sitting-mps-mlas/	HTTP Error 403: Forbidden
+https://factly.in/fact-check-has-accessibility-for-pwds-improved-in-the-last-four-years/#respond	HTTP Error 403: Forbidden
+https://factly.in//fact-check-have-amendments-to-sc-st-poa-worked-on-ground/#respond	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-check-in-whose-tenure-did-exports-grow-faster%2F	HTTP Error 403: Forbidden
+https://factly.in/be-a-gst-wise-consumer/	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-checking-the-governments-claims-over-formalization-of-economy%2F	HTTP Error 403: Forbidden
+https://factly.in/news-government-compensation-case-accident-deaths-false/#comment-7746	HTTP Error 403: Forbidden
+https://factly.in/fact-check-have-deposits-by-indians-in-swiss-banks-decreased/#comments	HTTP Error 403: Forbidden
+https://factly.in/fact-checking-government-claims-on-accessibility-for-persons-with-disabilities-pwds/	HTTP Error 403: Forbidden
+https://factly.in//fact-checking-government-claims-on-increase-in-scholarship-amount-to-scs-obcs/#respond	HTTP Error 403: Forbidden
+https://factly.in/government-earns-190-crore-in-2-years-from-entrance-fee-at-monuments/#comments	HTTP Error 403: Forbidden
+https://factly.in/fact-check-3-minute-waiting-rule-toll-plazas-national-highways/#comments	HTTP Error 403: Forbidden
+https://factly.in/fact-check-padma-awardees-accorded-state-funeral/#comments	HTTP Error 403: Forbidden
+https://factly.in/taxes-on-petrol-and-diesel/	HTTP Error 403: Forbidden
+https://factly.in/fact-check-has-india-been-attracted-more-fdi-in-the-last-few-years/	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffake-news-alert-aicte-not-issued-circular-scrapping-75-attendance-rule-engineering%2F	HTTP Error 403: Forbidden
+https://factly.in/category/fact-check/48-months-of-modi-government/	HTTP Error 403: Forbidden
+https://factly.in/fact-check-how-much-did-the-modi-government-pay-for-the-upa-era-oil-bonds/	HTTP Error 403: Forbidden
+https://factly.in//fact-checking-government-claims-on-jan-suraksha/#respond	HTTP Error 403: Forbidden
+https://factly.in/fact-checking-government-claims-on-accessibility-for-persons-with-disabilities-pwds/#respond	HTTP Error 403: Forbidden
+https://factly.in/government-plans-handle-unruly-passengers-flights/	HTTP Error 403: Forbidden
+https://factly.in/news-government-compensation-case-accident-deaths-false/#comment-8121	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-check-in-whose-tenure-did-msp-increase-by-a-greater-percentage%2F	HTTP Error 403: Forbidden
+https://factly.in/fact-check-amit-shah-is-wrong-bjp-lost-only-6-seats-with-a-margin-less-than-nota/#respond	HTTP Error 403: Forbidden
+https://factly.in//fact-check-have-deposits-by-indians-in-swiss-banks-decreased/#respond	HTTP Error 403: Forbidden
+https://factly.in/fact-check-pew-research-said-85-indians-trust-government/	HTTP Error 403: Forbidden
+https://factly.in/texas-california-new-york-still-favourite-states-indian-students/	HTTP Error 403: Forbidden
+https://factly.in/fact-check-has-india-been-attracted-more-fdi-in-the-last-few-years/#respond	HTTP Error 403: Forbidden
+http://www.recindia.nic.in/annual-reports	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://www.sharethefacts.co/share/3024bcbc-a87b-42c4-b58b-6b25c26b8c5e	HTTP Error 403: Forbidden
+https://mha.gov.in/sites/upload_files/mha/files/Anil_18052017.pdf	HTTP Error 404: Not Found
+https://factly.in/censor-board-reforms-start-greater-transparency/	HTTP Error 403: Forbidden
+https://factly.in/fact-checking-government-claims-on-electrification-of-villages-homes/	HTTP Error 403: Forbidden
+https://factly.in/news-government-compensation-case-accident-deaths-false/#comment-8288	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-check-indias-standing-global-indices%2F	HTTP Error 403: Forbidden
+https://factly.in/guide-new-passport-rules/	HTTP Error 403: Forbidden
+https://factly.in//fact-check-how-much-did-the-modi-government-pay-for-the-upa-era-oil-bonds/#respond	HTTP Error 403: Forbidden
+https://factly.in/fact-check-are-more-people-travelling-in-airplanes-than-in-ac-trains/	HTTP Error 403: Forbidden
+https://factly.in/fact-check-has-india-improved-in-global-eodb-competitiveness-index-rankings-in-the-last-4-years/	HTTP Error 403: Forbidden
+https://factly.in/fact-check-how-much-did-the-modi-government-pay-for-the-upa-era-oil-bonds/#comment-8203	HTTP Error 403: Forbidden
+https://factly.in//fact-checking-government-claims-over-use-of-technology/#respond	HTTP Error 403: Forbidden
+https://factly.in/top-source-migrants-world-india/	HTTP Error 403: Forbidden
+https://factly.in/fact-check-pew-research-said-85-indians-trust-government/#comment-6205	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Fmedia-misinterpreted-misreported-pms-statements-passports%2F	HTTP Error 403: Forbidden
+https://www.moodys.com/research/Moodys-upgrades-Indias-government-bond-rating-to-Baa2-from-Baa3--PR_374998	HTTP Error 403: Forbidden
+https://factly.in/conviction-rate-for-cases-registered-under-sec-498a-ipc-is-among-the-lowest-for-all-ipc-crimes/	HTTP Error 403: Forbidden
+https://factly.in/news-government-compensation-case-accident-deaths-false/#comments	HTTP Error 403: Forbidden
+https://factly.in/fact-checking-government-claims-on-electrification-of-villages-homes/#respond	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-check-is-indias-30-place-jump-in-2018-eodb-rankings-the-best-ever%2F	HTTP Error 403: Forbidden
+http://www.gstn.in/index.php/2017/11/27/bjps-repeated-attempts-to-bypass-legislature-are-threatening-parliaments-authority/	<urlopen error [Errno 11002] getaddrinfo failed>
+http://www.hindustantimes.com/delhi-news/why-delhi-govt-schools-again-beat-private-institutions-in-cbse-board-results/story-MvC22P6D4kquj9EjVBrd6N.html	HTTP Error 403: Forbidden
+http://www.hindustantimes.com/india-news/manmohan-singh-undertook-more-foreign-trips-than-pm-modi-says-amit-shah/story-a7VuvrRoZ29fNU6peQD8eO.html	HTTP Error 403: Forbidden
+https://factly.in//fact-check-in-whose-tenure-did-exports-grow-faster/#respond	HTTP Error 403: Forbidden
+https://factly.in/here-is-the-check-list-of-documents-to-be-submitted-by-candidates-contesting-in-assembly-or-parliament-elections/	HTTP Error 403: Forbidden
+https://factly.in/fact-check-has-india-improved-in-global-eodb-competitiveness-index-rankings-in-the-last-4-years/#comment-7892	HTTP Error 403: Forbidden
+https://factly.in/understanding-election-expenditure/	HTTP Error 403: Forbidden
+https://factly.in//fact-checking-the-governments-claims-on-auctions-clearances/#respond	HTTP Error 403: Forbidden
+https://factly.in/fact-check-delhi-class-xii-results-manish-sisodia-got-wrong/	HTTP Error 403: Forbidden
+https://factly.in/fact-check-how-much-did-the-modi-government-pay-for-the-upa-era-oil-bonds/#comment-8256	HTTP Error 403: Forbidden
+https://factly.in/fact-check-pew-research-said-85-indians-trust-government/#comments	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Fnews-government-compensation-case-accident-deaths-false%2F	HTTP Error 403: Forbidden
+http://morth.nic.in/index2.asp?slid=2771&sublinkid=2255&lang=1	timed out
+https://factly.in/fact-checking-government-claims-on-increase-in-scholarship-amount-to-scs-obcs/	HTTP Error 403: Forbidden
+https://factly.in/daily-change-petrol-diesel-price-know/	HTTP Error 403: Forbidden
+https://factly.in/non-fastag-users-using-fastag-lane-pay-100-penalty-toll-plazas/	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-check-manmohan-singh-undertake-foreign-visits-narendra-modi%2F	HTTP Error 403: Forbidden
+https://factly.in//fact-check-in-whose-tenure-did-msp-increase-by-a-greater-percentage/#respond	HTTP Error 403: Forbidden
+https://factly.in/fact-check-has-india-improved-in-global-eodb-competitiveness-index-rankings-in-the-last-4-years/#comment-7906	HTTP Error 403: Forbidden
+https://factly.in/fact-check-how-much-did-the-modi-government-pay-for-the-upa-era-oil-bonds/#comment-8395	HTTP Error 403: Forbidden
+https://factly.in/highest-ever-vote-share-winner-presidential-election/	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Frights-of-persons-with-disabilities-act%2F	HTTP Error 403: Forbidden
+https://factly.in/fact-check-delhi-class-xii-results-manish-sisodia-got-wrong/#comment-5147	HTTP Error 403: Forbidden
+https://factly.in//fact-checking-the-governments-claims-over-formalization-of-economy/#respond	HTTP Error 403: Forbidden
+https://factly.in/fact-check-rahul-gandhis-claims-telangana-public-meeting/	HTTP Error 403: Forbidden
+https://factly.in/understanding-the-b-form-for-elections/	HTTP Error 403: Forbidden
+https://web.archive.org/web/20170715034355/http:/www.trai.gov.in/sites/default/files/consultation-paper-spectrum-of-auction.pdf	<urlopen error timed out>
+https://www.nationalheraldindia.com/institution/pm-relaunches-all-india-institute-of-ayurveda-after-7-years	HTTP Error 403: Forbidden
+https://factly.in/details-of-pending-criminal-cases-against-candidates-contesting-lok-sabha-assembly-elections-will-now-be-on-newspaper-tv/	HTTP Error 403: Forbidden
+https://factly.in/fact-check-delhi-class-xii-results-manish-sisodia-got-wrong/#comment-5148	HTTP Error 403: Forbidden
+https://factly.in/fact-checking-government-claims-on-increase-in-scholarship-amount-to-scs-obcs/#respond	HTTP Error 403: Forbidden
+https://factly.in/how-to-make-the-best-use-of-rti-right-to-information-in-india/	HTTP Error 403: Forbidden
+https://factly.in//fact-check-indias-standing-global-indices/#respond	HTTP Error 403: Forbidden
+https://factly.in/fact-check-how-much-did-the-modi-government-pay-for-the-upa-era-oil-bonds/#comments	HTTP Error 403: Forbidden
+https://factly.in//fake-news-alert-aicte-not-issued-circular-scrapping-75-attendance-rule-engineering/#respond	HTTP Error 403: Forbidden
+https://factly.in/what-do-alphabets-e-s-q-r-m-on-the-electoral-roll-indicate/	HTTP Error 403: Forbidden
+https://factly.in/fact-check-rahul-gandhis-claims-telangana-public-meeting/#respond	HTTP Error 403: Forbidden
+https://factly.in/fact-check-has-india-improved-in-global-eodb-competitiveness-index-rankings-in-the-last-4-years/#comments	HTTP Error 403: Forbidden
+https://factly.in//fact-check-3-minute-waiting-rule-toll-plazas-national-highways/#respond	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-check-padma-awardees-accorded-state-funeral%2F	HTTP Error 403: Forbidden
+https://factly.in/nota-count-in-bihar-elections-more-than-the-victory-margin-in-23-constituencies/	HTTP Error 403: Forbidden
+https://satyavijayi.com/fact-check-delhi-class-xii-results-manish-sisodia-got-wrong/	HTTP Error 403: Forbidden
+https://swavalambanyojana.in/	HTTP Error 403: Forbidden
+https://factly.in/details-of-pending-criminal-cases-against-candidates-contesting-lok-sabha-assembly-elections-will-now-be-on-newspaper-tv/#respond	HTTP Error 403: Forbidden
+https://factly.in//fact-check-is-indias-30-place-jump-in-2018-eodb-rankings-the-best-ever/#respond	HTTP Error 403: Forbidden
+https://factly.in/fact-checking-government-claims-on-jan-suraksha/	HTTP Error 403: Forbidden
+https://factly.in/nota-make-impact-five-states/	HTTP Error 403: Forbidden
+https://factly.in//media-misinterpreted-misreported-pms-statements-passports/#respond	HTTP Error 403: Forbidden
+https://factly.in/india-was-involved-in-6-cases-at-the-icj-four-of-them-versus-pakistan/	HTTP Error 403: Forbidden
+https://factly.in/fact-check-delhi-class-xii-results-manish-sisodia-got-wrong/#comment-5152	HTTP Error 403: Forbidden
+https://factly.in/fact-check-has-the-allocation-for-scholarships-of-scs-obcs-increased/	HTTP Error 403: Forbidden
+https://factly.in/fact-check-in-whose-tenure-did-exports-grow-faster/	HTTP Error 403: Forbidden
+https://factly.in//fact-check-amit-shah-is-wrong-bjp-lost-only-6-seats-with-a-margin-less-than-nota/#respond	HTTP Error 403: Forbidden
+https://factly.in/what-is-a-state-funeral/	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-check-pew-research-said-85-indians-trust-government%2F	HTTP Error 403: Forbidden
+http://nhai.org.in/spw/CorrespondenceIssues/NHAI Toll Collection March 2016.pdf	HTTP Error 400: Bad Request
+http://nhai.org.in/spw/CorrespondenceIssues/NHAI-13013-CO-2015-16-Congestion at the toll plazas-dt-24-02-2016.PDF	HTTP Error 400: Bad Request
+https://factly.in//news-government-compensation-case-accident-deaths-false/#respond	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-check-rahul-gandhis-claims-telangana-public-meeting%2F	HTTP Error 403: Forbidden
+https://factly.in/fact-checking-government-claims-on-jan-suraksha/#respond	HTTP Error 403: Forbidden
+https://www.thepolicytimes	<urlopen error [Errno 11001] getaddrinfo failed>
+http://nyaaya.in/law/759/the-motor-vehicles-act-1988/#component-thefirstschedule	HTTP Error 404: Not Found
+http://nyaaya.in/law/759/the-motor-vehicles-act-1988/#section-140	HTTP Error 404: Not Found
+http://agmarknet.nic.in/agnew/NationalBEnglish/DatewiseCommodityReport.aspx	HTTP Error 503: Service Unavailable
+http://www.thepostread.com/modi-speech-misquoted-womens-maiden-name/	<urlopen error timed out>
+http://www.nhai.org/doc/ca/SIX LANING OF PANIPAT JALANDHAR SECTION STATE OF HARYANA VOL II.pdf	HTTP Error 400: Bad Request
+http://photoshopalternative.com	HTTP Error 403: Forbidden
+https://telanganaepass.cgg.gov.in/	<urlopen error timed out>
+http://www.dnaindia.com/india/report-yogi-adityanath-orders-inquiry-into-akhilesh-yadav-s-key-projects-2378334	HTTP Error 403: Forbidden
+http://environmentclearance.nic.in/	timed out
+https://web.archive.org/web/20180331050713/http:/pib.nic.in:80/newsite/PrintRelease.aspx?relid=176555	<urlopen error timed out>
+https://webcache.googleusercontent.com/search?q=cache:yLJXR8DNFN8J:https://unctad.org/en/Pages/DIAE/Foreign-Direct-Investment-(FDI).aspx+&cd=12&hl=en&ct=clnk&gl=in	HTTP Error 503: Service Unavailable
+http://inc.in/In-Focus/896/Rahul-Gandhi-public-address-in-Sangareddy-in-Telangana	HTTP Error 404: Not Found
+https://www.annauniv.edu/academic_courses/docs/aff/00. UG (Aff) Reg (2017).pdf	HTTP Error 400: Bad Request
+http://www.ofmedak.gov.in/	<urlopen error timed out>
+http://164.100.47.190/loksabhaquestions/annex/14/AU4796.pdf	timed out
+https://www.equitymaster.com/diary/detail.asp?date=07/04/2018&story=5&title=The-Real-Truth-About-Indias-FDI-Beyond-WhatsApp	HTTP Error 500: Internal Server Error
+https://timesofindia.indiatimes.com/india/85-of-indians-trust-govt-27-want-a-strong-leader-pew-survey/articleshow/61108987.cms	The read operation timed out
+http://eci.nic.in/eci_main/StatisticalReports/LS_1980/Vol_I_LS_80.pdf	HTTP Error 404: Not Found
+http://eci.nic.in/eci_main1/current/PN_04102013.pdf	HTTP Error 404: Not Found
+http://www.environmentclearance.nic.in/	timed out
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-check-3-minute-waiting-rule-toll-plazas-national-highways%2F	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-check-amit-shah-is-wrong-bjp-lost-only-6-seats-with-a-margin-less-than-nota%2F	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-check-delhi-class-xii-results-manish-sisodia-got-wrong%2F	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-check-did-japan-usa-enforce-temperature-setting-of-air-conditioners%2F	HTTP Error 403: Forbidden
+https://factly.in///www.reddit.com/r/india/submit?url=https%3A%2F%2Ffactly.in%2Ffact-check-did-pm-modi-inaugurate-an-already-open-all-india-institute-of-ayurveda%2F	HTTP Error 403: Forbidden
+http://showboxupdates.co/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://supremecourt.gov.in/jonew/judis/judgments/2007/30633/40944.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://templerun3.co	HTTP Error 403: Forbidden
+http://timesofindia.indiatimes.com/city/delhi/government-schools-take-9-lead-over-private-institutions/articleshow/58885831.cms	<urlopen error [Errno 11001] getaddrinfo failed>
+http://toptea.in/2017/06/16/fact-check-has-india-improved-in-global-indices-as-claimed-by-the-govt-claims-vs-facts/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://toptea.in/2017/07/21/clarification-the-3-minute-rule-in-toll-plazas-is-not-applicable-pan-india/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.bjp.org/en/media-resources/press-releases/english-salient-points-of-press-conference-of-bjp-national-president-shri-amit-shah-bjp-hq-6a-deen-dayal-upadhyay-marg-new-delhi	HTTP Error 403: Forbidden
+http://www.bjp.org/images/bjp_manifesto_an_abridged_version_english_26.04.14.pdf	HTTP Error 403: Forbidden
+http://censusindia.gov.in/2011census/hlo/Data_sheet/India/Figures_Glance.pdf	[WinError 10054] An existing connection was forcibly closed by the remote host

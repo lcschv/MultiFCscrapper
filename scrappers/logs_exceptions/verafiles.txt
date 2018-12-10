@@ -1,0 +1,22 @@
+http://aww.verafiles.org/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://dir.verafiles.org/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://hrcw.verafiles.org/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://hri.verafiles.org/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://hrinvestigations.verafiles.org/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://n2.verafiles.org/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://news.verafiles.org/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://ns.verafiles.org/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://pop.verafiles.org/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://qwww.verafiles.org/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://sww.verafiles.org/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://trafficking.verafiles.org/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://verafiles.org/	HTTP Error 403: Forbidden
+http://verafiles.org/about	HTTP Error 403: Forbidden
+http://verafiles.org/specials	HTTP Error 403: Forbidden
+http://verafiles.org/features	HTTP Error 403: Forbidden
+http://verafiles.org/rundown	HTTP Error 403: Forbidden
+http://vote213.verafiles.org/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://website.verafiles.org/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.crowdsource.verafiles.org/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.pwdfiles.verafiles.org/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.verafiles.org/	HTTP Error 403: Forbidden

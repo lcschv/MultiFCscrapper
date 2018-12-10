@@ -1,5 +1,8 @@
+import PyPDF4
+import wordninja
 import re
 import os
+# import warc
 from scrappers.dataset_generator.DocumentSchema import *
 import sys
 import ast
@@ -17,6 +20,7 @@ class Mapper(object):
         self.dict_url_rawpath = {}
         self.dict_entities = {}
         self.total = 0
+        self.i = 0
 
     @staticmethod
     def get_all_schema_and_outlinks_files(schemas_path="../seeds/schemastestCopyFinal/", outlinks_path="../seeds/outlinksCopy/"):
@@ -349,13 +353,70 @@ class Mapper(object):
                 if label not in self.label_scales[abbv]:
                     self.label_scales[abbv][label] = 0
         return self.label_scales
+
+
+
+    # This function will extract and return the pdf file text content.
+    def extractPdfText(self, filePath=''):
+        # Open the pdf file in read binary mode.
+        fileObject = open(filePath, 'rb')
+
+        # Create a pdf reader .
+        # Get total pdf page number.
+        try:
+            pdfFileReader = PyPDF4.PdfFileReader(fileObject)
+            currentPageNumber = 0
+            totalPageNumber = pdfFileReader.numPages
+            text = ''
+        except:
+            return ""
+        try:
+            while (currentPageNumber < totalPageNumber):
+                pdfPage = pdfFileReader.getPage(currentPageNumber)
+                text = text + pdfPage.extractText()
+                # Process next page.
+                currentPageNumber += 1
+        except:
+            pass
+        text = wordninja.split(text)
+        return text
+
+    def write_warc_file(self, buffer):
+        self.i+=1
+        # header = [
+        #     {"WARC-Version:":"WARC/1.0"},
+        #     {"WARC-Type:":"warcinfo"},
+        #     {"WARC-Date:":str(datetime.datetime.now())},
+        #     {"WARC-File-Length:":0},
+        #     {"WARC-Number-of-Documents:":len(buffer)},
+        #     {"WARC-Data-Type:":"web crawl"},
+        #     {"WARC-Record-ID:":self.i},
+        #     {"WARC-Content-Length:":0},
+        # ]
+        file_out = open("trynig_"+str(self.i)+".txt", "w")
+        for obj in buffer:
+            for attr, value in obj.__dict__.items():
+                print(attr + ": " + str(value).replace('\n', ' ').replace('\r', ''), file=file_out)
+
+    def get_full_text(self, file="full_text.txt"):
+        dict_full_text = {}
+        with open(file) as f:
+            content = f.readlines()
+        content = [x.rstrip() for x in content]
+        for line in content:
+            parts = line.split("::")
+            if parts[0] not in dict_full_text:
+                dict_full_text[parts[0]] = parts[1]
+
+        return dict_full_text
+
     def generate_docid_url_sources_file(self):
         self.get_unique_urls()
         dict_plaintext_labels = {"faly":0,"fani":0,"fuct":0,"thal":0}
         dict_labels_scales = self.get_label_scale()
-        for seed,labels in dict_labels_scales.items():
-            if len(labels) > 16:
-                print(seed, len(labels), list(labels.keys()))
+        # for seed,labels in dict_labels_scales.items():
+        #     if len(labels) > 16:
+        #         print(seed, len(labels), list(labels.keys()))
         # exit()
         dict_out_links_urls = self.get_list_outlinks_by_claim_doc()
         read_url_docid = self.read_url_docid()
@@ -363,6 +424,7 @@ class Mapper(object):
         self.get_entities()
         self.get_claim_object()
         dict_outlinks_sources = self.get_dict_sources()
+        dict_full_text = self.get_full_text()
         inlinks = []
         self.get_original_path_raw_document()
         with open("data/docID_url.txt") as f:
@@ -376,13 +438,15 @@ class Mapper(object):
             elif "-b-" in parts[0]:
                 self.dict_doc_id_url[parts[0].split("-b-")[0]] = parts[0]
         # with open("data/claim_docid_path_url.txt","w",encoding="utf8", errors="ignore") as fout:
-        for line in content:
+        buffer = []
+        for line in content[:61]:
             parts = line.split("\t")
             url = parts[1]
             docid = parts[0]
             if url in dict_outlinks_sources:
                 claims_sources = self.transform_old_id_to_new(dict_outlinks_sources[url])
                 inlinks = [self.dict_doc_id_url[x] for x in claims_sources if self.dict_doc_id_url[x] != docid]
+
             outlinks = []
             document_record = DocumentSchema()
             claim_info = None
@@ -429,28 +493,40 @@ class Mapper(object):
             except:
                 continue
             document_record.set_doc_id(docid)
+            if docid in dict_full_text:
+                document_record.set_full_article_text(dict_full_text[docid])
             document_record.set_list_inlinks(inlinks)
             path = self.dict_url_rawpath[url]
 
-
+            content = None
             if path.endswith(".pdf"):
+                print(path)
                 content_type = "application/pdf"
+                content = self.extractPdfText(path)
             elif path.endswith(".json"):
                 content_type = "json"
             else:
                 content_type = "text/html"
                 temp_file = open(path,"rb")
+                content = temp_file.read()
+                document_length = len(temp_file.read())
+                document_record.set_document_length(document_length)
             # if claim_info is not None:
             #     print(claim_info["1:ClaimID"], docid, path, content_type, url, file=fout)
             # else:
             #     print("XXX-00000", docid, path, content_type, url, file=fout)
-# document_length = len(temp_file.read())
+
                 # temp_file.close()
-                # document_record.set_document_length(document_length)
+
             document_record.set_content_type(content_type)
-            document_record.set_content(path)
+            # document_record.set_content(path)
+            document_record.set_content(content)
             document_record.set_url(url)
-            document_record.pretty_print()
+            buffer += [document_record]
+            if len(buffer) > 20:
+                self.write_warc_file(buffer)
+                buffer = []
+            # document_record.pretty_print()
             # a = ("DocID:", docid, "\toriginalpath:",self.dict_url_rawpath[url], "\tDocumentInlinks:",inlinks,"\tUrl:",url)
             # except:
             #     print(line)
@@ -461,6 +537,6 @@ class Mapper(object):
 if __name__ == '__main__':
     mapper = Mapper()
     mapper.create_unique_urls_file()
-    mapper.merge_claim_schemas()
+    # mapper.merge_claim_schemas()
     mapper.generate_doc_id_url_file()
     mapper.generate_docid_url_sources_file()

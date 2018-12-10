@@ -1,0 +1,1348 @@
+http://map.sdsu.edu/group2007spring/group2/Cormorants.htm	HTTP Error 404: Not Found
+http://blogs.sacbee.com/capitolalertlatest/2013/02/jerry-brown-calls-texas-gov-rick-perrys-ad-barely-a-fart.html	<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+http://priorities.sandag.org/pdfs/ballotlanguage.pdf	HTTP Error 404: Not Found
+http://sports.yahoo.com/news/2012-london-summer-olympics-basketball-arena-fun-facts-191900141--oly.html	HTTP Error 404: Not Found
+http://www.bondbuyer.com/issues/122_121/san-diego-infrastructure-repair-costs-higher-than-expected-1053051-1.html	HTTP Error 403: Forbidden
+http://www.carldemaio.com/about	HTTP Error 403: Forbidden
+http://www.chulavistaca.gov/City_Services/Public_Safety/Police_Department/default.asp	HTTP Error 404: Not Found
+http://www.edweek.org/ew/section/multimedia/war-on-poverty-pupil-spending.html	HTTP Error 403: Forbidden
+http://www.epionline.org/aboutepi/	HTTP Error 403: Forbidden
+http://www.aquacraft.com/Projects/submeter.html	HTTP Error 404: Not Found
+http://www.huffingtonpost.com/2013/02/19/san-diego-seal-cam-women-sitting-on-seals-video_n_2718803.html	HTTP Error 403: Forbidden
+http://www.nfib.com/about-nfib/	HTTP Error 403: Forbidden
+http://www.ncaa.org/wps/portal/ncaahome?WCM_GLOBAL_CONTEXT=/ncaa/ncaa/about+the+ncaa/membership/div_criteria.html	HTTP Error 404: Not Found
+http://www.palmcenter.org/node/830	HTTP Error 403: Forbidden
+http://www.leginfo.ca.gov/cgi-bin/displaycode?section=elec&group=18001-19000&file=18301-18304	HTTP Error 500: Server Error
+http://www.sandiego.gov/crrecc/pdf/crreccfinal.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/mayor/pdf/sotc2012.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/fire/pdf/citygate.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/iba/pdf/10_02.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/iba/pdf/reports/2013/13_49_131101.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/city-clerk/pdf/pamphlet061107.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/arts-culture/pdf/creativeindustriesrprtafta.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/city-clerk/elections/city/pdf/runoffcandidatesoq.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/police/news/homicide/index.shtml	HTTP Error 403: Forbidden
+http://www.sandiegonewsroom.org/news/index.php?option=com_content&view=article&id=43660:david-king&catid=63:school-districts&Itemid=90	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.sandiego.gov/planning/community/pdf/bylaws/ktbylaws.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/strategicplan/pdf/searpt090512.pdf	HTTP Error 403: Forbidden
+http://www.sdnn.com/sandiego/2010-02-24/education/college-prep-school-inspires-inner-city-students-to-stay-the-course	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.slge.org/vertical/Sites/%7BA260E1DF-5AEE-459D-84C4-876EFE1E4032%7D/uploads/%7BCB148BE9-7325-4A7E-B17D-72AEDD246914%7D.PDF	HTTP Error 403: Forbidden
+https://mce_host/voiceofsandiego.org/tncms/admin/action/editorial-asset/factcheck@voiceofsandiego.org	<urlopen error [Errno 11001] getaddrinfo failed>
+https://www.sandiego.gov/qualcomm/	HTTP Error 403: Forbidden
+https://twitter.com/YimbySD/status/762692253458403329	HTTP Error 404: Not Found
+http://econweb.ucsd.edu/~jbetts/Pub/A61%20peabody_koedel_etal%20prepub%20version%202009.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://www.voiceofsandiego.org/data-drive/	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_2222b662-47f2-11df-95ee-001cc4c03286.html?mode=story	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_8ae7a864-312d-11df-931b-001cc4c002e0.html?login_success=true	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_f7bd5b6a-85c5-11e2-80f3-0019bb2963f4.html?mode=story	HTTP Error 404: Not Found
+http://priorities.sandag.org/pdfs/finaldraftexpenditureplan.pdf	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_11e35e36-aa4f-11df-b38c-001cc4c03286.html?mode=story	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/news/article_91640f10-fcd1-11de-9250-001cc4c03286.html?mode=story	HTTP Error 404: Not Found
+http://www.carldemaio.com/issue/budget-and-pension-reform	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/survival/article_8e8601d6-b7f1-11e0-83f9-001cc4c03286.html?mode=story	HTTP Error 404: Not Found
+http://www.edweek.org/media/2016/12/29/school-finance-education-week-quality-counts-2017.pdf	HTTP Error 403: Forbidden
+http://www.cleanupcityhall.com/uploaded/SD%20Pension%20Excess%20-%20FINAL.pdf	HTTP Error 404: Not Found
+http://www.epionline.org/minimum-wage/	HTTP Error 403: Forbidden
+https://www.sdcers.org/news/Documents1/Cheiron_CPR_Analysis_and_Projections_3_7_12.pdf	HTTP Error 404: Not Found
+http://voiceofsandiego.org/dissolving-city	HTTP Error 404: Not Found
+http://www.huffingtonpost.com/jenny-mccarthy/ifrontlineis-the-vaccine_b_555785.html	HTTP Error 403: Forbidden
+http://www.10news.com/news/local-group-counting-every-tree-in-san-diego-022813	HTTP Error 404: Not Found
+http://www.balboapark.org/sites/default/files/memo_experimental_closures_of_cabrillo_bridge_and_plaza_de_panama.pdf	HTTP Error 404: Not Found
+http://www.architectmagazine.com/development/instead-of-suburbia-can-phoenix-discourage-sprawl-now-that-the-housing-market-is-heating-up-again_o.aspx	HTTP Error 405: Not Allowed
+http://www.sandiegonewsroom.org/news/index.php?option=com_content&view=article&id=43834:congressman-and-mayoral-candidate-bob-filner-aims-to-get-the-city-to-realize-its-incredible-potential&catid=50:san-diego-region&Itemid=51	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.sandiego.gov/fm/annual/fy12/index.shtml	HTTP Error 403: Forbidden
+http://www.sandiego.gov/mwwd/facilities/northcity.shtml	HTTP Error 403: Forbidden
+http://www.sandiego.gov/economic-development/about/cfab.shtml	HTTP Error 403: Forbidden
+http://www.sandiego.gov/auditor/reports/audit_pdf/oca_b2g_report_2-2-2010.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/iba/pdf/reports/2014/14_34_140911.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/city-clerk/elections/city/pdf/strongmayorformofgovernance.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/iba/pdf/11_16.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/planning/community/profiles/	HTTP Error 403: Forbidden
+http://www.sandiego.gov/city-clerk/pdf/voterstats.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/police/pdf/2013/SDPDLawEnforcementExpoFlyer.pdf	HTTP Error 403: Forbidden
+http://www.pbs.org/frontlineworld/stories/mexico704/interview/hunter.html%3C/p%3E%3Cp%3E	HTTP Error 404: Not Found
+http://www.sandiego.gov/street-div/pdf/potholeschedule.pdf	HTTP Error 403: Forbidden
+http://lgbtweekly.com/2012/05/24/why-the-background-of-the-mayors-partner-is-relevant/	<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+http://californiawatch.org/dailyreport/cockfighting-rings-widespread-calif-data-shows-8870	<urlopen error timed out>
+http://www.cbsnews.com/video/watch/?id=50143280n	HTTP Error 404: Not Found
+http://www.sandiego6.com/news/local/PB-Shore-Club-Proposes-Expansion-139172554.html	HTTP Error 404: Not Found
+http://www.foxnews.com/politics/2010/10/15/new-health-care-rules-require-doctors-note-pay-otc-drugs-fsas/%E2%80%AC/	HTTP Error 404: Not Found
+http://www.kusi.com/news/goodmorning/89641372.html	HTTP Error 404: Not Found
+http://www.sdcitybeat.com/cms/story/detail/who_s_watching_the_watchdog/8765/	HTTP Error 404: Not Found
+http://www.leginfo.ca.gov/cgi-bin/displaycode?section=veh&group=23001-24000&file=23100-23135	HTTP Error 500: Server Error
+http://www.sdcitybeat.com/sandiego/blog-1421-my-interview-with-mike-aguirre.html	HTTP Error 404: Not Found
+http://www.slge.org/vertical/Sites/%7BA260E1DF-5AEE-459D-84C4-876EFE1E4032%7D/uploads/%7BE41F19B3-6C76-4D7D-9330-54CB5EBE4556%7D.PDF	HTTP Error 403: Forbidden
+http://www.strglobal.com/	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://www.sandiego.gov/sites/default/files/measures11082016_4.pdf	HTTP Error 403: Forbidden
+http://www.sandi.net/cms/lib/CA01001235/Centricity/Domain/121/research/cst/2011/multiyeardemo/CST_2007-2011_MultiDemog_ELAMath_000.pdf	HTTP Error 404: Not Found
+http://herocomplex.latimes.com/fans/comic-con-international-to-remain-in-san-diego-through-2016/	HTTP Error 403: Forbidden
+https://docs.google.com/spreadsheet/ccc?key=0Ajm56lgeLcUydDEwYUd2ZGNCU1Q4ZTQxcGRJalpTaWc	HTTP Error 410: Gone
+http://www.sos.ca.gov/admin/bill-chapters.htm	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org//californiawatch.org/dailyreport/officials-warn-schools-about-mishandling-bond-money-10710	HTTP Error 404: Not Found
+http://chronicle.com/article/Graduation-Rates-2010-/125587/	HTTP Error 416: Requested Range Not Satisfiable
+http://stadiumblog.dallasnews.com/2010/04/the-cost-of-cowboys-stadium-ha.html?nclick_check=1	HTTP Error 404: Not Found
+http://www.huffingtonpost.com/richard-alarcon/financial-reform-the-coll_b_587871.html	HTTP Error 403: Forbidden
+http://www.epionline.org/studies/macpherson_06-2004.pdf	HTTP Error 403: Forbidden
+http://www.sandiegonewsroom.org/news/index.php?option=com_content&view=article&id=44204:qaa-with-spokesman-darren-pudgil-on-the-mayors-chargers-stadium-plans&catid=50:san-diego-region&Itemid=51	<urlopen error [Errno 11001] getaddrinfo failed>
+http://newsblaze.com/story/20070428100949lill.nb/topstory.html	HTTP Error 403: Forbidden
+http://www.sandiego.gov/fm/annual/pdf/fy10/13v2citycouncil.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/iba/pdf/11_16Attachment1.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/mwwd/facilities/ptloma/	HTTP Error 403: Forbidden
+http://www.sandiego.gov/water/quality/watersources/treatmentprocess/treatmentplants.shtml	HTTP Error 403: Forbidden
+http://www.sandiego.gov/auditor/reports/fy13_pdf/audit/13-012_potholes.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/empopp/pdf/saltable.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/iba/pdf/reports/2014/14_39rev2_141003.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/citycouncil/cd3/communities/	HTTP Error 403: Forbidden
+http://www.sandiego.gov/planning/community/profiles/carmelvalley/plan.shtml	HTTP Error 403: Forbidden
+http://www.sandiego.gov/city-clerk/geninfo/history.shtml	HTTP Error 403: Forbidden
+http://www.sandiego.gov/public-library/about-the-library/loganhts.shtml	HTTP Error 403: Forbidden
+http://www.lajollalight.com/2010/02/03/city-council-rejects-groups-alternative-to-strong-mayor-system/	HTTP Error 403: Forbidden
+http://www.niu.edu/law/organizations/law_review/pdfs/full_issues/31_1/Green%2069-93.pdf	HTTP Error 404: Not Found
+http://libraries.ucsd.edu/historyofucsd/newsclippings/1965clippings.html	HTTP Error 404: Not Found
+http://www.ncbi.nlm.nih.gov/pubmedhealth/PMH0000556	HTTP Error 403: Forbidden
+http://www.sandiegouniontribune.com/news/2015/jul/06/city-attorney-castellanos-elliott-hickey-cabrera/	HTTP Error 403: Forbidden
+http://www.climateactioncampaign.org/index.html	HTTP Error 404: Not Found
+http://www.smallbusinessmajority.org/about-small-business-majority/	HTTP Error 403: Forbidden
+http://www.suicidepreventionlifeline.org/	HTTP Error 403: Forbidden
+http://www.conventioncentertaskforce.org/resources/meetingdocs/5-26-09%20ERA%20Report.pdf%20	HTTP Error 404: Not Found
+https://www.sdcers.org/news/Pages/SDCERS-Board-of-Administration-Adjusts-Discount-Rate-to-7-25.aspx	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_077bb1ea-5c50-11e2-8b27-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/arts/article_66d923f4-3e4e-11e2-a98c-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_00657d68-3a3e-11e0-a5ab-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_f7fce388-92f1-11e1-9e4e-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_bcbe1860-9068-11df-b67a-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_ed058fa4-4b7d-11e1-a5d8-001871e3ce6c.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/election/article_f427c9dc-e7b0-11df-967d-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_8ea43b34-9ae9-11e1-ae59-001a4bcf887a.html	HTTP Error 404: Not Found
+http://fuelgaugereport.opisnet.com/CAmetro.asp	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_5a7a4cd8-5d27-11df-87a0-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_3b816b12-5b2e-11e0-a3a7-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_4b831d1e-abeb-11df-81d5-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_18d0ba7c-10f3-11df-a75f-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/environment/muck/article_6b49cb0e-2cb4-11df-93a5-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_08a304fe-61eb-11df-9ca9-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/clipboard/article_8e7178ac-329d-11e1-a937-0019bb2963f4.html	HTTP Error 404: Not Found
+http://quickfacts.census.gov/qfd/states/06/0667000.html	<urlopen error [Errno 11001] getaddrinfo failed>
+https://www.voiceofsandiego.org/fact/article_1eb3dd9a-c46d-11e1-91e2-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_3541e352-cf42-11e0-bbb7-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_2d6a0fac-2081-11e1-8e8b-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/data-drive/article_990feeb0-f6cf-11e0-abf7-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_8515e7c8-dda4-11e0-8172-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_6f725c8e-7313-11e2-919d-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_bc378de9-b1b8-5cc7-8681-8730bea571bd.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_9e5e62ea-226c-11df-9cc2-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/education/schooled/article_7cebc872-c785-11e0-8536-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_d207165c-aed8-11df-ba20-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_f6a1323a-90b0-11e0-b13f-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_522d24d6-0192-11e1-930f-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_d0544dd6-a38b-11e0-9bf6-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_e71a0b16-8e36-11df-915c-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_288d331c-27c5-11df-aba9-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_a9e1af18-d139-11e1-8ee3-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_3c79e194-7e4c-11df-94b8-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_30705b88-7fb3-11e2-8bc8-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_60c70f9a-3349-11e2-8919-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_a494c634-6561-11e0-a3be-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_42343676-3610-11e0-9f56-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_4d8d69ee-3ce9-11e1-a346-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_7e557a9f-3597-585e-8aa1-11c10b6289e1.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_6072c520-8729-11e0-838e-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.epionline.org/studies/sabia_09-2008.pdf	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_0c437226-51bc-11e0-8b7f-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.sandiegoreader.com/news/2010/sep/07/rock-church-clogs-loma-portal/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_76cb5e48-f338-11df-a055-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org//voiceofsandiego.org/tncms/admin/action/%20http:/www.voiceofsandiego.org/education/article_022c9366-7182-11e2-b2ca-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_b1376140-7b2c-11e0-8f58-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.sandiego.gov/business/mc/pdf/120201mcstatus.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/fm/annual/pdf/fy12/10v1financialsummaryandschedules.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/mwwd/facilities/southbay/index.shtml	HTTP Error 403: Forbidden
+http://www.sandiego.gov/engineering-cip/services/consultcontract/prequal.shtml	HTTP Error 403: Forbidden
+http://www.sandiego.gov/iba/pdf/11_21.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/investorinformation/main.htm	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/education/article_c83343e8-ddd5-11e1-bfca-001a4bcf887a.html	HTTP Error 404: Not Found
+http://www.sandiego.gov/water/recreation/reservoirs/sanvicente.shtml	HTTP Error 403: Forbidden
+http://www.sandiego.gov/public-library/locations/branchlist.shtml	HTTP Error 403: Forbidden
+http://www.sandiego.gov/citycouncil/cd8/pdf/02072011PensionreformMemo.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/city-clerk/pdf/cd5results.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/planning/community/profiles/clairemontmesa/pdf/mbap_final_submittal.pdf	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_e3a61b66-c443-11e0-b0fe-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_695e4962-d7ce-11df-a4d4-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_657e9b12-aafb-11df-90c7-001cc4c03286.html	HTTP Error 404: Not Found
+http://bonnieforsandiego.com/pdfs/Dumanis_Education_Plan_digital.pdf	<urlopen error [Errno 11002] getaddrinfo failed>
+https://www.voiceofsandiego.org/public_safety/pavement/article_b3d43e46-356d-11e0-bb18-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_84c988ee-3d21-11df-89cd-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_c0039428-6f36-11e2-ab9e-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_f32b040e-71f7-11e1-83bc-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.washingtontimes.com/news/2006/aug/14/20060814-115849-6832r/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/pdf_f1fcb870-7988-11df-b890-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.10news.com/news/mayor-elect-filner-pushes-to-redirect-sdge-settlement-money-to-public-safety	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_95ccc8da-3bd1-11e1-ab10-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/land-use/article_18791cb6-6723-11e2-892d-001a4bcf887a.html	HTTP Error 404: Not Found
+http://www.sandiego6.com/story/san-diego-business-leaders-call-on-filner-to-resign-20130801	argument of type 'NoneType' is not iterable
+https://www.voiceofsandiego.org/government/thehall/article_9c341cde-6d86-11df-b00b-001cc4c03286.html	HTTP Error 404: Not Found
+http://libraries.ucsd.edu/historyofucsd/newsreleases/1962/19621015.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_c621fea0-7eb2-11e1-949e-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/public_safety/responder/article_cc0fb598-969a-11df-a207-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_779c5ee6-587c-11df-b877-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_bd9d4678-6ec6-11e1-8399-001871e3ce6c.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_4bd3c470-a608-11e2-9417-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/education/article_511bb8d2-09cf-11e2-97ff-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_dc4ebed4-bee1-11e0-a5f3-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.kevinfaulconer.com/documents/FaulconerStrongandSafeNeighborhoods.pdf	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/this_just_in/article_09ef542a-0d09-11df-ba88-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.sdcitybeat.com/sandiego/article-10537-our-june-5-election-endorsements-are-here_.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/public_safety/article_f5e354fc-2a65-11df-8c7b-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.smallbusinessmajority.org/small-business-research/downloads/030614-National-Minimum-Wage-Poll.pdf	HTTP Error 403: Forbidden
+http://www.sdcitybeat.com/sandiego/blog-1548-sarah-boot-tracks-down-lorie-zapf-at-contentious-candidate-forum.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_3036c82c-98d7-11e2-88f5-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.loc.gov/crsinfo/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/government/thehall/article_201da30e-284c-11e1-bb76-001871e3ce6c.html	HTTP Error 404: Not Found
+http://ht.ly/518T309eqJk	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/apr/12/mayor-succeeds-outsourcing-help-desk/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2013/feb/08/hoteliers-appeal-filner-tourism-revenues/?print&page=all	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2012/apr/30/tp-sd-unified-rolls-out-ipads-in-a-major-way/?print&page=all	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2009/mar/24/1m24auto212145-hueso-young-giving-flat-rate-auto-a/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/photos/galleries/2012/sep/29/sd-mayoral-candidates/#/13	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2012/may/21/tp-filner-targets-special-interests/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/photos/2010/dec/04/273988/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/dec/22/qualcomm-stadium-field-is-under-water/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/nov/29/report-recommends-san-diego-raise-fees-look-to/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2011/may/01/guiding-san-diego-state-the-girl-next-door/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2013/Jul/30/balboa-panama-parking-access/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/jul/28/pension-reform-takes-center-stage/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2012/jun/01/demaio-attacked-over-police-widow-benefits/	HTTP Error 403: Forbidden
+http://www.sandag.org/enewsletter/archives/june2012/feature_4.html	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2013/oct/07/tp-convention-center-an-issue-in-mayors-race/all/?print	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2014/mar/06/bill-would-ban-seaworld-orca-performances-a/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2011/jul/06/city-redevelopment-faces-70-million-state/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2011/feb/17/letters-chula-vista-park-booze-ban-fire-help/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_a97edc88-3885-11e0-a2f1-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/opinion/slop/article_6328ccf6-6c93-11e1-9054-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_fd0307dc-1e75-11e0-b246-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.kusi.com/news/goodmorning/91547824.html	HTTP Error 404: Not Found
+http://www.usnews.com/news/blogs/dotmil/2012/08/03/obama-exempts-military-personnel-from-cuts-civilian-workers-weapons-at-bigger-risk	HTTP Error 403: Forbidden
+http://militarypay.defense.gov/mpcalcs/Calculators/FinalPayHigh3.aspx?calcType=h3	HTTP Error 404: Not Found
+http://www.sos.ca.gov/elections/ballot-measures/initiative-guide.htm	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_077bb1ea-5c50-11e2-8b27-001a4bcf887a.html?_dc=601178102660.9242	HTTP Error 404: Not Found
+http://www.epionline.org/study/r123/	HTTP Error 403: Forbidden
+http://www.sandiegoreader.com/news/2011/jan/23/stringers-san-diego-fee-marijuana-dispensaries/	HTTP Error 403: Forbidden
+http://sd2024ec.com/	<urlopen error [Errno 11001] getaddrinfo failed>
+https://www.voiceofsandiego.org/fact/article_3541e352-cf42-11e0-bbb7-001cc4c002e0.html?mode=story	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/data-drive/article_0d1cee4c-fc35-11e0-9890-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/survival/article_95a45e00-35a0-5d29-8514-3e031f8eb51a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_2341b614-c84e-11e0-9c17-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.sddemocrats.org/content/PDF/NewsRelease_032812.pdf	HTTP Error 404: Not Found
+http://www.sandi.net/cms/lib/CA01001235/Centricity/Domain/431/reports/2011/0927/video2.html	HTTP Error 404: Not Found
+http://voiceofsandiego.org/wp-content/uploads/app/filnerslater081612.mp3	timed out
+https://www.voiceofsandiego.org/government/thehall/article_4f9f14a8-965d-11e1-a2b7-001a4bcf887a.html?_dc=264735555276.2747	HTTP Error 404: Not Found
+http://voiceofsandiego.org/2008/04/18/how-the-budget-cuts-impact-one-elementary-school-2/	The read operation timed out
+https://www.voiceofsandiego.org//editorial/3/7f/37fcf6da-84ba-11e1-b6d1-0019bb2963f4/4f86ff19bf59c.image.jpg	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_1339f012-e56f-11e1-840a-001a4bcf887a.html	HTTP Error 404: Not Found
+http://www.sandiego.gov/citycouncil/cd8/pdf/110328pressrelease.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/environmental-services/recycling/ro/enforcement.shtml	HTTP Error 403: Forbidden
+http://www.sandiego.gov/chargersissues/pdf/finalreport.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/iba/pdf/12_03.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/fm/annual/pdf/fy12/19v2citycouncil.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/investorinformation/pdf/ar_fy09_gf_cafr.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/water/waterreuse/pdf/ir06sec7.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/mwwd/pdf/301hpermit.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/purchasing/pdf/lwo_wage_rates2.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/city-clerk/pdf/cd6results.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/planning/community/profiles/greaternorthpark/agendas.shtml	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_8b265e20-fc4f-11e1-a66f-0019bb2963f4.html	HTTP Error 404: Not Found
+http://bosagenda.sdcounty.ca.gov/agendadocs/doc?id=0901127e806e1668	argument of type 'NoneType' is not iterable
+https://www.voiceofsandiego.org/fact/article_b15996dc-435d-11df-a5df-001cc4c03286.html?login_success=true	HTTP Error 404: Not Found
+http://www.local30sandiego.org/about-local-30/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/government/article_f8dacfb4-f3da-11e1-8418-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.post-gazette.com/pg/11033/1122401-100.stm	<urlopen error timed out>
+https://www.voiceofsandiego.org/news/article_925a320e-0abf-5978-b939-80cb9009ee4f.html	HTTP Error 404: Not Found
+http://lifestylemags.com/stories/bridge_bday.html	HTTP Error 404: Not Found
+http://http://www.sandag.org/uploads/meetingid/meetingid_4268_20633.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.teamsters911.com/?zone=/unionactive/officers.cfm	HTTP Error 404: Not Found
+http://legacy.signonsandiego.com/news/reports/watchdog/20051009-9999-1m9midway.html	HTTP Error 403: Forbidden
+http://www.scribd.com/doc/51922736/Gualala-Wildlife-Monitoring-Study	HTTP Error 410: Gone
+http://www.nami.org/Content/NavigationMenu/Find_Support/Helpline/NAMI_Information_HelpLine.htm	HTTP Error 404: Not Found
+http://www.sandiegoreader.com/news/2014/mar/28/stringers-zapf-eludes-ob-town-council/	HTTP Error 403: Forbidden
+http://www.cbp.gov/linkhandler/cgov/border_security/border_patrol/usbp_statistics/usbp_fy12_stats/staffing_1993_2012.ctt/staffing_1993_2012.pdf	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/education/article_0a8ed0e0-f5bf-11e0-b560-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.sandiego.gov/chargersissues/pdf/horrow.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/citycouncil/cd8/pdf/110329memo.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/iba/pdf/reports/2012/12_31.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/fm/annual/pdf/fy12/55v2police.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/mayor/pdf/110511factsheet.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/ethics/pdf/2012_lightner.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/park-and-recreation/parks/regional/balboa/facilities/facilities2.shtml	HTTP Error 403: Forbidden
+http://www.sandiego.gov/purchasing/pdf/vendorapp.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/city-clerk/pdf/elections/city/081104ballotmeasures.pdf	HTTP Error 403: Forbidden
+http://www.ufei.org/files/pubs/sandiegouea.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.sandiego.gov/planning/community/profiles/pdf/cp/cpmcpenaborhoods.pdf	HTTP Error 403: Forbidden
+http://californiawatch.org/k-12/how-long-school-year-compare-california-world	<urlopen error timed out>
+http://www.sandiego6.com/story/san-diego-city-council-approves-funds-for-police-recruitment-retention-20130828	argument of type 'NoneType' is not iterable
+http://www.sdpoa.org/absolutenm/articlefiles/506-Bucket%20Presentation%20Final.pdf	HTTP Error 404: Not Found
+https://www.sdmea.org/Media/Documents/MOU.pdf	HTTP Error 404: Not Found
+http://www.sandiegouniontribune.com/news/2016/mar/11/sdpd-police-retention-hiring/	HTTP Error 403: Forbidden
+http://www.equinoxcenter.org/assets/files/SD_Water_Sources_Assessing_the_Options%281%29.pdf	HTTP Error 404: Not Found
+http://voiceofsandiego.org/environment/article_e9425074-63cb-553b-b17d-3375c0331b47.html	HTTP Error 404: Not Found
+http://web.signonsandiego.com/news/2011/oct/19/transit-tweeting-class-size-water-policy-and-the/	HTTP Error 403: Forbidden
+http://www.sdcitybeat.com/sandiego/article-3838-open-and-shut.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/video/article_1fd5ae3a-8d70-11e1-b819-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.10news.com/news/millions-approved-for-san-diego-infrastructure-repairs-03112013	HTTP Error 404: Not Found
+http://humantransit.org/2010/07/what-does-transit-do-about-traffic-congestion.html	HTTP Error 403: Forbidden
+http://www.sdcitybeat.com/sandiego/blog-282-bilbray-biffs-on-planned-parenthood-issue.html	HTTP Error 404: Not Found
+http://www.sos.ca.gov/elections/recalls/recall.pdf	HTTP Error 404: Not Found
+http://thomas.loc.gov/cgi-bin/bdquery/z?d109:HR05385:@@@R	HTTP Error 403: Forbidden
+http://www.encinitasca.gov/modules/showdocument.aspx?documentid=8321	HTTP Error 403: Forbidden
+http://www.kusi.com/news/goodmorning/93959009.html?video=pop&t=a	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/arts/article_ad78b318-617a-11e0-be1f-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/environment/muck/article_8123e139-b6dd-55e4-b144-6b0bc6c735ee.html	HTTP Error 404: Not Found
+http://www.fws.gov/cno/es/California%2520least%2520tern%25205-year%2520review.FINAL.pdf	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_196e2782-568b-11e1-be8b-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_f96cc250-2a9c-11e1-a49e-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_08eadf34-76af-11e0-aeec-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_ed3098f8-2409-11e0-b683-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_5b5aba08-932e-11e2-8fb7-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_beb6127a-3288-11e2-8d0d-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_02287066-ff32-11df-bbb5-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.sandiego.gov/city-clerk/elections/city/pdf/2010importantdates.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/citycouncil/cd8/pdf/2013/130107nomineesconsideration.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/iba/pdf/reports/2012/12_48_121119.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/mayor/pdf/111013factsheet.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/real-estate-assets/pdf/stadium/chargershistoricalrentanalysis.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/city-clerk/pdf/elections/city/propa080603.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/park-and-recreation/pdf/parkdesign/bpmasterplan-r-299085.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/ethics/pdf/graham_parec.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/fm/pdf/fy14_5year.pdf	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/clipboard/article_a18739aa-69f7-11e0-8861-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.sandiego.gov/planning/genplan/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/government/thehall/article_3d081f48-9690-11df-92f9-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/data-drive/article_9c4b1bfe-93f5-11e1-bc98-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_d2c5691e-66b5-11e0-8b01-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/prop-d/article_e60df222-d0d6-11df-9f9a-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/education/schooled/article_8112fdcc-109a-11e1-b18d-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_4345e428-b4f5-11e1-9edb-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_2de9789e-7efe-11df-aaf6-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_634ad330-31a7-11e2-a9ed-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_83513653-b9d4-5dee-b3ae-cf3d57f0bb1c.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_e94702c2-0493-11df-9062-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_612218ca-64c4-11e2-954a-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_33daf814-8d00-11e2-9b28-001a4bcf887a.html	HTTP Error 404: Not Found
+http://sites.udel.edu/saul-hoffman/files/2014/01/SBH-Reanalysis_1_2014_rev-1ffcf2s.pdf	HTTP Error 403: Forbidden
+http://www.nctimes.com/news/local/sdcounty/article_6547bd7e-6878-5b02-a7ac-da7e82bcc0fe.html	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org//editorial/5/0a/61c/50a61cc8-e940-11df-9f87-001cc4c002e0-revisions/4cd4a7389d150.pdf.pdf	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_e3e406ec-f16a-11e1-913e-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/environment/article_13330282-1245-5e49-bd68-5a10237c9f44.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_8f51396a-645e-11df-ba00-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_4e28d2ea-117c-11e2-ab56-0019bb2963f4.html	HTTP Error 404: Not Found
+http://static.netfile.com/agency/csd/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/government/thehall/article_664bdeb2-21d7-11e0-88e9-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/people/article_3682f96a-8d4d-5967-9634-f0d209b9b2cd.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_f32f1230-2d2f-11e2-8d91-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_cd75cdd4-e1fc-11df-8dd4-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_85785984-4615-11e0-b847-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_6ac1d778-a7f4-11e0-9fb7-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_4dd72d09-45ba-52cc-a320-fb5e799e1c69.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_a23a0554-72cf-11e0-916c-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_7a6ddff4-1c28-11df-b299-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_c68307f0-9c79-11e2-94bf-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_6fd7b0ae-8ff9-11e2-8b67-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.sandi.net/cms/lib/CA01001235/Centricity/Domain/450/Meeting%20Handouts/2011-12%20Handouts/Feb%202012/Title%20I%20Ranking%20Proposals%2001-31-12.pdf	HTTP Error 404: Not Found
+http://webcache.googleusercontent.com/search?q=cache:http://www.sourcewatch.org/index.php/Reason_Foundation	HTTP Error 403: Forbidden
+http://onlinecpi.org/wp-content/uploads/2011/10/Foreclosure_4page_eng_web.pdf	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/this_just_in/article_5d004810-f9a2-11de-84cc-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.signonsandiego.com/news/2011/sep/27/young-rips-demaio-during-landfill-debate/	<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+https://www.voiceofsandiego.org/fact/article_de6b749a-c10e-11df-840f-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_1ebbbf84-067a-11e2-88d1-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_855a7386-fda1-11df-a494-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.politifact.com/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/government/thehall/article_bf835b60-470e-11e1-8379-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_c23ec0a6-0140-5bef-9a38-990f8479deb2.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_9ef8df22-6fb3-11e2-93a1-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_d2c2bc24-67c2-11e0-ab04-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_531911e8-56ab-11e1-b106-001871e3ce6c.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_f805815c-01b9-11e0-9623-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_3cf51d88-b3e7-11e0-86fc-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_afa1c268-38bc-11e2-b55b-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_28c3d46c-df34-11e0-a56d-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_a4eea7d6-f413-11df-88aa-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_7707c79e-df09-11e0-9be9-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_0c4ee6c6-fec5-11e1-89be-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.namisandiego.org/clienteconsumer.php	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2009/dec/12/chargers-explain-funding-shift/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org//voiceofsandiego.org/tncms/admin/action/%20http:/www.voiceofsandiego.org/fact/article_6199c0aa-16ef-11e2-8f41-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/land-use/article_49c2f790-b135-11e2-9c78-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/public_safety/pavement/article_c1ecc21c-ff9a-11e0-b5bd-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.sdea.net/wp-content/uploads/SDEA-Complete-Contract-2013-2014.pdf	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_963c2eb6-f926-11e0-9fb4-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/education/article_d40e9286-1a10-11e2-9e09-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/education/article_5531298a-1efa-11e2-86c8-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/public_safety/responder/article_e5c0638e-cb47-11df-9e24-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/public_safety/pavement/article_0f71c7e0-003a-11e1-98d5-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.sandiego.gov/citycouncil/cd8/pdf/sod810.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/iba/pdf/reports/2013/13_16_130315.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/city-clerk/elections/city/pdf/2014candidate_contact_list.pdf	HTTP Error 403: Forbidden
+https://twitter.com/AndyKoppSD/status/317685341807075328	HTTP Error 404: Not Found
+http://www.sandiego.gov/ethics/pdf/stip05_69.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/real-estate-assets/pdf/stadium/stadiumfinancingoptions.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/mayor/pdf/2013/release130424ekard.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/park-and-recreation/pdf/trammap.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/city-clerk/pdf/elections/city/propb080603.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/humanresources/pdf/fy09poamou.pdf	HTTP Error 403: Forbidden
+http://filesocial.com/6rgklfj	HTTP Error 404: Not Found
+http://www.sandiego.gov/planning/genplan/cap/pdf/draft_climate_action_plan_dec_2013.pdf	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_fd4f44cc-4938-11e2-826e-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_bef10b1e-a01d-11df-8c5a-001cc4c03286.html?login_success=true	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_2221a350-aa6f-11df-b0e9-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_3f0a8e04-6f03-11e2-b8cd-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/opinion/slop/article_f22ad0a8-fd9e-11df-a6d6-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.dof.ca.gov/reports_and_periodicals/documents/2011%20BA%20Cash%20Flow%20for%20Web.pdf	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/data-drive/article_11d044a6-b33e-11e0-b0ea-001cc4c03286.html	HTTP Error 404: Not Found
+http://dynamodata.fdncenter.org/990_pdf_archive/330/330752257/330752257_200306_990EZ.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+https://www.voiceofsandiego.org/survival/article_081757ba-2d92-11e0-a560-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_aa6d0152-cce6-11df-a1dc-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_234a481a-4299-11df-b36e-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.sandiego6.com/story/san-diego-police-officers-association-endorses-faulconer-feinstein-endorses-alvarez-20140113	argument of type 'NoneType' is not iterable
+https://www.voiceofsandiego.org/fact/article_135863f2-b566-11df-8e61-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.sdcers.org/actuarialvaluation/SDCity_2008AVR%20021009.pdf	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/writers/liam-dillon/article_248355c6-68e8-11df-a4d3-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_0cb3b0f2-bb35-11e1-ad88-001a4bcf887a.html	HTTP Error 404: Not Found
+http://www.manhattan-institute.org/html/cr_baeo_t6.htm	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_8b51714c-1870-11e0-b695-001cc4c002e0.html	HTTP Error 404: Not Found
+http://sdcounty.granicus.com/MediaPlayer.php?view_id=2&clip_id=1044&publish_id=&event_id=	HTTP Error 404: Not Found
+http://www.voiceofsandiego.org/fact/article_212e2248-fbfa-11df-8121-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2012/nov/22/demaio-calls-gop-renewal-after-election/?page=1#article%3C/p%3E%3Cp%3E	HTTP Error 403: Forbidden
+http://www.utsandiego.com/uniontrib/20041010/news_lz1x10propk.html	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2013/feb/16/Texas-California-Perry-Jobs-SanDiego-economy/?page=1#article-copy	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/dec/29/school-board-changes-brewing/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/photos/2010/oct/27/250118/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2011/jul/29/radio-ad-warns-petition-gatherers-draws-critics/	HTTP Error 403: Forbidden
+http://www.unionyes.org/node/940	HTTP Error 404: Not Found
+http://www.signonsandiego.com/news/2011/feb/19/detouring-i-5-expansion-is-a-bad-idea/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2012/aug/04/romney-in-a-landslide/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2010/Jun/10/political-philanthropy-of-landlord-questioned/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2013/oct/22/ad-peters-congressional-election/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/jun/06/one-grand-report-editorial/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2013/May/25/tp-competition-retirement-could-shrink-police/?#article-copy	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2011/may/05/layoffs-delayed-chula-vista-cops/	HTTP Error 403: Forbidden
+http://www.politifact.com/florida/statements/2011/mar/17/matt-gaetz/taxpayer-funded-abortions-federal-health-care-bill/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2014/may/01/zapf-boot-council-san-diego-height-limit/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2012/jun/23/protecting-assets/?print&page=all	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/oct/06/deep-cuts-police-department-forecast-without-new-i/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/aug/21/Pension-decisions-more-than-doubled-payouts/	HTTP Error 403: Forbidden
+http://www.sdcitybeat.com/sandiego/article-7968-fetal-position.html	HTTP Error 404: Not Found
+http://industry.visitcalifornia.com/media/uploads/files/editor/VisitCalifornia_201302.pdf	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_b3f62fe0-d127-11e1-8b0f-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/survival/article_9a74e4aa-fc2e-11df-a5a3-001cc4c002e0.html	HTTP Error 404: Not Found
+http://thomas.loc.gov/cgi-bin/bdquery/z?d111:HR03082:@@@R	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_3569e7a2-5bda-11e0-b36c-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.sandiegouniontribune.com/communities/east-county/sd-se-elcajon-parkfood-20171025-story.html	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/government/thehall/article_4fb1cb92-97cc-11e0-b1e0-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.sandiego.gov/iba/pdf/reports/2013/13_27_130620.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/comptroller/reports/monthly.shtml	HTTP Error 403: Forbidden
+http://www.sandiego.gov/mayor/pdf/factsheet120208.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/redistricting/pdf/2011finalplan.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/humanresources/pdf/poafy14.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/fire/about/firestations/sta33.shtml	HTTP Error 403: Forbidden
+http://www.sandiego.gov/planning/community/cpu/barriologan/pdf/bl_cpu_full_w_historic_res_091913.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/city-clerk/pdf/managedcompetition.pdf	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/government/article_fc7911af-83f9-5bc6-9ca0-42eb56dc7b97.html	HTTP Error 404: Not Found
+http://www.sandiego.gov/city-clerk/elections/city/pdf/financereformonehalf.pdf	HTTP Error 403: Forbidden
+https://fs2.formsite.com/carldemaio/soledad/secure_index.html	HTTP Error 404: 404
+https://www.voiceofsandiego.org/opinion/article_4d28842c-bfd7-11e1-ae13-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.sos.ca.gov/elections/voter_privacy_final_report/intro_tfvp_final_report.pdf	HTTP Error 404: Not Found
+http://www.sandiego.gov/planning/genplan/pdf/2012/ce120100.pdf	HTTP Error 403: Forbidden
+http://www.ccdc.com/images/stories/downloads/meetings-and-events/event-calendar/item-12-power-point-presentation.pdf	HTTP Error 403: Forbidden
+http://www.fws.gov/sacramento/es/animal_spp_acct/ca_least_tern_kf.htm	HTTP Error 404: Not Found
+http://www.kusi.com/news/goodmorning/94968859.html?video=pop&t=a	HTTP Error 404: Not Found
+http://blog.clairemont.com/2014/05/video-of-district-2-and-district-6.html?spref=fb	HTTP Error 404: Not Found
+http://www.cdph.ca.gov/programs/mcah/Documents/MO-TeenBirthsinCalifornia.pdf	HTTP Error 404: NOT FOUND
+http://carldemaio.com/files/DeMaio_Education_Plan.pdf	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/education/article_0ee81eae-0f35-11e2-bb8a-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.airdna.co/city/us/california/la-jolla?report=us_california_la-jolla	HTTP Error 403: Forbidden
+http://www.ipcc.ch/meetings/session30/doc3.pdf	HTTP Error 403: Forbidden
+http://www.sandiegouniontribune.com/news/hepatitis-crisis/sd-me-homeless-plan-20171012-story.html	HTTP Error 403: Forbidden
+http://vosd.org/QC4fh3	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org//editorial/6/23/9d5/6239d516-6176-11e0-98c0-001cc4c002e0-revisions/4d9e5571bcbd8.pdf.pdf	HTTP Error 404: Not Found
+http://www.midway.org/	HTTP Error 403: Forbidden
+http://www.politifact.com/truth-o-meter/article/2011/jul/27/-barely-true-mostly-false/	HTTP Error 403: Forbidden
+http://developer.sdmts.com/sdmtsapp/mtscr/TimeTable.aspx?r=15&d=South&display=V&tod=wd	<urlopen error [Errno 11001] getaddrinfo failed>
+https://www.sdcers.org/actuarialvaluation/SDCity_2013AVR%20122713vf.pdf	HTTP Error 404: Not Found
+http://www.sdcounty.ca.gov/Portal/News/2010/Oct/100610jobgrant.html	HTTP Error 404: Not Found
+http://t.co/EpK9IBAliA	HTTP Error 403: Forbidden
+http://www.unionyes.org/our-labor-council	HTTP Error 404: Not Found
+http://timesofsandiego.com/politics/2014/08/11/new-demaio-tv-ad-attacks-peters-city-pensions/	HTTP Error 403: Forbidden
+http://www.sandiego.gov/iba/pdf/reports/2013/13_31attachment1_130725.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/city-clerk/elections/city/pdf/retirementcharteramendment.pdf	HTTP Error 403: Forbidden
+http://www.sandiego.gov/sip/agencies-ems.htm	HTTP Error 403: Forbidden
+http://www.utsandiego.com/documents/2013/aug/13/filner-response-recall-effort/	HTTP Error 403: Forbidden
+http://www.nathanfletcher.com/fs/global:file/skins/zp9bkxijgqtsw8_resource_files/file/id/zhhh8hxcjixj23?_c=ztntqlqu2g9kml	HTTP Error 404: Not Found
+http://www.sandi.net/cms/lib/CA01001235/Centricity/Domain/453/QrtlyRprt_Exhibit-5.3--9-20-12.pdf	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_1a82da06-9fa5-11e1-b15a-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/environment/muck/article_8e580a5a-a67d-11df-99c6-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_eecb4d00-0c12-11e2-81bc-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_5bb0110a-4316-11e2-9f6f-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_f97c1478-2023-11e0-8156-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/arts/article_e309cb14-13ff-11e2-bdc2-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_04490e1a-9af2-11e2-9d0a-001a4bcf887a.html	HTTP Error 404: Not Found
+http://www.sd2024ec.org/	<urlopen error [Errno 11002] getaddrinfo failed>
+http://carldemaio.com/files/roadmaptorecovery.pdf	HTTP Error 403: Forbidden
+http://ballotpedia.org/wiki/index.php/Jessica\'s_Law,_California_Proposition_83_(2006)	HTTP Error 404: Not Found
+https://www.airdna.co/city/us/california/san-diego?report=us_california_san-diego	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_093946ea-54a2-11df-a438-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_3d33a2c4-6279-11e1-bbd4-001871e3ce6c.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_2e1fa192-92e6-11e0-886a-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/clipboard/article_bbc594f0-a39f-11e1-949b-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_364eb538-3fdd-11e2-93ee-001a4bcf887a.html	HTTP Error 404: Not Found
+http://www.sandiego6.com/mediacenter/local.aspx?articleID=853395	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_8fd2e3c2-2f98-11e2-8e7e-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/data-drive/article_c92b2562-4a98-11e0-b9c1-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_d49af018-6a69-11df-9121-001cc4c002e0.html	HTTP Error 404: Not Found
+http://californiansagainstidentitytheft.org/Assembly-Judiciary-Committee-Report-on-Identity-Theft-of-Voter-Information.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.politifact.com/truth-o-meter/article/2013/sep/19/comparing-great-recession-and-great-depression/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/government/article_ecbfa966-6921-11df-92b3-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_e40ec338-11ce-11df-b7eb-001cc4c002e0.html	HTTP Error 404: Not Found
+http://provost.ucdavis.edu/local_resources/docs/20150114/Orfield-IncreasinglySegregatedAndUnequalSchoolsAsCourtsReversePolicy-2014.pdf	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_90c458ae-07bf-11e0-bd2c-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/education/schooled/article_c277b216-07f5-11e0-801c-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_44002332-bede-11e0-bdf2-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_658a63cc-8c47-11e2-b4dc-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_61fb0f58-f077-11e0-a807-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_f3afde68-4d3f-11e1-be81-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/environment/article_39264cd7-67a6-5dd0-ab8c-1e92eda44a8f.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/people/article_e760d9b9-4a38-59a5-b6c7-ab2b81965b7a.html	HTTP Error 404: Not Found
+http://www.cpms.osd.mil/ASSETS/B7137F6409D0415F9B904D8E074FDF67/20120531%20DEMOGRAPHICS.pdf	HTTP Error 404: Not Found
+http://www.hhs.gov/news/press/2010pres/09d/state_charts2.html	HTTP Error 404: Not Found
+http://legacy.utsandiego.com/news/metro/20040331-9999-news_7m31soledad.html	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/government/thehall/article_88c0720c-ff74-11e0-ad20-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_4f6e941e-a39f-11e1-acaf-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_6b197174-f3b0-11e0-83a7-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_6b92f6e6-5a3d-11e0-beab-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.sdcounty.ca.gov/redistricting/index.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_a3b6766e-45c1-11e0-b490-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_6fe10b76-2f03-11e0-b4d2-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/video/article_3e5b077c-776f-11e1-8734-001871e3ce6c.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/this_just_in/article_7ae7b9ce-02b5-59e1-9a4d-a85c3cb87066.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_1f1050bc-549d-11df-964f-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.10news.com/news/white-house-has-no-comment-on-accusations-against-mayor-bob-filner-080113	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_9f981e68-7139-11e0-855d-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_8563d904-25b9-11e0-a1dd-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_290bb9d0-1fbb-11e2-9827-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_8655c8cc-2788-11e2-8183-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_53c4aff6-2c23-11e1-a0df-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_ca9da03c-81a7-11e0-bd1c-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.sdcitybeat.com/sandiego/article-8358-truth-and-fiction.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_f92d6468-fa02-11e0-81c2-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_4e6ac596-d848-11e1-91ca-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_c4419f86-2530-11e1-b814-001871e3ce6c.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_3e2d696a-7486-11e2-af6d-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_cecd16ee-0d7c-11e2-bf7d-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_7afda54c-eb69-11df-8de1-001cc4c002e0.html	HTTP Error 404: Not Found
+http://voiceofsandiego.org/environment/muck/article_799006b6-4ea2-5ea2-a5e5-be5a1e4e4769.html	HTTP Error 404: Not Found
+https://www.sdcers.org/annualreports/2008_CAFR.pdf	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_b0d23434-8375-11e2-abd2-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_a6105ce0-6e15-11e1-a548-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org//voiceofsandiego.org/tncms/admin/action/%20http:/www.voiceofsandiego.org/fact/article_8cadbeba-6f3a-11e2-8b72-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/education/article_e34ee30a-9b24-11e2-bb98-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/land-use/article_9e5128c6-5ac4-11e2-986f-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_98889d8a-ed01-11df-a47b-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_c5284bc4-cad6-11e1-aedf-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/public_safety/responder/article_01146f42-c6a5-11df-b015-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_de6c4f94-d8e8-11e0-a695-001cc4c03286.html	HTTP Error 404: Not Found
+http://t4america.org/resources/dangerousbydesign/	HTTP Error 404: Not Found
+http://americansforprosperity.org/about/about-americans-for-prosperity	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_0c86067a-255f-11df-ac88-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_d3e3483a-04ed-11e1-a7ba-001cc4c03286.html	HTTP Error 404: Not Found
+http://blog.sandiegorepublicans.org/2012/03/san-diego-republicans-endorse-carl.html	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.nctimes.com/news/local/sdcounty/article_c48e878c-5ff4-5a47-ab91-0791990c95b6.html	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/public_safety/pavement/article_179d35e0-4ddd-11e0-9c7f-001cc4c002e0.html	HTTP Error 404: Not Found
+http://carldemaio.com/issue/education	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_bf4dd65e-4314-11e2-a0ff-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/data-drive/article_1fb75a6a-3cc2-11e1-855a-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/opinion/slop/article_f4a1fcba-ba47-11e0-bebe-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_403b88b2-dbb9-11df-a32a-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_fd604c36-5a74-11e0-9610-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.cdph.ca.gov/programs/tb/Documents/TBCB-WorldTBDay2010-combined.pdf	HTTP Error 404: NOT FOUND
+http://californiansagainstidentitytheft.org/RadioAd.mp3	<urlopen error [Errno 11001] getaddrinfo failed>
+https://www.voiceofsandiego.org/survival/article_1e0046e2-125a-11e1-a0aa-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_26d72503-2771-53b4-8068-9ae31a429558.html	HTTP Error 404: Not Found
+http://www.kusi.com/news/goodmorning/99400024.html?video=pop&t=a	HTTP Error 404: Not Found
+http://www.minimumwage.com/	HTTP Error 403: Forbidden
+http://www.politifact.com/truth-o-meter/statements/2013/feb/20/wayne-lapierre/wayne-lapierre-says-obama-ignores-border-fence-law/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_236f034e-adaa-11e0-892e-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_8bdac9f2-0c07-11e1-92a1-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_16378faa-a62a-11e2-818d-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_14da47c8-0103-11e2-a84e-0019bb2963f4.html	HTTP Error 404: Not Found
+http://articles.sfgate.com/2004-01-30/bay-area/17409185_1_state-administrator-compton-public-schools-bodyguard	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_adbfba7e-5502-11e2-9a75-001a4bcf887a.html	HTTP Error 404: Not Found
+http://ww.signonsandiego.com/news/2011/mar/27/city-considers-restrictions-on-medical-marijuana/	HTTP Error 403: Forbidden
+http://www.benbough.org/soulofsandiegoreport.pdf	[WinError 10054] An existing connection was forcibly closed by the remote host
+https://www.voiceofsandiego.org/fact/article_e40ec338-11ce-11df-b7eb-001cc4c002e0.html?login_success=true	HTTP Error 404: Not Found
+http://www.signonsandiego.com/news/2009/dec/14/councilman-flagged-pension-data/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org//editorial/a/0f/13a/a0f13a06-1eb9-11e0-babb-001cc4c03286-revisions/4d2e5dfa1b013.pdf.pdf	HTTP Error 404: Not Found
+http://www.sandiegouniontribune.com/communities/north-county/sd-no-sanchez-compalint-20161024-story.html	HTTP Error 403: Forbidden
+http://www.760kfmb.com/story/19925187/demaio-vs-filner-showdown	HTTP Error 404: Not Found
+http://www.nathanfletcher.com/wp-content/uploads/NF-PLAN-Public-Safety-100713.pdf	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/survival/article_a78d4ef2-ff70-11e0-a6dd-001cc4c002e0.html	HTTP Error 404: Not Found
+http://twitdoc.com/docview?doc=46296314&key=key-2bf6n1w772uqpkhks1fa&usr=dillonliam&lcl=dillonliam/hyawo5ed/young.pdf&hits=89&qs=mx55q7	HTTP Error 999: No Hacking
+https://www.voiceofsandiego.org/fact/article_a05b288a-2f31-11e0-8a9a-001cc4c03286.html?mode=story	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/education/article_59ed9c38-814c-11e2-927e-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_fc7e09b2-00f8-11e2-a9eb-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_5404a5fc-9eb0-11e1-8844-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_b51bd364-8862-11e2-8cbd-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_37851d7c-4f99-11e2-be91-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/opinion/article_59b8457a-ddd1-11e1-aec2-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.sdcers.org/annualreports/SDCERS%20FY12%20CAFR%20-%205MB.pdf	HTTP Error 404: Not Found
+http://www.epa.gov/nps/chap3.html	HTTP Error 404: Not Found
+http://blogs.census.gov/2011/07/20/what-are-census-blocks/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://carldemaio.com/news/2012/08/30/demaio-leads-historic-jobs-tour-focusing-bi-national-economic-growth	HTTP Error 403: Forbidden
+http://www.sandi.net/cms/lib/CA01001235/Centricity/Domain/8/sdusd-strategic-process.pdf	HTTP Error 404: Not Found
+http://www.sandiegouniontribune.com/news/politics/sdut-prop-a-passing-early-2013jun18-story.html	HTTP Error 403: Forbidden
+http://www.sandiego6.com/mediacenter/local.aspx?articleID=931124	HTTP Error 404: Not Found
+http://www.minimumwage.com/myths/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/education/article_13cf4572-d205-11e1-89e6-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2013/jan/24/tp-veto-provides-lesson-in-partisan-politics/?print&page=all	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/feb/02/sex-offenders-court-battles-will-continue/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2013/Aug/02/dronenburg-drops-prop8-petition/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/uniontrib/20041106/news_1n6cityskkul.html	HTTP Error 403: Forbidden
+https://twitter.com/WendyNBCSD/status/310076364428558336	HTTP Error 404: Not Found
+http://photographyisnotacrime.com/2014/03/25/study-contrasts-rialto-police-albuquerque-police-regards-body-mounted-cameras/	HTTP Error 404: Not Found
+http://www.voiceofsandiego.org/land-use/article_49c2f790-b135-11e2-9c78-001a4bcf887a.html	HTTP Error 404: Not Found
+http://articles.sfgate.com/2005-03-08/business/17362563_1_new-jobs-california-chamber-ballot-initiatives	HTTP Error 404: Not Found
+http://www.signonsandiego.com/news/2011/jun/24/remembering-the-good-old-bad-old-days-less-crime/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2010/Mar/02/city-auto-allowances-upheld/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/jun/20/cockfighting-still-a-problem-in-county/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2012/aug/23/stepping-up-fight-against-prescription-drug-abuse/?page=1#article	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/photos/galleries/steve-breen-gallery/16856/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2013/sep/20/mayoral-candidates-first-debate/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2012/jun/27/roger-hedgecock-increase-taxes-or-else009009009/?page=2#article	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/aug/22/school-reform-gains-and-a-parcel-tax/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2011/feb/26/south-county-redevelopment-forum-draws-large-crowd/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/oct/07/no-in-defense-of-overcompensated-employees/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2013/May/26/port-of-san-diego-facing-5-million-deficit/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2014/may/25/san-diego-dronenburg-assessor-lgbt-election/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2011/may/07/vargas-responds-to-landfill-editorial/	HTTP Error 403: Forbidden
+http://www.bermanco.com/	HTTP Error 403: Forbidden
+http://reformsandiego.com/money-clock/	HTTP Error 404: Not Found
+http://www.house.gov/filner/images/CA51largemap.jpg	HTTP Error 404: Not Found
+http://www.abadplan.com/downloads/airqualitytechnicalstudy.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.tpl.org/content_documents/citypark_facts/ccpe-Largest-Oldest-Most%20Visited-Parks-12_2010-Update.pdf	HTTP Error 404: Not Found
+http://www.facebook.com/behind.the.scene.sd	HTTP Error 404: Not Found
+http://www.sdcitybeat.com/sandiego/article-8970-hey-big-spender.html	HTTP Error 404: Not Found
+http://m.utsandiego.com/news/2015/feb/28/chargers-stadium/	HTTP Error 403: Forbidden
+http://twitdoc.com/view.asp?id=93499&sid=2057&ext=PDF&lcl=IBA-Review-of-FY-2014-Proposed-Budget-Rpt-13-19.pdf&usr=dillonliam&doc=138597668&key=key-2iwglwxbhvvidszwn75z	HTTP Error 999: No Hacking
+http://blogs.palmbeachpost.com/westpalmbeat/2010/09/nancy-graham-not-a-mayoral-candidate-denies-accusations-from-san-diego-ethics-commission/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.sdge.com/aboutus/serviceTerritory.shtml	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_1ac68b98-1db1-11df-89a4-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_048471a4-4646-11e2-9535-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/education/article_59ed9c38-814c-11e2-927e-0019bb2963f4.html?_dc=483434660360.2171	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/environment/muck/article_b5dda655-b46b-5fc0-b2d5-e8dff9487d3e.html	HTTP Error 404: Not Found
+https://www.optumhealthsandiego.com/accesscrisisline	HTTP Error 404: Not Found
+http://bigstory.ap.org/article/questions-arise-when-placing-cameras-cops	<urlopen error [Errno 11001] getaddrinfo failed>
+http://carldemaio.com/news/2014/09/04/demaio-calls-new-workplace-and-birth-control-flexibilities-women	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/arts/article_e5bf34c6-3e4c-11e2-8140-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_fa5f3534-38d0-11e1-ba95-001871e3ce6c.html	HTTP Error 404: Not Found
+https://www.utsandiego.com/news/2012/aug/14/lily-pond-damage-prompts-extra-park-patrols/	<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+https://www.voiceofsandiego.org/fact/article_ef27871e-1bb8-11e1-8e70-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_5c15a156-95c0-11df-a983-001cc4c03286.html	HTTP Error 404: Not Found
+http://piqe.org/Assets/Home/sdsu_summary_report.htm	[WinError 10054] An existing connection was forcibly closed by the remote host
+http://articles.sfgate.com/2011-01-05/news/27013272_1_storm-damage-repair-and-cleanup-costs-estimates	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_0a5a50dc-397e-11e2-a588-001a4bcf887a.html	HTTP Error 404: Not Found
+http://www.soldierfield.net/content/stadium-history	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/public_safety/article_1f56c64c-a8cf-11df-bd1d-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_935f817c-eeae-11de-8867-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_e17701cc-7833-11e0-8a2e-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_3009a556-1db8-11df-aeba-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_3f226db8-3ec2-11df-b5ff-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_367b6e06-fe02-11e1-9f70-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.kusi.com/news/local/93448604.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_efec7c96-e335-11e1-921c-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.nsba.biz/?page_id=4	HTTP Error 404: Not Found
+http://www.cdss.ca.gov/research/PG353.htm	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/community/article_0ee4547a-ca54-11e1-9f61-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/data-drive/article_ce5a9194-9321-11e1-8f22-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_90c512c6-eacd-11df-8bf9-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_68a2d6ea-63f8-589b-935f-27d527d1612e.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/environment/article_45f39d86-5be3-11df-9bf5-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.univisionsandiego.com/noticia/2012/10/09/423716-gasolina-ha-subido-54-2-centavos-semana.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_8c6864ee-a8e1-11e0-9280-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/people/q_and_a/article_05f5e61a-ff37-11df-9e22-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_7037c018-58cc-11e0-b2a4-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2007/nov/29/va-airline-employee-rips-filner-apology/	HTTP Error 403: Forbidden
+http://wwww.signonsandiego.com/news/2010/sep/14/parsing-proposition-ds-fine-print/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/education/schooled/article_d5caace6-254d-11df-ab61-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_212e2248-fbfa-11df-8121-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_4474cfc2-f821-11df-ace6-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_62995196-6bab-11e0-8822-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_6b9d6e36-9ec6-11e1-9d0b-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_a6d8df90-0231-11e0-bfe5-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_4f8ac3a8-035f-11e2-b410-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/this_just_in/article_a65c7113-e548-5d63-a838-3ab97c3d203a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_f5150f14-f1f4-11df-ada2-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.southernpoliticalreport.com/storylink_330_1899.aspx	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_cb5f0dcc-3597-11e1-bfeb-001871e3ce6c.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_7128d1b6-ba68-11e1-99cb-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_2938608e-3295-11e1-bb74-0019bb2963f4.html	HTTP Error 404: Not Found
+http://m.voiceofsandiego.org/data-drive/article_11d044a6-b33e-11e0-b0ea-001cc4c03286.html/?mobile=off_global	HTTP Error 404: Unknown site!
+https://www.voiceofsandiego.org/fact/article_3e7ed986-66f3-11e1-9b1d-001871e3ce6c.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_86b09528-0975-11e0-b23e-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_876edc3e-98a4-11e2-9555-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_7b224316-4366-11e0-b061-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_4f2a2d90-59fe-11e2-a7bb-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_b0e7112a-49f9-11e2-b42e-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_d5743716-8983-11e1-bf10-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_d8e6609c-e30f-11e0-a638-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_a65507ee-697a-11e2-8b23-001a4bcf887a.html	HTTP Error 404: Not Found
+http://bigstory.ap.org/article/san-diego-tijuana-pursue-longshot-olympics-bid	<urlopen error [Errno 11001] getaddrinfo failed>
+https://www.voiceofsandiego.org/housing/article_fee59471-b293-58c7-b9ff-63280c7f2e04.html	HTTP Error 404: Not Found
+http://www.whitehouse.gov/the-press-office/fact-sheet-race-top	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_0d7be284-b67a-11e2-a393-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_cac78eb2-fb80-11e0-be29-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org//voiceofsandiego.org/tncms/admin/action/%20http:/www.voiceofsandiego.org/fact/article_b4cc7024-6fcd-11e2-bbf0-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/public_safety/responder/article_19312be6-96c2-11df-bd8a-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/education/article_ea7f4394-b2ff-57de-ac9b-9c27eccc539e.html	HTTP Error 404: Not Found
+https://www.sandiego.gov/park-and-recreation/parks/regional/missionbay/	HTTP Error 403: Forbidden
+http://carldemaio.com/uploaded/file/Aug25NoPropD.pdf	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_988eb0e4-b7d6-11e0-b1b3-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_548859e8-d4e3-11e0-a16d-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.sandiego6.com/mediacenter/local.aspx?articleID=982814&articleID=982292	HTTP Error 404: Not Found
+http://politifact.com/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_d61318d0-1aae-11e0-a105-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_de971ff6-a27b-11e0-ad50-001cc4c002e0.html	HTTP Error 404: Not Found
+http://blogs.sacbee.com/capitolalertlatest/2011/08/californians-against-identity-theft-campaign-committee.html	<urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>
+https://www.voiceofsandiego.org/public_safety/pavement/article_1f4cd8bc-0526-11e1-bd29-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/data-drive/article_250536de-9ba6-11e1-ac23-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_41fa7ffa-9bd8-11e2-89fc-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_c0907d72-e85e-11df-8223-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_1d68d1c9-25e3-540b-926c-83b0eeedb504.html	HTTP Error 404: Not Found
+http://www.gladwell.com/2006/2006_02_13_a_murray.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_067a049a-73bc-11e1-952e-001871e3ce6c.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/survival/article_1f62480c-e599-11e0-b4b8-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_fe8fa110-6176-11e1-8f29-001871e3ce6c.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_322f3774-4d09-11e1-b8ca-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_addb7d58-71ed-11e0-873e-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/public_safety/article_1f56c64c-a8cf-11df-bd1d-001cc4c03286.html?mode=story	HTTP Error 404: Not Found
+http://www.balboapark.org/in-the-park/sefton-plaza	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_1501ffa8-3e6a-11e2-b77c-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.census.gov/how/infographics/poverty_measure-how.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_26f96184-a521-11e1-8b39-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.sdnn.com/sandiego/2010-01-18/local-county-news/only-one-in-three-sd-county-school-districts-decides-to-race-after-federal-money	<urlopen error [Errno 11001] getaddrinfo failed>
+http://reformsandiego.com/reasons-to-oppose.php	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_8bfed5c6-e166-11df-a5ac-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.sandiegouniontribune.com/news/2013/sep/18/zoo-parking-old-globe-access/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org//voiceofsandiego.org/tncms/admin/action/%20%3Chttp:/www.voiceofsandiego.org/fact/article_6199c0aa-16ef-11e2-8f41-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_e7efc820-abc6-11df-88b3-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.bls.gov/schedule/archives/jolts_nr.htm	HTTP Error 404: Not Found
+http://www.sandi.net/cms/lib/CA01001235/Centricity/Domain/9921/advisorycommittee9-14-11.pdf	HTTP Error 404: Not Found
+http://www.transact.org/library/reports_html/ms2004/pdf/Final_Mean_Streets_2004_4.pdf	HTTP Error 404: Not Found
+http://m.voiceofsandiego.org/fact/article_3009a556-1db8-11df-aeba-001cc4c002e0.html/?mobile=off_global	HTTP Error 404: Unknown site!
+http://voiceofsandiego.org/fact/article_1ac68b98-1db1-11df-89a4-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.sdcitybeat.com/sandiego/article-9230-true-and-false.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/survival/article_c1c82850-8f96-11df-a204-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.nctimes.com/news/local/sdcounty/article_f9b12644-877c-5251-a037-14bf86b74a76.html	HTTP Error 403: Forbidden
+http://www.sandiegouniontribune.com/news/watchdog/sdut-county-amasses-mental-health-funds-amid-need-2015aug22-htmlstory.html	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_2938608e-3295-11e1-bb74-0019bb2963f4.html?mode=story	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/opinion/article_7ff3cf5e-13e9-11e2-99be-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_38274e98-00e1-11e0-92d3-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_a0b72b0e-1d0b-11e0-80e8-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_59e564fa-dcad-11df-aba0-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.pomeradonews.com/2013/08/29/health-officials-say-get-a-flu-shot-early/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_b9cb8242-64c2-11e2-913c-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_86b09528-0975-11e0-b23e-001cc4c03286.html?mode=story	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_0281bd3e-9370-11df-8da5-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.sdnn.com/sandiego/2010-01-28/local-county-news/san-diego-set-to-become-cyber-security-leader#ixzz0e24ct0Vt	<urlopen error [Errno 11001] getaddrinfo failed>
+http://legacy.utsandiego.com/news/metro/20050308-2251-soledad.html	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2009/nov/28/chargers-could-bail-bus-yard-over-fouled-soil/	HTTP Error 403: Forbidden
+http://www.census.gov/prod/2013pubs/p60-247.pdf	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/education/article_191e16dc-6f0a-11e2-a1af-001a4bcf887a.html	HTTP Error 404: Not Found
+http://www.bikeleague.org/action/trashtalk/	HTTP Error 404: Not Found
+http://sdstadium.org/chat-with-mark-fabiani-2-26-2015/	<urlopen error [Errno 11002] getaddrinfo failed>
+http://www.kusi.com/news/local/Rally-Against-Prop-D-101538533.html	HTTP Error 404: Not Found
+http://www.ed-data.k12.ca.us/Navigation/fsTwoPanel.asp?bottom=%2Fprofile%2Easp%3Flevel%3D06%26reportNumber%3D16	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2013/Dec/11/business-groups-seek-housing-fee-repeal/2/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/feb/14/case-against-project-labor-deals/	HTTP Error 403: Forbidden
+http://californiawatch.org/dailyreport/cockfighting-increasingly-popular-calif-critics-say-8613	<urlopen error timed out>
+http://www.utsandiego.com/uniontrib/20060124/news_1m24council.html	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2013/jul/04/tp-feds-inquire-about-100k-donation/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/education/article_5d004810-f9a2-11de-84cc-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.signonsandiego.com/uniontrib/20050518/news_1n18carl.html	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2011/feb/27/letters-landfill-i-5-project-club-gas-prices/	HTTP Error 403: Forbidden
+http://pretrial.org/Perspectives/ABC%20October%202010%20Newsletter.pdf	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2013/sep/20/tp-meet-the-candidates-david-alvarez/all/?print	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_04a27ade-3ee9-11e0-a5d0-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/arts/article_e770350e-1fbc-11e1-9e9d-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.signonsandiego.com/news/2011/jun/26/pension-ballot-battle-pitched-over-signature/?ap	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2012/mar/04/tp-statistics-point-to-rise-of-closet-partisans/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2012/aug/24/tp-san-diego-schools-to-weigh-limits-on-financing/?print&page=all	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2011/may/13/gregory-canyon-landfill-wins-county-approval/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2010/jan/31/spending-on-mailers-cost-city-large-sum/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2013/Oct/12/mayor-candidate-neighborhoods/2/?#article-copy	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/aug/29/case-prop-d/	HTTP Error 403: Forbidden
+http://www.kusi.com/category/199063/oxy-what-your-kids-arent-telling-you	HTTP Error 404: Not Found
+http://www.signonsandiego.com/news/2010/sep/11/south-bay-power-plant-likely-keep-operating/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2014/nov/22/reentry-inmates-prison-freedom-society/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/mar/03/teachers-board-reach-agreement/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_a0be34ae-6ad5-11e0-be7d-001cc4c002e0.html?mode=story	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org//www.sourcewatch.org/index.php/Reason_Foundation	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_1c1b3194-8a76-11e2-9b4f-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/environment/muck/article_b6b97bb6-a378-11e0-8d13-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_fb01d2f0-5fad-11e0-97e2-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_5c33cb96-8da2-11e1-b7d4-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_30889b7e-e3d5-11e0-83f8-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_f1eec6fe-551b-11e2-b623-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_3739d035-7f6a-5c68-8972-af6249591c3a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_3f79e040-208c-11e1-80c8-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_ef369fe0-b0fb-11e2-87e4-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/data-drive/article_ef238b60-2f27-11e0-8cae-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_953c34ce-21e5-11e1-b9de-001871e3ce6c.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_e2075f50-6e38-11e1-82b1-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/community/article_2e64660e-6f19-11e2-a624-001a4bcf887a.html	HTTP Error 404: Not Found
+http://www.census.gov/rdo/pdf/CA_errata.pdf	HTTP Error 404: Not Found
+http://www.sandiegocountynews.com/2011/03/20/county-fire-officials-open-new-sunshine-summit-station/	HTTP Error 404: Not Found
+http://dockets.sandiego.gov/sirepub/cache/2/13cbkayvy3f4ro45omubs1v2/46691807082013024904897.PDF	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_001c0c18-8da3-11e2-84eb-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_9246242c-384a-11df-b634-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_8eed5644-64b0-11e1-8348-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/article_74d14b2e-dc64-11df-904c-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/election/article_0d7a4bae-e71f-11df-a94e-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_77f2260a-381d-11e1-809b-001871e3ce6c.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_cba3a64c-a073-11e2-bbda-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_ace392b4-d706-11df-923a-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.sdcitybeat.com/sandiego/article-9411-our-interview-with-bob-filner.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_68cb0ba4-d286-11df-ad54-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.sentencingproject.org/doc/publications/fd_bs_fdlawsinusMar11.pdf	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_504a91ee-7d9f-11df-85bd-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.oes.ca.gov/webpage/oeswebsite.nsf/content/0C0347C15D1177D98825763C007A457A?opendocument	<urlopen error [Errno 11001] getaddrinfo failed>
+https://www.voiceofsandiego.org/fact/article_45cf0d48-c79f-11e1-9a60-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/environment/article_4be66c84-50b0-11df-8318-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_7fc87672-98b1-11e2-9ed5-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/education/article_f575f9ce-2679-11df-8802-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_21321bbe-9e62-11df-8e86-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_f523f338-1515-11df-bc91-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_96ef5828-8c42-11e2-92e2-001a4bcf887a.html	HTTP Error 404: Not Found
+http://bilbray.house.gov/press-release/rep-bilbray-helps-create-jobs-supporting-americas-cup	<urlopen error [Errno 11001] getaddrinfo failed>
+https://www.voiceofsandiego.org/fact/article_6c54f0ee-c4a8-11e1-a4d8-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_d908fefa-daa7-11e1-b11c-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_a7197bae-3830-11e2-8e7f-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_7272ed62-e86e-11e0-a160-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_b1b5eba8-9d69-11e2-8137-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/people/q_and_a/article_17d65dd8-f01f-11de-9f42-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_3f052708-b6df-11e0-9ef1-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/this_just_in/article_c3791468-8c93-5ac7-9fb7-b55d5ab6e8a3.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_102c5996-13d2-11e2-8c88-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_543bab4c-56c5-11e2-b608-001a4bcf887a.html	HTTP Error 404: Not Found
+http://www.sacbee.com/2012/01/06/4166838/jerry-brown-budget-plan-cuts-welfare.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/html_0ad0fd64-9696-11df-9836-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_d60f748e-a943-11e2-a00a-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_999d46c8-eafb-11e0-8317-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/public_safety/pavement/article_54aa9d44-88f9-11e1-91b6-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_572dac02-0711-11e0-a924-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_d7f50d84-da83-11e1-aac6-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_63180e0a-994a-11e1-9956-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.bikeleague.org/resources/why/environment.php	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_06a05a5a-246a-11e2-b37c-0019bb2963f4.html	HTTP Error 404: Not Found
+http://ucsdnews.ucsd.edu/referenceshelf/trivia.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/public_safety/responder/article_23838698-2be2-11df-9817-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.sandiegouniontribune.com/opinion/commentary/sd-utbg-schools-budget-marten-20170608-story.html	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_c0e99d1a-a421-11e0-b088-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.americanforests.org/who-we-are-about-us/	HTTP Error 404: Not Found
+http://dockets.sandiego.gov/sirepub/cache/2/13cbkayvy3f4ro45omubs1v2/46691907082013024945990.PDF	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_cb616dfa-bbb3-11e0-94c6-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2007/nov/29/va-airline-employee-rips-filner-apology/?print&page=all	HTTP Error 403: Forbidden
+http://www.portofsandiego.org/recreation/2807-oracle-racing-sweeps-san-diegos-americas-cup-world-series.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/data-drive/article_26fc49b2-7845-11e0-84c1-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.balboapark.org/info/history.php	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/public_safety/article_36b23e8b-282c-531e-add6-63cbebc63197.html	HTTP Error 404: Not Found
+http://www.kusi.com/story/14154573/push-to-save-redevelopment-funds-begins	HTTP Error 404: Not Found
+http://www.numbersusa.com/content/learn/issues/birthright-citizenship/nations-observing-birthright-citizenship.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_4e5ead06-5d48-11df-9e34-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.hqda.army.mil/rio/caco.htm	<urlopen error timed out>
+https://www.voiceofsandiego.org/fact/article_ade500aa-ba1b-11e0-aacf-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_32a7b460-6c5e-11e0-b568-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_0a5a50dc-397e-11e2-a588-001a4bcf887a.html#comment-a39daca2-3a51-11e2-ba05-fb5e26f0b10e	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_8c1c8d0c-eddf-11df-b098-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_209410de-e67e-11e1-b0f4-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_272f9a9c-498b-11e2-b62e-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/survival/article_dadacf18-ce02-11e0-aca4-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_e0181c74-f94e-11e1-bdd7-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/election/article_58854c2c-294c-11e2-8f38-0019bb2963f4.html?_dc=211875102948.3974	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/survival/article_2bf71b1e-7533-11e0-8e3d-001cc4c002e0.html#user-comment-area	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/morning-report/article_27c22bac-c47e-11e0-92ab-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.10news.com/news/city-council-unanimously-approves-2m-program-to-recruit-retain-san-diego-police-department-officers-082813	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org//voiceofsandiego.org/tncms/admin/action/%20%3Chttp:/www.voiceofsandiego.org/fact/article_f7e72e7a-1c72-11e2-95a6-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_ff3be7aa-1ac1-11e1-985c-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_15cda36a-6ad6-11e0-95e9-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_ea07be96-8baf-11e0-9f95-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.kusi.com/home/Council-Districts-6-and-8-102670269.html	HTTP Error 404: Not Found
+https://mce_host/voiceofsandiego.org/tncms/admin/action/editorial-asset/andrew.donohue@voiceofsandiego.org	<urlopen error [Errno 11001] getaddrinfo failed>
+http://articles.chicagotribune.com/2012-01-17/news/ct-met-congress-skipped-votes-0117-20120117_1_voting-records-rush-and-luis-gutierrez-congressional-delegation/2	HTTP Error 403: Forbidden
+http://www.bikenationusa.com/articles/2012/04/bn_announce_at_clv	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.policeforum.org/library/subject-to-debate-current/Debate_May-Jun2011_web.pdf	timed out
+https://www.voiceofsandiego.org/fact/article_88b7663c-450f-11e0-81d1-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_05f73206-6d08-11e0-a01c-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/opinion/article_9a3d3d84-7571-11e2-bd07-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_5bf21366-a0e7-11e0-a203-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_38716c2a-b373-11e2-9251-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_29f18052-26ae-11e1-a80f-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.nctimes.com/news/opinion/editorial/article_d44a0d94-554b-5ef3-9d01-d097b661ee14.html	HTTP Error 403: Forbidden
+http://www.sdcitybeat.com/sandiego/article-9763-will-a-new-law-solve-problem-of-foreclosure-blight-in-san-diego.html	HTTP Error 404: Not Found
+http://www.epionline.org/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/sandiego-explained/article_b2357828-ab09-11df-a099-001cc4c03286.html	HTTP Error 404: Not Found
+http://legacy.signonsandiego.com/news/health/20080305-9999-1m5measles.html	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/public_safety/responder/article_290f57b8-0b94-11df-b6bf-001cc4c03286.html?mode=story	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/education/article_1be547d6-1fd3-11e2-aed2-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org//www.utsandiego.com/news/2012/oct/22/office-budgets-reflect-candidate-styles/?utm_source=dlvr.it&utm_medium=twitter	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_ba53a7c0-1844-11e0-b3f6-001cc4c03286.html	HTTP Error 404: Not Found
+http://voiceofsandiego.org/government/thehall/article_60540254-430d-5cce-b240-a59368534ea0.html	HTTP Error 404: Not Found
+http://www.signonsandiego.com/news/2009/nov/29/jessicas-law-too-vague-enforce/	HTTP Error 403: Forbidden
+http://www.policymic.com/articles/45535/carl-demaio-this-next-generation-republican-s-socially-liberal-stance-will-save-the-gop	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.utsandiego.com/news/2013/Dec/12/mount-solidad-cross-constitution-removal/?#article-copy	HTTP Error 403: Forbidden
+http://www.utsandiego.com/uniontrib/20060524/news_7m24cross.html	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2013/jun/05/attorney-says-no-conflict-barrera/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/education/article_81d8d3ba-0f0b-11e2-af44-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.signonsandiego.com/news/2010/feb/28/boycotting-of-judges-is-nothing-new-to-da/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/government/article_98ddec8e-3e64-11e2-ba12-001a4bcf887a.html	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2014/Jan/04/minimum-wage-hike-debate-con-killing-jobs-Robertso/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/uniontrib/20060814/news_1m14newsupe.html	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2011/jan/04/signature-crew-is-initiatives-front-line/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/environment/muck/article_bacd0604-a3b4-11e1-867d-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_3b1069da-6bfd-11e2-9627-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_06a929dc-25e7-11e1-96e3-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_a1630324-f354-11df-a383-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_1c5cea80-873a-11e0-a2d9-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_5e48bfd4-72d3-11e1-a42d-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.balboapark.org/plaza-de-panama/Committee	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_fb4e4708-dc58-11df-ba20-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_e315a262-12b9-11df-b99f-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_40095e16-2e28-11e0-aae7-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.charlierose.com/view/content/11559	HTTP Error 404: Not Found
+http://www-rohan.sdsu.edu/~jsabia/docs/Sabia_CV%20August%202013.pdf	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_924cf99c-2362-11e0-bab0-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_30de9a90-057e-11e1-b8cc-001cc4c03286.html	HTTP Error 404: Not Found
+http://twitter.com/kpbsborder	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_ef9819c4-b96b-11e1-b655-001a4bcf887a.html	HTTP Error 404: Not Found
+http://www.kusi.com/weather/colemanscorner/19842304.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_cbe444fe-55b1-11e0-88f6-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_0418be36-1aa3-11df-840f-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.nybooks.com/articles/archives/2011/dec/22/how-dispel-your-illusions/?pagination=false	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2014/sep/04/peters-demaio-campaign-women-birth-control/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/government/article_f3a4cb36-8dc6-11e2-8d29-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2012/dec/01/a-councilmans-message-to-mayor-elect-filner/?page=1#article	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2011/may/23/gregory-canyon-project-stalls-in-capitol/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/mar/07/dumbfounding-deal/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/sep/18/fans-arent-buying-nfl-game-excitement-better-stadi/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2010/jan/31/spending-on-mailers-cost-city-large-sum/?page=1#article	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2012/may/05/leadership-can-help-turn-dreams-into-reality/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2011/jun/28/minority-groups-oppose-redrawn-county-districts/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/aug/29/prop-d-does-mayor-really-have-hammer/	HTTP Error 403: Forbidden
+http://www.youtube.com/user/voiceofsandiegovideo?feature=watch	HTTP Error 404: Not Found
+http://legacy.utsandiego.com/news/metro/20050722-9999-1n22cross.html	HTTP Error 403: Forbidden
+http://www.kusi.com/story/15103526/cities-fighting-to-keep-local-redeve	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2013/Oct/24/cedar-fire-lessons-helped-us-be-better-prepared/?#article-copy	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_819f7012-88eb-11e1-850e-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/community/article_4e4228aa-4a19-11e2-b0dc-001a4bcf887a.html	HTTP Error 404: Not Found
+http://bit.ly/9GH11l	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/government/thehall/article_8f0666d6-b239-11e0-8c70-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/environment/article_cb70b5c6-6d8c-5878-b923-eefe9250bce8.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/education/article_f6637b28-18ba-11e2-abde-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_af181c42-169c-11df-af9d-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.sacbee.com/2012/05/27/4519117/mentally-ill-inmates-on-the-rise.html	HTTP Error 404: Not Found
+https://docs.google.com/spreadsheet/ccc?key=0AhMvsyoLyAb7dFZCbFhGQjBqZUhtR3EyM0wyWXBtVFE	HTTP Error 410: Gone
+https://www.voiceofsandiego.org/arts/article_06bf2c50-1a43-11e1-ae82-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_48247ed8-6db6-11df-9998-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.kusi.com/home/Mayor-Sanders-pushes-half-cent-sales-tax-100087144.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_7b804f37-7525-52df-a28a-d62f936e9d4f.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_1035311a-8dae-11e1-8e98-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_f5ac5cfa-d7e8-11df-a6ef-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_504fd6fa-c9f0-11e1-b559-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/this_just_in/article_eb5228de-00ff-11e1-ae63-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_d7ba1588-baca-11df-8f2e-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_577da610-312e-5a51-9071-41d18014de39.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/public_safety/pavement/article_583c3142-624f-11e0-a6de-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_3f36d166-dfee-11e1-887d-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org//voiceofsandiego.org/tncms/admin/action/%20http:/talkingpointsmemo.com/archives/2012/10/can_romney_win_indies_lose.php	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_69312f72-a4fc-11df-a5d5-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_d7fbffe6-6490-11e0-9f51-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/image_6bbe0046-90c5-11e2-adcb-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_63c00822-0620-11df-bf5e-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_9b28ef5a-eb19-11e1-a498-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_9a028e28-9c2f-11df-84a0-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/data-drive/article_34ac38c8-a442-11e0-b873-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_2163035a-a5b0-11df-b417-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_58acf07c-6844-11df-9d27-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_dc7972b5-896e-5270-8f0d-8c785a945d21.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_cb70f454-0fc4-11e1-af89-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/public_safety/article_5706b949-cd41-5224-b171-bf369bd3111d.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_a72d5548-85c9-11e2-a441-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_731c4792-054c-11df-9dfd-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_c444c84e-7acc-11e2-84b1-001a4bcf887a.html	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2009/aug/18/filner-takes-coastal-panel/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/pdf_5a077318-246f-11e2-bf79-001a4bcf887a.html	HTTP Error 404: Not Found
+http://www.boe.ca.gov/sptaxprog/spftdrates.htm	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_2798db90-bd43-11e0-8ebb-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_8d25afaa-cf7c-11e1-b53b-0019bb2963f4.html	HTTP Error 404: Not Found
+http://azstarnet.com/news/opinion/editorial/article_a10573e6-03dd-5c13-b345-a84a74fb47ed.html	HTTP Error 451: Unavailable For Legal Reasons
+https://www.voiceofsandiego.org/government/article_b3a6e368-16b2-11df-87c5-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_36063e24-3fc2-11e0-8a31-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/survival/article_49318b5e-fe7f-11df-9020-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/morning-report/article_35aaaa82-f592-11e1-a7ff-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/people/q_and_a/article_51ec2c20-88b0-11e0-96f5-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_eabaf0c0-c6ab-11df-8980-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_25009ed0-3622-11df-9a56-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_090c4858-5d48-11df-8710-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_6d2ae11e-cbc3-11e1-9e27-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_e0bd6018-9872-11e1-9db7-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/opinion/article_b6d9ae7e-de3c-11df-b117-001cc4c03286.html	HTTP Error 404: Not Found
+http://nbcpolitics.nbcnews.com/_news/2013/06/26/19155307-prop-8-ruling-explained-why-gay-marriage-will-resume-in-california?lite	timed out
+https://www.voiceofsandiego.org/fact/article_ff93a12c-5f7c-11df-85cd-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/economy/article_5b097de0-8cf4-11e2-a16a-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_0a5a50dc-397e-11e2-a588-001a4bcf887a.html#comment-f706cbb6-3a39-11e2-83db-5398f97bc69f	HTTP Error 404: Not Found
+http://www.sdcounty.ca.gov/hhsa/programs/bhs/documents/DrugCourtFactSheetFeb2012.pdf	HTTP Error 404: Not Found
+http://www.balboapark.org/plaza-de-panama/faq	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/election/article_902e4ed8-afaf-11e1-b80f-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_ae7ddb48-8cb9-11e0-adc3-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_107dff2a-f23b-11e1-90fc-001a4bcf887a.html?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+voice-of-san-diego-all-articles+(All+articles+voiceofsandiego.org+--+full+feed)	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/survival/article_e38455d2-e49e-11e0-a81f-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_162cdacc-8265-11e1-ab9d-001a4bcf887a.html	HTTP Error 404: Not Found
+http://www.bondbuyer.com	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_88ea2a5c-124c-11e2-8680-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_39cddbb8-4145-11e1-bac4-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/education/article_277cdb64-d66e-11df-8424-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_ba75ed34-b521-11df-8bf3-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_9a028e28-9c2f-11df-84a0-001cc4c002e0.html?mode=story	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/scott-lewis/article_e88f3f3a-77d0-11e2-b938-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.10news.com/news/dozens-gather-to-remember-lives-lost-in-cedar-fire-and-pay-tribute-to-first-responders-volunteers-10262013	HTTP Error 404: Not Found
+http://www.wanconservancy.org/seal_media2.htm	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/public_safety/responder/article_58a6a92a-084c-5244-81be-5cd24bec134b.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/environment/muck/article_f7c322e6-e070-11de-91d3-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_3cd6b446-f3cf-11e1-85e1-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/education/article_96c729a8-a493-11e1-94e6-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_e9845176-abfa-11e0-9228-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2013/mar/05/hoteliers-win-filner-court-fight/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/government/thehall/article_08d1a730-1d36-11e0-9195-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.signonsandiego.com/news/2009/sep/20/get-city-hires-recent-retirees/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_3443ac90-24db-11e0-a492-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_5e8b414c-a19c-11df-b562-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2013/Jul/11/lorena-gonzalez-bob-filner/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_ff988bfe-4c19-11df-b687-001cc4c03286.html?login_success=true	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org//voiceofsandiego.org/tncms/admin/action/%20http:/www.voiceofsandiego.org/	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_2afc7f44-f68d-11df-87ce-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.utsandiego.com/uniontrib/20060703/news_1n3thompson.html	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/jan/25/labors-deals-stir-dust-construction/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2011/Feb/01/san-diegos-budget-deficit-shrinks/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org//www.voiceofsandiego.org/economics/article_6ff0e1e9-3bf3-5787-92d2-9e37d746fa97.html%E2%80%9D	HTTP Error 404: Not Found
+http://www.signonsandiego.com/uniontrib/20080318/news_1m18tower.html	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2011/jan/05/pacific-beach-residents-taking-different-route-reg/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2014/May/09/county-assessor-dronenburg-endorsement/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_f01f244c-5166-11df-ac77-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_0803295e-be36-11e0-8591-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_cc1e0c6a-5e75-11e2-8209-001a4bcf887a.html	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2012/dec/24/tp-school-board-president-optimistic/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2015/jan/03/san-diego-must-embrace-urban-future/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2011/nov/26/new-districts-continue-to-face-challenges/	HTTP Error 403: Forbidden
+http://www.latimes.com/local/political/la-me-ff-california-steps-up-prison-drug-screening-for-visitors-and-staff-20150303-story.html	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/mar/24/fire-official-overlooks-alarming-paychecks/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_a1e79062-9b34-11df-8027-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_5f01955a-84d9-11e1-a8f5-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_af7298ce-1fb5-11e1-91d9-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_452e0ecc-1ee3-11e0-b957-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.balboapark.org/plaza-de-panama/project/myths	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2012/may/05/leadership-can-help-turn-dreams-into-reality/?print&page=all	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/environment/muck/article_0fb2fa94-d9c2-5d31-822e-e15809fde060.html	HTTP Error 404: Not Found
+http://www.signonsandiego.com/news/2011/apr/12/city-council-recommends-budget-solutions/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/government/article_05456b56-61e0-11e2-8775-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.signonsandiego.com/news/2011/mar/05/gregory-canyon-landfill-almost-reality/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_1cc35790-bbb9-11df-a9ad-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.signonsandiego.com/news/2010/dec/02/developer-may-have-to-pay-millions/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/government/thehall/article_90f62e98-6ab0-11e0-b6a8-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2013/Sep/04/kevin-faulconer-zapf-mayor-council-election/	HTTP Error 403: Forbidden
+http://voiceofsandiego.org/neighborhoods/article_846b4c34-4cf8-11df-a7c9-001cc4c03286.html	HTTP Error 404: Not Found
+http://legacy.signonsandiego.com/news/metro/20060705-9999-1n5gary.html	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/community/article_65242190-61b6-11e2-9d00-0019bb2963f4.html	HTTP Error 404: Not Found
+http://sandiegonewsroom.com/news/index.php?option=com_content&view=article&id=43269:city-to-move-on-redevelopment-despite-proposed-state-reviews&catid=110:city-of-san-diego&Itemid=34	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_932574c6-672b-11e1-a52e-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/this_just_in/article_ec23bdc6-78da-11df-93d5-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_57e211c2-d8d3-11df-b543-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_de3d7ad0-6f36-11e2-803f-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/arts/article_56b39a26-3e4f-11e2-8259-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_66b97c3a-79ea-11e1-b158-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_ccd08322-acec-11e0-a5fc-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_f68a45e5-3b54-53f0-978d-cd0bbf02bf93.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_d9028a52-73a5-11e1-8516-001871e3ce6c.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_50c6486e-9164-11e0-b86d-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_f6a5dd12-e1cc-11e1-8fbb-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_3f61e8ce-bca4-11e0-8b80-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_debceb00-d6a6-596d-acfd-02d671c65a61.html	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2009/jul/04/1sz4algebra195516-unlikely-school-emphasizes-algeb/all/?print	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_fc313e46-1fb9-11e1-908c-001871e3ce6c.html	HTTP Error 404: Not Found
+http://legacy.utsandiego.com/news/metro/20060503-1334-bn03cross2.html	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_27d1001a-3b7b-11df-b834-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_81f32282-62cf-11df-b7f6-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/opinion/slop/article_4ac7d8c6-8f9c-11df-afcc-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_9a0623f4-61c0-11e2-bfe1-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_6b5bde3c-8690-11e2-8d71-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.sdcounty.ca.gov/hhsa/programs/ssp/ssp_progtrend.html	HTTP Error 404: Not Found
+http://www.latimes.com/news/local/la-me-timelinegaymarriage-2008nov06,0,496938.story	HTTP Error 403: Forbidden
+http://www.10news.com/news/investigations/dept-of-justice-to-investigate-mayor-filners-return-of-100k-donation	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_0af20240-ac4e-11e2-ac8a-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_7ec9997a-30ac-5612-bf1f-bc81f6f9fbea.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/data-drive/article_4d0e672a-66fc-11e0-96af-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_c5446a30-1ecc-11e2-ad93-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_aa47e0e6-41ce-11df-98c9-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.dearlydepartedtours.com/DDT/index.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_58dccda6-5127-11e1-9743-001871e3ce6c.html	HTTP Error 404: Not Found
+http://www.sacbee.com/static/weblogs/capitolalertlatest/2010/01/corrections-sta.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/public_safety/pavement/article_9b681156-0430-11e1-a8b7-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_492c46de-1ce9-11e0-9710-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_5f99ec18-bede-11e0-92f4-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_a78923e2-7458-11e1-ad44-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_8e0bf0ca-7cf0-11e1-ab79-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/barely-true/	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_2aa05f8f-19cf-5008-a6dc-22a56413954e.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_b3fdfc3e-17d6-11e2-858d-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/people/q_and_a/article_ed09e318-af1c-11e0-98d2-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/education/schooled/article_5b06b97e-0b19-11e1-b7d4-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/economy/article_bb46bee2-09bf-11e2-a9ec-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/neighborhoods/article_f190d63a-e555-11df-a978-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_2215211a-57d7-11df-967f-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2013/Jul/15/filner-responds-sexual-harassment/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/survival/article_5fce3830-1a3f-11e1-b355-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.huffingtonpost.com/2011/11/11/congress-cant-get-act-tog_n_1089169.html	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2013/mar/25/sd-hotel-occupancy-dips/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/government/thehall/article_37a37e3a-a46c-11e1-87f1-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_eb017da8-f769-11df-a7ec-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_0a5a50dc-397e-11e2-a588-001a4bcf887a.html#user-comment-area	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/opinion/slop/article_52be92ef-8af5-51ab-87e5-7c23a2ab21c5.html?mode=print	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_73677424-7fb5-11e2-a966-001a4bcf887a.html	HTTP Error 404: Not Found
+http://www.signonsandiego.com/news/2011/jan/10/cops-hillcrest-residents-weve-got-your-back/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_350bec34-93a6-11e0-beac-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_9a8070e8-f6e8-11e1-8ea8-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_e236cac4-ec91-11e1-b7a6-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/survival/article_eabc03dc-0e24-11e0-a103-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/infrastructure/article_1391df40-a615-11e2-89a9-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_6d95f970-f073-11e1-94ff-001a4bcf887a.html	HTTP Error 404: Not Found
+http://www.signonsandiego.com/news/2010/jul/03/soccer-mad-city-shut-out-mls/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_16e8f534-7990-11df-bc0b-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_3a377916-582d-11e1-941b-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.utsandiego.com/uniontrib/20070829/news_1m29braun.html	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/apr/07/port-panel-approves-land-deal-to-expand/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2011/apr/20/public-safety-cuts/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/weblogs/all-in-favor-politics/2010/jun/14/demaio-union-members-square/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_ae949af2-19f7-11e0-8396-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/election/article_ab513c58-af95-11e1-acbe-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.calrecycle.ca.gov/SWFacilities/Landfills/LFData.htm	HTTP Error 404: Not Found
+http://www.signonsandiego.com/news/2010/mar/24/horn-roberts-lead-challengers-in-fundraising/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2012/feb/25/a-plan-to-restructure-district-governance/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2015/jan/03/san-diego-must-embrace-urban-future/?#article-copy	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2014/aug/15/sdcera-pension-investment-strategy/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2011/nov/27/schools-rules-and-jobs-reduce-regulations-boost/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/public_safety/article_93c56fdf-4d91-5f66-aa5d-2c550ed4ee9a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_10af1726-7510-11e0-bb19-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_06179f72-6a82-11e2-9542-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2012/may/10/filner-fletcher-missing-many-votes/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2013/Sep/05/chargers-stadium-coastal-commission-downtown/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/education/article_2dfa8c46-05cb-11e2-b3d5-001a4bcf887a.html	HTTP Error 404: Not Found
+http://www.signonsandiego.com/news/2011/mar/06/it-never-rains-enough-in-san-diego/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/dec/02/listening-to-the-small-bells/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2011/aug/04/state-wont-investigate-radio-ad-backers/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_cd4ba7cc-8802-11e1-8d58-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_5ed38576-81c3-11e0-b68b-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/public_safety/responder/article_74370f32-8fb1-11df-b3ed-001cc4c002e0.html	HTTP Error 404: Not Found
+http://nelp.3cdn.net/e555b2e361f8f734f4_sim6btdzo.pdf	HTTP Error 404: Not Found
+http://www.sandi.net/site/Default.aspx?PageType=3&DomainID=13&PageID=129&ViewID=97313d1d-a9cf-4646-a5a5-0c355fbac071&FlexDataID=43826	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_b7ceea82-9a25-11e1-a745-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_1d562734-04cd-11e0-ba97-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_f742c8b2-9542-11df-8310-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_08254e96-5cc7-11e1-8fec-001871e3ce6c.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_e236cac4-ec91-11e1-b7a6-001a4bcf887a.html?_dc=293095944682.13617	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2009/jun/18/1m18fire233247-county-requires-fit-volunteers/?metro&zIndex=118624	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/government/article_5981ac48-1d14-11df-87c5-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_286ff610-97ba-11e0-8558-001cc4c002e0.html	HTTP Error 404: Not Found
+http://legacy.signonsandiego.com/news/metro/images/080317childrenspool.pdf	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/government/thehall/article_0c2f1656-f143-11e0-a34c-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_8996a9ac-03fe-11e0-ac85-001cc4c03286.html	HTTP Error 404: Not Found
+http://legacy.utsandiego.com/news/metro/20060507-9999-1m7cross.html	HTTP Error 403: Forbidden
+http://www.sco.ca.gov/Files-ARD/CAFR/cafr10web.pdf	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_5f9a71f2-5901-11e1-b7d6-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/environment/muck/article_2b11de0a-bad5-11df-bc8b-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_93992c32-cd8e-11df-a740-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_cce3e1f6-538b-11e1-a0da-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2013/may/31/filner-tmd-sandiego-tourism-hotels-centennial/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/government/article_44f395e2-13fd-11e2-9a5c-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_a29dd98c-7867-11e1-9758-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/this_just_in/article_fd057d5f-5e7a-559e-b705-81fec4a75002.html	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2013/Jul/25/filner-sexual-harassment-democratic-party-resign/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/government/article_9be81248-d024-11df-9d93-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_e5ede408-73bb-11e1-ac20-001871e3ce6c.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_403aeada-dcac-11df-9575-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.signonsandiego.com/news/2011/jan/12/ken-tal-planning-group-out-church-after-rent-dispu/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/apr/09/stimulus-package-falling-flat-lawmakers-say/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/false/article_de971ff6-a27b-11e0-ad50-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_c5446a30-1ecc-11e2-ad93-0019bb2963f4.html#comment-5eff835a-1ed5-11e2-ad8c-3cd92bf1cd98	HTTP Error 404: Not Found
+http://www.signonsandiego.com/news/2010/may/11/bn11countybudget/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_68922fc0-a398-11e1-95b2-001a4bcf887a.html	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2012/feb/25/better-schools-are-economic-and-moral-issue/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2014/aug/15/sdcera-pension-investment-strategy/2/?#article-copy	HTTP Error 403: Forbidden
+http://www.utsandiego.com/uniontrib/20080329/news_1n29auto.html	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2015/mar/14/chargers-stadium-development-planning/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/jul/11/con-too-little-too-late-too-expensive-and-its-wron/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/government/article_2b9b20ce-f998-11de-b5fe-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.signonsandiego.com/weblogs/richard-gleaves/2011/nov/14/san-diego-public-art-midway/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2011/oct/04/sdsu-offer-lgbt-major/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2012/Sep/07/councilwoman-still-takes-9600-auto-perk/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_bbc8ce60-6c70-11e1-aa30-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_b902af58-6b06-11e2-abec-001a4bcf887a.html	HTTP Error 404: Not Found
+http://www.dhcs.ca.gov/services/mh/Pages/MH_Prop63.aspx	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://www.voiceofsandiego.org/community/article_89c3661e-5b4e-11e2-b9df-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.signonsandiego.com/news/2011/aug/08/brown-signs-voting-reform-bill/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/news/article_15f81b2a-a9a3-5fd1-808e-72537c761c06.html	HTTP Error 404: Not Found
+http://www.signonsandiego.com/news/2011/mar/07/gas-just-keeps-getting-more-expensive-392-today/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_221e490e-f09e-11e1-be2c-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.signonsandiego.com/news/2010/dec/17/yes-scrap-this-mess-for-real-reform/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2012/may/10/roger-hedgecock-how-do-you-know/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/government/thehall/article_eb265320-1dae-11df-92ea-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2013/apr/17/labor-pact-could-save-sd-20m/?page=1#article-copy	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_f20190f8-1bc5-11e1-b8f5-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/public_safety/pavement/article_9fce1a5a-dd8f-11e0-a189-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/education/article_a60f6721-787d-5910-bcc6-e2b89ac6d255.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_f741bb50-5f06-11e0-bbdd-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/education/article_3cd37d7c-c7be-11e1-b3f9-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/tncms/assets/editorial/1/44/e01/144e01f2-1dab-11df-9dbe-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_6eb39f74-a03e-11df-9b40-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_593ccc56-9573-11e2-b23a-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_6275e4d0-8e48-11e0-921f-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/peoplespost/watchersworld/article_fe9ccee4-6c6c-11e0-8eb5-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_51f3d5b4-a372-11e1-9e78-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_2c61c6aa-e125-11df-ac5a-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_af9c0878-7ac5-11e2-a745-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_1796e106-a39c-11e2-b494-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_829eb920-90e0-11e2-a2d7-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_bc90e068-738b-11e1-b9d7-001871e3ce6c.html	HTTP Error 404: Not Found
+http://www.sldn.org/pages/about-dadt	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_e4b3b1b0-e949-11df-b1c0-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_ec557b12-3e3b-11e2-93bf-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_d9a5dd34-4c31-11e0-baae-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/infrastructure/article_52e8cc2e-6102-11e2-9e7a-0019bb2963f4.html	HTTP Error 404: Not Found
+http://legacy.utsandiego.com/news/metro/20080410-9999-1m10coppay.html	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_49b1bcae-a76f-11e0-8a06-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2013/nov/03/tp-staying-the-course-on-financial-reform/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/apr/11/businesses-not-dying-spite-living-wage/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2013/Jul/29/recall-effort-mayor-filner-begins/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2011/jan/21/homeless-youth-in-san-diego-deserve-better/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/government/article_06966292-e280-11e1-92e1-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_6e14bd7a-18eb-11e0-9a4a-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/education/schooled/article_6e6ddd42-5bc1-11e0-b4e5-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2012/jul/30/tp-sd-mayoral-race-runs-on-trail-of-opposites/?print&page=all	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2011/oct/16/my-san-diego-neglected-communities-deserve-chance-/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/jul/18/is-wild-animal-park-not-a-good-name/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2015/may/11/arrested-oceanside-student-was-researching-sandy/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2014/jan/28/deputy-sheriffs-association-contract-talks/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/nov/04/prop-d-failed-now-what/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2012/apr/04/dumanis-sharpens-focus-on-schools/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/government/thehall/article_7f04b224-5feb-11e0-9a77-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_3ac0e96a-f362-11e0-bfcb-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_947bff9c-10b0-11e1-8440-001cc4c03286.html	HTTP Error 404: Not Found
+http://www.va.gov/budget/docs/summary/Fy2013_Volume_I-Summary_Volume.pdf	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_1dafba7c-d1fb-11e1-95c7-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_11e35e36-aa4f-11df-b38c-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_1377299c-e3d5-11e0-8c7a-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/election/article_e2c3d40c-e2b9-11df-920f-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_37ba39a2-4631-11e1-bcc7-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/economy/article_df889cac-fc78-11e1-a1ec-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_352677a0-3962-11e0-bf20-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_a7cd8de8-5067-11e2-bf64-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/survival/article_6f44a70e-0f83-11df-8c5c-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_4113332e-17c7-11e2-ba89-001a4bcf887a.html	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2012/may/17/demaio-inflated-claim-pension-savings/?utm_source=dlvr.it&utm_medium=twitter	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2013/aug/05/john-perez-filner-should-resign/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/government/thehall/article_ce40c6c0-9b8c-11e0-929e-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.signonsandiego.com/news/2011/mar/21/the-ports-embarrassing-white-elephant/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/environment/muck/article_33af408c-8a51-11e1-94a8-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_89a04954-21f6-11e2-8196-0019bb2963f4.html%20target=	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/data-drive/article_91121cae-e56a-11e0-9a69-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.signonsandiego.com/news/2011/aug/28/a-conversation-with-bob-filner/	HTTP Error 403: Forbidden
+http://www.signonsandiego.com/news/2010/dec/19/sdsu-sees-big-rise-in-graduation-rates/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_b02ed126-183e-11e0-a3c5-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_4bf80236-5f2e-11e0-b34b-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/education/article_a9dfb440-6cbd-11e2-a951-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_5a29b8ec-90f3-11e2-97c0-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_fc7f0fae-a622-11e2-bfbf-001a4bcf887a.html	HTTP Error 404: Not Found
+http://www.signonsandiego.com/news/2011/jan/23/letters-questionable-practices-city-stereotypes/	HTTP Error 403: Forbidden
+http://www.utsandiego.com/news/2012/apr/28/reform-can-start-now/	HTTP Error 403: Forbidden
+http://legacy.utsandiego.com/news/metro/images/051007soledadruling.pdf	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/pdf_bd223bd6-6dab-11df-9626-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_52078272-dfc2-11e0-9251-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_8e2cdf5e-a947-11e2-a5f2-001a4bcf887a.html	HTTP Error 404: Not Found
+http://www.utsandiego.com/news/2013/aug/16/tp-shipyards-critical-to-san-diego-economy/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/government/thehall/article_9bf2ffea-568e-11e1-bac0-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_5f9ed7cc-0db2-11e2-b3d1-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/public_safety/pavement/article_a0679a66-483b-11e0-86cb-001cc4c002e0.html	HTTP Error 404: Not Found
+http://www.labormarketinfo.edd.ca.gov/qcew/CEW-Major_NAICS.asp%3C/p%3E%3Cp%3E	HTTP Error 500: Internal Server Error
+https://www.voiceofsandiego.org/government/article_e5bf7bf6-e3b0-11de-a15c-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_838b6d08-cd21-11e0-a995-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_4b718590-6a39-11e2-a94c-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_63cefd72-a2ef-11e2-b1a1-001a4bcf887a.html	HTTP Error 404: Not Found
+http://www.prnewswire.com/news-releases/las-vegas-convention-centers-new-south-hall-expansion-opens-with-international-consumer-electronics-show-75318817.html	The read operation timed out
+https://www.voiceofsandiego.org/fact/huckster-propaganda/	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org//www.voiceofsandiego.org/fact/article_221e490e-f09e-11e1-be2c-0019bb2963f4.html%E2%80%9D	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/survival/article_7ddbd10a-9c48-11df-bd76-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_949e1946-c7cc-11e1-b03a-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_9c97a7bc-bd3c-11df-9b98-001cc4c03286.html	HTTP Error 404: Not Found
+http://legacy.utsandiego.com/uniontrib/20080329/news_1n29auto.html	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_fcdf37d6-d4f4-11e0-867d-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_5a6c22e7-784e-5ee2-9d7f-a6ececb60467.html	HTTP Error 404: Not Found
+http://www.public.navy.mil/spawar/Press/Documents/Publications/2011_SDMAC.pdf	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/public_safety/article_a4b74a74-1206-11df-ae0a-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/public_safety/responder/article_8c25da00-c068-11df-8976-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_e2e5f0e0-bef0-11e1-9190-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_737c3ce0-52c7-11e1-922e-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_18b0135c-2e62-11e0-8b77-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_2222b662-47f2-11df-95ee-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_0847f7e0-51ee-11e1-ba7e-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_2c84d554-24ba-11e0-9e4d-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org//www.voiceofsandiego.org/government/article_d908fefa-daa7-11e1-b11c-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_707e5c56-9742-11e2-81e4-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.realtor.com/blogs/real-estate-trends/most-searched-cities-no-10/	HTTP Error 403: Forbidden
+https://www.voiceofsandiego.org/fact/article_0b4047dc-f3a6-11e0-b915-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_f32a8e18-94ed-11df-8edc-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_dbbd8990-4ffc-11e0-b88f-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_ec9b3210-2737-11df-8010-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_a7b1f3a0-cf87-11e1-b9be-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_f7e72e7a-1c72-11e2-95a6-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_cea82968-e2ec-11df-b99a-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_73afb5cc-eb13-11e1-bb3a-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_f7ae2aee-adf4-11e2-96c1-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_6e58efd4-494d-11e1-abcf-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_1dafba7c-d1fb-11e1-95c7-0019bb2963f4.html?_dc=407074319431.5582	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_0893eeb6-819c-11e0-8fa2-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_a8ef0ede-ab5a-11e1-97ae-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_47be912c-c557-11e1-9248-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_386c0a88-250c-11e1-95d3-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_b8b72d1e-445a-11e0-9856-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_833eacd8-6d3c-11e0-a7ba-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_3c101a9c-45f7-11e1-9e32-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/education/schooled/article_772e181a-906f-11e0-a811-001cc4c03286.html	HTTP Error 404: Not Found
+http://voiceofsandiego.org/this_just_in/article_a3113db1-ed03-56fc-ba14-e090b1da6ccf.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_20fbc166-ac4e-11e2-8754-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/education/article_c538fcf4-6333-11e1-8ebe-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_bb0eceac-4909-11df-8cd3-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_5a36aa76-3cbb-11e1-a5bb-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_edf48ba4-eb19-11e1-9c0a-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_bc2f9054-db4e-11e0-adb9-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/community/article_e03908ca-5c50-11e2-aa01-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_689f6d92-27e9-11e0-8c8f-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_ec7f2952-fb62-11e0-84bc-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_68a110c6-587c-11df-94e3-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_ef0f70a4-5e91-11e1-a30a-001871e3ce6c.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/public_safety/article_e99d6628-66ca-11df-9840-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_4cdb758a-25a9-11df-88c8-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/this_just_in/article_039c25cc-3cf3-5fc7-a5f5-e86cf6af0ed8.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_72770f02-fe58-11de-83b1-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/article_f7bd5b6a-85c5-11e2-80f3-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_7431f82c-acec-11e0-9717-001cc4c03286.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/government/thehall/article_83eff01e-7d0f-11e0-9092-001cc4c002e0.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_9df75280-3bc9-11e1-988a-001871e3ce6c.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_bc306ef4-42e4-11e1-865a-0019bb2963f4.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/fact/article_0b61801a-e71f-11e1-873d-001a4bcf887a.html	HTTP Error 404: Not Found
+https://www.voiceofsandiego.org/pdf_69dcbaa2-79ff-11e1-98c3-0019bb2963f4.html	HTTP Error 404: Not Found
+http://www.sandi.net/218320721155437390/lib/218320721155437390/2009/1119/Proposition_S_Ballot_Program_Extract-Exhibit_6.2.4--11_19_09.pdf	HTTP Error 404: Not Found
+http://www.sandi.net/cms/lib/CA01001235/Centricity/Domain/121/research/cst/2011/cst5yr/cst0711.rm.all.pdf	HTTP Error 404: Not Found
+http://www.washingtonpost.com/opinions/charles-krauthammer-the-trigger-and-the-poison-pill/2013/04/04/d9a46c4e-9d59-11e2-9a79-eb5280c81c63_story.html%3C/p%3E%3Cp%3E	The read operation timed out

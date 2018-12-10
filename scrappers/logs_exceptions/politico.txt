@@ -1,0 +1,34 @@
+http://bigstory.ap.org/article/82df550e1ec646098b434f7d5771f625/many-donors-clinton-foundation-met-her-state	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.politifact.com/north-carolina/statements/2016/jul/08/hillary-clinton/hillary-clinton-donald-trump-wants-get-rid-federal/	HTTP Error 403: Forbidden
+http://www.politifact.com/truth-o-meter/statements/2016/sep/02/donald-trump/donald-trump-strays-key-facts-hillary-clinton-amne/	HTTP Error 403: Forbidden
+http://www.politifact.com/truth-o-meter/statements/2016/aug/16/donald-trump/donald-trump-mischaracterizes-nato-change-and-his-/	HTTP Error 403: Forbidden
+https://fas.org/sgp/crs/mideast/R43612.pdf	HTTP Error 403: Forbidden
+https://vault.fbi.gov/hillary-r.-clinton/hillary-r.-clinton-part-01-of-03/view	HTTP Error 403: Forbidden
+https://www.guttmacher.org/state-policy/explore/bans-specific-abortion-methods-used-after-first-trimester	HTTP Error 403: Forbidden
+https://www.donaldjtrump.com/press-releases/rudy-giuliani-statement-on-the-fbi-notes-of-hillary-clinton-interview	HTTP Error 403: Forbidden
+https://www.dea.gov/docs/2015%20NDTA%20Report.pdf	HTTP Error 404: Not Found
+http://www.politifact.com/punditfact/article/2015/sep/02/11-examples-hillary-clinton-and-bernie-sanders-hol/	HTTP Error 403: Forbidden
+http://www.politifact.com/truth-o-meter/statements/2016/sep/04/mike-pence/mike-pence-cites-clinton-support-more-syrian-refug/	HTTP Error 403: Forbidden
+http://www.politifact.com/truth-o-meter/statements/2016/jn/21/hillary-clinton/yep-donald-trumps-companies-have-declared-bankrupt/	HTTP Error 403: Forbidden
+https://pjmedia.com/news-and-politics/2016/04/28/ice-director-trump-wall-doesnt-sound-like-it-would-secure-anything/	HTTP Error 403: Forbidden
+https://www.americanactionforum.org/research/estimating-costs-candidate-clintons-proposals/	HTTP Error 403: Forbidden
+https://www.politico.com/story/2018/11/05/trump-cnn-suppression-polls-961460	[WinError 183] Cannot create a file when that file already exists: 'seeds\\raw_content_outlinks\\\\politico\\21'
+http://www.state.gov/secretary/20092013clinton/rm/2012/11/200565.htm	HTTP Error 404: Not Found
+http://www.politifact.com/truth-o-meter/statements/2011/may/16/barack-obama/obama-says-border-fence-now-basically-complete/	HTTP Error 403: Forbidden
+http://www.politifact.com/truth-o-meter/statements/2016/oct/05/mike-pence/debate-mike-pence-claims-trump-never-said-more-nat/	HTTP Error 403: Forbidden
+https://www.bleachbit.org/press/faq	HTTP Error 403: Forbidden
+https://www.politico.com/story/2018/11/05/2018-elections-media-coverage-midterms-surprises-963534	[WinError 183] Cannot create a file when that file already exists: 'seeds\\raw_content_outlinks\\\\politico\\51'
+http://www.nwitimes.com/news/local/govt-and-politics/indiana-unlikely-to-boost-minimum-wage-despite-widespread-support/article_a5cf1ebf-43aa-599d-9516-d1de423ea80b.html	HTTP Error 451: Unavailable For Legal Reasons
+https://www.politicopro.com/cybersecurity/story/2016/08/all-left-leaning-groups-in-hackers-crosshairs-democrats-fear-126431	HTTP Error 404: Not Found
+https://www.politico.com/magazine/story/2018/11/06/2018-election-trump-gop-midwest-222219	[WinError 183] Cannot create a file when that file already exists: 'seeds\\raw_content_outlinks\\\\politico\\67'
+http://www.nato.int/cps/en/natohq/topics_67655.htm	HTTP Error 403: Forbidden
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2842802&download=yes	HTTP Error 403: Forbidden
+http://www.nato.int/nato_static_fl2014/assets/pdf/pdf_2016_07/20160704_160704-pr2016-116.pdf	HTTP Error 403: Forbidden
+http://usuncut.com/world/top-eu-official-claims-identified-paris-attackers-eu-nationals-far/	HTTP Error 403: Forbidden
+https://www.politicopro.com/cybersecurity/whiteboard/2016/06/pro-russian-hackers-sent-infected-links-to-dnc-and-clinton-campaign-staffers-security-firm-says-073462	HTTP Error 404: Not Found
+http://www.huffingtonpost.com/2010/08/08/boehner-pence-social-security-retirement-age_n_674793.html	HTTP Error 403: Forbidden
+http://www.theaustralian.com.au/news/world/the-times/seven-of-the-paris-attackers-posed-as-syrian-refugees/news-story/e39dd3e6227f21895e1d3c566fd08c60	HTTP Error 403: Forbidden
+https://www.politicopro.com/story/2016/07/what-evidence-points-to-russia-in-dnc-hack-125164	HTTP Error 404: Not Found
+http://www.ccrjustice.org/files/2nd%20Cir.%2011%2022%202013%20Opin%20Denying%20Without%20Prej%20City\'s%20Mot%20to%20Vacate.pdf	HTTP Error 404: Not Found
+https://www.dni.gov/index.php/newsroom/press-releases/215-press-releases-2016/1423-joint-dhs-odni-election-security-statement	HTTP Error 404: Not Found
+https://www.washingtonpost.com/page/2010-2019/WashingtonPost/2016/08/07/National-Politics/Polling/question_16679.xml?uuid=xgZ1nlxTEeaLSAyzRCIRMQ	The read operation timed out

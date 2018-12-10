@@ -1,0 +1,6 @@
+http://www.sundaymail.co.zw/ed-delivers-60-000-jobs/	HTTP Error 403: Forbidden
+https://www.linkedin.com/in/william-ponela-66304a87	HTTP Error 999: Request denied
+http://www.zimstat.co.zw/sites/default/files/img/Laborforce2011.pdf	HTTP Error 404: Not Found
+http://www.zimstat.co.zw/sites/default/files/img/Labour_2014.pdf	HTTP Error 404: Not Found
+http://www.cdcgroup.com/Media/News/CDC-and-Standard-Chartered-to-provide-up-to-US100m-of-new-lending-to-businesses-in-Zimbabwe/	HTTP Error 404: Not Found
+https://www.pa.org.za/person/mandla-rayi/	The read operation timed out

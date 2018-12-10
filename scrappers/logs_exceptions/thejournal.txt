@@ -1,0 +1,480 @@
+http://cdn.thejournal.ie/media/2016/02/g9318263.pdf	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/08/ibc-budget-2017-submission.pdf	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/09/thejournal-ie-bus-drivers-earnings.xlsx	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/childpovertyrate-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/thejournal-ie-factcheck-irish-water-payments.xlsx	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/03/primary-and-special-schools-list-2016-2017-provisional-analysis.xlsx	HTTP Error 403: Forbidden
+http://devcerts.hse.ie/eng/services/Campaigns/TrolleyGAR.html	<urlopen error [Errno 11001] getaddrinfo failed>
+http://petitions.oireachtas.ie/online_petitions.nsf/Published_Petitions_EN/D3E85F04CD84F7BA80257F1D0055DEB1?OpenDocument&type=published+petition&lang=EN&r=0.984222171358816	HTTP Error 404: Not Found
+http://www.ons.gov.uk/ons/taxonomy/index.html?nscl=Unemployment#tab-data-tables	HTTP Error 403: Forbidden
+http://www.rte.ie/player/us/show/the-week-in-politics-17/10645981/?ap=1	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/today-with-sean-o-rourke/programmes/2016/0127/763290-today-with-sean-o-rourke-wednesday-27-january-2016/	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/08/impact-of-food-taxes-final-report-1.pdf	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/10/grosshealth-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/02/n0068155.pdf	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/co_2_2_child_poverty.xlsx	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/thejournal-ie-factcheck-politicians-salaries-3.xlsx	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/03/thejournal-ie-dail-productivity.xlsx	HTTP Error 403: Forbidden
+https://www.labour.ie/download/pdf/fairhealthcare.pdf	HTTP Error 403: Forbidden
+https://www.irishmirror.ie/news/irish-news/pat-flanagan-ireland-most-corrupt-10132233	HTTP Error 403: Forbidden
+https://www.rte.ie/news/business/2017/0124/847313-ryanair-winter-schedule-2017/	HTTP Error 403: Forbidden
+http://choicesproject.org/brief-cost-effectiveness-of-a-sugar-sweetened-beverage-excise-tax-in-philadelphia-pa/	HTTP Error 404: Not Found
+http://www.finegael.ie/__uuid/7df44e94-e6d4-4744-9f5b-c9ea1f1216d2/FG_GE16_LEP_Final.pdf	HTTP Error 404: Not Found
+http://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/birthsummarytablesenglandandwales/2015	HTTP Error 403: Forbidden
+http://www.rte.ie/radio/radioplayer/rteradiowebpage.html#!rii=b9%5F21027713%5F48%5F27%2D07%2D2016%5F	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/today-with-sean-o-rourke/programmes/2016/0218/769056-today-with-sean-o-rourke-thursday-18-february-2016/	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/05/12categories.pdf	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/10/sn00060-en16.pdf	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/thejournal-ie-factcheck-the-gender-pay-gap.xlsx	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/08/irelandmmr-4.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/employment-6.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/03/wellpaidmaternityleaveln-3.jpg	HTTP Error 403: Forbidden
+http://www.rte.ie/archives/2014/1102/655842-breathalyser-comes-to-ireland-1969/	HTTP Error 403: Forbidden
+https://www.legifrance.gouv.fr/affichCode.do;jsessionid=D43320549404BF694AE0406F86873197.tpdila14v_2?idSectionTA=LEGISCTA000006171543&cidTexte=LEGITEXT000006072665&dateTexte=20150115	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4262378/table/t4-ijwh-6-999/	HTTP Error 403: Forbidden
+https://www.rte.ie/player/ie/show/claire-byrne-live-30003252/10802673/?ap=1	HTTP Error 403: Forbidden
+https://scholar.google.com/scholar?q=abortion+breast+cancer+studies&hl=en&as_sdt=0&as_vis=1&oi=scholart&sa=X&ved=0ahUKEwjg25OBvuzaAhXEDcAKHcRbCJQQgQMIJTAA	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/05/garda-station-closures-and-crime-rates_thejournal_ie-3.xls	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/totalmedianhourly-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/08/thejournal-ie-factcheck-garda-drug-units-and-drug-problems.xlsx	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/today-with-sean-o-rourke/programmes/2016/0628/798670-today-with-sean-o-rourke-tuesday-28-june-2016/?clipid=2218428	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/11/2001.pdf	HTTP Error 403: Forbidden
+http://www.rte.ie/radio/utils/radioplayer/rteradioweb.html#!rii=b9%5F21045624%5F83%5F30%2D08%2D2016%5F	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/falseclaimoftheyear-2.jpg	HTTP Error 403: Forbidden
+http://www.rte.ie/news/2009/0116/112776-dublinbus/	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/04/2017-04-03-briefing-for-joc-3.pdf	HTTP Error 403: Forbidden
+https://www.rte.ie/player/ie/show/prime-time-30003251/10879919/?ap=1	HTTP Error 403: Forbidden
+https://www.guttmacher.org/state-policy/explore/overview-abortion-laws	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/totalmedianmonthly-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/08/thejournal-ie-maternal-mortality-rates-factcheck-august-2016.xlsx	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/05/gardanumbers2010_2015_thejournal_ie.pdf	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/today-with-sean-o-rourke/programmes/2016/1130/835488-today-with-sean-o-rourke-wednesday-30-november-2016/?clipid=2343837	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/drivetime/programmes/2016/0830/813019-drivetime-tuesday-30-august-2016/?clipid=2271823#2271767	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/11/air-quality-in-europe-2015-report.pdf	HTTP Error 403: Forbidden
+http://www.rte.ie/news/business/2016/0519/789550-noonan-on-banks/	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/female-3.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/04/cer-4.pdf	HTTP Error 403: Forbidden
+https://www.facebook.com/search/latest/?q=trump%20ireland%20refugees	HTTP Error 404: Not Found
+http://www.wnd.com/2018/06/fake-brows-trudeau-lowers-eyebrows-in-trump-tiff/	HTTP Error 403: Forbidden
+http://www.finegael.ie/latest-news/spending-without-reform-f/index.xml	HTTP Error 404: Not Found
+http://cdn.thejournal.ie/media/2016/05/noonanshares3-3.jpg	HTTP Error 403: Forbidden
+http://www.rte.ie/news/player/2014/1118/20683850-irish-water-says-it-must-raise-between-6-8bn-for-infastructure	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/fullpart-5.jpg	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/today-with-sean-o-rourke/programmes/2017/0120/846426-today-with-sean-o-rourke-friday-20-january-2017/	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/11/circuitcourtinjury-4.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/unemployment-10.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/04/factfind-drink-driving-legislation-supplementary-information-3.pdf	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/liveline/	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/09/2009plan.pdf	HTTP Error 403: Forbidden
+https://www.rte.ie/player/nl/show/claire-byrne-live-30003252/	HTTP Error 403: Forbidden
+https://www.her.ie/health/comment-the-dail-turnout-for-todays-mental-health-debate-shows-a-serious-disregard-for-every-irish-person/289958	HTTP Error 403: Forbidden
+http://nytiwes.com/home/	HTTP Error 404: Not Found
+http://www.tv3.ie/3player/show/41/113991/0/Tonight-with-Vincent-Browne	HTTP Error 404: Not Found
+https://www.thl.fi/fi/web/thlfi-en/statistics/statistics-by-topic/sexual-and-reproductive-health/abortions/induced-abortions-in-the-nordic-countries	HTTP Error 403: Forbidden
+https://www.facebook.com/search/top/?q=suicide%20austerity%20%22the%20troubles%22	HTTP Error 404: Not Found
+http://cdn.thejournal.ie/media/2016/05/programme_for_partnership_government.pdf	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/04/q-170216-cer-additional-response-to-joint-committee-re-allowances.pdf	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/headsofgovt-5.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/01/commencement2004_2016-4.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/09/2013plan.pdf	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/liveline/programmes/2016/0412/781297-liveline-tuesday-12-april-2016/?clipid=2156028	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/11/exports-by-market-2015-xlsx.xlsx	HTTP Error 403: Forbidden
+https://www.rte.ie/radio1/saturday/	HTTP Error 403: Forbidden
+http://www.rte.ie/news/player/2015/0120/20714126-jerry-grant-head-of-asset-management-at-irish-water-said-efforts-are-under-way-to-improve-the-operation-of-plants	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/today-with-sean-o-rourke/programmes/2017/0515/875224-today-with-sean-o-rourke-monday-15-may-2017/	HTTP Error 403: Forbidden
+http://nytiwes.com/singer-and-actress-demi-lovato-has-died-at-25/	HTTP Error 404: Not Found
+https://www.loc.gov/law/help/abortion-legislation/europe.php#austria	HTTP Error 403: Forbidden
+http://www.finegael.ie/our-plan/the-plan/	HTTP Error 404: Not Found
+http://cdn.thejournal.ie/media/2017/01/commencements2014_2016-3.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/04/screen-shot-2017-04-26-at-11-43-20-4.png	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/marian-finucane/	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/iwrevenue-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/11/factcheck-thejournal-ie-trolley-and-ward-count-2007-2008-2016.xlsx	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/09/abortioncountriessept-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/06/abortion-and-disability-report-17-7-13.pdf	HTTP Error 403: Forbidden
+http://www.rte.ie/news/player/2015/0120/20714153-investment-needed-in-water-infrastructure	HTTP Error 403: Forbidden
+https://www.rte.ie/radio1/today-with-sean-o-rorke/programmes/2017/0810/896441-today-with-sean-o-rourke-thursday-10-august-2017/?clipid=256u0592#2560592	HTTP Error 403: Forbidden
+http://www.latimes.com/nation/la-na-aborted-fetus-burial-2017-story.html	HTTP Error 403: Forbidden
+http://circulars.gov.ie/pdf/letter/finance/2010/3.pdf	HTTP Error 404: Not Found
+https://www.loc.gov/law/help/abortion-legislation/europe.php#belgium	HTTP Error 403: Forbidden
+http://www.wolfson.qmul.ac.uk/current-projects/downs-syndrome-register#annual-report	HTTP Error 404: Not Found
+http://cdn.thejournal.ie/media/2016/11/healthallexcluded-4.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/04/screen-shot-2017-04-26-at-11-43-20-5.png	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/marian-finucane/programmes/2016/0904/814088-marian-finucane-sunday-4-september-2016/	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/09/abortioncountriessept2-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/06/garda-numbers-2008_2016-thejournal_ie.xls	HTTP Error 403: Forbidden
+http://www.rte.ie/news/player/2015/0219/20731170-irish-water-aims-to-eliminate-boil-notices-by-2021	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/02/b2-bcms-units-2014-to-date-all-units_7-2.xlsx	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/iwshortfall-2.jpg	HTTP Error 403: Forbidden
+http://drees.social-sante.gouv.fr/IMG/pdf/er901.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+https://www.save8.ie/	HTTP Error 403: Forbidden
+http://www.peoplebeforeprofit.ie/wp-content/uploads/2016/02/Manifesto-up-date-PBP.pdf	HTTP Error 404: Not Found
+https://www.loc.gov/law/help/abortion-legislation/europe.php#france	HTTP Error 403: Forbidden
+https://static.rasset.ie/documents/news/abortion-stats-2016-commentary-with-tables.pdf	HTTP Error 403: Forbidden
+http://cityindicators.org/IndicatorsDescriptions/44727278.0126Water%20-Domestic%20water%20consumption.pdf	HTTP Error 404: Not Found
+http://cdn.thejournal.ie/media/2016/11/healthinflation-4.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/06/lc-weather-factcheck.xlsx	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/09/armscrisisinquiry21_22_april_1971.pdf	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/morning-ireland/programmes/2016/0509/787110-morning-ireland-monday-9-may-2016/	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/06/control-savings-query-john-brady.pdf	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/02/c4-comm-units-2004-2014-all-1.xlsx	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/jaemployment-2.jpg	HTTP Error 403: Forbidden
+http://www.rte.ie/news/player/2015/0331/20755002	HTTP Error 403: Forbidden
+https://www.save8.ie/8-reasons/	HTTP Error 403: Forbidden
+http://www.tv3.ie/3player/show/41/114501/0/Tonight-with-Vincent-Browne	HTTP Error 404: Not Found
+http://www.leavenetwork.org/fileadmin/Leavenetwork/overviews_2016/Statutory_Maternity_Leave.pdf	HTTP Error 404: Not Found
+https://www.loc.gov/law/help/abortion-legislation/europe.php#netherlands	HTTP Error 403: Forbidden
+https://www.todayfm.com/The-Last-Word-with-Matt-Cooper	HTTP Error 403: Forbidden
+http://www.rte.ie/news/player/prime-time-web/2013/1031	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/02/daa-charges-2016-2017-2.jpg	HTTP Error 403: Forbidden
+http://observador.pt/seccao/observador/fact-check/	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/11/healthminusfirstgroup-4.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/09/computerskills-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/06/revised-estimates-for-public-services-2016-1.pdf	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/jaunemployment-2.jpg	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/morning-ireland/programmes/2016/0728/805359-morning-ireland-thursday-28-july-2016/	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/06/department-of-social-protection-response.pdf	HTTP Error 403: Forbidden
+https://medium.com/@LornaBogue/irelands-unknown-abortion-rate-and-why-it-matters-4a74d8479a26	HTTP Error 403: Forbidden
+https://www.loc.gov/law/help/abortion-legislation/europe.php#portugal	HTTP Error 403: Forbidden
+https://www.reddit.com/r/ireland/comments/36ciyc/drink_responsibly_ad_1972/	HTTP Error 429: Too Many Requests
+https://www.save8.ie/did-you-know-this-is-abortion-up-to-6-months/	HTTP Error 403: Forbidden
+http://www.wolfson.qmul.ac.uk/files/pdf/NDSCRreport10.pdf	HTTP Error 404: Not Found
+http://www.rte.ie/news/player/prime-time-web/2014/1117/#page=16	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/male-3.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/02/detoxbeds-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/07/14-05-hospital-trend-analysis-of-waiting-times.pdf	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/morning-ireland/programmes/2016/0901/813358-morning-ireland-thursday-1-september-2016/?clipid=2272972#2272972	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/06/figure1.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/11/healthpercapita-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/09/confidence-supply-arrangement-to-facilitate-a-fg-minority-govt-4.pdf	HTTP Error 403: Forbidden
+https://www.loc.gov/law/help/abortion-legislation/europe.php#russianfederation	HTTP Error 403: Forbidden
+http://drees.social-sante.gouv.fr/etudes-et-statistiques/publications/etudes-et-resultats/article/les-interruptions-volontaires-de-grossesse-en-2013	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+https://www.reddit.com/r/ireland/comments/4ssbha/luke_ming_doing_his_job_in_europe/d5ce0l0	HTTP Error 429: Too Many Requests
+http://140.122.143.143/yuyinghs/yuyinghsu/papers/DuffyHsuSerpell2008.pdf	<urlopen error timed out>
+http://cdn.thejournal.ie/media/2016/07/15-45.pdf	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/02/funding-per-journey-2.jpg	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/morning-ireland/programmes/2016/0912/815936-morning-ireland-monday-12-september-2016/?clipid=2281523#2281523	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/medianhourlyage-2.jpg	HTTP Error 403: Forbidden
+http://www.rte.ie/news/player/prime-time-web/2014/1211	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/06/figure2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/11/highcourtinjury-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/09/corporation-tax-receipts-2014-2015-4.pdf	HTTP Error 403: Forbidden
+http://eacea.ec.europa.eu/education/eurydice/documents/facts_and_figures/fees_support.pdf	HTTP Error 404: Not Found
+http://psycnet.apa.org/psycinfo/2016-17153-001/	HTTP Error 416: Requested Range Not Satisfiable
+http://cdn.thejournal.ie/media/2016/12/medianhourlyparttime-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/07/ireland-and-eu-budgets-thejournal-ie-july-2016.xlsx	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/02/ireland-w17-jan-17-2.pdf	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/09/cpi-4.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/06/figure3.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/11/insuranceireland2-2.jpg	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/morning-ireland/programmes/2016/0912/815936-morning-ireland-monday-12-september-2016/?clipid=2281523#2281524	HTTP Error 403: Forbidden
+http://www.rte.ie/news/player/prime-time-web/2015/0609	HTTP Error 403: Forbidden
+https://www.london.gov.uk/sites/default/files/gla_migrate_files_destination/irregular-migrants-report.pdf#page=8	HTTP Error 403: Forbidden
+http://www.tv3.ie/3player/show/41/115291/0/Tonight-with-Vincent-Browne	HTTP Error 404: Not Found
+http://www.cmaj.ca/content/171/7/731.full	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/11/irish-referendum-results-1937-2015.xlsx	HTTP Error 403: Forbidden
+http://www.rte.ie/player/gb/show/claire-byrne-live-30003252/10689846/?ap=1	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/02/passenger-journeys-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/06/figure4.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/09/driverwages-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/medianhourlytype-2.jpg	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/morning-ireland/programmes/2016/0926/819217-morning-ireland-monday-26-september-2016/?clipid=2292313#2292313	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/07/irelandeubudget1973_2014_deptfinance_thejournal_ie.pdf	HTTP Error 403: Forbidden
+http://www.wolfson.qmul.ac.uk/images/files/pdf/annrep2013_FINAL.pdf	HTTP Error 404: Not Found
+http://cdn.thejournal.ie/media/2016/12/medianmonthlyage-2.jpg	HTTP Error 403: Forbidden
+http://www.rte.ie/player/ie/show/claire-byrne-live-30003252/10652693/?ap=1	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/11/life-canvass-book-final-marks-5-11-15.pdf	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/07/granular-data-sheet1.pdf	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/morning-ireland/programmes/2016/1004/821256-morning-ireland-tuesday-4-october-2016/	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/02/rail-vs-bus-funding-per-journey-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/09/highereducation-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/07/irishslaves-2.jpg	HTTP Error 403: Forbidden
+https://www.tuc.org.uk/equality-issues/gender-equality/pregnancy-discrimination/uk-relegation-zone-decently-paid-maternity	HTTP Error 403: Forbidden
+http://www.fmprc.gov.cn/ce/cgvienna/eng/dbtyw/jdwt/crimelaw/t209043.htm	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+http://www.idaireland.com/newsroom/ireland-moves-up-to-15th-/Ireland%5B1%5D.pdf	HTTP Error 404: Not Found
+http://cdn.thejournal.ie/media/2016/11/life-canvass-book-landscape-update-lo-res-nov-16-single-pages-1.pdf	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/medianmonthlyparttime-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/02/social-housing-9.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/09/pastedimage-16559.png	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/09/ireland_extended.pdf	HTTP Error 403: Forbidden
+http://www.rte.ie/player/ie/show/claire-byrne-live-30003252/10689846/	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/07/m-reynolds-081215.pdf	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/morning-ireland/programmes/2016/1130/835461-morning-ireland-wednesday-30-november-2016/?clipid=2343812#2343812	HTTP Error 403: Forbidden
+https://oireachtas.heanet.ie/mp4/cr4/latest/cr4_20170221T112459.000000.mp4	HTTP Error 404: Not Found
+http://www.worldobesity.org/site_media/uploads/UKHF_duties.pdf	HTTP Error 404: Not Found
+http://hse.ie/eng/services/publications/performancereports/July15PR.pdf	HTTP Error 404: Not Found
+https://downsyndrome.ie/new-expectant-families/expectant-parents/	HTTP Error 404: Not Found
+http://content.healthaffairs.org/content/31/1/199.full.htmlFor	HTTP Error 404: Not Found
+http://cdn.thejournal.ie/media/2016/11/perinatalmortality2005.pdf	HTTP Error 403: Forbidden
+http://www.rte.ie/player/ie/show/prime-time-30003251/10526396/	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/medianmonthlytype-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/07/thejournal_ie-irish-meps-at-agriculture-committee-meetings-2014-1016.xlsx	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/09/un-7.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/02/state-funding-public-transport-3.jpg	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/news-at-one/programmes/2017/0117/845608-news-at-one-tuesday-17-january-2017/?clipid=2375741#2375741	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/09/literacy-2.jpg	HTTP Error 403: Forbidden
+https://oireachtas.heanet.ie/mp4/dail/2016/06/28/dail_20160628_02.mp4	HTTP Error 404: Not Found
+http://www.tv3.ie/3player/show/41/121197/0/Tonight-with-Vincent-Browne	HTTP Error 404: Not Found
+http://www.focusireland.ie/files/focus%20ireland%20family%20homelessness%20briefing%201.pdf	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/11/primaryhomemortgages-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/10/barchart-final2.jpg	HTTP Error 403: Forbidden
+http://www.rte.ie/player/ie/show/prime-time-30003251/10528350/	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/08/104-2003-nd-cp.doc	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/mostfactchecked-edit-2.png	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/02/thejournal-ie-factcheck-languages-in-northern-ireland.xlsx	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/saturday-with-claire-byrne/	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/09/nbrufinal-2.jpg	HTTP Error 403: Forbidden
+https://oireachtas.heanet.ie/mp4/dail/latest/dail_20160426T132459.000000.mp4	HTTP Error 404: Not Found
+http://www.rte.ie/player/us/show/claire-byrne-live-30003252/10530947/	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/12/report-of-the-joint-committee-on-the-eighth-amendment-201217.pdf	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/11/reposessions-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/03/dail-efficiency-2.jpg	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/saturday-with-claire-byrne/programmes/2016/0213/767758-saturday-with-claire-byrne-saturday-13-february-2016/	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/08/abortion_statistics_2015_eng_wales.pdf	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/mps-8.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/09/nbruoriginal-2.jpg	HTTP Error 403: Forbidden
+http://www.politifact.com/	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/11/skm_c454e16112416410.pdf	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/03/dails-1923_2017-2.jpg	HTTP Error 403: Forbidden
+http://www.rte.ie/player/us/show/claire-byrne-live-30003252/10649886/?ap=1	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/saturday-with-claire-byrne/programmes/2016/1203/836306-saturday-with-claire-byrne-saturday-3-december-2016/?clipid=2346447#2346447	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/08/bmi-obesity-and-sugar-tax.xlsx	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2018/02/pastedimage-48189.png	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/09/numeracy-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/mpsaverage-8.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/11/thejournal-ie-factcheck-health-budgets-1994-2017-1.xlsx	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/08/bosnia1.doc	HTTP Error 403: Forbidden
+http://www.politifact.com/truth-o-meter/article/2015/dec/21/2015-lie-year-donald-trump-campaign-misstatements/	HTTP Error 403: Forbidden
+http://www.rte.ie/player/us/show/prime-time-30003251/10525911/	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/the-late-debate/#2205539	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/03/maternityleavefulltimeoecd-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/rev_customer_growth-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2018/02/pastedimage-68658.png	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/09/ofprates-2.jpg	HTTP Error 403: Forbidden
+https://oireachtas.heanet.ie/mp4/dail/latest/dail_20160426T132459.000001.mp4	HTTP Error 404: Not Found
+https://www.isi.gov.ie/en/ISI/ISI_Statistics_2016_Quarter_3.pdf/Files/ISI_Statistics_2016_Quarter_3.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+http://www.rte.ie/player/us/show/prime-time-30003251/10535161/	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/11/thejournal-ie-factcheck-immigration-to-ireland-and-the-uk-from-eu15-28-countries.xlsx	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/08/doh-termination-numbers-160802.pdf	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/selfemployment-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/03/maternityleaveln-6.jpg	HTTP Error 403: Forbidden
+http://www.politifact.com/truth-o-meter/statements/2016/jul/25/michelle-obama/michelle-obama-correct-white-house-was-built-slave/	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/the-late-debate/programmes/2016/0927/819718-the-late-debate-tuesday-27-september-2016/?clipid=2293753#2293753	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2018/02/pastedimage-9109.png	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/09/payrates.pdf	HTTP Error 403: Forbidden
+https://oireachtas.heanet.ie/mp4/dail/latest/dail_20160426T132459.000002.mp4	HTTP Error 404: Not Found
+http://www.rte.ie/player/us/show/prime-time-30003251/10626680/	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/suicidespending-2.jpg	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/the-late-debate/programmes/2016/1011/823351-the-late-debate-tuesday-11-october-2016/?clipid=2305780#2305780	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/08/globalisation-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/11/thejournal-ie-factcheck-motor-insurance-costs-1.xlsx	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/03/maternityleaveratesoecd-6.jpg	HTTP Error 403: Forbidden
+https://www.isi.gov.ie/en/ISI/Press_Release_07_10_14.pdf/Files/Press_Release_07_10_14.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+http://cdn.thejournal.ie/media/2018/07/cpi1.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/09/pisa-5.jpg	HTTP Error 403: Forbidden
+http://www.yestolifeireland.org/wp-content/uploads/2016/11/250000saved-PRINT_Nov2016.pdf	HTTP Error 403: Forbidden
+http://www.isif.ie/news/press-releases/ireland-strategic-investment-fund-announces-e500m-home-building-finance-joint-venture-with-leading-global-investment-firm-kkr/index.html	HTTP Error 404: Not Found
+http://webtest.srcd.org/meeting/schedule/2009/dayview.cfm?code=3	<urlopen error timed out>
+http://cdn.thejournal.ie/media/2016/11/valueofprimaryhomearrears-2.jpg	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/the-late-debate/programmes/2016/1129/835382-the-late-debate-tuesday-29-november-2016/?clipid=2343514#2343514	HTTP Error 403: Forbidden
+http://www.tv3.ie/3player/show/41/121838/0/Tonight-with-Vincent-Browne	HTTP Error 404: Not Found
+http://cdn.thejournal.ie/media/2016/12/suicidestatistics-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/08/globalisation2-2.jpg	HTTP Error 403: Forbidden
+http://www.rte.ie/player/us/show/six-one-news-30003249/10616791/	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/03/paid-maternity-leaveln-4.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/09/revenue_subvention-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2018/07/wgi.jpg	HTTP Error 403: Forbidden
+http://iccl.ie/news/2016/02/08/respect-for-human-rights-must-not-be-a-political-football-says-iccl-.html	HTTP Error 404: Not Found
+https://oireachtas.heanet.ie/mp4/dail/latest/dail_20160426T132459.000003.mp4	HTTP Error 404: Not Found
+https://www.sinnfein.ie/files/2016/GE2016ElectionManifesto.pdf	HTTP Error 403: Forbidden
+http://www.istinomer.rs/	HTTP Error 403: Forbidden
+https://www.isi.gov.ie/en/ISI/Press_Release_20_Jan_2016.pdf/Files/Press_Release_20_Jan_2016.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+http://www.rte.ie/radio1/the-late-debate/programmes/2017/0118/846022-the-late-debate-wednesday-18-january-2017/	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/childpovertyranking-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/12/suicideunemployment-2.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/08/healthy-eating-guidelines-2011-final.pdf	HTTP Error 403: Forbidden
+http://www.cso.ie/px/pxeirestat/Statire/Selectout/pivot.asp	HTTP Error 403: Forbidden
+http://www.rte.ie/player/us/show/the-late-late-show-extras-30003017/10563529/	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/09/tariffs-4.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/03/pf2_1_parental_leave_systems.xls	HTTP Error 403: Forbidden
+http://chequeado.com/	HTTP Error 403: Forbidden
+https://oireachtas.heanet.ie/mp4/dail/latest/dail_20160426T132459.000004.mp4	HTTP Error 404: Not Found
+http://www.rte.ie/radio1/this-week/programmes/2017/0226/855564-this-week-sunday-26-february-2017/?clipid=2413432#2413432	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2017/03/pf2_4_parental_leave_replacement_rates.xlsx	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/09/tertiary-2.jpg	HTTP Error 403: Forbidden
+http://www.rte.ie/player/us/show/the-week-in-politics-17/10624790/	HTTP Error 403: Forbidden
+http://www.rte.ie/radio1/today-with-sean-o-rourke/	HTTP Error 403: Forbidden
+http://www.consumercouncil.org.uk/water/charging/	HTTP Error 403: Forbidden
+https://oireachtas.heanet.ie/mp4/dail/latest/dail_20160601T091459.000000.mp4	HTTP Error 404: Not Found
+https://ec.europa.eu/transport/modes/air/single_european_sky_en	HTTP Error 404: Not Found
+http://www.alive.ie/uploads/6/5/1/1/6511516/alive__april_2016.pdf	HTTP Error 404: Not Found
+http://www.journaldunet.com/patrimoine/finances-personnelles/1166094-salaire-moyen/salaire-brut-mensuel-moyen.html	HTTP Error 404: Not Found
+http://www.courts.ie/Courts.ie/library3.nsf/(WebFiles)/A9CCBEE01757C58280257FF00031EEBE/%24FILE/Courts%20Service%20Annual%20Report%202015.pdf	HTTP Error 404: Not Found
+https://oireachtas.heanet.ie/mp4/dail/latest/dail_20160601T091459.000001.mp4	HTTP Error 404: Not Found
+http://www.tv3.ie/3player/show/573/0/0/	HTTP Error 404: Not Found
+https://oireachtas.heanet.ie/mp4/dail/latest/dail_20160721T084959.000002.mp4	HTTP Error 404: Not Found
+https://twitter.com/seanpcmccormack/status/833950383416418305	HTTP Error 404: Not Found
+http://www.amsciepub.com/doi/pdf/10.2466/15.10.49.PR0.112.3.933-975	HTTP Error 403: Forbidden
+https://ojo-publico.com/ojobionico	HTTP Error 403: Forbidden
+https://www.studyineurope.eu/tuition-fees	HTTP Error 403: Forbidden
+https://www.jstor.org/stable/25546774?seq=3#page_scan_tab_contents	HTTP Error 403: Unauthorized
+http://www.daft.ie/report	HTTP Error 403: Forbidden
+https://www.hse.ie/eng/staff/Resources/Employment_Reports/Census-Report-Sept-2016-.pdf	HTTP Error 404: Not Found
+https://www.moh.gov.sg/content/moh_web/home/pressRoom/Parliamentary_QA/2013/abortion-statistics.html	HTTP Error 404: Not Found
+https://www.taoiseach.gov.ie/eng/News/Taoiseach\'s_Speeches/Speech_by_An_Taoiseach_Mr_Leo_Varadkar_T_D_for_the_sod-turning_at_Beech_Hill_Housing_Project.html	HTTP Error 404: Not Found
+https://www.jstor.org/stable/jirisarch.23.189	HTTP Error 403: Unauthorized
+https://www.huffingtonpost.com/entry/term-and-partial-birth-abortions-the-mythical-arch-nemeses-of-the-anti-choice-movement_us_580d4427e4b02444efa3f33a	HTTP Error 403: Forbidden
+http://appsso.eurostat.ec.europa.eu/nui/submitViewTableAction.do	argument of type 'NoneType' is not iterable
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(16)30054-X/abstract	HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop. The last 30x error message was: Found
+http://www.sinnfein.ie/contents/38378	HTTP Error 403: Forbidden
+https://www.tcd.ie/Neuroscience/neil/people/personnel/s-brennan.php	HTTP Error 404: Not Found
+https://www.constitution.ie/Documents/Bhunreacht_na_hEireann_web.pdf	<urlopen error timed out>
+https://poseidon01.ssrn.com/delivery.php?ID=553123081007103086006014067078064022046072047037032033073009064125068108077119070094120103054122020025037070116005077064120090029021088064035102093026127090020002010004077067086103102113127098095031116109080019123006071078087125098019025026067082012086&EXT=pdf	HTTP Error 403: Forbidden
+http://www.independent.co.uk/news/uk/home-news/homelessness-rises-by-40-with-soaring-number-of-families-sent-to-live-in-b-and-bs-10515740.html	HTTP Error 404: Not Found
+https://www.oireachtas.ie/viewdoc.asp?fn=/documents/ParliamentaryInquiries/DIRT/000620/document1.htm	HTTP Error 404: Not Found
+http://www.sinnfein.ie/contents/40139	HTTP Error 403: Forbidden
+https://president.ie/en/about/organisational-information	HTTP Error 403: Forbidden
+http://www.sinnfein.ie/contents/40500	HTTP Error 403: Forbidden
+http://www.sinnfein.ie/contents/40748	HTTP Error 403: Forbidden
+https://www.oireachtas.ie/viewdoc.asp?fn=/documents/ParliamentaryInquiries/DIRT/000711/document1.htm	HTTP Error 404: Not Found
+https://www.nationaltransport.ie/news/new-luas-operating-contract-awarded-transdev-wins-5-year-e150m-contract/	HTTP Error 404: Not Found
+http://www.sinnfein.ie/contents/41174	HTTP Error 403: Forbidden
+https://www.dailywire.com/news/31675/whats-deal-canadian-pm-justin-trudeaus-eyebrows-joseph-curl	HTTP Error 403: Forbidden
+https://www.ifpa.ie/Hot-Topics/Abortion/Statistics	HTTP Error 404: Not Found
+https://www.oireachtas.ie/viewdoc.asp?fn=/documents/ParliamentaryInquiries/DIRT/001128/document1.htm	HTTP Error 404: Not Found
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1251638/	HTTP Error 403: Forbidden
+http://file:///C:/Users/cormac/Desktop/HC3-1-Homeless-population.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.sinnfein.ie/contents/43068	HTTP Error 403: Forbidden
+https://www.deni.gov.uk/articles/development-proposal-decisions-2016	<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+http://www.danmedj.dk/portal/page/portal/danmedj.dk/dmj_forside/PAST_ISSUE/2015/DMJ_2015_04/A5064	HTTP Error 404: Not Found
+https://www.oireachtas.ie/viewdoc.asp?fn=/documents/ParliamentaryInquiries/DIRT/990929/default.htm	HTTP Error 404: Not Found
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1903536/pdf/amjpathol00228-0184.pdf	HTTP Error 403: Forbidden
+http://www.sinnfein.ie/ga/contents/40039	HTTP Error 403: Forbidden
+http://www.ema.europa.eu/ema/index.jsp?curl=pages/medicines/human/referrals/Human_papillomavirus_vaccines/human_referral_prac_000053.jsp&mid=WC0b01ac05805c516f	HTTP Error 404: Not Found
+https://www.deni.gov.uk/services/schools-plus	<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2291128/	HTTP Error 403: Forbidden
+https://twitter.com/TheJackSullivan/status/993951109919268866?ref_src=twsrc%5Etfw	HTTP Error 404: Not Found
+http://www.thejournal.ie/author/the-international-fact-checking-network/	HTTP Error 404: Not Found
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5779758/	HTTP Error 403: Forbidden
+https://refcom2018.refcom.ie/refcom-guide-2018-english.pdf	HTTP Error 404: Not Found
+https://fe49d9ec8511d2dc0553-f8f415f79bf5d37d632aa2f721fb6d7c.ssl.cf3.rackcdn.com/wp-content/uploads/2012/01/Presentation_on_Bus_Market_Opening-_April_22_2015.pdf	HTTP Error 404: Not Found
+https://richardboydbarrett.ie/2016/06/04/trump-is-a-dangerous-racist-sexist-warmonger-who-should-not-be-welcomed-to-ireland/	HTTP Error 403: Forbidden
+https://www.ined.fr/fichier/s_rubrique/22784/popf3.2014.2da.cembre._365.398_ivg.fr.pdf	HTTP Error 404: Not Found
+https://t.co/tyycQwsZAL	HTTP Error 404: Not Found
+http://www.insee.fr/en/bases-de-donnees/bsweb/graph.asp?idbank=001641601&date_debut=2013&date_fin=2013	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+http://www.thejournal.ie/factcheck-margaret-murphy-o-mahony/news/	HTTP Error 404: Not Found
+http://www.oireachtas.ie/documents/members/psad20160229.pdf	HTTP Error 404: Not Found
+http://www.keepeek.com/Digital-Asset-Management/oecd/education/education-at-a-glance-2016/ireland_eag-2016-62-en#page3	HTTP Error 403: Forbidden
+http://dailycaller.com/2018/06/10/trudeau-eyebrow-g-7-summit/	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/aboutus/transparencyandgovernance/freedomofinformationfoi/maternitystatistics	HTTP Error 403: Forbidden
+https://twitter.com/KTHopkins/status/715907874870923264	HTTP Error 404: Not Found
+http://www.hrb.ie/uploads/tx_hrbpublications/NDRDI_web_update_2004-2013.pdf	HTTP Error 404: Not Found
+https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours	HTTP Error 403: Forbidden
+https://www.dhs.gov/immigration-statistics/lawful-permanent-residents	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/conceptionandfertilityrates/bulletins/conceptionstatistics/2016	HTTP Error 403: Forbidden
+https://www.dhs.gov/news/2017/05/22/dhs-releases-fiscal-year-2016-entryexit-overstay-report	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/birthsummarytablesenglandandwales/2015	HTTP Error 403: Forbidden
+http://www.keepeek.com/Digital-Asset-Management/oecd/taxation/taxing-wages-2017_tax_wages-2017-en#page22	HTTP Error 403: Forbidden
+https://www.dhs.gov/news/2018/02/15/unaccompanied-alien-children-and-family-units-are-flooding-border-because-catch-and	HTTP Error 403: Forbidden
+https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/livebirths/bulletins/birthsummarytablesenglandandwales/2016	HTTP Error 403: Forbidden
+http://www.hse.ie/eng/about/Who/acute/bereavementcare/standardsBereavementCarePregnancyLoss.pdf	HTTP Error 404: Not Found
+https://www.inmo.ie/tempDocs/INMO%20Trolley%20and%20Ward%20Watch%20Annual%20Analysis%202006-2015(1).pdf	HTTP Error 404: Not Found
+https://www.dhs.gov/sites/default/files/publications/Entry%20and%20Exit%20Overstay%20Report%2C%20Fiscal%20Year%202016.pdf#page=22	HTTP Error 403: Forbidden
+https://scholar.google.com/scholar?hl=en&q=confirmation+bias&btnG=&as_sdt=1%2C33&as_sdtp=	HTTP Error 403: Forbidden
+http://www.irishcentral.com/news/politics/Fear-of-Trump-as-president-sends-US-Irish-passport-applications-soaring.html	HTTP Error 403: Forbidden
+http://ec.europa.eu/economy_finance/publications/eeip/pdf/ip020_en.pdf	The read operation timed out
+https://www.nejm.org/doi/full/10.1056/NEJMoa1508913	HTTP Error 403: Forbidden
+http://www.irishcentral.com/news/politics/remote-irish-island-seeks-americans-fleeing-donald-trump-presidency	HTTP Error 403: Forbidden
+http://www.bailii.org/cgi-bin/format.cgi?doc=/ie/cases/IESC/1990/3.html	HTTP Error 403: Forbidden
+http://www.keepeek.com/Digital-Asset-Management/oecd/taxation/taxing-wages-2017_tax_wages-2017-en#page24	HTTP Error 403: Forbidden
+https://twitter.com/beyourownreason/status/799379720529788928	HTTP Error 404: Not Found
+http://www.bailii.org/ie/cases/IESC/1992/1.html	HTTP Error 403: Forbidden
+http://globalization.kof.ethz.ch/	HTTP Error 404: Not found UA
+http://www.met.ie/climate-request/	HTTP Error 404: Not Found
+http://www.oireachtas.ie/members/default.asp?housetype=0&HouseNum=30&MemberID=854&ConstID=131	HTTP Error 404: Not Found
+http://www.hse.ie/eng/health/az/D/Down\'s-syndrome/Diagnosing-Down\'s-syndrome.html	HTTP Error 404: Not Found
+https://twitter.com/Mc1988/status/725064381189509122	HTTP Error 404: Not Found
+http://www.migrationpolicy.org/research/demographic-socioeconomic-and-health-coverage-profile-unauthorized-immigrants-united-states	HTTP Error 403: Forbidden
+http://www.thelancet.com/pdfs/journals/lancet/PIIS0140-6736(18)30531-2.pdf	HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop. The last 30x error message was: Found
+http://www.newstalk.com/Garda-Commissioner-denies-closure-of-rural-stations-has-led-to-crime-spike	HTTP Error 403: Forbidden
+http://www.timpatcoogan.com/blog/2015/10/	HTTP Error 403: Forbidden
+http://www.newstalk.com/listen_back/13240/29139/28th_July_2016_-_The_Pat_Kenny_Show_Part_1/	HTTP Error 403: Forbidden
+http://www.cer.ie/docs/000979/CER14399%20-%20B6-%20Irish%20Water%20Customer%20Operations%20Interim%20Price%20Control%202014-%202016%20(1).pdf	HTTP Error 403: Forbidden
+http://bjp.rcpsych.org/content/193/6/444	HTTP Error 403: Forbidden
+http://www.newstalk.com/listen_back/13240/32592/20th_December_2016_-_The_Pat_Kenny_Show_Part_1/	HTTP Error 403: Forbidden
+https://www.instagram.com/p/BmHH69KlY3L/?hl=en&taken-by=ddlovato	HTTP Error 404: Not Found
+https://www.donaldjtrump.com/images/uploads/trump_health_record.pdf	HTTP Error 403: Forbidden
+http://www.newstalk.com/listen_back/5/24937/04th_February_2016_-_Breakfast_Part_1/	HTTP Error 403: Forbidden
+http://www.hse.ie/eng/health/immunisation/pubinfo/schoolprog/HPV/HPV-Vaccine-Information-for-Parent.pdf	HTTP Error 404: Not Found
+http://www.todayfm.com/player/listen_back/7/31145/08th_August_2016_-_The_Last_Word_with_Matt_Cooper_Part_1	HTTP Error 403: Forbidden
+http://www.newstalk.com/listen_back/7/29573/15th_August_2016_-_Lunchtime_Part_2/	HTTP Error 403: Forbidden
+http://www.environ.ie/en/DevelopmentHousing/Housing/SpecialNeeds/HomelessPeople/	HTTP Error 404: Not Found
+https://www.dsdni.gov.uk/sites/default/files/publications/dsd/ni-housing-stats-1415.pdf	<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+http://www.todayfm.com/player/listen_back/7/33569/17th_November_2016_-_The_Last_Word_with_Matt_Cooper_Part_1	HTTP Error 403: Forbidden
+http://www.nhs.uk/Conditions/Abortion/Pages/When-should-it-be-done.aspx	HTTP Error 403: Forbidden
+http://www.referendum.ie/archive/display-ballotid=54&page=2.php	HTTP Error 404: Not Found
+http://www.todayfm.com/player/podcasts/The_Last_Word_with_Matt_Cooper/The_Last_Word_with_Matt_Cooper/51900/2/Ireland_set_to_become_the_most_obese_country_in_Europe	HTTP Error 403: Forbidden
+http://www.transdevireland.ie/assets/files/LUAS%20Transdev%20T\'s%20and%20C\'s.pdf	HTTP Error 404: Not Found
+http://saflii.org/za/legis/hist_act/cotopa92o1996344/cotopa92o1996a11f2005469.pdf	HTTP Error 404: Not Found
+http://www.labour.ie/download/pdf/labour_election_manifesto_2011.pdf	HTTP Error 403: Forbidden
+http://www.hse.ie/eng/services/publications/corporate/performancereports/	HTTP Error 404: Not Found
+http://www.transport.ie/sites/default/files/node/add/content-publication/Cost%20and%20Efficiency%20Review%20of%20Dublin%20Bus%20and%20Bus%20%C3%89ireann.%20January%202009.pdf	HTTP Error 404: Not Found
+http://blog.shelter.org.uk/2015/11/100000-children-will-be-homeless-this-christmas/?utm_source=shelter-twitter&utm_medium=link-post&utm_campaign=Christmas-2015_Post479-16thNovember	HTTP Error 403: Forbidden
+https://bipartisanpolicy.org/blog/what-you-need-to-know-immigrant-family-detention/	HTTP Error 403: Forbidden
+http://www.ninds.nih.gov/disorders/gbs/gbs.htm	HTTP Error 404: Not Found
+http://www.oireachtas.ie/parliament/media/committees/futurefundingofdomesticwaterservices/report/2017-04-11-Future-Funding-of-Domestic-Water-Services-Report.pdf	HTTP Error 404: Not Found
+http://www.bfs.admin.ch/bfs/portal/fr/index/themen/14/02/03/key/03.html	HTTP Error 404: Not Found
+http://www.transportforireland.ie/public-tendering-bus-privatisation-national-transport-authority-unions-urged-call-bus-strikes/	HTTP Error 404: Not Found
+https://www.thelancet.com/action/showFullTextImages?pii=S1470-2045%2818%2930058-5	HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop. The last 30x error message was: Found
+http://www.turnofftheredlight.ie/about/the-campaign-so-far/	HTTP Error 404: Not Found
+https://www.focusireland.ie/about-homelessness/understanding-homelessness/family-homelessness	HTTP Error 403: Forbidden
+https://www.focusireland.ie/files/pre-budget%20submission%202016%20lr.pdf	HTTP Error 403: Forbidden
+http://www.revenue.ie/en/tax/it/credits/home-carers.html	HTTP Error 403: ModSecurity Action
+http://health.gov.ie/publications-research/statistics/weekly-inmo-trolley-report/	HTTP Error 404: Not Found
+http://www.environ.ie/en/PublicationsDocuments/FileDownLoad,39622,en.pdf	HTTP Error 404: Not Found
+http://www.turnofftheredlight.ie/take-action/	HTTP Error 404: Not Found
+http://www.revenue.ie/en/tax/it/leaflets/it31.html	HTTP Error 403: ModSecurity Action
+http://cdn.thejournal.ie/media/2013/12/routes.jpg	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/02/eur290012004en.pdf	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/02/fine-gael-ge-2011.pdf	HTTP Error 403: Forbidden
+http://cdn.thejournal.ie/media/2016/02/g0843349.pdf	HTTP Error 403: Forbidden
+http://www.hse.ie/eng/staff/Resources/Employment_Reports/Census_Report_December_2015.pdf	HTTP Error 404: Not Found
+http://www.huffingtonpost.com/entry/inishturk-donald-trump_us_577f1d74e4b0344d514eb85e	HTTP Error 403: Forbidden
+http://onedaymore.ie/10-08-16-one-day-welcomes-use-term-life-limiting-condition-new-hse-bereavement-guidelines/	HTTP Error 404: Not Found
+https://www.census.gov/acs/www/methodology/sample-size-and-data-quality/sample-size/	HTTP Error 403: Forbidden
+http://seanbarrett.ie/private-members-bills/	<urlopen error [Errno 11001] getaddrinfo failed>
+https://www.census.gov/programs-surveys/acs/	HTTP Error 403: Forbidden
+http://www.tv3.ie/3player/show/41/104632/0/Tonight-with-Vincent-Browne	HTTP Error 404: Not Found
+http://denisnaughten.ie/2016/02/08/better-broadband-on-the-moon-naughten/	HTTP Error 406: Not Acceptable
+https://www.census.gov/programs-surveys/sipp/data.2008.html	HTTP Error 403: Forbidden
+http://dev.mydup.com/images/uploads/publications/DUPManifesto07.pdf	HTTP Error 403: Forbidden
+http://www.tv3.ie/3player/show/41/105020/0/	HTTP Error 404: Not Found
+http://eige.europa.eu/sites/default/files/documents/2016.2980_eige_beijing_main_report_on_poverty.pdf	HTTP Error 404: Not Found
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/529344/Abortion_Statistics_2015_v3.pdf	HTTP Error 404: Not Found
+http://www.tv3.ie/3player/show/41/110021/0/Tonight-with-Vincent-Browne	HTTP Error 404: Not Found
+http://www.tv3.ie/3player/show/41/110300/0/Tonight-with-Vincent-Browne	HTTP Error 404: Not Found
+http://www.tv3.ie/3player/show/41/111040/0/	HTTP Error 404: Not Found
+http://statutes.agc.gov.sg/aol/search/display/view.w3p;page=0;query=DocId%3A12e6e975-dbc5-4964-9128-4d2f4ca6d89c%20Depth%3A0%20Status%3Ainforce;rec=0	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.tv3.ie/3player/show/41/111336/0/Tonight-with-Vincent-Browne	HTTP Error 404: Not Found
+http://www.tv3.ie/3player/show/41/112720/0/Tonight-with-Vincent-Browne	HTTP Error 404: Not Found
+http://www.tv3.ie/3player/show/41/113158/0/Tonight-with-Vincent-Browne	HTTP Error 404: Not Found
+http://www.housing.gov.ie/sites/default/files/attachments/north-south_residential_solid_fuel_and_air_pollution_study_1.pdf	HTTP Error 404: Not Found
+http://emailsanta.com/	HTTP Error 403: Forbidden
+http://emailsanta.com/naughty_nice.asp	HTTP Error 403: Forbidden
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2423399/	HTTP Error 403: Forbidden
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2673787/	HTTP Error 403: Forbidden
+http://www.euro.who.int/__data/assets/pdf_file/0006/238956/Health-risks-of-air-pollution-in-Europe-HRAPIE-project,-Recommendations-for-concentrationresponse-functions-for-costbenefit-analysis-of-particulate-matter,-ozone-and-nitrogen-dioxide.pdf	HTTP Error 404: Not Found
+http://kirby.unsw.edu.au/sites/default/files/hiv/attachment/EvalRep4SMSIC.pdf	HTTP Error 404: Not Found
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2864626/	HTTP Error 403: Forbidden
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3034689/	HTTP Error 403: Forbidden
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3384447/	HTTP Error 403: Forbidden
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4174682/	HTTP Error 403: Forbidden
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4262378/#b32-ijwh-6-999	HTTP Error 403: Forbidden
+http://kirby.unsw.edu.au/sites/default/files/hiv/attachment/INT_EVAL_REP_+1_SYD_+MSIC.pdf	HTTP Error 404: Not Found
+http://pediatrics.aappublications.org/content/pediatrics/117/3/e374.full.pdf	HTTP Error 403: Forbidden
+http://petitions.oireachtas.ie/online_petitions.nsf/Published_Petitions_EN/80B4EFFCC208579C80257F1D0055F73B?OpenDocument&type=published+petition&lang=EN&r=0.348805981536583	HTTP Error 404: Not Found
+https://www.washingtontimes.com/news/2018/jan/14/norway-boosts-sugar-tax-sweden-sees-sweet-deal/	HTTP Error 403: Forbidden
+https://www.water.ie/news/irish-water-confirms-rece/	HTTP Error 404: Not Found
+http://www.unodc.org/unodc/en/treaties/CAC/signatories.html	HTTP Error 404: Not Found
+http://www.utexas.edu/cola/prc/directory/faculty/ethomp	HTTP Error 403: Forbidden
+http://www.webmd.com/cancer/cervical-cancer/news/20090430/gardasil-linked-to-nerve-disorder	HTTP Error 403: Forbidden

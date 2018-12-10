@@ -1,0 +1,189 @@
+http://www.huffingtonpost.ca/2016/01/19/reports-canada-not-invited-to-paris-defence-ministers-to-discuss-isil-fight_n_9014922.html	HTTP Error 403: Forbidden
+http://www.mccarthy.ca/article_detail.aspx?id=7182	HTTP Error 403: Forbidden
+http://www.elections.ca/content2.aspx?section=can&dir=cand/canlim&document=index&lang=e	HTTP Error 500: Internal Server Error
+http://ralphgoodale.ca/blog/statistical-argument-middle-class-canada/	HTTP Error 404: Not Found
+http://www.statcan.gc.ca/daily-quotidien/180309/dq180309a-eng.htm?HPA=1&indid=3587-2&indgeo=0	[WinError 10054] An existing connection was forcibly closed by the remote host
+https://www.dairyfarmers.ca/what-we-do/supply-management/myths-realities	HTTP Error 403: Forbidden
+http://laws-lois.justice.gc.ca/eng/acts/C-36.65/	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://actionplan.gc.ca/en/initiative/tax-free-savings-account	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'actionplan.gc.ca'. (_ssl.c:1045)>
+http://www.elections.ca/content2.aspx?section=id&document=index&lang=e	HTTP Error 500: Internal Server Error
+http://www.statcan.gc.ca/pub/11-621-m/2014093/part-partie1-eng.htm	[WinError 10054] An existing connection was forcibly closed by the remote host
+http://www.elections.ca/res/rep/off/ovr2015app/41/table4E.html	HTTP Error 500: Internal Server Error
+http://pm.gc.ca/eng/news/2008/10/30/remarks-prime-minister-stephen-harper-swearing-new-ministry	HTTP Error 404: Not Found
+http://www.statcan.gc.ca/pub/11-626-x/2013026/c-g/desc/desc05-eng.htm	[WinError 10054] An existing connection was forcibly closed by the remote host
+http://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-18.html#h-52	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://www.conservative.ca/media/2012/06/ConservativePlatform2011_ENs.pdf	HTTP Error 404: Not Found
+http://actionplan.gc.ca/en/initiative/universal-child-care-benefit	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'actionplan.gc.ca'. (_ssl.c:1045)>
+http://www.td.com/document/PDF/economics/special/Federal_Fiscal_Outlook.pdf	HTTP Error 403: Forbidden
+https://www.ec.gc.ca/indicateurs-indicators/default.asp?lang=en&n=BFB1B398-1#ghg1	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://www.theglobeandmail.com/report-on-business/us-chains-circle-zellers-properties/article1866399/	HTTP Error 404: Not Found
+http://www.migrationsverket.se/English/About-the-Migration-Agency/News-archive/News-archive-2015/2015-01-27-More-people-granted-protection-in-2014.html	HTTP Error 404: Not Found
+https://www.ec.gc.ca/indicateurs-indicators/default.asp?lang=en&n=FBF8455E-1	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-19.html#h-55	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://act.one.org/sign/poverty_is_sexist_letter/?source=takeaction	HTTP Error 403: Forbidden
+http://pm.gc.ca/eng/news/2014/06/05/brussels-g7-summit-declaration	HTTP Error 404: Not Found
+http://www.energyeastpipeline.com/wp-content/uploads/2013/07/TC_Media_factsheets-E-Overview.pdf	HTTP Error 403: Forbidden
+https://www.ers.usda.gov/data-products/foreign-agricultural-trade-of-the-united-states-fatus/calendar-year/	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://www.huffingtonpost.ca/2018/05/11/tories-liberals-isis-fighter-abu-huzaifa-al-kanadi_a_23432879/	HTTP Error 403: Forbidden
+http://www.cbc.ca/canadavotes2004/pdfplatforms/platform_e.pdf	HTTP Error 404: Not Found
+https://www.ers.usda.gov/publications/pub-details/?pubid=81251	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-23.html#h-72	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://inc42.com/buzz/sir-terry-matthews-alacrity-india-startup-fund/	HTTP Error 403: Forbidden
+https://www.huffingtonpost.ca/2018/07/25/john-tory-toronto-shooting-gun-control-us_a_23489571/	HTTP Error 403: Forbidden
+http://www.energyeastpipeline.com/wp-content/uploads/2013/08/Energy-East-News-Release-2013-08-01.pdf	HTTP Error 403: Forbidden
+https://ipolitics.ca/2016/09/26/no-electoral-reform-without-a-referendum-period/	HTTP Error 403: Forbidden
+https://www.ers.usda.gov/topics/animal-products/dairy/trade/	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://www.canlii.org/en/ca/fca/doc/2016/2016fca219/2016fca219.html	HTTP Error 403:
+http://www.cbc.ca/canadavotes2006/leadersparties/pdf/conservative_platform20060113.pdf	HTTP Error 404: Not Found
+http://pm.gc.ca/eng/news/2015/03/18/pm-announces-support-open-new-markets-small-and-medium-sized-enterprises	HTTP Error 404: Not Found
+http://laws-lois.justice.gc.ca/eng/acts/I-2.5/page-8.html#h-23	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://www.canlii.org/en/ca/fct/doc/2014/2014fc1001/2014fc1001.html?searchUrlHash=AAAAAQAGbW9zbGV5AAAAAAE&resultIndex=3	HTTP Error 403:
+http://www.international.gc.ca/trade-agreements-accords-commerciaux/agr-acc/fta-ale.aspx?lang=eng#tab_1387390390_0	HTTP Error 404: Not Found
+http://laws-lois.justice.gc.ca/eng/acts/N-22/20090312/P1TT3xt3.html#h-5	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://www.international.gc.ca/trade-agreements-accords-commerciaux/agr-acc/fta-ale.aspx?lang=eng#tab_1387390390_2	HTTP Error 404: Not Found
+https://www.canlii.org/en/ca/laws/stat/sc-1992-c-37/latest/sc-1992-c-37.html	HTTP Error 403:
+http://www5.statcan.gc.ca/cansim/a00?lang=eng&mode=aboutCansim	HTTP Error 404: Not Found
+http://pm.gc.ca/eng/news/2015/03/18/pm-announces-support-open-new-markets-small-and-medium-sized-enterprises%20	HTTP Error 404: Not Found
+http://www.conservative.ca/where-we-stand/supporting-families/	HTTP Error 404: Not Found
+http://www.unhcr.org/1951-refugee-convention.html	HTTP Error 403: Forbidden
+http://www.international.gc.ca/trade-agreements-accords-commerciaux/agr-acc/tpp-ptp/text-texte/09.aspx?lang=eng	HTTP Error 404: Not Found
+https://www.canlii.org/en/on/onsc/doc/2015/2015onsc4601/2015onsc4601.html?searchUrlHash=AAAAAQAeY291bmNpbCBvZiBjYW5hZGlhbnMgdiBjYW5hZGEgAAAAAAE&resultIndex=1	HTTP Error 403:
+http://www.unhcr.org/52b2febafc5.html	HTTP Error 403: Forbidden
+http://www.unhcr.org/543408c4fda.html	HTTP Error 403: Forbidden
+http://www.unhcr.org/556725e69.html	HTTP Error 403: Forbidden
+http://www.esdc.gc.ca/en/canada_child_benefit.page?utm_source=esdc&utm_medium=family-benefits&utm_campaign=canadachildbenefit&_ga=1.144730481.456718634.1453848810	HTTP Error 404: Not Found
+http://laws-lois.justice.gc.ca/eng/acts/O-5/	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://pm.gc.ca/eng/news/2015/05/15/pm-announces-new-canada-150-community-infrastructure-program	HTTP Error 404: Not Found
+http://www.statcan.gc.ca/pub/81-004-x/def/4153361-eng.htm	[WinError 10054] An existing connection was forcibly closed by the remote host
+http://laws-lois.justice.gc.ca/eng/acts/c-15.21/index.html	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://www.ipolitics.ca/2015/01/23/harper-looks-to-boost-manufacturing-too-little-too-late-says-trudeau/	HTTP Error 403: Forbidden
+http://www.sharethefacts.co/share/16f6e728-b21f-4924-bcd5-10fd7cead460	HTTP Error 403: Forbidden
+http://www.sharethefacts.co/share/392b611b-c83c-4e88-80b9-f4baff2edc26	HTTP Error 403: Forbidden
+http://www.sharethefacts.co/share/83f8ecb6-c4aa-4504-bf17-f560c68abe5f	HTTP Error 403: Forbidden
+http://www.sharethefacts.co/share/911fe79c-7333-4a19-b413-8b432e20e9f4	HTTP Error 403: Forbidden
+http://www.sharethefacts.co/share/9be2ac50-8804-4e9e-af28-0e4bb7ac8a52	HTTP Error 403: Forbidden
+http://www.sharethefacts.co/share/c3250175-9e1b-47b1-b50b-2c9a972fc382	HTTP Error 403: Forbidden
+http://www.sharethefacts.co/share/c5d92d6b-d0b1-4ea3-aee6-f699bbf3e68b	HTTP Error 403: Forbidden
+http://www.sharethefacts.co/share/cd1387bb-e0c1-4d18-bcac-5023e8055a95	HTTP Error 403: Forbidden
+http://laws-lois.justice.gc.ca/eng/acts/c-31.8/page-1.html	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://www.nytimes.com/aponline/2016/04/16/world/ap-cn-trudeau-quantum-computing.html?_r=0	HTTP Error 404: Not Found
+http://laws-lois.justice.gc.ca/eng/acts/e-2.01/page-22.html#h-26	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://frontex.europa.eu/trends-and-routes/central-mediterranean-route/	HTTP Error 404: NOT FOUND
+http://laws-lois.justice.gc.ca/eng/acts/f-11.6/	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://www.borealisthreatandrisk.com/deradicalisation-doesnt-work-whoda-thunk/	HTTP Error 404: Not Found
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3002650	HTTP Error 403: Forbidden
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3044135	HTTP Error 403: Forbidden
+http://www.lisdatacenter.org/	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://www.statcan.gc.ca/pub/85-002-x/2012001/article/11692-eng.htm	[WinError 10054] An existing connection was forcibly closed by the remote host
+http://laws-lois.justice.gc.ca/eng/acts/f-14/	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://fts.unocha.org/pageloader.aspx?page=search-reporting_display&CQ=cq260115165034UFC6RNpFip&orderby=USD_commitdisbu&showDetails=	HTTP Error 404: Not Found
+http://laws-lois.justice.gc.ca/eng/acts/n-22/FullText.html#h-27	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://www.cdhowe.org/c-d-howe-institute-business-cycle-council-issues-authoritative-dates-for-the-2008-2009-recession/19382	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://www.cdhowe.org/pdf/Commentary_366.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://fts.unocha.org/pageloader.aspx?page=search-reporting_display&CQ=cq260115191009dOLEaWyOry&orderby=USD_commitdisbu&showDetails=	HTTP Error 404: Not Found
+http://laws-lois.justice.gc.ca/eng/regulations/SOR-2012-147/page-1.html#docCont	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://www.cdhowe.org/sites/default/files/attachments/research_papers/mixed/Commentary_366_0.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://openparliament.ca/debates/2014/9/30/stephen-harper-20/%20	HTTP Error 404: Not Found
+https://www.cdhowe.org/sites/default/files/attachments/research_papers/mixed/Commentary_487.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://laws-lois.justice.gc.ca/eng/regulations/SOR-98-206/page-2.html#h-8	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://www.cic.gc.ca/english/resources/statistics/facts2014/permanent/01.asp	HTTP Error 404: Not Found
+https://www.cdhowe.org/turning-points-business-cycles-canada-1926	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://www.defense.gov/News/News-Transcripts/Transcript-View/Article/652384/department-of-defense-press-briefing-by-pentagon-press-secretary-peter-cook-in	HTTP Error 404: Not Found
+https://www.cigionline.org/sites/default/files/pb_no52.pdf	HTTP Error 403: Forbidden
+http://www.nato.int/cps/en/natohq/news_132934.htm	HTTP Error 403: Forbidden
+http://laws.justice.gc.ca/eng/acts/i-2.5/page-5.html#h-17	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://www.nato.int/cps/en/natohq/official_texts_133169.htm	HTTP Error 403: Forbidden
+http://www.clarionproject.org/news/islamic-state-isis-isil-propaganda-magazine-dabiq	HTTP Error 403: Forbidden
+http://www.nato.int/nato_static_fl2014/assets/pdf/pdf_2016_07/20160704_160704-pr2016-116.pdf	HTTP Error 403: Forbidden
+http://www.diamondproducers.com/~/media/Files/D/Diamond-Producers/press-release/IndiaLaunch_DPA.pdf	HTTP Error 404: Not Found
+http://pm.gc.ca/eng/news/2017/07/20/itinerary-prime-minister-justin-trudeau-friday-july-21-2017	HTTP Error 404: Not Found
+http://https://twitter.com/jkenney/status/734579322682363904	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.oxfordscholarship.com/view/10.1093/019925768X.001.0001/acprof-9780199257683-chapter-18	HTTP Error 503: Service Unavailable
+http://www.statcan.gc.ca/daily-quotidien/160531/cg-a001-eng.htm	[WinError 10054] An existing connection was forcibly closed by the remote host
+http://www.statcan.gc.ca/pub/85-002-x/2013001/article/11854/tbl/tbl06-eng.htm	[WinError 10054] An existing connection was forcibly closed by the remote host
+http://www.statcan.gc.ca/daily-quotidien/171129/dq171129b-eng.htm	[WinError 10054] An existing connection was forcibly closed by the remote host
+https://www.one.org/us/2016/08/25/trudeau_letter/?akid=8345.5964294.XR2JCp&rd=1&t=1&utm_medium=email&utm_source=email	HTTP Error 403: Forbidden
+http://www.statcan.gc.ca/pub/85-002-x/2014001/article/14040-eng.htm	[WinError 10054] An existing connection was forcibly closed by the remote host
+http://www.statcan.gc.ca/pub/85-002-x/2015001/article/14211-eng.pdf	[WinError 10054] An existing connection was forcibly closed by the remote host
+http://international.alberta.ca/592.cfm	HTTP Error 404: Not Found
+http://pm.gc.ca/eng/prime-minister-stephen-harper	HTTP Error 404: Not Found
+http://irpp.org/wp-content/uploads/assets/research/faces-of-aging/new-research-article-2/IRPP-Study-no27.pdf	HTTP Error 403: Forbidden
+http://rethink911.ca/petition-text/	<urlopen error timed out>
+http://www.globaldetentionproject.org/countries/africa/libya/introduction.html	HTTP Error 404: Not Found
+http://pm.gc.ca/eng/prime-ministers	HTTP Error 404: Not Found
+http://policyoptions.irpp.org/magazines/february-2017/diversity-in-the-senate/	HTTP Error 403: Forbidden
+http://www.uslumbercoalition.org/doc/dispute_history.pdf	HTTP Error 403: Forbidden
+http://policyschool.ucalgary.ca/sites/default/files/research/kneebone-white-social-assistance.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.usnews.com/news/world/articles/2015/03/08/iraqi-kurds-say-canadian-soldier-killed-after-ignoring-order	HTTP Error 403: Forbidden
+http://canada.usembassy.gov/news-events/2016-news-and-events/february-2016/8-february-2016-ambassador-heyman-on-announcement-of-canadas-contributions-to-the-counter-daesh-coalition.html	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.elections.ca/content.aspx?section=res&dir=ces&document=part6&lang=e	HTTP Error 500: Internal Server Error
+http://www.elections.ca/content.aspx?section=res&dir=rec/fra/sys/courtney&document=courtney&lang=e	HTTP Error 500: Internal Server Error
+http://www.elections.ca/content.aspx?section=res&dir=rep/est/rpp2015&document=index&lang=e	HTTP Error 500: Internal Server Error
+http://www.elections.ca/content.aspx?section=res&dir=rep/est/rpp2015&document=p2&lang=e#p2_3	HTTP Error 500: Internal Server Error
+https://openparliament.ca/debates/2015/2/3/stephen-harper-8/%20	HTTP Error 404: Not Found
+http://www.afn.ca/uploads/files/misssing_and_murdered_indigenous_women/afnendviolencepaper-naws.pdf	HTTP Error 403: Forbidden
+http://www.jamesbezan.com/news.asp?newsID=2406	HTTP Error 404: Not Found
+https://www.pm.gov.au/your-government/ministers	HTTP Error 404: Not Found
+http://kevinoleary.com/financial-literacy/	HTTP Error 404: Not Found
+http://www.cdhowe.org/c-d-howe-institute-business-cycle-council-issues-authoritative-dates-for-the-2008-2009-recession/19382	encoding with 'idna' codec failed (UnicodeError: label too long)
+http://www.peo.gov.au/learning/fact-sheets/cabinet.html	HTTP Error 403: Forbidden
+http://speech.gc.ca/en/content/making-real-change-happen	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'speech.gc.ca'. (_ssl.c:1045)>
+http://www.cdhowe.org/pdf/Commentary_335.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+http://laws-lois.justice.gc.ca/PDF/C-23.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://www.keepeek.com/Digital-Asset-Management/oecd/employment/oecd-employment-outlook-2014/how-good-is-your-job-measuring-and-assessing-job-quality_empl_outlook-2014-6-en#page1	HTTP Error 403: Forbidden
+http://www.cdnsciencepub.com/blog/new-cjfas-paper-on-changes-to-the-navigable-waters-protection-act.aspx	HTTP Error 404: Not Found
+http://www.cfpc.ca/uploadedFiles/Resources/Resource_Items/PCWTP%20Discussion%20Paper%20v3.pdf	HTTP Error 403: Forbidden
+http://www.state.gov/secretary/remarks/2016/01/251890.htm	HTTP Error 404: Not Found
+http://laws-lois.justice.gc.ca/eng/AnnualStatutes/2014_12/page-1.html	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://www.keepeek.com/Digital-Asset-Management/oecd/employment/oecd-employment-outlook-2014/how-good-is-your-job-measuring-and-assessing-job-quality_empl_outlook-2014-6-en#page41	HTTP Error 403: Forbidden
+http://stats.oecd.org//Index.aspx?QueryId=58204	HTTP Error 500: Internal Server Error
+https://economictimes.indiatimes.com/wealth/real-estate/brookfield-to-buy-essars-equinox-office-complex-for-rs-2450-crore/articleshow/62409063.cms	HTTP Error 403: Forbidden
+http://www.hsrgroup.org/docs/Publications/HSR2013/HSRP_Report_2013_Overview_Web%20Final.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.huffingtonpost.ca/2014/05/27/starbucks-canada-leads-world_n_5399685.html	HTTP Error 403: Forbidden
+http://www.theglobeandmail.com/report-on-business/economy/growth/canadas-economy-shrinks/article26172722/	HTTP Error 404: Not Found
+http://www.huffingtonpost.ca/2014/09/24/low-paying-jobs-canada-morgan-stanley_n_5877084.html	HTTP Error 403: Forbidden
+http://econweb.ucsd.edu/~gdahl/papers/children-and-EITC.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://www.huffingtonpost.ca/2015/01/14/canada-sued-investor-state-dispute-ccpa_n_6471460.html	HTTP Error 403: Forbidden
+http://www.visionofhumanity.org/sites/default/files/Global%20Terrorism%20Index%20Report%202014_0.pdf	HTTP Error 404: Not Found
+http://laws-lois.justice.gc.ca/eng/Const/page-4.html	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://www.pm.gc.ca/eng/news/2008/05/29/prime-minister-harper-addresses-canada-uk-chamber-commerce-london	HTTP Error 404: Not Found
+http://www.huffingtonpost.ca/2015/10/21/trudeau-press-gallery-theatre-ottawa_n_8347366.html	HTTP Error 403: Forbidden
+http://www.keepeek.com/Digital-Asset-Management/oecd/employment/oecd-employment-outlook-2014_empl_outlook-2014-en#page1	HTTP Error 403: Forbidden
+http://www.huffingtonpost.ca/2015/11/16/trudeau-tells-g20-leaders-canada-will-still-play-active-role-in-terror-fight_n_8573630.html	HTTP Error 403: Forbidden
+http://www.aims.ca/site/media/aims/LabourSeries2.pdf	HTTP Error 403: Forbidden
+http://stds.statcan.gc.ca/naics-scian/2007/cs-rc-eng.asp?criteria=211114	HTTP Error 404: Not Found
+http://www.pm.gc.ca/eng/news/2008/11/22/sound-foundations-and-open-doors-canadas-blueprint-short-and-long-term-success	HTTP Error 404: Not Found
+http://canadianstenographer.ca/tags/Conservatives?emailid=6314349786300416	HTTP Error 404: Not Found
+https://www.td.com/document/PDF/economics/special/Part_Time_Conundrum.pdf	HTTP Error 403: Forbidden
+http://cas-ncr-nter03.cas-satj.gc.ca/rss/T-356-13%20Cdn%20Doctors%20v%20AGC%20Judgment%20and%20Reasons.pdf	HTTP Error 404: Not Found
+http://www1.uwindsor.ca/people/mbell/system/files/InternationalJournal(1).pdf	HTTP Error 404: Not Found
+https://www.fraserinstitute.org/uploadedFiles/fraser-ca/Content/research-news/research/publications/Reality%20of%20Retirement%20Income_web%20final.pdf	HTTP Error 404: Not Found
+http://www.pm.gc.ca/eng/news/2009/12/18/statement-prime-minister-canada-occasion-closing-15th-climate-change-conference	HTTP Error 404: Not Found
+http://www.amnesty.org/en/news/gruesome-evidence-ethnic-cleansing-northern-iraq-islamic-state-moves-wipe-out-minorities-2014-0	HTTP Error 404: Not Found
+http://www.financialexpress.com/industry/indian-hotels-to-open-7-hotels-with-581-rooms-in-next-2-years/835265/	HTTP Error 403: Forbidden
+http://www.animationxpress.com/index.php/latest-news/vancouver-film-schools-mumbai-and-hyderabad-campuses-launched-will-include-courses-for-the-avgc-industry	HTTP Error 500: Internal Server Error
+http://www.cbc.ca/player/News/Politics/Power+%26+Politics/ID/2671092113/	HTTP Error 404: Not Found
+http://www.pm.gc.ca/eng/news/2014/10/10/government-canada-actions-date-combat-child-sexual-exploitation-and-cyberbullying	HTTP Error 404: Not Found
+http://www.cbc.ca/player/News/Politics/Power+%26+Politics/ID/2673483115/	HTTP Error 404: Not Found
+http://www.cbc.ca/player/News/TV+Shows/Power+%26+Politics+with+Evan+Solomon/ID/2647953746/	HTTP Error 404: Not Found
+http://www.cbc.ca/player/News/TV+Shows/Power+%26+Politics+with+Evan+Solomon/ID/2648146600/	HTTP Error 404: Not Found
+http://www.pm.gc.ca/eng/video/37265/transcript	HTTP Error 404: Not Found
+http://www.cbc.ca/player/News/TV+Shows/Power+%26+Politics+with+Evan+Solomon/ID/2653720478/	HTTP Error 404: Not Found
+http://www.cbc.ca/player/News/TV+Shows/Power+%26+Politics+with+Evan+Solomon/ID/2657281659/	HTTP Error 404: Not Found
+http://www.politifact.com/global-news/statements/2016/sep/07/justin-trudeau/do-girls-make-majority-new-hiv-infections-among-af/	HTTP Error 403: Forbidden
+http://www.cbc.ca/player/News/TV+Shows/Power+%26+Politics+with+Evan+Solomon/ID/2665901538/	HTTP Error 404: Not Found
+http://www.cbc.ca/player/News/TV+Shows/Power+%26+Politics+with+Evan+Solomon/ID/2668020238/	HTTP Error 404: Not Found
+http://www.servicecanada.gc.ca/eng/audiences/families/index.shtml	HTTP Error 404: Not Found
+http://ozone.unep.org/en/treaties-and-decisions/montreal-protocol-substances-deplete-ozone-layer	The read operation timed out
+http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2564272	HTTP Error 403: Forbidden
+http://petermackay.ca/news/6243/	HTTP Error 403: Forbidden
+http://plato.acadiau.ca/COURSES/pols/grieve/3583/2security/landmine_syria.html	HTTP Error 404: Not Found
+http://plus.lapresse.ca/screens/7aa61965-072c-4e39-9637-d353291ec979__7C___0.html	HTTP Error 403: Forbidden
+http://pm.gc.ca/eng/news/2007/06/04/prime-minister-stephen-harper-calls-international-consensus-climate-change	HTTP Error 404: Not Found
+http://unfccc.int/di/DetailedByParty/Event.do?event=go	timed out
+http://factscan.ca/2015/03/31/tom-mulcair-we-have-lost-a-canadian-soldier-behind-enemy-lines-in-iraq/	HTTP Error 404: Not Found
+http://news.nationalpost.com/news/canada/iraqis-love-canada-jason-kenney-chronicles-surprise-trip-to-iraq-on-twitter	The read operation timed out
+http://www.canada.com/ottawacitizen/story.html?id=81b4e168-5b2f-42fa-946e-b5f5fafe1542	HTTP Error 404: Not Found
+http://oilsands.alberta.ca/economicinvestment.html	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.canlii.org/en/on/onca/doc/2000/2000canlii5762/2000canlii5762.html	HTTP Error 403:
+http://www.canlii.org/en/qc/laws/stat/rsq-c-e-20.2/latest/rsq-c-e-20.2.html	HTTP Error 403:

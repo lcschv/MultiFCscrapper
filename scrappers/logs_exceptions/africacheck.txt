@@ -1,0 +1,451 @@
+http://livityafrica.com/	HTTP Error 503: Service Temporarily Unavailable
+http://mg.co.za/article/2015-02-10-dramat-placed-on-leave-after-agreement-with-nhleko	HTTP Error 403: Forbidden
+http://nsia.com.ng/wp-content/uploads/2016/10/NSIA_Annual-Report_online-2015.pdf	HTTP Error 404: Not Found
+http://www.childmortality.org/files_v20/download/IGME%20report%202015%20child%20mortality%20final.pdf#page=24	HTTP Error 404: Not Found
+http://www.revenue.go.ke/pdf/KRA_3rd_Corporate_Plan_200607-200809.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.dailymaverick.co.za/opinionista/2015-03-10-no-political-stunts-no-fiction-the-reality-of-comrade-jacob-zumas-presidency/#.VQqdxY6UeFk	HTTP Error 403: Forbidden
+http://www.sabc.co.za/news/a/a424c0804af19b5e9583fd7db529e2d0/SouthAfrica,-worlds-rape-capital:-Interpol-20121904	HTTP Error 404: Not Found
+http://www.saiga.co.za/index_htm_files/News%20Release%20SAIGA%20Reporting%20Awards%20Oct%202012.pdf	HTTP Error 404: Not Found
+http://www.health24.com/News/erroneous-tweet-about-heart-disease-24-july-20170905	HTTP Error 403: Forbidden
+http://www.hst.org.za/sites/default/files/CompleteDHB.pdf	HTTP Error 404:
+http://www.knbs.or.ke/index.php?option=com_phocadownload&view=category&download=939:statistical-abstract-2016&id=106:statistical-abstract&Itemid=1177	HTTP Error 403: Forbidden
+http://www.landdivided2013.org.za/sites/default/files/motala%2520et%2520al%2520agrarian%2520reform%2526poverty%2520reduction.pdf#page=5	HTTP Error 404: Not Found
+http://www.nation.co.ke/news/politics/Confusion-rocks-Nasa-team-over--two-manifestos-/1064-4000464-rcpm4tz/index.html	HTTP Error 403: Forbidden
+http://www.mrc.ac.za/adarg/adarg.htm	HTTP Error 404: Not Found
+http://www.nsfas.org.za/staticfiles/NSFAS/Internet/static%20files/pdf/NSFAS%20AR%202014-15.pdf	HTTP Error 404: Not Found
+http://www.thepresidency.gov.za/MediaLib/Downloads/Home/Publications/DPMEIndicators2013/DPME%20Indicators%202013.pdf	[WinError 10054] An existing connection was forcibly closed by the remote host
+http://www.umalusi.org.za/docs/research/2013/nsc_pass.pdf#page=17	HTTP Error 500: Internal Server Error
+http://www.wits.ac.za/newsroom/newsitems/201312/22512/news_item_22420.html	HTTP Error 404: Not Found
+http://www1.saps.gov.za/statistics/reports/crimestats/2013/downloads/crime_statistics_presentation.pdf#page=98	<urlopen error [Errno 11001] getaddrinfo failed>
+https://amcon.com.ng/	<urlopen error [SSL: TLSV1_UNRECOGNIZED_NAME] tlsv1 unrecognized name (_ssl.c:1045)>
+https://www.africandefence.net/	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://www.cbn.gov.ng/intops/Reserve.asp	HTTP Error 403: Forbidden
+https://www.dailyvoice.co.za/news/sas-teen-suicide-worry-17435912	HTTP Error 403: Forbidden
+https://www.capetown.gov.za/en/Reports/Documents/Reports_2011_2012/Annual_Report_2011_12%20.pdf	HTTP Error 404: NOT FOUND
+http://www.southafrica.info/travel/tourism-260413.htm#.Uv3DBmQW2GZ	<urlopen error timed out>
+https://www.enca.com/south-africa/load-shedding-still-possible-eskom	HTTP Error 403: Forbidden
+https://www.knbs.or.ke/download/economic-survey-2015/?wpdmdl=4002	HTTP Error 403: Forbidden
+https://www.globalslaveryindex.org/country/south-africa/	HTTP Error 403: Forbidden
+https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/27839855/	HTTP Error 403: Forbidden
+https://www.ui.edu.ng/	HTTP Error 403: Forbidden
+https://www.statssa.gov.za/publications/P0302/P03022016.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://www.kenyalaw.org:8181/exist/kenyalex/actview.xql?actid=Const2010	<urlopen error timed out>
+https://www.youwinconnect.org.ng/about/about.php	HTTP Error 403: Forbidden
+https://www.wits.ac.za/gcsri/	HTTP Error 404: Not Found
+http://mg.co.za/article/2016-05-06-how-the-manifestos-stack-up	HTTP Error 403: Forbidden
+http://irr.org.za/	HTTP Error 403: Forbidden
+http://nsia.com.ng/wp-content/uploads/2017/04/NSIA-Press-Abridged-Financials-31-Dec-2016-signed-1.pdf	HTTP Error 404: Not Found
+https://www.walkfreefoundation.org/understand/	HTTP Error 403: Forbidden
+http://parliament.go.ke/the-senate/house-business/hansard/item/download/276_af50a0125235f773dda5742db147a3dd	HTTP Error 404: Not Found
+http://tobaccoecon.org/hana-ross/	HTTP Error 404: Not Found
+http://www.citypress.co.za/politics/majority-of-western-cape-staff-black-zille/	HTTP Error 403: Forbidden
+http://gga.org/local-governance/local-government-rankings/gga-government-performance-index-2016	HTTP Error 404: Not Found
+http://www.cidb.org.za/publications/Documents/Broad Based Black Economic Empowerment Act 53 of 2003.pdf#page=3	HTTP Error 400: Bad Request
+http://www.energy.go.ke/index.php/projects/242-primary-schools-electrification-project.html	HTTP Error 500: Internal Server Error
+http://www.nation.co.ke/oped/blogs/dot9/ndemo/2274486-2995990-120u333z/index.html	HTTP Error 403: Forbidden
+http://www.tac.org.za/sites/default/files/nsp_review/NSP-review-9-web.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.tac.org.za'. (_ssl.c:1045)>
+http://www.mrc.ac.za/adarg/sacendu.htm	HTTP Error 404: Not Found
+http://www.nspreview.org/2013/12/11/quality-goes-down-as-quantity-goes-up/	HTTP Error 404: Not Found
+http://www1.saps.gov.za/statistics/reports/crimestats/2013/downloads/rsa_2003_2013_provincial_national_figures_ratios.xls	<urlopen error [Errno 11001] getaddrinfo failed>
+https://www.resbank.co.za/Lists/News%20and%20Publications/Attachments/5664/March%202013%20Supplement.pdf	HTTP Error 404: NOT FOUND
+https://africacheck.org/reports/no-evidence-to-support-anc-leaders-claim-that-98-percent-of-property-owners-in-cape-town-are-white-and-jewish/	The read operation timed out
+https://africacheck.org/reports/not-healthyliving-city-joburg-tweets-nonsense/	The read operation timed out
+https://africacheck.org/reports/is-sa-worse-off-now-than-19-years-ago-the-facts-behind-that-facebook-post/#comment-354	The read operation timed out
+https://africacheck.org/reports/verifying-key-claims-in-the-2018-state-of-the-nation-debate/	The read operation timed out
+https://africacheck.org/reports/is-the-das-western-cape-story-a-good-story-to-tell-we-examine-the-claims/#comment-669	The read operation timed out
+https://africacheck.org/reports/state-of-the-nation-address-1-president-cyril-ramaphosas-claims-weighed-up/#comment-96073	The read operation timed out
+https://africacheck.org/reports/is-sa-worse-off-now-than-19-years-ago-the-facts-behind-that-facebook-post/#comment-66305	The read operation timed out
+https://africacheck.org/reports/mr-president-s-africa-is-not-the-only-country-giving-free-housing-to-the-poor/	The read operation timed out
+https://africacheck.org/reports/side-by-side-what-zuma-said-what-the-marikana-commission-wrote/	The read operation timed out
+https://africacheck.org/reports/is-sa-bottom-of-the-class-in-maths-and-science-why-ranking-is-meaningless/#sthash.GnYLNQGZ.dpuf	The read operation timed out
+https://africacheck.org/reports/rooibos-tea-reduce-stress-hormones-helping-lose-weight/	The read operation timed out
+https://africacheck.org/reports/women-teach-and-men-lead-gender-inequality-in-south-african-schools-examined/	The read operation timed out
+https://africacheck.org/reports/nigeria-people-diabetes-sub-saharan-africa/	The read operation timed out
+https://africacheck.org/reports/media-mis-reporting-the-hiv-rate-among-schoolgirls-true-rate-is-12-7-percent/	The read operation timed out
+https://africacheck.org/reports/zuma-wrong-on-household-electricity-about-50-of-homes-had-access-in-1994/#sthash.QPiC9bzp.dpuf	The read operation timed out
+https://maroelamedia.co.za/nuus/sa-nuus/20-van-hoerskoolleerders-het-al-eie-lewe-probeer-neem/	HTTP Error 403: Forbidden
+https://theeagleonline.com.ng/report-details-releases-performance-of-2015-budget/	HTTP Error 403: Forbidden
+https://www.cbn.gov.ng/intops/Reserve.asp?MoveDate=11/28/2017%2011:56:38%20PM	HTTP Error 403: Forbidden
+https://www.capetown.gov.za/en/Budget/Budget%20201213/1213Budget_May2012CouncilMeeting.pdf	HTTP Error 404: NOT FOUND
+https://www.enca.com/south-africa/ramaphosa-lauded-successful-working-visit-to-singapore	HTTP Error 403: Forbidden
+https://www.knbs.or.ke/download/economic-survey-2017/?wpdmdl=4006	HTTP Error 403: Forbidden
+https://www.capetown.gov.za/en/visitcapetown/Documents/CCT_EPIC_15_2_web.pdf	HTTP Error 404: NOT FOUND
+https://www.datafirst.uct.ac.za/dataportal/index.php/catalog/526/download/7306	HTTP Error 500: Internal Server Error
+https://www.statssa.gov.za/publications/P0318/P03182015.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://mg.co.za/report/zumaville-a-special-report	HTTP Error 403: Forbidden
+http://nsia.com.ng/wp-content/uploads/2017/09/NSIA-Annual-Report-2016-1.pdf	HTTP Error 404: Not Found
+http://apps.who.int/bmi/index.jsp?introPage=intro_3.html	timed out
+http://resep.sun.ac.za/index.php/projects/emergent-middle-class-in-south-africa/	HTTP Error 404: Not Found
+http://globalinitiative.net/wp-content/uploads/2016/07/Global-Initiative-Tipping-Point-Part1-July-2016.pdf	HTTP Error 404: Not Found
+http://www.rea.co.ke/index.php?option=com_content&view=article&id=81:project-implementation-updates&catid=80&Itemid=497	HTTP Error 404: Article not found
+http://www.immigration.go.ke/AboutUs.html	HTTP Error 404: Not Found
+http://www.cbn.gov.ng/rates/exchratebycurrency.asp	HTTP Error 403: Forbidden
+http://www.matrixinstitute.org/	HTTP Error 403: Forbidden
+http://www.mrc.ac.za/bod/SouthAfrica2012.pdf	HTTP Error 404: Not Found
+http://www.dcs.gov.za/docs/2016%20doc/DCS%20Annual%20Report%202015-16.pdf#page=11	HTTP Error 404: Not Found
+http://www.unep.org/pdf/GTR-UNEP-FS-BNEF2.pdf	HTTP Error 403: Forbidden Bots
+http://www.sacommercialpropnews.co.za/business-specialties/legal-and-policy/6900-new-legislation-to-stop-foreigners-buy-land-in-sa.html	HTTP Error 404: Not Found
+https://openknowledge.worldbank.org/bitstream/handle/10986/23743/9781464803192.pdf	HTTP Error 429: Too Many Requests
+http://uhuruto2017.co.ke/jp-manifesto-compressed-web-version-12782.pdf	<urlopen error [Errno 11002] getaddrinfo failed>
+http://www.unodc.org/documents/data-and-analysis/statistics/crime/Homicide_statistics2013.xls	HTTP Error 404: Not Found
+https://www.cbn.gov.ng/intops/ReserveMgmt.asp	HTTP Error 403: Forbidden
+https://bbbeecommission.co.za/broad-based-black-economic-empowerment-act-2003/	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://www.nab.co.za/	HTTP Error 502: Bad Gateway
+https://www.knbs.or.ke/download/housing-survey-report-2012-2013/	HTTP Error 403: Forbidden
+https://www.capetown.gov.za/en/IDP/Documents/2012-2013_int_annual.pdf#page=33	HTTP Error 404: NOT FOUND
+http://www.kenyalaw.org:8181/exist/rest/db/kenyalex/Kenya/The%20Constitution%20of%20Kenya/docs/ConstitutionofKenya%202010.pdf	<urlopen error timed out>
+http://www.equaleducation.org.za/what_is_EE	HTTP Error 403: Forbidden
+https://www.statssa.gov.za/publications/P0318/P03182016.pdf#page=25	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://irr.org.za/reports-and-publications/south-africa-survey/south-africa-survey-2012/downloads/pp285-326.Assets-inc.07Dec12.pdf	HTTP Error 403: Forbidden
+https://www.unfpa.org/data/world-population/KE	HTTP Error 403: Forbidden
+http://ww2.ruraldevelopment.gov.za/news-room/speeches/file/1640-debate-on-the-state-of-the-nation-address-sona-speech-by-rural-development-and-land-reform-minister-mr-gugile-ernest-nkwinti	HTTP Error 504: Gateway Time-out
+http://www.bevsa.co.za/wp-content/uploads/2016/08/22082016-BEVSA-SSB-Tax-Comments-FINAL.pdf	HTTP Error 404: Not Found
+http://hdr.undp.org/sites/default/files/2016_human_development_report.pdf	HTTP Error 403: Forbidden
+http://www.sairr.org.za/services/publications/south-africa-survey/south-africa-survey-2012/08-health-and-social-security-chapter	HTTP Error 403: Forbidden
+http://www.irinnews.org/pdf/saincome.pdf	HTTP Error 403: Forbidden
+http://www.heartfoundation.co.za/blood-pressure	HTTP Error 403: Forbidden
+http://www.independent.co.uk/news/world/africa/crisis-in-south-africa-the-shocking-practice-of-corrective-rape--aimed-at-curing-lesbians-9033224.html	HTTP Error 404: Not Found
+http://www.debates.co.ke/aboutus	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.unfpa.org/	HTTP Error 403: Forbidden
+http://www.mrc.ac.za/bod/SouthAfrica2012.pdf#page=20	HTTP Error 404: Not Found
+http://www.dhet.gov.za/LinkClick.aspx?fileticket=e69sk0Xh9As%3d&tabid=92&mid=495	HTTP Error 404: Not Found
+http://www.cnbcafrica.com/news/east-africa/2017/01/12/nasa-new-party-on-kenyan-political-scene/	HTTP Error 403: Forbidden
+https://eci.nic.in/eci_main/archiveofge2014/10%20-%20State%20wise%20voter%20information.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://uis.unesco.org/	HTTP Error 403: ModSecurity Action
+https://www.cbn.gov.ng/monetaryPolicy/Fiscal.asp	HTTP Error 403: Forbidden
+https://www.knbs.or.ke/download/inflation-trends-1961-present/?wpdmdl=4487&ind=xpjwPlRFaDIVMXKJ6_KTacUD3uWfuLqIpjV4V0_Mw9rVqsPdoksvARDo2AxB2t2G	HTTP Error 403: Forbidden
+https://pmg.org.za/committee-question/2158/	HTTP Error 404: NOT FOUND
+https://www.environment.gov.za/mediarelease/molewa_highlightsprogress_onrhinopoaching2016	The read operation timed out
+http://nubbi.wordpress.com/2013/05/08/the-ancs-list-of-achievements-2/	HTTP Error 410: Gone
+https://www.statssa.gov.za/publications/P0318/P03182016.pdf#page=27	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://www.cbn.gov.ng/	HTTP Error 403: Forbidden
+http://www.nab.co.za/roots-overview/	HTTP Error 502: Bad Gateway
+http://mg.co.za/article/2013-04-26-00-rape-in-south-africa-desperately-seeking-a-political-champion	HTTP Error 403: Forbidden
+http://dailypost.ng/2018/05/04/osinabjo-speaks-fgs-school-feeding-programme/	HTTP Error 403: Forbidden
+http://educ.ui.edu.ng/AMOSUN%2C%20Moses%20Dele	HTTP Error 403: Forbidden
+http://www.irinnews.org/pdf/saincome.pdf#page=14	HTTP Error 403: Forbidden
+http://www.hoax-slayer.com/	HTTP Error 403: Forbidden
+http://www.debates.co.ke/article/2001248073/running-mates-debate-last-man-standing	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.unfpa.org/publications/trends-maternal-mortality-1990-2013	HTTP Error 403: Forbidden
+http://www.internationalbudget.org/budget-work-by-country/ibps-work-in-countries/kenya/	HTTP Error 403: Forbidden
+http://www.securityanddevelopment.org/www.securityanddevelopment.org/pdf/Uganda.pdf#page=52	HTTP Error 404: Not Found
+http://www.nra.co.za/live/click.php?u=//sanral.ensight-cdn.com/content/Roads_Condition_report_November_2013.pdf&o=Item%2B220&v=ca67c1	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://www.education.gov.za/LinkClick.aspx?fileticket=JgmMMi8JtFI%3d&tabid=358&mid=1325	HTTP Error 403: Forbidden
+http://www.mrc.ac.za/gender/gender.htm	HTTP Error 404: Not Found
+http://articles.timesofindia.indiatimes.com/2013-07-12/varanasi/40536098_1_criminal-cases-mps-and-mlas-six-mlas	<urlopen error [Errno 11001] getaddrinfo failed>
+https://eci.nic.in/eci_main1/current/Narrative%20BOOK10032017.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://www.hsph.harvard.edu/obesity-prevention-source/prevalence-incidence/	HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop. The last 30x error message was: Found
+https://www.cbn.gov.ng/monetaryPolicy/Fiscal/2008.asp	HTTP Error 403: Forbidden
+https://www.knbs.or.ke/download/statistical-abstract-2017/	HTTP Error 403: Forbidden
+https://www.capetown.gov.za/en/IDP/Documents/Annual%20Report%202007-2008.pdf	<urlopen error timed out>
+http://www.news24.com/Africa/News/Igbo-Ora-Land-of-twins-20071112	HTTP Error 403: Forbidden
+https://www.statssa.gov.za/publications/Report%2003-00-09/Report%2003-00-092016.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://www.cbn.gov.ng/FeaturedArticles/2017/articles/ABP_Emefiele.asp	HTTP Error 403: Forbidden
+https://www.esi-africa.com/news/high-electricity-rates-affecting-kenyan-produce-competitiveness/	HTTP Error 403: Forbidden
+http://punchng.com/amcon-takes-over-aero-contractors/	HTTP Error 403: Forbidden
+https://independent.ng/10-5m-out-of-school-children-statistics-outdated-unicef-2/	HTTP Error 403: Forbidden
+https://www.vanguardngr.com/2017/05/full-text-of-ag-president-yemi-osinbajo-democracy-day-speech/	HTTP Error 403: Forbidden
+http://mg.co.za/article/2013-11-14-no-meals-are-serious-setback-for-hungry-pupils	HTTP Error 403: Forbidden
+https://www.nation.co.ke/news/Confusion--pain-hefty-fuel-tax-kicks-in--driving-up-living-cost/1056-4739450-7w9ec2/index.html	HTTP Error 403: Forbidden
+https://erc.go.ke/images/docs/GazettedRetailElectricityTariffs.pdf	HTTP Error 404: Not Found
+http://educ.ui.edu.ng/earlyvision%20and%20mission	HTTP Error 403: Forbidden
+http://nairobi.go.ke/home/explore-nairobi/	<urlopen error timed out>
+https://www.moneyweb.co.za/	HTTP Error 403: Forbidden
+http://www.hoax-slayer.com/correct-time-drink-water.shtml	HTTP Error 403: Forbidden
+https://www.fin24.com/Economy/Labour/News/unions-reject-latest-eskom-wage-offer-20180627	HTTP Error 403: Forbidden
+http://hgsf-global.org/en/bank/news/519-why-nigeria-will-be-celebrating-on-africas-day-of-school-feeding	timed out
+http://www.unfpa.org/sites/default/files/resource-pdf/EN-SRH%20fact%20sheet-LifeandDeath.pdf	HTTP Error 403: Forbidden
+http://www.interpol.int/	HTTP Error 403: Forbidden
+http://www.theafricareport.com/Interview/south-africa-is-better-off-today-mantashe.html	HTTP Error 403: Naughty, not nice!
+http://www.mrc.ac.za/healthsystems/SAPMTCTEExecSummary2012.pdf	HTTP Error 404: Not Found
+http://www.coca-cola.co.uk/faq/how-much-sugar-is-in-coca-cola	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://www.nwpg.gov.za/dsdwcpd/documents/MEDIA%20STATEMENTS/2015/16%20March%202015%20-MEDIA%20STATEMENT%20NEW%20INPATIENT%20TREATMENT%20CENTRE%20PUT%20UP%20IN%20TAUNG.pdf	HTTP Error 404: Not Found
+https://www.linkedin.com/in/anzetse-were-78b3533b	HTTP Error 999: Request denied
+https://blog.fnb.co.za/2015/02/fnb-property-barometer-home-buying-by-race-group-feb-2015/	<urlopen error timed out>
+https://eci.nic.in/eci_main1/current/Narrative%20BOOK10032017.pdf#page=285	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://www.hug-ge.ch/en/	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate in certificate chain (_ssl.c:1045)>
+https://www.cbn.gov.ng/monetaryPolicy/Fiscal/2009.asp	HTTP Error 403: Forbidden
+https://www.knbs.or.ke/economic-survey-2018-launched/	HTTP Error 403: Forbidden
+http://finance.gov.ng/index.php/component/content/article/9-uncategorised/287-fg-capital-releases-exceed-n1-2-trillion-in-2016	HTTP Error 500: Internal Server Error
+http://www.news24.com/SouthAfrica/News/10-000-child-prostitutes-in-Jhb-20090603	HTTP Error 403: Forbidden
+https://www.capetown.gov.za/en/IDP/Documents/Annual_Report_2011_15/Annual_Report_2011_12%20.pdf#page=4	HTTP Error 404: NOT FOUND
+https://www.cbn.gov.ng/IntOps/FXMarket.asp	HTTP Error 403: Forbidden
+https://www.statssa.gov.za/publications/Report%2003-00-09/Report%2003-00-092016.pdf#page=14	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://punchng.com/educate-girls-stop-building-mosques-sanusi-tells-northerners/	HTTP Error 403: Forbidden
+http://mg.co.za/article/2014-05-22-youre-buying-stolen-land-mr-branson	HTTP Error 403: Forbidden
+https://www.vanguardngr.com/2017/12/fec-approves-6-new-private-universities/	HTTP Error 403: Forbidden
+https://www.nation.co.ke/news/Outrage-greets-move-to-effect-16-percent-tax-on-fuel-products/1056-4739458-14e6uug/index.html	HTTP Error 403: Forbidden
+http://www.nairobi.go.ke/home/news/new-blog-entry-page-75/	<urlopen error timed out>
+https://citizentv.co.ke/	HTTP Error 403: Forbidden
+http://www.sairr.org.za/services/publications/south-africa-survey/south-africa-survey-2012/downloads/2012%20Survey%20-%20Education%20-WEB.pdf/at_download/file	HTTP Error 403: Forbidden
+https://www.moneyweb.co.za/news/economy/eskom-wage-bill-growth-unsustainable-mike-brown/?cn-reloaded=1	HTTP Error 403: Forbidden
+http://www.irr.org.za/	HTTP Error 403: Forbidden
+http://www.erc.uct.ac.za/Research/publications-pre2004/03Davidson-Mwakasonda_SA-Zimbabwe.pdf	HTTP Error 404: Not Found
+https://www.dwa.gov.za/communications/Q&A/2015/NA%203225.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.dwa.gov.za'. (_ssl.c:1045)>
+http://knbs.or.ke/	HTTP Error 403: Forbidden
+http://www.unfpa.org/sites/default/files/sowp/downloads/The_State_of_World_Population_2016_-_English.pdf#page=98	HTTP Error 403: Forbidden
+http://www.ieakenya.or.ke/	HTTP Error 403: Forbidden
+https://mybroadband.co.za/news/technology/171141-south-africa-finishes-last-in-wefs-2016-mathematics-and-science-education-ranking.html	HTTP Error 403: Forbidden
+http://www.education.gov.za/LinkClick.aspx?fileticket=JgmMMi8JtFI%3d&tabid=358&mid=1325#page=52	HTTP Error 403: Forbidden
+http://www.nsfas.org.za/NSFAS/ABOUT_US/MISSION_STATEMENT	HTTP Error 404: Not Found
+http://www.statssa.gov.za/Census2011/Products/Census_2011_Pictorial.pdf	HTTP Error 404: Not Found
+http://www.mrc.ac.za/home.htm	HTTP Error 404: Not Found
+https://www.linkedin.com/in/halakheus/	HTTP Error 999: Request denied
+https://educ.ui.edu.ng/SOAdedeji	HTTP Error 403: Forbidden
+https://www.cbn.gov.ng/out/2016/mpd/understanding%20monetary%20policy%20series%20no%2018%20(2).pdf	HTTP Error 403: Forbidden
+https://www.knbs.or.ke/publications/	HTTP Error 403: Forbidden
+http://www.news24.com/SouthAfrica/News/Black-First-Land-First-A-revolutionary-Call-20150813	HTTP Error 403: Forbidden
+http://wced.pgwc.gov.za/comms/press/2009/2009-stats.html	HTTP Error 404: Not Found
+https://www.cbn.gov.ng/MonetaryPolicy/Fiscal/2008.asp	HTTP Error 403: Forbidden
+https://www.statssa.gov.za/publications/Report%2003-00-09/Report%2003-00-092016.pdf#page=4	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://punchng.com/reps-begin-debate-on-2018-budget-estimates-nov-28-deputy-speaker/	HTTP Error 403: Forbidden
+https://www.capetown.gov.za/en/IDP/Documents/JOB009126_CoCT_IAR_v4_18Dec.pdf#page=9	HTTP Error 404: NOT FOUND
+http://mg.co.za/article/2014-07-11-free-state-health-under-treasury-care	HTTP Error 403: Forbidden
+https://www.vanguardngr.com/2018/05/economic-diversification-yielding-results-buhari/	HTTP Error 403: Forbidden
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2840794/	HTTP Error 403: Forbidden
+https://africacheck.org/reports/anc-billboards-sanitation-claim-is-false/	HTTP Error 404: Not Found
+https://www.moneyweb.co.za/news/south-africa/what-eskom-workers-really-earn/?cn-reloaded=1	HTTP Error 403: Forbidden
+http://knbs.or.ke/index.php?option=com_content&view=article&id=429:economic-survey-2017&catid=82:news&Itemid=593	HTTP Error 403: Forbidden
+http://www.knbs.or.ke/	HTTP Error 403: Forbidden
+https://www.sociology.ox.ac.uk/	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://www.today.ng/news/nigeria/292881/president-buhari-proceeds-indefinite-medical-vacation-london	HTTP Error 403: Forbidden
+http://ndma.go.ke/resource-center/send/39-drought-updates/4349-march-2017-drought-resilience-e-newsletter	timed out
+http://www.issafrica.org/uploads/PAPER182.PDF	HTTP Error 403: Forbidden
+http://www.health-e.org.za/documents/f0980fb5107a7ce543a8bd5730e52333.pdf	HTTP Error 404: Not Found
+https://www.aktia.fi/fi/briefly-in-english	HTTP Error 410: Gone
+http://www.ieakenya.or.ke/about/overview-of-iea-kenya	HTTP Error 403: Forbidden
+https://nasacoalition.com/	<urlopen error [Errno 11002] getaddrinfo failed>
+https://www.unicef.org/nigeria/children_1937.html	HTTP Error 404: Not Found
+http://www.coca-colaproductfacts.com/en/coca-cola-products/fanta-grape/	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://www.enca.com/elections-2014-south-africa/da-manifesto-launch-aims-reduce-anc-majority	HTTP Error 403: Forbidden
+http://www.nsfas.org.za/NSFAS/STUDENTS/LOANS	HTTP Error 404: Not Found
+http://www.statssa.gov.za/Census2011/Products/Provinces%25252520at%25252520a%25252520glance%2525252016%25252520Nov%252525202012%25252520corrected.pdf	HTTP Error 404: Not Found
+http://www.theeastafrican.co.ke/OpEd/comment/Facts-about-funds-to-Kenya-counties/434750-2482780-view-printVersion-vbbdii/index.html	HTTP Error 403: Forbidden
+https://www.linkedin.com/in/maodonovan	HTTP Error 999: Request denied
+http://www.thepresidency.gov.za/MediaLib/Downloads/Home/Publications/YouthPublications/NationalYouthPolicyPDF/NYP.pdf	[WinError 10054] An existing connection was forcibly closed by the remote host
+https://www.cbn.gov.ng/rates/exchratebycurrency.asp	HTTP Error 403: Forbidden
+http://npiconsulting.co.za/	HTTP Error 503: Service Unavailable
+https://doc-08-14-docsviewer.googleusercontent.com/viewer/securedownload/dsn1aovipa7l846lsfcf94nedj8q2p4u/jrgdicqtfvpts5ndp4e36ro2k89gbitp/1395915300000/ZXhwbG9yZXI=/AGZ5hq8BgbJY1gwaOYx83cPOdNw6/MEJfLXNsR3U4LUZUeFlpMDFWblk0WlY5UFowVQ==?docid=080b7ba6587e197ee82715e790c2d0f6%7C7d373ba9f8a76357a0b71bbf329c9fac&chan=EwAAAOlRIhHkqFaWW4fzo/q%2BJEYJXIX%2BIxWRWd3G8ysZVHpB&sec=AHSqidZp5u56-Hxp-GvI9elEW1Arzc_Q3AAhkh8Ls9dqOI2-75I6ygf9MNW_-1YjH9j_SAKQuxw0&a=gp&filename=DA+Municipalities_EPWP+Opportunities.pdf&nonce=qfjqj1okl778o&user=AGZ5hq8BgbJY1gwaOYx83cPOdNw6&hash=lrvsa12u6evi2tc2vhvfr3r0s4f0ujve	HTTP Error 404: Not Found
+http://wced.pgwc.gov.za/comms/press/2013/74_14oct.html	HTTP Error 404: Not Found
+https://www.cbn.gov.ng/Out/2015/TED/TED.FEM.FPC.GEN.01.011.pdf	HTTP Error 403: Forbidden
+https://www.statssa.gov.za/publications/Report%2003-00-09/Report%2003-00-092016.pdf#page=44	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://fs-unep-centre.org/publications/global-trends-renewable-energy-investment-2013	<urlopen error [Errno 11001] getaddrinfo failed>
+http://mg.co.za/article/2015-01-15-protecting-jacob-zuma-consumes-the-anc	HTTP Error 403: Forbidden
+http://www.uctunileverinstitute.co.za/research/4-million-rising/	HTTP Error 404: Not Found
+https://www.vanguardngr.com/2018/05/president-muhammadu-buharis-2018-democracy-day-speech/	HTTP Error 403: Forbidden
+http://rao.co.ke/true-state-kenyan-nation/	HTTP Error 404: Not Found
+https://www.capetown.gov.za/en/MediaReleases/Pages/Cityaimstocreatemorethan42000temporaryworkopportunities.aspx	HTTP Error 404: Not Found
+https://statehouse.gov.ng/national-economic-council/	<urlopen error timed out>
+http://www.nation.co.ke/news/1056-3930078-2qyy44z/index.html	HTTP Error 403: Forbidden
+https://www.statssa.gov.za/economic_growth/15%20Measuring%20GDP.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2938757/	HTTP Error 403: Forbidden
+https://twitter.com/Sowellnomics/status/985917923570192384	HTTP Error 404: Not Found
+http://www.knbs.or.ke/index.php?option=com_content&view=article&id=369:economic-survey-2016&catid=82&Itemid=593	HTTP Error 403: Forbidden
+http://www.statssa.gov.za/census01/Census96/HTML/CIB/Population/213.htm	HTTP Error 404: Not Found
+https://www.coca-colacompany.com/annual-review/2011/pdf/2011-per-capita-consumption.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://www.aa.co.za/on-the-road/calculator-tools/fuel-pricing.html	HTTP Error 404: Not Found
+http://www.ieasa.studysa.org/resources/Study_SA/Facts_Figures_section.pdf#page=3	HTTP Error 403: Forbidden
+http://www.enca.com/south-africa/watch-official-opening-of-the-2016-international-aids-conference	HTTP Error 403: Forbidden
+http://www.thepresidency.gov.za/pebble.asp?relid=17570	[WinError 10054] An existing connection was forcibly closed by the remote host
+https://www.cbn.gov.ng/rates/inflrates.asp?year=2018	HTTP Error 403: Forbidden
+http://www.thehda.co.za/uploads/images/HDA_South_Africa_Report_lr.pdf	HTTP Error 404: Not Found
+http://www.mrc.ac.za/policybriefs/everyeighthours.pdf	HTTP Error 404: Not Found
+https://www.linkedin.com/in/philip-ikeme-98a71a27/	HTTP Error 999: Request denied
+http://www.education.gov.za/LinkClick.aspx?fileticket=JgmMMi8JtFI%3d&tabid=358&mid=1325#page=60	HTTP Error 403: Forbidden
+http://fs-unep-centre.org/publications/gtr-2014	<urlopen error [Errno 11001] getaddrinfo failed>
+https://www.cbn.gov.ng/aboutcbn/TheBoard.asp?Biodata=moghalu&Name=Dr.+Kingsley+Moghalu+%28OON%29	HTTP Error 403: Forbidden
+http://mg.co.za/article/2015-01-22-nzimande-lambasted-over-lack-of-funds-for-poor-students	HTTP Error 403: Forbidden
+http://www.saiga.co.za/index_htm_files/14%20-%20News%20release%20SAIGA%20Reporting%20Awards%202006.pdf	HTTP Error 404: Not Found
+http://www.nation.co.ke/news/Controversy-surrounds-maize-importation-from-Mexico/1056-3928494-xxyb0c/index.html	HTTP Error 403: Forbidden
+https://www.walkfreefoundation.org/	HTTP Error 403: Forbidden
+https://www.capetown.gov.za/en/Reports/Documents/Annual%20Report%20Chapter%202.pdf	HTTP Error 404: NOT FOUND
+http://www.sairr.org.za/services/publications/south-africa-survey/south-africa-survey-2012/downloads/2012%20Survey%20-%20Living%20Conditions%20and%20Communications%20-WEB.pdf/at_download/file	HTTP Error 403: Forbidden
+https://www.statssa.gov.za/publications/P0211/P02111stQuarter2013.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://www.knbs.or.ke/index.php?option=com_content&view=article&id=369:economic-survey-2016&catid=82:news&Itemid=593	HTTP Error 403: Forbidden
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3401756/	HTTP Error 403: Forbidden
+http://www.firs.gov.ng/Pages/Default.aspx	HTTP Error 404: Not Found
+https://twitter.com/Limbo49181348/status/873772027735310338	HTTP Error 404: Not Found
+http://www.statssa.gov.za/census2011/Products/Census_2011_Census_in_brief.pdf#page=49	HTTP Error 404: Not Found
+https://www.uct.ac.za/usr/ipd/dept/escan/1994%20to%202007%20SCE%20pass%20and%20endorsement%20stats.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://twitter.com/gavdavis/status/307417654405259264	HTTP Error 404: Not Found
+https://election.org.ng/nigeria/inec-present-n189-2billion-as-budget-for-2019-general-elections-what-president-buhar/	HTTP Error 403: Forbidden
+http://www.eskom.co.za/AboutElectricity/FactsFigures/Documents/Kusile_and_Medupi.pdf	HTTP Error 404: NOT FOUND
+http://www.thepresidency.gov.za/pebble.asp?relid=22841	[WinError 10054] An existing connection was forcibly closed by the remote host
+https://www.ll.mit.edu/outreach/2007honorees.html#S	HTTP Error 403: Forbidden
+http://fuwukari.edu.ng/about/	HTTP Error 404: Not Found
+http://www.nation.co.ke/news/Uhuru-assents-to-Bill-capping-Bank-interest-rates/1056-3356220-vevmxn/	HTTP Error 403: Forbidden
+https://businesstech.co.za/news/government/217857/south-africas-matric-pass-rate-2007-2017/	HTTP Error 403: Forbidden
+http://www.saiga.co.za/index_htm_files/16%20-%20News%20release%20SAIGA%20Reporting%20Awards%202007.pdf	HTTP Error 404: Not Found
+http://www.knbs.or.ke/index.php?option=com_phocadownload&view=category&download=604:information-on-the-revised-national-accounts&id=17:gross-domestic-product&Itemid=597	HTTP Error 403: Forbidden
+https://www.iea.org/about/faqs/renewableenergy/	HTTP Error 404: Not Found
+https://www.statssa.gov.za/publications/P0211/P02114thQuarter2008.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://www.issafrica.org/crimehub/news/getting-to-the-bottom-of-what-really-drives-public-violence-in-south-africa	HTTP Error 404: Not Found
+https://www.capetown.gov.za/en/Reports/Documents/Annual_Report_13_14.pdf#page=37	HTTP Error 404: NOT FOUND
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4138175/	HTTP Error 403: Forbidden
+https://twitter.com/MbalulaFikile/status/873580021570576385	HTTP Error 404: Not Found
+http://www.presidency.gov.za/pebble.asp?relid=14960	HTTP Error 404: Not Found
+http://www.coega.co.za/files/BAIC_FAQ.pdf	HTTP Error 403: Forbidden
+http://nsia.com.ng/nigeria-infrastructure-fund/	HTTP Error 404: Not Found
+http://www.anc.org.za/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.knbs.or.ke/index.php?option=com_phocadownload&view=category&download=862:economic-survey-2016&id=107:economic-survey-publications&Itemid=1181	HTTP Error 403: Forbidden
+http://www.capetown.gov.za/en/Reports/Documents/Reports%202011-2013/2013-11-21%20Mid-term%20Review.pdf	HTTP Error 404: NOT FOUND
+http://www.saiga.co.za/index_htm_files/23%20-%20News%20Release%20SAIGA%20Reporting%20Awards%20Sep%202011.pdf	HTTP Error 404: Not Found
+https://www.statssa.gov.za/publications/P02111/P021112008.pdf#page=6	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4158907/	HTTP Error 403: Forbidden
+http://www.thelancet.com/pdfs/journals/langlo/PIIS2214-109X(16)30113-9.pdf#page=10	HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop. The last 30x error message was: Found
+https://www.capetown.gov.za/en/Reports/Documents/CCT_AnnualReport2011.pdf	HTTP Error 404: NOT FOUND
+http://www.umalusi.org.za/docs/guides/2015/qcc_certificate.pdf#page=9	HTTP Error 500: Internal Server Error
+http://www.presidency.gov.za/pebble.asp?relid=16912	HTTP Error 404: Not Found
+https://www.dailytrust.com.ng/daily/index.php/education/55768-maritime-university-gets-vc-registrar	HTTP Error 404: Not Found
+http://www.vanguardngr.com/2017/05/full-text-of-ag-president-yemi-osinbajo-democracy-day-speech/	HTTP Error 403: Forbidden
+https://newtelegraphonline.com	The read operation timed out
+http://www.anc.org.za/caucus/show.php?ID=2887#sthash.xMeHhUG7.dpuf	<urlopen error [Errno 11001] getaddrinfo failed>
+http://nsia.com.ng/stabilisation-fund/	HTTP Error 404: Not Found
+https://www.knbs.or.ke/	HTTP Error 403: Forbidden
+http://www.thepresidency.gov.za/press-statements/progress-made-past-financial-year-under-leadership-president-zuma	[WinError 10054] An existing connection was forcibly closed by the remote host
+http://www.health.gov.za/docs/annual_reports/2011/annual_report2010-11.pdf	HTTP Error 404: Not Found
+http://statssa.gov.za	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.dhs.gov.za/uploads/documents/Link4_Outcome_8_Delivery_Agreement.pdf	HTTP Error 404: Not Found
+http://www.issafrica.org/crimehub/news/miscalculations-in-the-2013-national-crime-ratios	HTTP Error 404: Not Found
+https://www.statssa.gov.za/publications/P0302/P03022015.pdf#page=7	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://drive.google.com/open?id=0Bzeiy9vqZEH8azh0RlZMSC1qeW8	HTTP Error 404: Not Found
+http://beta2.statssa.gov.za/publications/Report-03-10-11/Report-03-10-11.pdf#page=19	timed out
+http://www.snopes.com/medical/myths/heartattacksandwater.asp	HTTP Error 404: Not Found
+http://www.citizen.co.za/citizen/content/en/citizen/local-news?oid=385330&sn=Detail&pid=800&Life-expectancy-reduced-due-to-HIV-Aids-%E2%80%93-Motsoaledi-	HTTP Error 404: Not Found
+http://www.capetown.gov.za/en/mayor/Documents/DeLille_speeches/Speech_Council_meeting_27Sep12.pdf	HTTP Error 404: NOT FOUND
+http://polycomgirls.org/	HTTP Error 403: Forbidden
+https://www.globalslaveryindex.org/about/	HTTP Error 403: Forbidden
+http://kenya.unfpa.org/news/counties-highest-burden-maternal-mortality	HTTP Error 403: Forbidden
+http://www.labour.gov.za/DOL/downloads/documents/annual-reports/employment-equity/2015-2016/16th%20CEE%20Report.pdf#page=33	timed out
+http://www.anc.org.za/docs/manifesto/2016/lge-manifestou.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.health.gov.za/docs/annual_reports/2012/annualreport.pdf	HTTP Error 404: Not Found
+http://www.revenue.go.ke/	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.issafrica.org/uploads/factsheet.pdf#page=2	HTTP Error 403: Forbidden
+http://www.nda.agric.za/docs/statsinfo/Abstact2013.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://www.parliament.go.ke/pbo/	HTTP Error 500: Internal Server Error
+https://www.dailytrust.com.ng/index.php/news/3721-ken-nnamanis-media-aide-dies-at-48	HTTP Error 404: Not Found
+http://www.kenao.go.ke/	<urlopen error [Errno 11001] getaddrinfo failed>
+https://www.globalslaveryindex.org/country/south-africa	HTTP Error 403: Forbidden
+http://www.issafrica.org/crimehub/siteimages/2012_crime_stats_factsheet.pdf	HTTP Error 404: Not Found
+http://www.cogta.gov.za/sites/cogtapub/Pages/cwp.aspx#	HTTP Error 404: Not Found
+http://www.brookings.edu/%7E/media/research/files/papers/2010/4/child%20development%20south%20africa%20biersteker/04_child_development_south_africa_biersteker.pdf	HTTP Error 404: Not Found
+http://www.thenewage.co.za/jozi-a-trafficking-hotspot-mec-says/	<urlopen error [Errno 11002] getaddrinfo failed>
+http://www.businessdailyafrica.com/Opinion-and-Analysis/Why-Kenyans-can-t-feel-effects-of-rosy-economic-growth-data/539548-3458674-xyvgfn/index.html	HTTP Error 403: Forbidden
+http://www.citypress.co.za/politics/best-story-tell-helen-zille/	HTTP Error 403: Forbidden
+http://dullahomarinstitute.org.za/	HTTP Error 403: Forbidden
+http://krc.co.ke/sgr/	timed out
+http://www.education.gov.za/LinkClick.aspx?fileticket=8mBPHBmAGY0%25253d&tabid=358&mid=1261	HTTP Error 403: Forbidden
+http://www.gov.za/documents/whitepapers/1996/tourism.htm	HTTP Error 404: Not Found
+http://www.vfplus.org.za/	<urlopen error timed out>
+http://www.thepost-ng.com/cant-build-unity-schools-fg/	HTTP Error 403: Forbidden
+http://www.businessdailyafrica.com/markets/Diaspora-cash-to-widen-gap-on-tea-as-top-forex-earner/539552-2825810-xp67bm/index.html	HTTP Error 403: Forbidden
+http://www.health24.com/	HTTP Error 403: Forbidden
+https://www.businessdailyafrica.com/analysis/ideas/Implications-of-the-Economic-Survey/4259414-4535818-3tjw81/index.html	HTTP Error 403: Forbidden
+http://www.statssa.gov.za/publications/P0318/P0318August2012.pdf	HTTP Error 404: Not Found
+http://www.nda.agric.za/docs/statsinfo/Censcoagric2007.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://www.parliament.gov.za/content/Land%20Act%20-%20Paper%20-%20Brandon.pdf	HTTP Error 500: Internal Server Error
+http://www.issafrica.org/crimehub/uploads/NPA%20Annual%20Report%202013-2014.pdf	HTTP Error 404: Not Found
+http://www.annalsofglobalhealth.org/article/S2214-9996(15)01309-0/fulltext	HTTP Error 404: NOT FOUND
+http://www.businessdailyafrica.com/news/539546-3857732-1093sa5z/index.html	HTTP Error 403: Forbidden
+http://www.health24.com/Medical/Addiction/About-addiction/15-of-South-Africans-have-a-drug-problem-20150625	HTTP Error 403: Forbidden
+http://www.saps.gov.za/statistics/reports/crimestats/2012/downloads/crime_statistics_presentation.pdf	HTTP Error 404: Not Found
+https://www.businessdailyafrica.com/news/Uhuru-signs-controversial-Finance-Bill-into-law/539546-4770630-1r4bp4z/index.html	HTTP Error 403: Forbidden
+http://dullahomarinstitute.org.za/about-us/about-the-institute	HTTP Error 403: Forbidden
+http://www.statssa.gov.za/publications/P0211/P02111stQuarter2016.#page=6	HTTP Error 404: Not Found
+http://www.businessdailyafrica.com/news/KRA-opens-window-maize-imports/539546-3914892-l74k8nz/	HTTP Error 403: Forbidden
+http://www.eac.int/about/overview	HTTP Error 404: Not Found
+http://www.businessdailyafrica.com/news/UN-report-exposes-Kenya-jobs-crisis/539546-3911838-i88gx6/index.html	HTTP Error 403: Forbidden
+http://www.childmortality.org/files_v20/download/IGME%20report%202015%20child%20mortality%20final.pdf	HTTP Error 404: Not Found
+http://www.issafrica.org/crimehub/uploads/stolen_smile.final.pdf	HTTP Error 404: Not Found
+http://www.joburg.org.za/index.php?option=com_content&task=view&id=1343&Itemid=199	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+http://www.ecexams.co.za/2017_Nov_Exam_Results/2017%20NSC%20Highlights%20Report.pdf%C2%A3page=6	HTTP Error 403: Forbidden
+http://www.jstor.org/stable/1965185?seq=1#page_scan_tab_contents	HTTP Error 403: Unauthorized
+http://www.daff.gov.za/Daffweb3/Portals/0/Statistics%20and%20Economic%20Analysis/Statistical%20Information/Abstract%202016%20.pdf#page=14	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://africacheck.org/spot_check/vote-progress-sas-president-jacob-zuma/	The read operation timed out
+http://africacheck.us9.list-manage1.com/track/click?u=b26525b6a93aad574810535a6&id=e6a43541bf&e=dd9884f000	HTTP Error 403: Forbidden
+https://newtelegraphonline.com/2018/08/awolowo-nigeria-should-broaden/	timed out
+http://www.economicfreedomfighters.org/full-speech-of-the-cic-julius-malema-in-reply-to-the-state-of-the-nation-address-2014-sonadebate/	HTTP Error 403: Forbidden
+https://africacheck.org/reports/can-usain-bolt-outrun-a-zika-mosquito/	The read operation timed out
+https://africacheck.org/reports/fewer-6000-babies-born-hiv-every-year-sa-zuma-said/	The read operation timed out
+http://www.thelancet.com/journals/lancet/article/PIIS0140-6736(12)60560-1/fulltext	HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop. The last 30x error message was: Found
+https://africacheck.org/reports/5facts-sad-extent-suicide-south-africa/	The read operation timed out
+https://africacheck.org/reports/do-south-africas-civil-servants-get-r8-out-of-every-r10-the-government-spends/	The read operation timed out
+http://citizen.co.za/1156697/hope-zinde-murdered-son-arrested/	HTTP Error 404: Not Found
+http://amabhungane.co.za/article/2014-12-11-the-sars-purge-and-the-anc-election-t-shirts	HTTP Error 403: Forbidden
+https://africacheck.org/reports/is-the-das-western-cape-story-a-good-story-to-tell-we-examine-the-claims/#comment-619	The read operation timed out
+http://ancpyb.org/wp-content/uploads/2014/06/ANC-Manifesto-Booklet.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+https://africacheck.org/2017/10/30/analysis-billions-sa-airways-bailout-money-not-enough-buy-emirates/	The read operation timed out
+https://africacheck.org/reports/no-way-to-tell-that-70-of-nigerian-inmates-have-never-been-convicted/	The read operation timed out
+https://africacheck.org/reports/boko-haram-massacre-image-fake/	The read operation timed out
+https://africacheck.org/reports/is-nuclear-energy-really-the-cheapest-source-of-electricity/	The read operation timed out
+https://africacheck.org/reports/no-evidence-for-churches-claim-porn-and-rape-linked-other-factors-appear-key/	The read operation timed out
+https://africacheck.org/factsheets/factsheet-what-is-poverty/	The read operation timed out
+http://thelancet.com/journals/langlo/article/PIIS2214-109X(16)30113-9/fulltext	HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop. The last 30x error message was: Found
+http://www.thelancet.com/journals/langlo/article/PIIS2214-109X(13)70179-7/fulltext)	HTTP Error 404: Not Found
+http://bit.ly/2klUBq5	The read operation timed out
+https://africacheck.org/factsheets/factsheet-africas-population-projections/	The read operation timed out
+https://www.nse.co.ke/listed-companies/list.html?start=50	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://www.nse.co.ke/nse/about-nse.html	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1045)>
+https://africacheck.org/reports/does-south-africas-democratic-alliance-really-deliver-we-assess-their-claims/#comment-605	The read operation timed out
+http://www.fshealth.gov.za/portal/page/portal/fshp/REPORTS/ANNUAL_REPORT/ITEMS	HTTP Error 406: Not Acceptable
+https://africacheck.org/reports/race-poverty-and-inequality-black-first-land-first-claims-fact-checked/#comment-1292	The read operation timed out
+http://www.thepresidency-dpme.gov.za/dpmewebsite/_admin/Images/ProductDocuments/Development%20Indicator%202012-Main%20Document.pdf	<urlopen error timed out>
+https://africacheck.org//reports/do-15-of-s-africans-have-a-drug-problem-we-fact-check-4-shocking-drug-statistics/#respond	The read operation timed out
+https://africacheck.org//reports/nigerian-joblessness-at-all-time-high-checking-a-politicians-claims/#respond	The read operation timed out
+https://africacheck.org//reports/south-africans-guzzle-235-litres-water-per-day/#respond	The read operation timed out
+https://africacheck.org//reports/british-paper-mangles-sa-rape-statistics/#respond	The read operation timed out
+https://africacheck.org//reports/violence-against-south-africas-women-children-verifying-claims-at-a-mens-summit/#respond	The read operation timed out
+https://africacheck.org//reports/sa-1-world-death-nigeria-scrabble-players-kenya-tea/#respond	The read operation timed out
+https://africacheck.org//reports/kenyas-budget-speech-claims-power-investment-roads-add/#respond	The read operation timed out
+https://africacheck.org//reports/fact-checked-2-claims-slavery-child-prostitutes-sa/#respond	The read operation timed out
+https://africacheck.org//reports/has-the-anc-moved-south-africa-forward-we-examine-key-election-claims/#respond	The read operation timed out
+https://africacheck.org/reports/nigeria-great-variety-butterflies-not-worlds-species/	The read operation timed out
+https://africacheck.org/media-release-dettol-soap-letters-to-bring-joy-on-global-handwashing-day/	The read operation timed out
+http://www.ewisa.co.za/literature/files/220%20Jacobs.pdf	HTTP Error 404: Not Found
+https://africacheck.org/spot_check/are-81-3-of-south-african-women-overweight-or-obese/	The read operation timed out
+https://africacheck.org/reports/validating-the-truth-about-sas-education-system/#comment-102863	The read operation timed out
+https://africacheck.org/reports/does-one-sa-doctor-treat-over-4000-patients-in-public-care-but-less-than-300-privately/#comment-116373	The read operation timed out
+http://www.crakenya.org/	timed out
+https://africacheck.org/reports/sas-serial-murder-rape-ranking-not-supported-by-data/	The read operation timed out
+https://africacheck.org/reports/totally-out-of-the-question-that-a-third-of-malawis-population-live-in-sa/	The read operation timed out
+https://africacheck.org/reports/race-poverty-and-inequality-black-first-land-first-claims-fact-checked/#comment-7840	The read operation timed out
+https://africacheck.org/reports/are-41-of-south-african-college-students-hiv-positive/	The read operation timed out
+https://africacheck.org/reports/mothers-newborns-run-higher-risk-dying-nairobi-new-governor-sonko-said/	The read operation timed out
+https://africacheck.org/reports/how-many-barrels-of-oil-stolen-a-day-in-nigeria-buhari-may-be-in-right-ballpark-with-250000-claim/	The read operation timed out
+https://africacheck.org/reports/why-the-matric-pass-rate-is-not-a-reliable-benchmark-of-quality-education/	The read operation timed out
+https://africacheck.org/reports/is-zimbabwes-adult-literacy-rate-the-highest-in-africa/	The read operation timed out
+https://africacheck.org/reports/do-40000-whites-own-80-of-sa-the-claim-is-incorrect/#sthash.QkipIfQz.dpuf	The read operation timed out
+https://africacheck.org/reports/facts-alternative-facts-zumas-10th-state-nation-address-checked/#comment-6578	The read operation timed out
+https://africacheck.org/reports/a-first-look-at-president-jacob-zumas-2014-state-of-the-nation-address/#comment-543	The read operation timed out
+https://africacheck.org/reports/do-15-of-s-africans-have-a-drug-problem-we-fact-check-4-shocking-drug-statistics/#comment-5434	The read operation timed out
+https://africacheck.org/reports/zuma-wrong-on-household-electricity-about-50-of-homes-had-access-in-1994/	The read operation timed out
+http://www.wrhi.ac.za/Pages/Home.aspx	HTTP Error 404: Not Found
+https://africacheck.org/reports/is-sa-worse-off-now-than-19-years-ago-the-facts-behind-that-facebook-post/#comment-352	The read operation timed out
+https://africacheck.org/reports/figure-wrong-11-births-sub-saharan-africa-teen-mothers-not-50/	The read operation timed out
+https://africacheck.org/reports/is-sa-worse-off-now-than-19-years-ago-the-facts-behind-that-facebook-post/#comment-59545	The read operation timed out
+https://africacheck.org/reports/does-a-girl-half-her-hiv-risk-for-each-extra-year-she-stays-in-high-school/	The read operation timed out
+https://africacheck.org/reports/is-sa-worse-off-now-than-19-years-ago-the-facts-behind-that-facebook-post/#comment-1276	The read operation timed out
+https://africacheck.org/reports/fact-checked-2-claims-slavery-child-prostitutes-sa/#comment-72987	The read operation timed out
+https://africacheck.org/reports/is-the-das-western-cape-story-a-good-story-to-tell-we-examine-the-claims/#comment-620	The read operation timed out
+https://africacheck.org/2015/06/18/buharimeter-tracking-president-buharis-promises/	The read operation timed out
+https://africacheck.org/reports/democratic-alliance-wrong-to-claim-67-of-cape-towns-budget-spends-on-poor-communities/	The read operation timed out
+https://africacheck.org/reports/has-president-jacob-zumas-government-done-a-good-job/#comment-1118	The read operation timed out
+https://africacheck.org/reports/does-the-da-create-change-that-moves-sa-forward-we-weigh-up-key-claims/#jobs3	The read operation timed out
+https://africacheck.org/2018/03/08/analysis-really-take-11-litres-bottle-1-litre-water/	The read operation timed out
+https://africacheck.org/reports/no-way-verify-whether-80-sex-marriages-sa-afrikaans-speakers/	The read operation timed out
+https://africacheck.org/reports/is-sa-bottom-of-the-class-in-maths-and-science-why-ranking-is-meaningless/	The read operation timed out
+https://africacheck.org/factsheets/guide-assessing-south-africas-schooling-system/	The read operation timed out
+http://cssr.uct.ac.za/sites/cssr.uct.ac.za/files/pubs/WP290.pdf	HTTP Error 404: Not Found
+http://thenationonlineng.net/private-sectors-push-for-quality-education/	timed out
+https://www.qantasnewsroom.com.au/roo-tales/the-a-c-and-d-of-aircraft-maintenance/	HTTP Error 403: Forbidden
+https://africacheck.org/reports/claim-that-no-one-in-cape-town-has-to-use-bucket-toilets-is-wrong/	The read operation timed out
+https://africacheck.org/factsheets/factsheet-challenge-keeping-nigerias-lights/	The read operation timed out
+http://www.thepresidency-dpme.gov.za/keyfocusareas/Provincial%20Performance%20Publication/Pages/Publications-Reports.aspx	<urlopen error timed out>
+http://www.thepresidency-dpme.gov.za/news/Documents/20%20Year%20Review.pdf	<urlopen error timed out>
+http://www.hst.org.za/publications/district-health-barometer-201314	HTTP Error 404: NOT FOUND
+http://e-cavi.com/wp-content/uploads/2014/11/kenya-health-sector-strategic-investiment-plan-2013-to-2017.pdf	IncompleteRead(1842527 bytes read, 1243008 more expected)
+http://livemag.co.za/vip/	HTTP Error 404: Not Found
+http://earthlife.org.za/www/wp-content/uploads/2010/03/Free-Basic-Electricity-Final-Low-res.pdf#page=7	HTTP Error 404: Not Found
+http://www.thepresidency-dpme.gov.za/news/Pages/Launch-Of-The-2012-Development-Indicators.aspx	<urlopen error timed out>
+http://www.thepresidency-dpme.gov.za/publications/Outcomes%20Delivery%20Agreements/Outcome%2008%20Human%20Settlement.pdf	<urlopen error timed out>
+http://www.thepresidency.gov.za/MediaLib/Downloads/Downloads/NYP%20Policy%202020%20Report.pdf	[WinError 10054] An existing connection was forcibly closed by the remote host

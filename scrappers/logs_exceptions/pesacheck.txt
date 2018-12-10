@@ -1,0 +1,258 @@
+http://Nakuru%20Read%20more%20at:%20http://www.standardmedia.co.ke/article/2000210407/forty-clinics-in-nakuru-lying-idle-due-to-lack-of-staff	<urlopen error [Errno 11001] getaddrinfo failed>
+http://budget.opendata.go.ke/#!/year/2016/operating/0/vote/Min.+Health/0/program	<urlopen error [Errno 11001] getaddrinfo failed>
+http://kenyanewsagency.go.ke/en/over-3000-workers-to-lose-jobs-in-vihiga-county/	HTTP Error 404: Not Found
+http://www.mygov.go.ke/?p=7974	HTTP Error 404: Not Found
+https://dc.sourceafrica.net/documents/117792-Summary-of-Current-Info-Zika-WCO-Tz-20161220.html	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117868-County-Allocation-of-Revenue-Act-10-of-2015.html	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118033-County-Child-Protection-Guidelines-2013.html	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118075-CRA-VERTICAL-RECOMMENDATION-for-2017-18-Document.html#document/p50/a383	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118209-Vol-CXX-No-11.html#document/p20/a447	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/27051-RECURRENT-Budget-2016-17-BOOK-Volume-I.html#document/p645/a208	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118128-Annual-County-Governments-Budget-Implementation.html	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118160-PROBICOU-Key-Issues-in-Uganda-s-Energy-Sector.html#document/p13/a422	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117926-Annual-County-Budget-Implementation-Review.html#document/p26/a405	HTTP Error 403: Forbidden
+https://medium.com/code-for-africa/measuring-nairobis-air-quality-using-locally-assembled-low-cost-sensors-94a356885120	HTTP Error 403: Forbidden
+https://www.businessdailyafrica.com/news/Kenya-to-use-Sh658bn-in-debt-repayments/539546-4266716-c3j7to/index.html	HTTP Error 403: Forbidden
+https://www.nation.co.ke/counties/nakuru/Shisha-smoking-women-increase/1183314-4197154-krm1gc/index.html	HTTP Error 403: Forbidden
+https://www.unenvironment.org/news-and-stories/story/air-pollution-africas-invisible-silent-killer-0	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117813-RECURRENT-Budget-2012-13-Volume-II.html#document/p235/a225	HTTP Error 403: Forbidden
+http://www.internationalbudget.org/budget-work-by-country/ibps-work-in-countries/kenya	HTTP Error 403: Forbidden
+http://www.acerwc.org/ourevents/day-of-the-african-child-2018/	HTTP Error 404: Not Found
+https://dc.sourceafrica.net/documents/118034-Street-Families-Rehabilitation-Trust-Fund.html	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118209-Vol-CXX-No-11.html#document/p21/a446	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118128-Annual-County-Governments-Budget-Implementation.html#document/p17/a400	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/27054-KDHS2014.html#document/p149/a463	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118160-PROBICOU-Key-Issues-in-Uganda-s-Energy-Sector.html#document/p13/a422%5C	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117868-County-Allocation-of-Revenue-Act-10-of-2015.html#document/p9/a272	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117926-Annual-County-Budget-Implementation-Review.html#document/p26/a426	HTTP Error 403: Forbidden
+https://www.nation.co.ke/health/New-figures-show-extent-of-HIV-infection-in-Kenya/3476990-4688612-5jobjhz/index.html	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117818-PBB-Final-2015-2016.html#document/p81/a222	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118076-CRA-Second-Submission-on-Second-Formula-Senate.html	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118035-Nairobi-County-Programme-Based-Budget-2017-18.html#document/p47/a3	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118209-Vol-CXX-No-11.html#document/p21/a448	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117926-Annual-County-Budget-Implementation-Review.html#document/p308/a404	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118128-Annual-County-Governments-Budget-Implementation.html#document/p24/a401	HTTP Error 403: Forbidden
+https://www.nation.co.ke/lifestyle/smartcompany/How-MCAs-are-derailing-devolution/1226-4207402-als0j2z/index.html	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117869-County-Allocation-of-Revenue-Act-No22-of-2016.html	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118162-KENYA-STATISTICAL-ABSTRACT-2016.html	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117830-Report-of-the-Woking-Group-on-Social-Economic.html	HTTP Error 403: Forbidden
+http://www.devolutionplanning.go.ke/images/hb/Economic%20Survey%202017.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+https://dc.sourceafrica.net/documents/118163-KENYA-STATISTICAL-ABSTRACT-2017.html	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117869-County-Allocation-of-Revenue-Act-No22-of-2016.html#document/p9/a273	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118210-Vol-CXIX-No-105.html#document/p25/a445	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117926-Annual-County-Budget-Implementation-Review.html#document/p321/a380	HTTP Error 403: Forbidden
+https://cdn-images-1.medium.com/max/800/1*sLSxyK08w3cFgYQpH-5weQ.jpeg	HTTP Error 403: Forbidden
+https://www.nation.co.ke/news/Only-two-counties-met-revenue-targets/1056-4177304-qjd1sdz/index.html	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118035-Nairobi-County-Programme-Based-Budget-2017-18.html#document/p7/a356	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118128-Annual-County-Governments-Budget-Implementation.html#document/p26/a402	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118077-CRA-VERTICAL-RECOMMENDATION-on-EQUITABLE-REVENUE.html	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117830-Report-of-the-Woking-Group-on-Social-Economic.html#document/p118/a229	HTTP Error 403: Forbidden
+http://www.internationalbudget.org/budget-work-by-country/ibps-work-in-countries/kenya/	HTTP Error 403: Forbidden
+https://www.the-star.co.ke/news/2017/06/19/achieving-universal-health-coverage-in-kenya-through-innovative_c1582454	HTTP Error 403: Forbidden
+https://pesacheck.org/	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118163-KENYA-STATISTICAL-ABSTRACT-2017.html#document/p38/a434	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117926-Annual-County-Budget-Implementation-Review.html#document/p324/a3	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117874-Public-Statement-on-County-Governments-Fiscal.html	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118211-2018-Budget-Policy-Statement.html#document/p101/a450	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118037-Fertility-and-Nuptiality-Monograph.html#document/p7/a358	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118128-Annual-County-Governments-Budget-Implementation.html#document/p26/a403	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118077-CRA-VERTICAL-RECOMMENDATION-on-EQUITABLE-REVENUE.html#document/p29/a390	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117830-Report-of-the-Woking-Group-on-Social-Economic.html#document/p118/a230	HTTP Error 403: Forbidden
+https://www.nation.co.ke/newsplex/worldmalariaday2018/2718262-4520918-1121dopz/index.html	HTTP Error 403: Forbidden
+http://www.knbs.or.ke/index.php?option=com_phocadownload&view=category&id=106:statistical-abstract&Itemid=1177	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118128-Annual-County-Governments-Budget-Implementation.html#document/p26/a425	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117926-Annual-County-Budget-Implementation-Review.html#document/p35/a430	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118163-KENYA-STATISTICAL-ABSTRACT-2017.html#document/p38/a435	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117831-BUDGET-HIGHLIGHTS-2011-2012.html#document/p5/a228	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117888-Gazette-Notice-Vol-CXIX-No-9.html	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118211-2018-Budget-Policy-Statement.html#document/p23/a449	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118078-RECOMMENDATION-on-the-SHARING-of-REVENUE-FY-2016.html	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118062-County-Budget-Implementation-Review-Report.html#document/p13/a368	HTTP Error 403: Forbidden
+https://www.the-star.co.ke/news/2017/09/20/salaries-gobble-up-80-funds-scant-cash-for-vihiga-projects_c1638121	HTTP Error 403: Forbidden
+http://ghdx.healthdata.org/gbd-results-tool	HTTP Error 403: Forbidden
+https://pesacheck.org/are-cancer-rates-soaring-in-tanzania-2821ba06bb13	HTTP Error 403: Forbidden
+http://global-disease-burden.healthgrove.com/l/27737/Hepatitis-B-in-Tanzania	<urlopen error [Errno 11001] getaddrinfo failed>
+https://dc.sourceafrica.net/documents/118128-Annual-County-Governments-Budget-Implementation.html#document/p36/a427	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118163-KENYA-STATISTICAL-ABSTRACT-2017.html#document/p40/a437	HTTP Error 403: Forbidden
+https://www.the-star.co.ke/news/2017/12/08/majority-of-mombasa-youth-at-the-danger-of-loosing-life-to-shisha_c1681424	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117926-Annual-County-Budget-Implementation-Review.html#document/p35/a431	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118062-County-Budget-Implementation-Review-Report.html#document/p26/a384	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117840-Business-Daily-Jan-30th-2017-pg5.html	HTTP Error 403: Forbidden
+http://globalpublishers.co.tz/ugonjwa-wa-homa-ya-zika-bado-haujaingia-nchini-ummy-mwalimu/	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118078-RECOMMENDATION-on-the-SHARING-of-REVENUE-FY-2016.html#document/p29/a391	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117888-Gazette-Notice-Vol-CXIX-No-9.html#document/p18/a282	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118213-Annual-National-Government-Budget-Report-2016-2017.html#document/p25/a451	HTTP Error 403: Forbidden
+https://pesacheck.org/could-uganda-pay-for-12-hospitals-with-the-cash-spent-treating-vips-abroad-42138f410227	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117955-2015-16-TDHS-MIS.html	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118128-Annual-County-Governments-Budget-Implementation.html#document/p36/a428	HTTP Error 403: Forbidden
+https://www.the-star.co.ke/news/2018/01/09/shisha-ban-is-for-your-own-good-cs-mailu-responds-to-petitioners_c1694862	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118163-KENYA-STATISTICAL-ABSTRACT-2017.html#document/p40/a438	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118062-County-Budget-Implementation-Review-Report.html#document/p284/a379	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117848-President-Kenyatta-State-of-the-Nation-Address.html#document/p8/a248	HTTP Error 403: Forbidden
+https://pesacheck.org/did-only-two-counties-in-kenya-meet-their-revenue-targets-bfa6c519a6a8	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118218-Economic-Survey-2012.html#document/p98/a454	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118085-County-Allocation-of-Revenue-Act-2017.html#document/p11/a393	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117888-Gazette-Notice-Vol-CXIX-No-9.html#document/p18/a283	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118063-County-Budget-Implementation-Review-Report-2013.html#document/p13/a367	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118128-Annual-County-Governments-Budget-Implementation.html#document/p36/a429	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118166-Experiences-of-Trafficked-Girls-in-Dar-Es-Salaam.html#document/p16/a433	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117955-2015-16-TDHS-MIS.html#document/p27/a440	HTTP Error 403: Forbidden
+https://www.the-star.co.ke/news/2018/03/14/six-million-women-in-kenya-suffer-from-fistula_c1729931	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117849-FCCT-White-Paper-V4-1-Compressed.html#annotation/a244	HTTP Error 403: Forbidden
+http://www.internetworldstats.com/list4.htm	HTTP Error 404: Not Found
+https://dc.sourceafrica.net/documents/118091-Annual-NG-Budget-Implementation-Review-Report-FY.html#document/p51/a385	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117888-Gazette-Notice-Vol-CXIX-No-9.html#document/p18/a284	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118148-Tanzania-Demographic-and-Health-Survey-2015-16.html#document/p259/a407	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118167-Tanzania-National-Child-Labour-Survey-2014.html#document/p58/a432	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117964-BUDGET-REVIEW-AND-OUTLOOK-PAPER-2015.html	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117849-FCCT-White-Paper-V4-1-Compressed.html#document/p22/a466	HTTP Error 403: Forbidden
+https://codeforkenya.org/wanadata-ke/	HTTP Error 403: Forbidden
+https://www.the-star.co.ke/news/2018/04/18/malaria-eradication-top-on-uhurus-universal-healthcare-goal_c1746223	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118220-The-informal-sector-and-taxation-in-Kenya-IEA.html#document/p1/a456	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118063-County-Budget-Implementation-Review-Report-2013.html#document/p202/a377	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118092-Third-Quarter-NG-Budget-Implementation-Review.html#document/p23/a388	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117915-Kenya-Gazette-Vol-CXIX-No-51-4.html#document/p20/a296	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117863-CountyAllocationofRevenueActNo34of2013.html	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118149-Final-Tanzania-Malnutrition-Factsheet-2016.html	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118198-Tanzania-Health-Sector-Strategic-Plan-July-2015.html#document/p29/a439	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118221-Nation-18-Feb-2018.html#document/p24/a457	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117968-Remuneration-and-Benefits-of-All-State-Officers.html#document/p6/a335	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118063-County-Budget-Implementation-Review-Report-2013.html#document/p203/a376	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117916-Program-Based-Budget-Estimates-2017-2018.html#document/p100/a355	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118093-Annual-NG-Budget-Implementation-Review-Report-FY.html#document/p26/a386	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118154-Health-Sector-Budget-Framework-Paper-2018-19.html#document/p24/a418	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117863-CountyAllocationofRevenueActNo34of2013.html#document/p11/a2	HTTP Error 403: Forbidden
+https://codefortanzania.org/	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118199-Unmet-Need-for-Contraceptives-in-Tanzania.html	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118222-The-CONTRIBUTION-of-INFORMAL-SECTOR.html#document/p3/a458	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117916-Program-Based-Budget-Estimates-2017-2018.html#document/p273/a389	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118064-County-Budget-Implementation-Review-Report-Third.html#document/p16/a366	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118094-Annual-NG-Budget-Implementation-Review-Report-FY.html#document/p55/a387	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117971-July-2014-SRC-County-Executive-Salaries-Review.html	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117863-CountyAllocationofRevenueActNo34of2013.html#document/p12/a270	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118155-Annual-OAG-Performance-Report-2016.html#document/p37/a417	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118209-Vol-CXX-No-11.html#document/p19/a442	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118113-Tanzania-Integrated-Labour-Force-Survey-2014.html	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117916-Program-Based-Budget-Estimates-2017-2018.html#document/p94/a353	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118224-Economic-Survey-2017.html	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118015-Mother-to-child-transmission-of-HIV-in-Kenya-A.html#document/p11/a339	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118075-CRA-VERTICAL-RECOMMENDATION-for-2017-18-Document.html	HTTP Error 403: Forbidden
+https://pesacheck.org/does-kenyas-budget-outlook-paper-predict-a-debt-ratio-of-63-by-2019-91df20259263	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117867-County-Allocation-of-Revenue-Act-No15-of-2014.html	HTTP Error 403: Forbidden
+http://www.ippmedia.com/en/news/magufuli-sacks-nimr-boss	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118209-Vol-CXX-No-11.html#document/p19/a443	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118158-Uganda-National-Population-and-Housing-Census-2014.html#document/p42/a420	HTTP Error 403: Forbidden
+https://codeforuganda.org	HTTP Error 403: Forbidden
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3414230/	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117926-Annual-County-Budget-Implementation-Review.html	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118031-The-Framework-for-the-National-Child-Protection.html#document/p24/a350	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118075-CRA-VERTICAL-RECOMMENDATION-for-2017-18-Document.html#document/p32/a392	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118113-Tanzania-Integrated-Labour-Force-Survey-2014.html#document/p58/a394	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118224-Economic-Survey-2017.html#document/p97/a464	HTTP Error 403: Forbidden
+https://pesacheck.org/does-uganda-register-1-900-new-fistula-cases-annually-b3bd53395631	HTTP Error 403: Forbidden
+http://www.works.go.ug/wp-content/uploads/2017/09/Final-MoWT-ASPR-Report-2016-17.pdf	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118158-Uganda-National-Population-and-Housing-Census-2014.html#document/p43/a421	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117867-County-Allocation-of-Revenue-Act-No15-of-2014.html#document/p9/a271	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118209-Vol-CXX-No-11.html#document/p20/a441	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118075-CRA-VERTICAL-RECOMMENDATION-for-2017-18-Document.html#document/p49/a382	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/27013-Budget-Statement-2016.html#document/p25/a217	HTTP Error 403: Forbidden
+https://pesacheck.org/how-much-money-has-turkana-county-received-since-its-inception-de8a55fbb9ee	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117926-Annual-County-Budget-Implementation-Review.html#document/p17/a365	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118031-The-Framework-for-the-National-Child-Protection.html#document/p24/a351	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118114-ILFS-2014-Disabilities-By-Literacy.html	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118159-Uganda-Renewable-Energy-Policy.html#document/p64/a424	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118116-ANNUAL-COUNTY-GOVERNMENTS-BUDGET-IMPLEMENTATION.html#document/p31/a397	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/27049-Development-Budget-Book-2016-17-Volume-2.html#document/p726/a204	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117926-Annual-County-Budget-Implementation-Review.html#document/p194/a406	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118031-The-Framework-for-the-National-Child-Protection.html#document/p25/a352	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118209-Vol-CXX-No-11.html#document/p20/a444	HTTP Error 403: Forbidden
+https://codeforuganda.org/	HTTP Error 403: Forbidden
+https://pesacheck.org/how-sustainable-is-ugandas-current-level-of-public-debt-735e30cad9b0	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/118116-ANNUAL-COUNTY-GOVERNMENTS-BUDGET-IMPLEMENTATION.html#document/p320/a398	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/27050-Programme-Based-Budget.html#document/p346/a206	HTTP Error 403: Forbidden
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3579301/	HTTP Error 403: Forbidden
+https://pesacheck.org/uhurus-maternity-care-promises-exaggerated-2c238a3dfd9b	HTTP Error 403: Forbidden
+https://www.unicef.org/tanzania/VAC_Tanzania_Report.pdf%29	HTTP Error 404: Not Found
+https://pesacheck.org/uhurus-maternity-care-promises-exaggerated-2c238a3dfd9b#---0-216	HTTP Error 403: Forbidden
+https://pesacheck.org/what-percentage-of-county-revenue-comes-from-their-own-collections-78a67a6061bb	HTTP Error 403: Forbidden
+https://pesacheck.org/why-is-tanzanias-adolescent-fertility-rate-so-high-accce0a80e5a	HTTP Error 403: Forbidden
+https://pesacheck.org/will-banning-schoolgoing-mums-reduce-teen-pregnancy-in-tanzania-424c1245f06e	HTTP Error 403: Forbidden
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4003490/pdf/1755-7682-7-16.pdf	HTTP Error 403: Forbidden
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4604162/	HTTP Error 403: Forbidden
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5279989/	HTTP Error 403: Forbidden
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5480202/	HTTP Error 403: Forbidden
+https://sensors.africa/	HTTP Error 403: Forbidden
+https://www.ura.go.ug/Resources/webuploads/GNRART/Press%20brief%20FY1617annual.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+http://www.labour.go.ke/social-protection-components/children-services/36-social-security-services.html	HTTP Error 404: Not Found
+http://www.nascop.or.ke/?p=1056	<urlopen error timed out>
+http://www.nation.co.ke/business/Sh500m-Saudi-grant-connect-primary-schools-with-water/996-3175400-format-xhtml-14io0wtz/index.html	HTTP Error 403: Forbidden
+http://www.nation.co.ke/counties/Kilifi/Kingi-blames-Uhuru-for-underdevelopment-in-counties/1183282-3827340-jn28p2/index.html	HTTP Error 403: Forbidden
+http://www.nation.co.ke/counties/nairobi/Kidero-banks-of-development-record-for-another-term/1954174-3958810-kt7uhiz/index.html	HTTP Error 403: Forbidden
+http://www.nation.co.ke/news/Fate-of-arrested-470-street-children-unknown/1056-3967442-3j0vt2z/index.html	HTTP Error 403: Forbidden
+http://www.nation.co.ke/news/Governors--Approving-nurses--CBA-will-burden-the-tax-payer/1056-3969086-uqrqni/index.html	HTTP Error 403: Forbidden
+http://www.nation.co.ke/news/Govt-rolls-out-new-Sh14bn-school-water-project/1056-3352796-format-xhtml-75jte5z/index.html	HTTP Error 403: Forbidden
+http://www.nation.co.ke/news/Police-arrest-470-street-children/1056-3939482-34um28/index.html	HTTP Error 403: Forbidden
+http://www.nation.co.ke/news/Street-children-struggle-for-survival-in-Kenya/1056-3158442-147dkpdz/index.html	HTTP Error 403: Forbidden
+https://www.newsweek.com/kenya-worlds-least-toxic-country-551745	HTTP Error 403: Forbidden
+http://www.nation.co.ke/news/The-scandal-of-Kenya-s-Rio-Olympics/1056-3343980-kvao27z/index.html	HTTP Error 403: Forbidden
+http://www.nation.co.ke/news/governors-ask-src-to-approve-nurses-salary-increase/1056-4002340-12v3qfh/index.html	HTTP Error 403: Forbidden
+http://www.nation.co.ke/news/politics/New-Senate-team-to-push-for-disputed-Sh1bn-fund/1064-3470496-bwv6k7z/index.html	HTTP Error 403: Forbidden
+http://www.nation.co.ke/newsplex/public-debt/2718262-3975278-1yielkz/index.html	HTTP Error 403: Forbidden
+http://www.tamisemi.go.tz/noticeboard/tangazo-1062-20170113-BEST-Regional-and-Pocket-Data-2016/BEST-2016-Pocket-Size-Final.pdf	HTTP Error 404: Not Found
+http://www.nation.co.ke/sports/Fresh-doping-scandal/1090-3335648-lyry51z/index.html	HTTP Error 403: Forbidden
+http://www.aidspan.org/gfo_article/tanzania-will-use-its-hiv-grant-extension-cover-costs-arvs-through-end-2017	timed out
+http://www.tanesco.co.tz/	HTTP Error 403: Forbidden
+http://www.tatedo.org/news.php	HTTP Error 404: Not Found
+http://www.the-star.co.ke/news/2016/03/26/cob-refuses-to-approve-budget-for-projects-cites-duplication_c1318699	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117742-BOMET-COUNTY-PROGRAMME-BASED-BUDGET-2016-17-29.html#document/p68/a212	HTTP Error 403: Forbidden
+http://www.the-star.co.ke/news/2016/06/18/mcas-threaten-to-shoot-down-budget-over-ward-funds_c1370954	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117743-Bomet-County-Programme-Based-Budget-FY-2015-16.html#document/p74/a213	HTTP Error 403: Forbidden
+http://www.the-star.co.ke/news/2016/07/07/mcas-say-budget-delayed-by-failure-to-release-ward-cash_c1381495	HTTP Error 403: Forbidden
+http://www.the-star.co.ke/news/2016/08/14/ruto-joins-athletes-in-rio-for-a-jog-warns-dishonest-sports-managers_c1403283?page=0%2C1	HTTP Error 403: Forbidden
+https://dc.sourceafrica.net/documents/117770-Programme-Based-Budget.html#document/p90/a223	HTTP Error 403: Forbidden
+http://www.the-star.co.ke/news/2016/08/28/state-on-right-path-towards-universal-health-coverage-dp-ruto_c1410593?page=0%2C0	HTTP Error 403: Forbidden
+http://www.the-star.co.ke/news/2016/09/29/kiambu-county-revenue-rises-to-sh47-billion_c1428418	HTTP Error 403: Forbidden
+http://www.the-star.co.ke/news/2017/03/09/audio-uhuru-calls-nanok-a-foolish-devil-for-raising-queries-on-oil_c1521372	HTTP Error 403: Forbidden
+http://www.the-star.co.ke/news/2017/03/21/oparanya-khalwale-differ-over-kakamega-revenue-allocation_c1528039	HTTP Error 403: Forbidden
+http://www.the-star.co.ke/news/2017/07/04/state-withheld-sh32bn-growth-cash-for-kilifi-county-says-kingi_c1590003	HTTP Error 403: Forbidden
+http://www.the-star.co.ke/news/2017/07/18/video-even-with-e-in-maths-uhuru-should-give-correct-kilifi-funds_c1599573	HTTP Error 403: Forbidden
+http://www.healthdata.org/	HTTP Error 403: Forbidden
+http://www.basicneeds.org/where-we-work/tanzania/	HTTP Error 403: Forbidden
+http://www.kenao.go.ke/	<urlopen error [Errno 11001] getaddrinfo failed>
+https://doi.org/10.1161/HYPERTENSIONAHA.116.08290	HTTP Error 403: Forbidden
+https://twitter.com/EpikKenyan	HTTP Error 404: Not Found
+http://www.ntv.co.ug/news/health/10/dec/2017/specialized-healthcare-inaccessible-most-uganda-21051#sthash.EswYNlym.dpbs	HTTP Error 404: Not Found
+http://www.businessdailyafrica.com/Audit-political-offices-cost-taxpayer-more-2010-Constitution/539546-3792628-item-0-c2t16z/index.html	HTTP Error 403: Forbidden
+https://fullshangweblog.com/home/2018/02/04/ujumbe-wa-waziri-ummy-mwalimu-maadhimisho-ya-siku-ya-saratani-duniani-world-cancer-day/	HTTP Error 403: Forbidden
+http://www.businessdailyafrica.com/Nairobi-MCAs-vow-to-reject-Budget-over-ward-development-funds/-/539546/3252140/-/qwye44/-/index.html	HTTP Error 403: Forbidden
+http://www.oag.go.ug/wp-content/uploads/2017/01/Annual-OAG-Performance-Report-2016.pdf	HTTP Error 403: Forbidden
+http://www.businessdailyafrica.com/Opinion-and-Analysis/Don-t-hurt-poor-counties/539548-3469258-keasijz/	HTTP Error 403: Forbidden
+http://www.businessdailyafrica.com/economy/Taxpayers-to-bear-Sh2-8bn-cost-of-firing-governors/3946234-4053378-93ta5t/index.html	HTTP Error 403: Forbidden
+http://www.orci.or.tz	HTTP Error 500: Internal Server Error
+https://health.mil/News/Articles/2016/10/06/What-the-experts-want-you-to-know-about-the-HPV-vaccine	HTTP Error 404: Not Found
+http://www.ca.go.ke/images/downloads/STATISTICS/Sector%20Statistics%20Report%20Q4%202016-2017.pdf	HTTP Error 404: Not Found
+https://www.aidshealth.org/global/kenya/	HTTP Error 403: Forbidden
+http://www.orci.or.tz/newsite/	HTTP Error 500: Internal Server Error
+https://ippmedia.com/en/news/%C2%A0-tamwa-launches-family-planning-%C2%A0%C2%A0education-awareness-programme	HTTP Error 403: Forbidden
+https://www.akamai.com/fr/fr/multimedia/documents/state-of-the-internet/q1-2017-state-of-the-internet-connectivity-report.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+http://www.parliament.go.ke/the-senate/committees/mandate-and-classification/departmental-committtees	HTTP Error 404: Not Found
+http://www.politicskenya.net/files/guidelines-for-operationalization-of-the-ward-development-fund.pdf	<urlopen error [Errno 11001] getaddrinfo failed>
+https://www.bometassembly.go.ke/upload/The%20Bomet%20County%20Support%20for%20the%20Needy%20Bill,%202014.pdf	<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:833)>
+http://www.mediamaxnetwork.co.ke/people-daily/244964/state-sets-aside-sh1b-for-medallists/	HTTP Error 403: Forbidden
+http://kenyalaw.org/lex/rest//db/kenyalex/Kenya/Legislation/English/Acts%20and%20Regulations/S/Salaries%20and%20Remuneration%20Commission%20Act%20Cap.%205F%20-%20No.%2010%20of%202011/docs/SalariesandRemunerationCommissionAct10of2011.pdf.	HTTP Error 404: Document+%2Fdb%2Fkenyalex%2FKenya%2FLegislation%2FEnglish%2FActs%2520and%2520Regulations%2FS%2FSalaries%2520and%2520Remuneration%2520Commission%2520Act%2520Cap%2E%25205F%2520%2D%2520No%2E%252010%2520of%25202011%2Fdocs%2FSalariesandRemunerationCommissionAct10of2011%2Epdf%2E+not+found
+http://www.monitor.co.ug/Business/Prosper/How-political-unrest-hurts-economy/688616-4730892-p8m549/index.html	HTTP Error 403: Forbidden
+http://www.monitor.co.ug/Business/Prosper/What-drives-Kampalas-economy-/688616-4273442-veqvnoz/index.html	HTTP Error 403: Forbidden
+http://www.monitor.co.ug/News/National/9000--accidents-three-years-police-roads-drivers/688334-4110424-4hxs6xz/index.html	HTTP Error 403: Forbidden
+http://www.rchs.go.tz/index.php/en/situation.html	HTTP Error 401: Authorization Required
+http://www.monitor.co.ug/News/National/State-health-minister-Joyce-Moriku-Kaducu-on-life-support-at-IHK/688334-4215064-format-xhtml-61kwwv/index.html	HTTP Error 403: Forbidden
+http://www.monitor.co.ug/OpEd/Editorial/Government-s-Shs3000-per-sick-citizen-joke/689360-4681352-tk6l9e/index.html	HTTP Error 403: Forbidden
+http://www.theeastafrican.co.ke/scienceandhealth/Rwanda-bans-the-importation-and-smoking-of-Shisha/3073694-4229644-lpw0qnz/index.html	HTTP Error 403: Forbidden
+http://www.mwananchi.co.tz/habari/WHO--Hakuna-ugonjwa-wa-Zika-Tanzania/1597578-3489794-7qn24f/index.html	HTTP Error 403: Forbidden
+https://www.knbs.or.ke/download/economic-survey-2018/	HTTP Error 403: Forbidden
+https://www.knbs.or.ke/economic-survey-2018-launched/	HTTP Error 403: Forbidden
+https://www.nation.co.ke/business/MCAs-sitting-allowances-rise-to-Sh113-000-/996-4177528-14vpnflz/index.html	HTTP Error 403: Forbidden
+https://www.businessdailyafrica.com/analysis/Informal-sector-data--policy-gaps-hinder-economic-plans/539548-2836090-tct39xz/index.html	HTTP Error 403: Forbidden
+http://nairobinews.nation.co.ke/news/jubilee-pumped-billions-nyanza/	HTTP Error 403: Forbidden
+http://pesacheck.org	HTTP Error 403: Forbidden
+http://pesacheck.org/	HTTP Error 403: Forbidden
+http://webcache.googleusercontent.com/search?q=cache:dWNHVbR22GMJ:www.afro.who.int/index.php%3Foption%3Dcom_docman%26task%3Ddoc_download%26gid%3D10077%26Itemid%3D2593+&cd=1&hl=en&ct=clnk	HTTP Error 403: Forbidden
