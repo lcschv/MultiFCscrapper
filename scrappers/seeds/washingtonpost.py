@@ -350,8 +350,8 @@ class WashingtonPost(Commons):
         self.driver.get(
             "https://subscribe.washingtonpost.com/loginregistration/index.html#/register/group/default?action=login&rememberme=true")
         time.sleep(2)
-        self.driver.find_element_by_id("login").send_keys("lcl@diku.dk")
-        self.driver.find_element_by_id("password").send_keys("scrapping123")
+        self.driver.find_element_by_id("login").send_keys("ADDYOUREMAIL")
+        self.driver.find_element_by_id("password").send_keys("ADDYOURPASSWORD")
         self.driver.find_element_by_id("signinBtnTWP").click()
         time.sleep(90)
 
@@ -369,8 +369,8 @@ class WashingtonPost(Commons):
     def start(self):
 
         # self.driver.get("https://subscribe.washingtonpost.com/loginregistration/index.html#/register/group/default?action=login&rememberme=true")
-        # self.driver.find_element_by_id("login").send_keys("lcl@diku.dk")
-        # self.driver.find_element_by_id("password").send_keys("scrapping123")
+        # self.driver.find_element_by_id("login").send_keys("ADDYOUREMAIL")
+        # self.driver.find_element_by_id("password").send_keys("ADDYOURPASSWORD")
         # self.driver.find_element_by_id("signinBtnTWP").click()
         # self.reopen_washington()
         # base_url = "https://www.washingtonpost.com"
