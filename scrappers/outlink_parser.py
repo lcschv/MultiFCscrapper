@@ -129,7 +129,6 @@ class OutLinkScraper(object):
                         outlinks += [self.dict_base_url[seed_name]+a.get("href")]
         return outlinks
 
-
     def write_outlinks_to_file(self):
         for seed, claims in self.dict_claim_outlinks.items():
             with open("seeds/outlinks/"+ str(seed) +".txt","w") as file_out:
